@@ -24641,3 +24641,9 @@ seq:    2025-07-29-14
 msg:    feat: implement dashboard analytics
 nonce:  107091
 ---
+## entry
+ts:     2025-07-29T22:15:32+00:00
+seq:    2025-07-29-15
+msg:    refactor: remove dead code from utils barrel
+nonce:  130394
+---
