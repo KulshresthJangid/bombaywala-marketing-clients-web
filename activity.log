@@ -24575,3 +24575,9 @@ seq:    2025-07-29-3
 msg:    fix: correct off-by-one in pagination offset
 nonce:  110518
 ---
+## entry
+ts:     2025-07-29T11:27:59+00:00
+seq:    2025-07-29-4
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  121582
+---
