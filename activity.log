@@ -23,3 +23,9 @@ seq:    2025-07-29-3
 msg:    feat: scaffold onboarding wizard UI
 nonce:  105398
 ---
+## entry
+ts:     2025-07-29T11:56:51+00:00
+seq:    2025-07-29-4
+msg:    chore: apply prettier to all source files
+nonce:  102104
+---
