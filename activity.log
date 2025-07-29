@@ -5,3 +5,9 @@ seq:    2025-07-29-0
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  126430
 ---
+## entry
+ts:     2025-07-29T10:19:28+00:00
+seq:    2025-07-29-1
+msg:    fix: correct off-by-one in pagination offset
+nonce:  128540
+---
