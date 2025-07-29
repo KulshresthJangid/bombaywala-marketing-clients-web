@@ -24551,3 +24551,9 @@ seq:    2026-07-28-14
 msg:    feat: add multi-language (i18n) support
 nonce:  100734
 ---
+## entry
+ts:     2025-07-29T10:27:38+00:00
+seq:    2025-07-29-0
+msg:    perf: enable gzip compression on API responses
+nonce:  130709
+---
