@@ -24617,3 +24617,9 @@ seq:    2025-07-29-10
 msg:    docs: add architecture decision record for caching
 nonce:  103610
 ---
+## entry
+ts:     2025-07-29T15:51:15+00:00
+seq:    2025-07-29-11
+msg:    test: stub external HTTP calls in unit suite
+nonce:  109815
+---
