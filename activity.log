@@ -29,3 +29,9 @@ seq:    2025-07-29-4
 msg:    chore: apply prettier to all source files
 nonce:  102104
 ---
+## entry
+ts:     2025-07-29T13:06:02+00:00
+seq:    2025-07-29-5
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  105016
+---
