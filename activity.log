@@ -24569,3 +24569,9 @@ seq:    2025-07-29-2
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  118556
 ---
+## entry
+ts:     2025-07-29T11:21:03+00:00
+seq:    2025-07-29-3
+msg:    fix: correct off-by-one in pagination offset
+nonce:  110518
+---
