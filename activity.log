@@ -24653,3 +24653,9 @@ seq:    2025-07-29-16
 msg:    feat: implement full-text search with filters
 nonce:  111562
 ---
+## entry
+ts:     2025-07-30T09:01:13+00:00
+seq:    2025-07-30-0
+msg:    fix: patch reflected-XSS in comment field
+nonce:  126296
+---
