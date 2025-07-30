@@ -24743,3 +24743,9 @@ seq:    2025-07-30-14
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  122664
 ---
+## entry
+ts:     2025-07-30T15:59:17+00:00
+seq:    2025-07-30-15
+msg:    feat: implement Redis caching layer
+nonce:  127905
+---
