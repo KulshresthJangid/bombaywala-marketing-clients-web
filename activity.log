@@ -24797,3 +24797,9 @@ seq:    2025-07-30-23
 msg:    docs: add architecture decision record for caching
 nonce:  120551
 ---
+## entry
+ts:     2025-07-30T21:34:36+00:00
+seq:    2025-07-30-24
+msg:    refactor: replace callback hell with async/await
+nonce:  108075
+---
