@@ -119,3 +119,9 @@ seq:    2025-07-30-6
 msg:    fix: sanitize user input in search filter
 nonce:  105161
 ---
+## entry
+ts:     2025-07-30T15:15:02+00:00
+seq:    2025-07-30-7
+msg:    feat: create admin panel route group
+nonce:  115234
+---
