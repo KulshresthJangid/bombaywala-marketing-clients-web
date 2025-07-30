@@ -24755,3 +24755,9 @@ seq:    2025-07-30-16
 msg:    test: improve assertion messages in user tests
 nonce:  101780
 ---
+## entry
+ts:     2025-07-30T16:08:48+00:00
+seq:    2025-07-30-17
+msg:    fix: resolve null pointer in user service
+nonce:  105294
+---
