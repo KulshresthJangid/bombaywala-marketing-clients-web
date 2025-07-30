@@ -24791,3 +24791,9 @@ seq:    2025-07-30-22
 msg:    feat: add multi-language (i18n) support
 nonce:  126084
 ---
+## entry
+ts:     2025-07-30T19:19:09+00:00
+seq:    2025-07-30-23
+msg:    docs: add architecture decision record for caching
+nonce:  120551
+---
