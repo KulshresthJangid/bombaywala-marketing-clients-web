@@ -83,3 +83,9 @@ seq:    2025-07-30-0
 msg:    refactor: consolidate duplicate validation logic
 nonce:  124720
 ---
+## entry
+ts:     2025-07-30T11:13:17+00:00
+seq:    2025-07-30-1
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  132354
+---
