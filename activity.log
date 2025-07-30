@@ -24731,3 +24731,9 @@ seq:    2025-07-30-12
 msg:    chore: rotate copyright year in license header
 nonce:  126348
 ---
+## entry
+ts:     2025-07-30T15:01:38+00:00
+seq:    2025-07-30-13
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  120132
+---
