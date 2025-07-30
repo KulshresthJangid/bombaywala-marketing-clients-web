@@ -24749,3 +24749,9 @@ seq:    2025-07-30-15
 msg:    feat: implement Redis caching layer
 nonce:  127905
 ---
+## entry
+ts:     2025-07-30T16:02:53+00:00
+seq:    2025-07-30-16
+msg:    test: improve assertion messages in user tests
+nonce:  101780
+---
