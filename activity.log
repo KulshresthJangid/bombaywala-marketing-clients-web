@@ -113,3 +113,9 @@ seq:    2025-07-30-5
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  127942
 ---
+## entry
+ts:     2025-07-30T14:20:29+00:00
+seq:    2025-07-30-6
+msg:    fix: sanitize user input in search filter
+nonce:  105161
+---
