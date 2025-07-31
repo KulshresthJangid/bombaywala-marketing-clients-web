@@ -24839,3 +24839,9 @@ seq:    2025-07-31-5
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  100920
 ---
+## entry
+ts:     2025-07-31T14:37:50+00:00
+seq:    2025-07-31-6
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  101740
+---
