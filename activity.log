@@ -161,3 +161,9 @@ seq:    2025-07-31-3
 msg:    test: raise coverage floor for payment module
 nonce:  115880
 ---
+## entry
+ts:     2025-07-31T12:16:45+00:00
+seq:    2025-07-31-4
+msg:    feat: create immutable audit-log service
+nonce:  111738
+---
