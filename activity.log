@@ -209,3 +209,9 @@ seq:    2025-07-31-11
 msg:    docs: add JSDoc to all public utility functions
 nonce:  117108
 ---
+## entry
+ts:     2025-07-31T22:02:52+00:00
+seq:    2025-07-31-12
+msg:    feat: implement full-text search with filters
+nonce:  132134
+---
