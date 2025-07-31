@@ -24851,3 +24851,9 @@ seq:    2025-07-31-7
 msg:    chore: reorganise src/ folder structure
 nonce:  101843
 ---
+## entry
+ts:     2025-07-31T14:50:14+00:00
+seq:    2025-07-31-8
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  103033
+---
