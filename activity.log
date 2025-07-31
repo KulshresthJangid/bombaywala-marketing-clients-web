@@ -24893,3 +24893,9 @@ seq:    2025-07-31-14
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  102956
 ---
+## entry
+ts:     2025-07-31T17:53:15+00:00
+seq:    2025-07-31-15
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  101080
+---
