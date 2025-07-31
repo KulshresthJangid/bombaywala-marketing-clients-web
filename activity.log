@@ -24857,3 +24857,9 @@ seq:    2025-07-31-8
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  103033
 ---
+## entry
+ts:     2025-07-31T15:21:00+00:00
+seq:    2025-07-31-9
+msg:    fix: sanitize user input in search filter
+nonce:  104367
+---
