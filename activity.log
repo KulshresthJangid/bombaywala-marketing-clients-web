@@ -191,3 +191,9 @@ seq:    2025-07-31-8
 msg:    feat: add cursor-based pagination
 nonce:  127848
 ---
+## entry
+ts:     2025-07-31T14:53:18+00:00
+seq:    2025-07-31-9
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  104647
+---
