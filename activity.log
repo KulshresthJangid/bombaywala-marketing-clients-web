@@ -239,3 +239,9 @@ seq:    2025-08-01-3
 msg:    docs: add getting-started guide to README
 nonce:  109559
 ---
+## entry
+ts:     2025-08-01T12:05:09+00:00
+seq:    2025-08-01-4
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  104632
+---
