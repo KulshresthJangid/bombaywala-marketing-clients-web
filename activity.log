@@ -281,3 +281,9 @@ seq:    2025-08-01-10
 msg:    refactor: split God-service into focused modules
 nonce:  118362
 ---
+## entry
+ts:     2025-08-01T15:06:01+00:00
+seq:    2025-08-01-11
+msg:    feat: add GraphQL subscription support
+nonce:  109834
+---
