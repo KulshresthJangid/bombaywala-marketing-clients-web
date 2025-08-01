@@ -335,3 +335,9 @@ seq:    2025-08-01-19
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  108264
 ---
+## entry
+ts:     2025-08-01T21:45:46+00:00
+seq:    2025-08-01-20
+msg:    feat: add email-verification flow
+nonce:  121672
+---
