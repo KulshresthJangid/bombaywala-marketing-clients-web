@@ -293,3 +293,9 @@ seq:    2025-08-01-12
 msg:    test: raise coverage floor for payment module
 nonce:  130252
 ---
+## entry
+ts:     2025-08-01T17:05:50+00:00
+seq:    2025-08-01-13
+msg:    refactor: consolidate duplicate validation logic
+nonce:  106116
+---
