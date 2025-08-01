@@ -24929,3 +24929,9 @@ seq:    2025-08-01-3
 msg:    feat: add multi-language (i18n) support
 nonce:  126938
 ---
+## entry
+ts:     2025-08-01T14:22:22+00:00
+seq:    2025-08-01-4
+msg:    test: add snapshot tests for report generator
+nonce:  118713
+---
