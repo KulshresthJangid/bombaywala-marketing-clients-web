@@ -24911,3 +24911,9 @@ seq:    2025-08-01-0
 msg:    feat: add GraphQL subscription support
 nonce:  115593
 ---
+## entry
+ts:     2025-08-01T11:29:06+00:00
+seq:    2025-08-01-1
+msg:    fix: resolve null pointer in user service
+nonce:  101865
+---
