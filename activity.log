@@ -263,3 +263,9 @@ seq:    2025-08-01-7
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  111506
 ---
+## entry
+ts:     2025-08-01T13:36:53+00:00
+seq:    2025-08-01-8
+msg:    chore: apply prettier to all source files
+nonce:  109412
+---
