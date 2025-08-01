@@ -24923,3 +24923,9 @@ seq:    2025-08-01-2
 msg:    refactor: centralise API error-response factory
 nonce:  110464
 ---
+## entry
+ts:     2025-08-01T13:20:49+00:00
+seq:    2025-08-01-3
+msg:    feat: add multi-language (i18n) support
+nonce:  126938
+---
