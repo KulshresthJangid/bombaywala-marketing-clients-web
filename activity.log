@@ -24935,3 +24935,9 @@ seq:    2025-08-01-4
 msg:    test: add snapshot tests for report generator
 nonce:  118713
 ---
+## entry
+ts:     2025-08-01T15:19:14+00:00
+seq:    2025-08-01-5
+msg:    refactor: migrate from winston to pino logger
+nonce:  104148
+---
