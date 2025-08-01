@@ -323,3 +323,9 @@ seq:    2025-08-01-17
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  104028
 ---
+## entry
+ts:     2025-08-01T20:38:59+00:00
+seq:    2025-08-01-18
+msg:    docs: add JSDoc to all public utility functions
+nonce:  106068
+---
