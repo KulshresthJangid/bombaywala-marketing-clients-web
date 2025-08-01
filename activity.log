@@ -275,3 +275,9 @@ seq:    2025-08-01-9
 msg:    test: add unit tests for AuthService
 nonce:  103832
 ---
+## entry
+ts:     2025-08-01T15:03:14+00:00
+seq:    2025-08-01-10
+msg:    refactor: split God-service into focused modules
+nonce:  118362
+---
