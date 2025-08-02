@@ -25061,3 +25061,9 @@ seq:    2025-08-02-13
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  106013
 ---
+## entry
+ts:     2025-08-02T15:11:21+00:00
+seq:    2025-08-02-14
+msg:    fix: resolve CORS rejection on preflight
+nonce:  124579
+---
