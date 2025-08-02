@@ -25049,3 +25049,9 @@ seq:    2025-08-02-11
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  126034
 ---
+## entry
+ts:     2025-08-02T14:20:19+00:00
+seq:    2025-08-02-12
+msg:    test: raise coverage floor for payment module
+nonce:  108468
+---
