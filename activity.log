@@ -25031,3 +25031,9 @@ seq:    2025-08-02-8
 msg:    refactor: remove dead code from utils barrel
 nonce:  113032
 ---
+## entry
+ts:     2025-08-02T13:35:59+00:00
+seq:    2025-08-02-9
+msg:    chore: rotate copyright year in license header
+nonce:  114234
+---
