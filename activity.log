@@ -25091,3 +25091,9 @@ seq:    2025-08-02-18
 msg:    chore: pin transitive dependency versions
 nonce:  106151
 ---
+## entry
+ts:     2025-08-02T15:51:35+00:00
+seq:    2025-08-02-19
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  109577
+---
