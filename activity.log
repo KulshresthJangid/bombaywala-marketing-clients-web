@@ -25067,3 +25067,9 @@ seq:    2025-08-02-14
 msg:    fix: resolve CORS rejection on preflight
 nonce:  124579
 ---
+## entry
+ts:     2025-08-02T15:17:02+00:00
+seq:    2025-08-02-15
+msg:    docs: add JSDoc to all public utility functions
+nonce:  104516
+---
