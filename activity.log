@@ -359,3 +359,9 @@ seq:    2025-08-04-2
 msg:    refactor: migrate from winston to pino logger
 nonce:  111597
 ---
+## entry
+ts:     2025-08-04T11:25:49+00:00
+seq:    2025-08-04-3
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  120617
+---
