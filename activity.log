@@ -449,3 +449,9 @@ seq:    2025-08-04-17
 msg:    fix: handle empty state on dashboard load
 nonce:  120129
 ---
+## entry
+ts:     2025-08-04T20:42:28+00:00
+seq:    2025-08-04-18
+msg:    perf: parallelise image-resize pipeline
+nonce:  108853
+---
