@@ -413,3 +413,9 @@ seq:    2025-08-04-11
 msg:    refactor: centralise API error-response factory
 nonce:  120302
 ---
+## entry
+ts:     2025-08-04T15:49:35+00:00
+seq:    2025-08-04-12
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  126000
+---
