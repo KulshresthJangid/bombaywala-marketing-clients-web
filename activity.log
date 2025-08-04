@@ -353,3 +353,9 @@ seq:    2025-08-04-1
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  100947
 ---
+## entry
+ts:     2025-08-04T09:13:08+00:00
+seq:    2025-08-04-2
+msg:    refactor: migrate from winston to pino logger
+nonce:  111597
+---
