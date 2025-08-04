@@ -443,3 +443,9 @@ seq:    2025-08-04-16
 msg:    fix: resolve race condition in job queue
 nonce:  103050
 ---
+## entry
+ts:     2025-08-04T20:23:14+00:00
+seq:    2025-08-04-17
+msg:    fix: handle empty state on dashboard load
+nonce:  120129
+---
