@@ -425,3 +425,9 @@ seq:    2025-08-04-13
 msg:    perf: lazy-load heavy chart library
 nonce:  106280
 ---
+## entry
+ts:     2025-08-04T18:30:57+00:00
+seq:    2025-08-04-14
+msg:    refactor: extract auth guard into shared middleware
+nonce:  125075
+---
