@@ -395,3 +395,9 @@ seq:    2025-08-04-8
 msg:    test: add unit tests for AuthService
 nonce:  109545
 ---
+## entry
+ts:     2025-08-04T14:52:25+00:00
+seq:    2025-08-04-9
+msg:    feat: add rate-limiting middleware
+nonce:  125560
+---
