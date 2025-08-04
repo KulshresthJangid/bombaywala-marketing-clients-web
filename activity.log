@@ -407,3 +407,9 @@ seq:    2025-08-04-10
 msg:    perf: memoize expensive permission-check results
 nonce:  131149
 ---
+## entry
+ts:     2025-08-04T15:18:08+00:00
+seq:    2025-08-04-11
+msg:    refactor: centralise API error-response factory
+nonce:  120302
+---
