@@ -25211,3 +25211,9 @@ seq:    2025-08-05-13
 msg:    chore: reorganise src/ folder structure
 nonce:  100397
 ---
+## entry
+ts:     2025-08-05T15:00:53+00:00
+seq:    2025-08-05-14
+msg:    feat: create admin panel route group
+nonce:  130094
+---
