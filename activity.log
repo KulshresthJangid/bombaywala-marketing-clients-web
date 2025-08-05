@@ -25181,3 +25181,9 @@ seq:    2025-08-05-8
 msg:    feat: implement full-text search with filters
 nonce:  119745
 ---
+## entry
+ts:     2025-08-05T11:41:10+00:00
+seq:    2025-08-05-9
+msg:    test: add snapshot tests for report generator
+nonce:  128900
+---
