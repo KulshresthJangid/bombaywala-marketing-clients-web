@@ -25127,3 +25127,9 @@ seq:    2025-08-02-24
 msg:    perf: memoize expensive permission-check results
 nonce:  127345
 ---
+## entry
+ts:     2025-08-05T08:00:29+00:00
+seq:    2025-08-05-0
+msg:    feat: implement dashboard analytics
+nonce:  112984
+---
