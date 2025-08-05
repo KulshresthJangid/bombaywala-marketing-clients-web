@@ -25145,3 +25145,9 @@ seq:    2025-08-05-2
 msg:    refactor: extract auth guard into shared middleware
 nonce:  109154
 ---
+## entry
+ts:     2025-08-05T09:23:58+00:00
+seq:    2025-08-05-3
+msg:    test: raise coverage floor for payment module
+nonce:  117806
+---
