@@ -25163,3 +25163,9 @@ seq:    2025-08-05-5
 msg:    fix: correct date formatting in monthly report
 nonce:  117621
 ---
+## entry
+ts:     2025-08-05T10:57:00+00:00
+seq:    2025-08-05-6
+msg:    test: stub external HTTP calls in unit suite
+nonce:  115642
+---
