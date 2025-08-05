@@ -25193,3 +25193,9 @@ seq:    2025-08-05-10
 msg:    test: add unit tests for AuthService
 nonce:  107139
 ---
+## entry
+ts:     2025-08-05T12:09:17+00:00
+seq:    2025-08-05-11
+msg:    perf: parallelise image-resize pipeline
+nonce:  102859
+---
