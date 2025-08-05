@@ -25157,3 +25157,9 @@ seq:    2025-08-05-4
 msg:    feat: scaffold onboarding wizard UI
 nonce:  104618
 ---
+## entry
+ts:     2025-08-05T10:50:03+00:00
+seq:    2025-08-05-5
+msg:    fix: correct date formatting in monthly report
+nonce:  117621
+---
