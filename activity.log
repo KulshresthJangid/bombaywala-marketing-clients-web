@@ -25139,3 +25139,9 @@ seq:    2025-08-05-1
 msg:    fix: patch reflected-XSS in comment field
 nonce:  125090
 ---
+## entry
+ts:     2025-08-05T09:22:50+00:00
+seq:    2025-08-05-2
+msg:    refactor: extract auth guard into shared middleware
+nonce:  109154
+---
