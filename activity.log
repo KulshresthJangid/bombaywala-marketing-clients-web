@@ -25199,3 +25199,9 @@ seq:    2025-08-05-11
 msg:    perf: parallelise image-resize pipeline
 nonce:  102859
 ---
+## entry
+ts:     2025-08-05T12:59:30+00:00
+seq:    2025-08-05-12
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  104407
+---
