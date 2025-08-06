@@ -25283,3 +25283,9 @@ seq:    2025-08-06-6
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  107249
 ---
+## entry
+ts:     2025-08-06T12:06:41+00:00
+seq:    2025-08-06-7
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  113770
+---
