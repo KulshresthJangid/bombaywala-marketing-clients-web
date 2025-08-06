@@ -515,3 +515,9 @@ seq:    2025-08-06-9
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  102787
 ---
+## entry
+ts:     2025-08-06T13:23:24+00:00
+seq:    2025-08-06-10
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  126295
+---
