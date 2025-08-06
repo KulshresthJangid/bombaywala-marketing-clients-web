@@ -455,3 +455,9 @@ seq:    2025-08-04-18
 msg:    perf: parallelise image-resize pipeline
 nonce:  108853
 ---
+## entry
+ts:     2025-08-06T08:22:36+00:00
+seq:    2025-08-06-0
+msg:    test: improve assertion messages in user tests
+nonce:  116257
+---
