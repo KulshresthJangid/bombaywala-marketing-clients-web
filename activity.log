@@ -25289,3 +25289,9 @@ seq:    2025-08-06-7
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  113770
 ---
+## entry
+ts:     2025-08-06T12:40:29+00:00
+seq:    2025-08-06-8
+msg:    refactor: centralise API error-response factory
+nonce:  102894
+---
