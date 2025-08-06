@@ -533,3 +533,9 @@ seq:    2025-08-06-12
 msg:    test: add integration tests for /api/v2 routes
 nonce:  111890
 ---
+## entry
+ts:     2025-08-06T14:39:47+00:00
+seq:    2025-08-06-13
+msg:    feat: implement file upload with S3 backend
+nonce:  109061
+---
