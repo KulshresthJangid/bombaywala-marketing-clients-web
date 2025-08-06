@@ -25313,3 +25313,9 @@ seq:    2025-08-06-11
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  102887
 ---
+## entry
+ts:     2025-08-06T16:07:53+00:00
+seq:    2025-08-06-12
+msg:    feat: implement two-factor authentication
+nonce:  110510
+---
