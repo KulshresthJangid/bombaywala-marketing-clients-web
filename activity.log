@@ -575,3 +575,9 @@ seq:    2025-08-06-19
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  109141
 ---
+## entry
+ts:     2025-08-06T18:22:12+00:00
+seq:    2025-08-06-20
+msg:    perf: enable gzip compression on API responses
+nonce:  128192
+---
