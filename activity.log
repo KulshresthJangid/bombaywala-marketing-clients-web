@@ -569,3 +569,9 @@ seq:    2025-08-06-18
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  113984
 ---
+## entry
+ts:     2025-08-06T17:46:45+00:00
+seq:    2025-08-06-19
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  109141
+---
