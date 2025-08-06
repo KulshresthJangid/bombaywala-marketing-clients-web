@@ -485,3 +485,9 @@ seq:    2025-08-06-4
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  101983
 ---
+## entry
+ts:     2025-08-06T11:36:36+00:00
+seq:    2025-08-06-5
+msg:    refactor: remove dead code from utils barrel
+nonce:  122047
+---
