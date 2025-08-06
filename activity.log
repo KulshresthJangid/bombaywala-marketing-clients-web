@@ -563,3 +563,9 @@ seq:    2025-08-06-17
 msg:    refactor: split God-service into focused modules
 nonce:  127313
 ---
+## entry
+ts:     2025-08-06T17:41:27+00:00
+seq:    2025-08-06-18
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  113984
+---
