@@ -25265,3 +25265,9 @@ seq:    2025-08-06-3
 msg:    chore: remove unused imports across codebase
 nonce:  132293
 ---
+## entry
+ts:     2025-08-06T11:06:41+00:00
+seq:    2025-08-06-4
+msg:    feat: add Stripe subscription billing
+nonce:  113706
+---
