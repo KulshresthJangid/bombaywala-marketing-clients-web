@@ -551,3 +551,9 @@ seq:    2025-08-06-15
 msg:    test: stub external HTTP calls in unit suite
 nonce:  115684
 ---
+## entry
+ts:     2025-08-06T16:26:52+00:00
+seq:    2025-08-06-16
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  118986
+---
