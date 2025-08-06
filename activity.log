@@ -461,3 +461,9 @@ seq:    2025-08-06-0
 msg:    test: improve assertion messages in user tests
 nonce:  116257
 ---
+## entry
+ts:     2025-08-06T09:20:47+00:00
+seq:    2025-08-06-1
+msg:    test: raise coverage floor for payment module
+nonce:  125231
+---
