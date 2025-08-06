@@ -527,3 +527,9 @@ seq:    2025-08-06-11
 msg:    feat: add rate-limiting middleware
 nonce:  112891
 ---
+## entry
+ts:     2025-08-06T14:25:36+00:00
+seq:    2025-08-06-12
+msg:    test: add integration tests for /api/v2 routes
+nonce:  111890
+---
