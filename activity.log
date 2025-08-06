@@ -557,3 +557,9 @@ seq:    2025-08-06-16
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  118986
 ---
+## entry
+ts:     2025-08-06T17:34:34+00:00
+seq:    2025-08-06-17
+msg:    refactor: split God-service into focused modules
+nonce:  127313
+---
