@@ -521,3 +521,9 @@ seq:    2025-08-06-10
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  126295
 ---
+## entry
+ts:     2025-08-06T14:11:37+00:00
+seq:    2025-08-06-11
+msg:    feat: add rate-limiting middleware
+nonce:  112891
+---
