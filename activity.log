@@ -25295,3 +25295,9 @@ seq:    2025-08-06-8
 msg:    refactor: centralise API error-response factory
 nonce:  102894
 ---
+## entry
+ts:     2025-08-06T12:59:04+00:00
+seq:    2025-08-06-9
+msg:    docs: update CHANGELOG for next release
+nonce:  108069
+---
