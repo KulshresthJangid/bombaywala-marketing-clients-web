@@ -25403,3 +25403,9 @@ seq:    2025-08-07-9
 msg:    feat: implement dashboard analytics
 nonce:  111727
 ---
+## entry
+ts:     2025-08-07T15:19:18+00:00
+seq:    2025-08-07-10
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  108563
+---
