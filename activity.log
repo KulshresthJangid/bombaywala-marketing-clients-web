@@ -623,3 +623,9 @@ seq:    2025-08-07-4
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  124984
 ---
+## entry
+ts:     2025-08-07T11:39:20+00:00
+seq:    2025-08-07-5
+msg:    test: add integration tests for /api/v2 routes
+nonce:  107105
+---
