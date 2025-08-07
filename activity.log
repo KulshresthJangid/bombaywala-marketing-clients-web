@@ -665,3 +665,9 @@ seq:    2025-08-07-11
 msg:    feat: implement two-factor authentication
 nonce:  102553
 ---
+## entry
+ts:     2025-08-07T16:37:41+00:00
+seq:    2025-08-07-12
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  132498
+---
