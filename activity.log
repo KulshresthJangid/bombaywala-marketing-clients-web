@@ -617,3 +617,9 @@ seq:    2025-08-07-3
 msg:    test: add edge-case tests for input validators
 nonce:  113393
 ---
+## entry
+ts:     2025-08-07T11:18:32+00:00
+seq:    2025-08-07-4
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  124984
+---
