@@ -593,3 +593,9 @@ seq:    2025-08-06-22
 msg:    refactor: centralise API error-response factory
 nonce:  111797
 ---
+## entry
+ts:     2025-08-07T08:24:06+00:00
+seq:    2025-08-07-0
+msg:    feat: create outbound webhook dispatcher
+nonce:  131683
+---
