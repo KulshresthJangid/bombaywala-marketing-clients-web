@@ -635,3 +635,9 @@ seq:    2025-08-07-6
 msg:    refactor: extract auth guard into shared middleware
 nonce:  103565
 ---
+## entry
+ts:     2025-08-07T13:18:02+00:00
+seq:    2025-08-07-7
+msg:    chore: pin transitive dependency versions
+nonce:  113187
+---
