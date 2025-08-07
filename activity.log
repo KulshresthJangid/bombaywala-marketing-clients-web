@@ -641,3 +641,9 @@ seq:    2025-08-07-7
 msg:    chore: pin transitive dependency versions
 nonce:  113187
 ---
+## entry
+ts:     2025-08-07T15:00:34+00:00
+seq:    2025-08-07-8
+msg:    fix: correct off-by-one in pagination offset
+nonce:  116913
+---
