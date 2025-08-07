@@ -689,3 +689,9 @@ seq:    2025-08-07-15
 msg:    feat: create outbound webhook dispatcher
 nonce:  113861
 ---
+## entry
+ts:     2025-08-07T20:12:24+00:00
+seq:    2025-08-07-16
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  120291
+---
