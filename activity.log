@@ -605,3 +605,9 @@ seq:    2025-08-07-1
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  119410
 ---
+## entry
+ts:     2025-08-07T10:56:52+00:00
+seq:    2025-08-07-2
+msg:    feat: add batch job processing queue
+nonce:  100327
+---
