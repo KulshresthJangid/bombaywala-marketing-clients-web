@@ -629,3 +629,9 @@ seq:    2025-08-07-5
 msg:    test: add integration tests for /api/v2 routes
 nonce:  107105
 ---
+## entry
+ts:     2025-08-07T12:41:51+00:00
+seq:    2025-08-07-6
+msg:    refactor: extract auth guard into shared middleware
+nonce:  103565
+---
