@@ -25379,3 +25379,9 @@ seq:    2025-08-07-5
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  115333
 ---
+## entry
+ts:     2025-08-07T13:53:45+00:00
+seq:    2025-08-07-6
+msg:    fix: handle empty state on dashboard load
+nonce:  121871
+---
