@@ -25361,3 +25361,9 @@ seq:    2025-08-07-2
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  114432
 ---
+## entry
+ts:     2025-08-07T11:50:11+00:00
+seq:    2025-08-07-3
+msg:    fix: patch reflected-XSS in comment field
+nonce:  129243
+---
