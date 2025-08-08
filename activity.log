@@ -743,3 +743,9 @@ seq:    2025-08-08-6
 msg:    test: add edge-case tests for input validators
 nonce:  129092
 ---
+## entry
+ts:     2025-08-08T14:53:01+00:00
+seq:    2025-08-08-7
+msg:    fix: patch reflected-XSS in comment field
+nonce:  102285
+---
