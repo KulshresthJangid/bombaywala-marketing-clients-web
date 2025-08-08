@@ -25493,3 +25493,9 @@ seq:    2025-08-08-5
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  112499
 ---
+## entry
+ts:     2025-08-08T15:07:54+00:00
+seq:    2025-08-08-6
+msg:    test: add integration tests for /api/v2 routes
+nonce:  119366
+---
