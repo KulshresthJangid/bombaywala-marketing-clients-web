@@ -731,3 +731,9 @@ seq:    2025-08-08-4
 msg:    test: add edge-case tests for input validators
 nonce:  105478
 ---
+## entry
+ts:     2025-08-08T12:51:55+00:00
+seq:    2025-08-08-5
+msg:    feat: add multi-language (i18n) support
+nonce:  114880
+---
