@@ -25523,3 +25523,9 @@ seq:    2025-08-08-10
 msg:    feat: create admin panel route group
 nonce:  104956
 ---
+## entry
+ts:     2025-08-08T20:42:19+00:00
+seq:    2025-08-08-11
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  123157
+---
