@@ -755,3 +755,9 @@ seq:    2025-08-08-8
 msg:    chore: pin transitive dependency versions
 nonce:  126661
 ---
+## entry
+ts:     2025-08-08T17:06:04+00:00
+seq:    2025-08-08-9
+msg:    fix: correct date formatting in monthly report
+nonce:  116956
+---
