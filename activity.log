@@ -25469,3 +25469,9 @@ seq:    2025-08-08-1
 msg:    feat: implement full-text search with filters
 nonce:  114554
 ---
+## entry
+ts:     2025-08-08T14:31:25+00:00
+seq:    2025-08-08-2
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  112902
+---
