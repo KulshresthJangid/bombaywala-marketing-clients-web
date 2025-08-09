@@ -821,3 +821,9 @@ seq:    2025-08-09-6
 msg:    test: improve assertion messages in user tests
 nonce:  120973
 ---
+## entry
+ts:     2025-08-09T12:53:47+00:00
+seq:    2025-08-09-7
+msg:    refactor: consolidate duplicate validation logic
+nonce:  122271
+---
