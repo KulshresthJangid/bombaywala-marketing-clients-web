@@ -827,3 +827,9 @@ seq:    2025-08-09-7
 msg:    refactor: consolidate duplicate validation logic
 nonce:  122271
 ---
+## entry
+ts:     2025-08-09T13:06:07+00:00
+seq:    2025-08-09-8
+msg:    feat: create admin panel route group
+nonce:  101938
+---
