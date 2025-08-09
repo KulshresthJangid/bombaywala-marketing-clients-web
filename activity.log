@@ -815,3 +815,9 @@ seq:    2025-08-09-5
 msg:    feat: add batch job processing queue
 nonce:  103275
 ---
+## entry
+ts:     2025-08-09T12:35:11+00:00
+seq:    2025-08-09-6
+msg:    test: improve assertion messages in user tests
+nonce:  120973
+---
