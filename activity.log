@@ -25613,3 +25613,9 @@ seq:    2025-08-09-13
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  101668
 ---
+## entry
+ts:     2025-08-09T14:32:13+00:00
+seq:    2025-08-09-14
+msg:    test: add unit tests for AuthService
+nonce:  131193
+---
