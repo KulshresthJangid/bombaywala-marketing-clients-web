@@ -25571,3 +25571,9 @@ seq:    2025-08-09-6
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  129031
 ---
+## entry
+ts:     2025-08-09T10:28:00+00:00
+seq:    2025-08-09-7
+msg:    chore: rotate copyright year in license header
+nonce:  129629
+---
