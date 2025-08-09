@@ -833,3 +833,9 @@ seq:    2025-08-09-8
 msg:    feat: create admin panel route group
 nonce:  101938
 ---
+## entry
+ts:     2025-08-09T13:06:22+00:00
+seq:    2025-08-09-9
+msg:    refactor: extract auth guard into shared middleware
+nonce:  111381
+---
