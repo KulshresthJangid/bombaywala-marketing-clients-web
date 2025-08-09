@@ -875,3 +875,9 @@ seq:    2025-08-09-15
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  124377
 ---
+## entry
+ts:     2025-08-09T20:55:51+00:00
+seq:    2025-08-09-16
+msg:    refactor: move magic strings to constants module
+nonce:  114156
+---
