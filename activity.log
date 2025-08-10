@@ -25703,3 +25703,9 @@ seq:    2025-08-10-7
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  129881
 ---
+## entry
+ts:     2025-08-10T13:08:55+00:00
+seq:    2025-08-10-8
+msg:    chore: rotate copyright year in license header
+nonce:  129727
+---
