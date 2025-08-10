@@ -25685,3 +25685,9 @@ seq:    2025-08-10-4
 msg:    feat: add cursor-based pagination
 nonce:  130733
 ---
+## entry
+ts:     2025-08-10T11:58:22+00:00
+seq:    2025-08-10-5
+msg:    fix: resolve CORS rejection on preflight
+nonce:  107699
+---
