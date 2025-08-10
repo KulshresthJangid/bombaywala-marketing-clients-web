@@ -25727,3 +25727,9 @@ seq:    2025-08-10-11
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  132251
 ---
+## entry
+ts:     2025-08-10T14:51:32+00:00
+seq:    2025-08-10-12
+msg:    feat: implement file upload with S3 backend
+nonce:  106768
+---
