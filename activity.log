@@ -25763,3 +25763,9 @@ seq:    2025-08-10-17
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  101846
 ---
+## entry
+ts:     2025-08-10T22:21:33+00:00
+seq:    2025-08-10-18
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  127559
+---
