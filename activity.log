@@ -25751,3 +25751,9 @@ seq:    2025-08-10-15
 msg:    feat: add Stripe subscription billing
 nonce:  114047
 ---
+## entry
+ts:     2025-08-10T20:25:14+00:00
+seq:    2025-08-10-16
+msg:    test: raise coverage floor for payment module
+nonce:  119593
+---
