@@ -25691,3 +25691,9 @@ seq:    2025-08-10-5
 msg:    fix: resolve CORS rejection on preflight
 nonce:  107699
 ---
+## entry
+ts:     2025-08-10T12:28:43+00:00
+seq:    2025-08-10-6
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  131931
+---
