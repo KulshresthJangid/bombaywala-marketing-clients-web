@@ -25781,3 +25781,9 @@ seq:    2025-08-11-1
 msg:    refactor: consolidate duplicate validation logic
 nonce:  106929
 ---
+## entry
+ts:     2025-08-11T09:58:13+00:00
+seq:    2025-08-11-2
+msg:    test: add unit tests for AuthService
+nonce:  102026
+---
