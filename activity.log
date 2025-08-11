@@ -25841,3 +25841,9 @@ seq:    2025-08-11-11
 msg:    refactor: consolidate duplicate validation logic
 nonce:  104947
 ---
+## entry
+ts:     2025-08-11T15:58:50+00:00
+seq:    2025-08-11-12
+msg:    refactor: remove dead code from utils barrel
+nonce:  112385
+---
