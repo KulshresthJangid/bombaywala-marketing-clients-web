@@ -887,3 +887,9 @@ seq:    2025-08-11-0
 msg:    test: add edge-case tests for input validators
 nonce:  123131
 ---
+## entry
+ts:     2025-08-11T10:41:38+00:00
+seq:    2025-08-11-1
+msg:    refactor: split God-service into focused modules
+nonce:  107930
+---
