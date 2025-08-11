@@ -965,3 +965,9 @@ seq:    2025-08-11-13
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  125129
 ---
+## entry
+ts:     2025-08-11T20:01:50+00:00
+seq:    2025-08-11-14
+msg:    fix: resolve null pointer in user service
+nonce:  100776
+---
