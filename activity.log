@@ -899,3 +899,9 @@ seq:    2025-08-11-2
 msg:    test: add unit tests for AuthService
 nonce:  114689
 ---
+## entry
+ts:     2025-08-11T11:29:30+00:00
+seq:    2025-08-11-3
+msg:    fix: correct off-by-one in pagination offset
+nonce:  119343
+---
