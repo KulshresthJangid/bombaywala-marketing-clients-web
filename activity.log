@@ -977,3 +977,9 @@ seq:    2025-08-11-15
 msg:    feat: add email-verification flow
 nonce:  130184
 ---
+## entry
+ts:     2025-08-11T22:52:11+00:00
+seq:    2025-08-11-16
+msg:    test: add snapshot tests for report generator
+nonce:  110163
+---
