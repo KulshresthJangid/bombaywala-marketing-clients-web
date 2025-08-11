@@ -935,3 +935,9 @@ seq:    2025-08-11-8
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  120669
 ---
+## entry
+ts:     2025-08-11T15:18:01+00:00
+seq:    2025-08-11-9
+msg:    fix: patch reflected-XSS in comment field
+nonce:  126717
+---
