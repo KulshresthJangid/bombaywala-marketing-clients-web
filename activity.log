@@ -25817,3 +25817,9 @@ seq:    2025-08-11-7
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  132263
 ---
+## entry
+ts:     2025-08-11T14:37:43+00:00
+seq:    2025-08-11-8
+msg:    test: add edge-case tests for input validators
+nonce:  111225
+---
