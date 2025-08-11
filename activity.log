@@ -25865,3 +25865,9 @@ seq:    2025-08-11-15
 msg:    refactor: centralise API error-response factory
 nonce:  126158
 ---
+## entry
+ts:     2025-08-11T17:35:35+00:00
+seq:    2025-08-11-16
+msg:    chore: reorganise src/ folder structure
+nonce:  105204
+---
