@@ -25835,3 +25835,9 @@ seq:    2025-08-11-10
 msg:    perf: memoize expensive permission-check results
 nonce:  109826
 ---
+## entry
+ts:     2025-08-11T15:24:19+00:00
+seq:    2025-08-11-11
+msg:    refactor: consolidate duplicate validation logic
+nonce:  104947
+---
