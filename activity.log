@@ -917,3 +917,9 @@ seq:    2025-08-11-5
 msg:    feat: add OAuth2 social login flow
 nonce:  100062
 ---
+## entry
+ts:     2025-08-11T14:03:15+00:00
+seq:    2025-08-11-6
+msg:    fix: resolve race condition in job queue
+nonce:  122565
+---
