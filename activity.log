@@ -911,3 +911,9 @@ seq:    2025-08-11-4
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  104765
 ---
+## entry
+ts:     2025-08-11T13:48:18+00:00
+seq:    2025-08-11-5
+msg:    feat: add OAuth2 social login flow
+nonce:  100062
+---
