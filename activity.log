@@ -1049,3 +1049,9 @@ seq:    2025-08-12-10
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  121709
 ---
+## entry
+ts:     2025-08-12T14:04:08+00:00
+seq:    2025-08-12-11
+msg:    docs: document required environment variables
+nonce:  101312
+---
