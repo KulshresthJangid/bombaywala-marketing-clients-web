@@ -1031,3 +1031,9 @@ seq:    2025-08-12-7
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  110505
 ---
+## entry
+ts:     2025-08-12T12:37:41+00:00
+seq:    2025-08-12-8
+msg:    docs: update CHANGELOG for next release
+nonce:  121730
+---
