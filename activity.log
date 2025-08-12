@@ -25913,3 +25913,9 @@ seq:    2025-08-12-4
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  118271
 ---
+## entry
+ts:     2025-08-12T11:10:29+00:00
+seq:    2025-08-12-5
+msg:    test: raise coverage floor for payment module
+nonce:  100813
+---
