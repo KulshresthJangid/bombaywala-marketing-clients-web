@@ -25967,3 +25967,9 @@ seq:    2025-08-12-13
 msg:    fix: handle empty state on dashboard load
 nonce:  131922
 ---
+## entry
+ts:     2025-08-12T16:15:05+00:00
+seq:    2025-08-12-14
+msg:    fix: fix stale JWT after password reset
+nonce:  118130
+---
