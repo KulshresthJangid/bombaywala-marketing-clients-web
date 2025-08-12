@@ -25943,3 +25943,9 @@ seq:    2025-08-12-9
 msg:    feat: add batch job processing queue
 nonce:  130386
 ---
+## entry
+ts:     2025-08-12T12:19:43+00:00
+seq:    2025-08-12-10
+msg:    test: add k6 load-test script for checkout flow
+nonce:  104496
+---
