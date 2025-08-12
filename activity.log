@@ -1043,3 +1043,9 @@ seq:    2025-08-12-9
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  115728
 ---
+## entry
+ts:     2025-08-12T13:32:06+00:00
+seq:    2025-08-12-10
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  121709
+---
