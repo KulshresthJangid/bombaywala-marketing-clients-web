@@ -25931,3 +25931,9 @@ seq:    2025-08-12-7
 msg:    chore: remove unused imports across codebase
 nonce:  124913
 ---
+## entry
+ts:     2025-08-12T12:09:07+00:00
+seq:    2025-08-12-8
+msg:    feat: add multi-language (i18n) support
+nonce:  124029
+---
