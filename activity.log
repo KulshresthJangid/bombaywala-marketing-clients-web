@@ -983,3 +983,9 @@ seq:    2025-08-11-16
 msg:    test: add snapshot tests for report generator
 nonce:  110163
 ---
+## entry
+ts:     2025-08-12T10:21:32+00:00
+seq:    2025-08-12-0
+msg:    docs: document required environment variables
+nonce:  120620
+---
