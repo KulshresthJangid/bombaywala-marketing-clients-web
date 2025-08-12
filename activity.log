@@ -1061,3 +1061,9 @@ seq:    2025-08-12-12
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  102987
 ---
+## entry
+ts:     2025-08-12T15:52:51+00:00
+seq:    2025-08-12-13
+msg:    test: add integration tests for /api/v2 routes
+nonce:  108108
+---
