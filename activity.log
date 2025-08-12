@@ -26003,3 +26003,9 @@ seq:    2025-08-12-19
 msg:    perf: lazy-load heavy chart library
 nonce:  107674
 ---
+## entry
+ts:     2025-08-12T21:40:14+00:00
+seq:    2025-08-12-20
+msg:    chore: apply prettier to all source files
+nonce:  101492
+---
