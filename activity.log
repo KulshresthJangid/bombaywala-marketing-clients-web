@@ -1109,3 +1109,9 @@ seq:    2025-08-13-3
 msg:    refactor: split God-service into focused modules
 nonce:  126767
 ---
+## entry
+ts:     2025-08-13T11:40:46+00:00
+seq:    2025-08-13-4
+msg:    feat: create outbound webhook dispatcher
+nonce:  132291
+---
