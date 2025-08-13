@@ -1127,3 +1127,9 @@ seq:    2025-08-13-6
 msg:    fix: fix stale JWT after password reset
 nonce:  109836
 ---
+## entry
+ts:     2025-08-13T13:33:20+00:00
+seq:    2025-08-13-7
+msg:    refactor: remove dead code from utils barrel
+nonce:  108676
+---
