@@ -1139,3 +1139,9 @@ seq:    2025-08-13-8
 msg:    fix: resolve CORS rejection on preflight
 nonce:  115781
 ---
+## entry
+ts:     2025-08-13T15:13:34+00:00
+seq:    2025-08-13-9
+msg:    chore: pin transitive dependency versions
+nonce:  101801
+---
