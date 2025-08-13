@@ -1151,3 +1151,9 @@ seq:    2025-08-13-10
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  119032
 ---
+## entry
+ts:     2025-08-13T15:43:58+00:00
+seq:    2025-08-13-11
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  121931
+---
