@@ -1085,3 +1085,9 @@ seq:    2025-08-12-16
 msg:    fix: correct date formatting in monthly report
 nonce:  127649
 ---
+## entry
+ts:     2025-08-13T10:25:08+00:00
+seq:    2025-08-13-0
+msg:    docs: add architecture decision record for caching
+nonce:  120474
+---
