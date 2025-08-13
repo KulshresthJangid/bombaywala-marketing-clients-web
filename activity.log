@@ -1145,3 +1145,9 @@ seq:    2025-08-13-9
 msg:    chore: pin transitive dependency versions
 nonce:  101801
 ---
+## entry
+ts:     2025-08-13T15:27:28+00:00
+seq:    2025-08-13-10
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  119032
+---
