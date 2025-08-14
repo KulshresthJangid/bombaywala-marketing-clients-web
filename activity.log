@@ -26063,3 +26063,9 @@ seq:    2025-08-14-8
 msg:    fix: correct date formatting in monthly report
 nonce:  115657
 ---
+## entry
+ts:     2025-08-14T13:33:31+00:00
+seq:    2025-08-14-9
+msg:    refactor: centralise API error-response factory
+nonce:  106887
+---
