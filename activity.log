@@ -1289,3 +1289,9 @@ seq:    2025-08-14-14
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  120516
 ---
+## entry
+ts:     2025-08-14T20:21:12+00:00
+seq:    2025-08-14-15
+msg:    perf: parallelise image-resize pipeline
+nonce:  121472
+---
