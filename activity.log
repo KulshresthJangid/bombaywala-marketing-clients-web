@@ -26093,3 +26093,9 @@ seq:    2025-08-14-13
 msg:    refactor: migrate from winston to pino logger
 nonce:  132040
 ---
+## entry
+ts:     2025-08-14T15:13:45+00:00
+seq:    2025-08-14-14
+msg:    feat: add OAuth2 social login flow
+nonce:  122474
+---
