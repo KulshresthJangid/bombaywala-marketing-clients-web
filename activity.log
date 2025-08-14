@@ -26009,3 +26009,9 @@ seq:    2025-08-12-20
 msg:    chore: apply prettier to all source files
 nonce:  101492
 ---
+## entry
+ts:     2025-08-14T08:41:58+00:00
+seq:    2025-08-14-0
+msg:    feat: add multi-language (i18n) support
+nonce:  127805
+---
