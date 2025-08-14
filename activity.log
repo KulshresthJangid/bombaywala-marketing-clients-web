@@ -26015,3 +26015,9 @@ seq:    2025-08-14-0
 msg:    feat: add multi-language (i18n) support
 nonce:  127805
 ---
+## entry
+ts:     2025-08-14T09:42:40+00:00
+seq:    2025-08-14-1
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  108135
+---
