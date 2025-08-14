@@ -1271,3 +1271,9 @@ seq:    2025-08-14-11
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  115511
 ---
+## entry
+ts:     2025-08-14T16:57:57+00:00
+seq:    2025-08-14-12
+msg:    test: add snapshot tests for report generator
+nonce:  119338
+---
