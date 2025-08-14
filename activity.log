@@ -1295,3 +1295,9 @@ seq:    2025-08-14-15
 msg:    perf: parallelise image-resize pipeline
 nonce:  121472
 ---
+## entry
+ts:     2025-08-14T21:36:27+00:00
+seq:    2025-08-14-16
+msg:    chore: rotate copyright year in license header
+nonce:  127546
+---
