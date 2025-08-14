@@ -26069,3 +26069,9 @@ seq:    2025-08-14-9
 msg:    refactor: centralise API error-response factory
 nonce:  106887
 ---
+## entry
+ts:     2025-08-14T13:48:28+00:00
+seq:    2025-08-14-10
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  112162
+---
