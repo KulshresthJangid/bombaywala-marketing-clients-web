@@ -1223,3 +1223,9 @@ seq:    2025-08-14-3
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  113367
 ---
+## entry
+ts:     2025-08-14T11:13:23+00:00
+seq:    2025-08-14-4
+msg:    refactor: centralise API error-response factory
+nonce:  105570
+---
