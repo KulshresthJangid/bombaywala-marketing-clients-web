@@ -26027,3 +26027,9 @@ seq:    2025-08-14-2
 msg:    feat: add OAuth2 social login flow
 nonce:  101331
 ---
+## entry
+ts:     2025-08-14T09:55:00+00:00
+seq:    2025-08-14-3
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  107898
+---
