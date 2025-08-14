@@ -1211,3 +1211,9 @@ seq:    2025-08-14-1
 msg:    feat: implement dark mode toggle
 nonce:  114455
 ---
+## entry
+ts:     2025-08-14T09:37:07+00:00
+seq:    2025-08-14-2
+msg:    perf: lazy-load heavy chart library
+nonce:  111678
+---
