@@ -1283,3 +1283,9 @@ seq:    2025-08-14-13
 msg:    test: add snapshot tests for report generator
 nonce:  113597
 ---
+## entry
+ts:     2025-08-14T18:51:25+00:00
+seq:    2025-08-14-14
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  120516
+---
