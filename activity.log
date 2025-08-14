@@ -1235,3 +1235,9 @@ seq:    2025-08-14-5
 msg:    fix: patch reflected-XSS in comment field
 nonce:  103676
 ---
+## entry
+ts:     2025-08-14T15:10:45+00:00
+seq:    2025-08-14-6
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  132423
+---
