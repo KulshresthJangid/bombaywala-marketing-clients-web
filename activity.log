@@ -1217,3 +1217,9 @@ seq:    2025-08-14-2
 msg:    perf: lazy-load heavy chart library
 nonce:  111678
 ---
+## entry
+ts:     2025-08-14T10:43:36+00:00
+seq:    2025-08-14-3
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  113367
+---
