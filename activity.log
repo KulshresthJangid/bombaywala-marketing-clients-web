@@ -1385,3 +1385,9 @@ seq:    2025-08-15-12
 msg:    feat: implement Redis caching layer
 nonce:  117923
 ---
+## entry
+ts:     2025-08-15T15:45:23+00:00
+seq:    2025-08-15-13
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  129459
+---
