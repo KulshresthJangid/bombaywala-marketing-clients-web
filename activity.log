@@ -1421,3 +1421,9 @@ seq:    2025-08-15-18
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  124976
 ---
+## entry
+ts:     2025-08-15T20:46:29+00:00
+seq:    2025-08-15-19
+msg:    docs: document required environment variables
+nonce:  111664
+---
