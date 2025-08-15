@@ -1391,3 +1391,9 @@ seq:    2025-08-15-13
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  129459
 ---
+## entry
+ts:     2025-08-15T17:35:17+00:00
+seq:    2025-08-15-14
+msg:    perf: lazy-load heavy chart library
+nonce:  100419
+---
