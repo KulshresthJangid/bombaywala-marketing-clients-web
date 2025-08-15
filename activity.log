@@ -1331,3 +1331,9 @@ seq:    2025-08-15-3
 msg:    fix: sanitize user input in search filter
 nonce:  112439
 ---
+## entry
+ts:     2025-08-15T12:34:04+00:00
+seq:    2025-08-15-4
+msg:    feat: add Stripe subscription billing
+nonce:  113029
+---
