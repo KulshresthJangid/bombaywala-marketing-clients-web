@@ -1433,3 +1433,9 @@ seq:    2025-08-15-20
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  101003
 ---
+## entry
+ts:     2025-08-15T22:30:05+00:00
+seq:    2025-08-15-21
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  127820
+---
