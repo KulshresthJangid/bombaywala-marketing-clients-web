@@ -26207,3 +26207,9 @@ seq:    2025-08-15-7
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  123360
 ---
+## entry
+ts:     2025-08-15T13:49:30+00:00
+seq:    2025-08-15-8
+msg:    perf: enable gzip compression on API responses
+nonce:  100227
+---
