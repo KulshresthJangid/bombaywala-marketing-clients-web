@@ -26189,3 +26189,9 @@ seq:    2025-08-15-4
 msg:    fix: sanitize user input in search filter
 nonce:  106117
 ---
+## entry
+ts:     2025-08-15T11:57:03+00:00
+seq:    2025-08-15-5
+msg:    test: add snapshot tests for report generator
+nonce:  124824
+---
