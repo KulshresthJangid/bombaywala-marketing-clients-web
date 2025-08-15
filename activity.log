@@ -1373,3 +1373,9 @@ seq:    2025-08-15-10
 msg:    refactor: split God-service into focused modules
 nonce:  128859
 ---
+## entry
+ts:     2025-08-15T15:20:48+00:00
+seq:    2025-08-15-11
+msg:    feat: implement file upload with S3 backend
+nonce:  104399
+---
