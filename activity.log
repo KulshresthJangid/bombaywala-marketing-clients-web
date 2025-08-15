@@ -1403,3 +1403,9 @@ seq:    2025-08-15-15
 msg:    test: raise coverage floor for payment module
 nonce:  119473
 ---
+## entry
+ts:     2025-08-15T18:16:37+00:00
+seq:    2025-08-15-16
+msg:    fix: correct off-by-one in pagination offset
+nonce:  124242
+---
