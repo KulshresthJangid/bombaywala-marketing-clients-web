@@ -1355,3 +1355,9 @@ seq:    2025-08-15-7
 msg:    test: add snapshot tests for report generator
 nonce:  114269
 ---
+## entry
+ts:     2025-08-15T13:48:59+00:00
+seq:    2025-08-15-8
+msg:    refactor: consolidate duplicate validation logic
+nonce:  115159
+---
