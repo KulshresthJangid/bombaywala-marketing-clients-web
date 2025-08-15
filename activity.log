@@ -26231,3 +26231,9 @@ seq:    2025-08-15-11
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  132224
 ---
+## entry
+ts:     2025-08-15T16:07:36+00:00
+seq:    2025-08-15-12
+msg:    refactor: extract auth guard into shared middleware
+nonce:  131431
+---
