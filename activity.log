@@ -26183,3 +26183,9 @@ seq:    2025-08-15-3
 msg:    fix: patch reflected-XSS in comment field
 nonce:  107428
 ---
+## entry
+ts:     2025-08-15T10:26:24+00:00
+seq:    2025-08-15-4
+msg:    fix: sanitize user input in search filter
+nonce:  106117
+---
