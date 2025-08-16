@@ -1445,3 +1445,9 @@ seq:    2025-08-16-0
 msg:    perf: parallelise image-resize pipeline
 nonce:  116318
 ---
+## entry
+ts:     2025-08-16T11:40:27+00:00
+seq:    2025-08-16-1
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  102599
+---
