@@ -1469,3 +1469,9 @@ seq:    2025-08-16-4
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  130722
 ---
+## entry
+ts:     2025-08-16T15:16:59+00:00
+seq:    2025-08-16-5
+msg:    feat: add export-to-CSV functionality
+nonce:  114614
+---
