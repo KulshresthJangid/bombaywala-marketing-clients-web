@@ -1493,3 +1493,9 @@ seq:    2025-08-16-8
 msg:    refactor: replace callback hell with async/await
 nonce:  132258
 ---
+## entry
+ts:     2025-08-16T16:54:11+00:00
+seq:    2025-08-16-9
+msg:    chore: remove unused imports across codebase
+nonce:  123403
+---
