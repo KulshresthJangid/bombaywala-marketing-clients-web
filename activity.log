@@ -1487,3 +1487,9 @@ seq:    2025-08-16-7
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  127808
 ---
+## entry
+ts:     2025-08-16T16:53:46+00:00
+seq:    2025-08-16-8
+msg:    refactor: replace callback hell with async/await
+nonce:  132258
+---
