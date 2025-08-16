@@ -1475,3 +1475,9 @@ seq:    2025-08-16-5
 msg:    feat: add export-to-CSV functionality
 nonce:  114614
 ---
+## entry
+ts:     2025-08-16T15:45:37+00:00
+seq:    2025-08-16-6
+msg:    fix: resolve race condition in job queue
+nonce:  131150
+---
