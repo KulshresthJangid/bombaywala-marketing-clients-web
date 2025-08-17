@@ -1589,3 +1589,9 @@ seq:    2025-08-17-10
 msg:    feat: add OAuth2 social login flow
 nonce:  108194
 ---
+## entry
+ts:     2025-08-17T16:03:19+00:00
+seq:    2025-08-17-11
+msg:    test: raise coverage floor for payment module
+nonce:  112424
+---
