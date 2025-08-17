@@ -1577,3 +1577,9 @@ seq:    2025-08-17-8
 msg:    fix: resolve CORS rejection on preflight
 nonce:  114792
 ---
+## entry
+ts:     2025-08-17T15:48:31+00:00
+seq:    2025-08-17-9
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  120964
+---
