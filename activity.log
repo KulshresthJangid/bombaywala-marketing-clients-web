@@ -1607,3 +1607,9 @@ seq:    2025-08-17-13
 msg:    fix: resolve null pointer in user service
 nonce:  103274
 ---
+## entry
+ts:     2025-08-17T19:11:34+00:00
+seq:    2025-08-17-14
+msg:    fix: handle empty state on dashboard load
+nonce:  123224
+---
