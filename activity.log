@@ -1601,3 +1601,9 @@ seq:    2025-08-17-12
 msg:    feat: scaffold onboarding wizard UI
 nonce:  119603
 ---
+## entry
+ts:     2025-08-17T16:43:45+00:00
+seq:    2025-08-17-13
+msg:    fix: resolve null pointer in user service
+nonce:  103274
+---
