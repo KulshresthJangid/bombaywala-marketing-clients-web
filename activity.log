@@ -1529,3 +1529,9 @@ seq:    2025-08-17-0
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  104366
 ---
+## entry
+ts:     2025-08-17T09:30:14+00:00
+seq:    2025-08-17-1
+msg:    test: add edge-case tests for input validators
+nonce:  105888
+---
