@@ -26399,3 +26399,9 @@ seq:    2025-08-18-21
 msg:    feat: scaffold onboarding wizard UI
 nonce:  105438
 ---
+## entry
+ts:     2025-08-18T21:39:18+00:00
+seq:    2025-08-18-22
+msg:    chore: reorganise src/ folder structure
+nonce:  102575
+---
