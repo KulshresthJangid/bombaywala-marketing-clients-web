@@ -26345,3 +26345,9 @@ seq:    2025-08-18-12
 msg:    refactor: simplify connection pool configuration
 nonce:  118566
 ---
+## entry
+ts:     2025-08-18T15:08:04+00:00
+seq:    2025-08-18-13
+msg:    fix: patch reflected-XSS in comment field
+nonce:  103237
+---
