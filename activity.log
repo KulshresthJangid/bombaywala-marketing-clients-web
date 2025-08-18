@@ -26303,3 +26303,9 @@ seq:    2025-08-18-5
 msg:    test: add k6 load-test script for checkout flow
 nonce:  125570
 ---
+## entry
+ts:     2025-08-18T10:07:39+00:00
+seq:    2025-08-18-6
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  115810
+---
