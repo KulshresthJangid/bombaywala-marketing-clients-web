@@ -26291,3 +26291,9 @@ seq:    2025-08-18-3
 msg:    refactor: replace callback hell with async/await
 nonce:  120153
 ---
+## entry
+ts:     2025-08-18T09:45:53+00:00
+seq:    2025-08-18-4
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  131963
+---
