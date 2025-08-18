@@ -26339,3 +26339,9 @@ seq:    2025-08-18-11
 msg:    feat: scaffold onboarding wizard UI
 nonce:  123391
 ---
+## entry
+ts:     2025-08-18T13:43:47+00:00
+seq:    2025-08-18-12
+msg:    refactor: simplify connection pool configuration
+nonce:  118566
+---
