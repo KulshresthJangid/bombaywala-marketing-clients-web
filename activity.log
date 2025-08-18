@@ -26381,3 +26381,9 @@ seq:    2025-08-18-18
 msg:    feat: add real-time notification system
 nonce:  115611
 ---
+## entry
+ts:     2025-08-18T17:42:03+00:00
+seq:    2025-08-18-19
+msg:    refactor: centralise API error-response factory
+nonce:  122011
+---
