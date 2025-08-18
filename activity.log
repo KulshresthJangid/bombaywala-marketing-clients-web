@@ -26309,3 +26309,9 @@ seq:    2025-08-18-6
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  115810
 ---
+## entry
+ts:     2025-08-18T10:11:21+00:00
+seq:    2025-08-18-7
+msg:    feat: implement Redis caching layer
+nonce:  127355
+---
