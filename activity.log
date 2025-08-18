@@ -26297,3 +26297,9 @@ seq:    2025-08-18-4
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  131963
 ---
+## entry
+ts:     2025-08-18T09:59:16+00:00
+seq:    2025-08-18-5
+msg:    test: add k6 load-test script for checkout flow
+nonce:  125570
+---
