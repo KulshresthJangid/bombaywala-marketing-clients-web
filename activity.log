@@ -26351,3 +26351,9 @@ seq:    2025-08-18-13
 msg:    fix: patch reflected-XSS in comment field
 nonce:  103237
 ---
+## entry
+ts:     2025-08-18T15:55:58+00:00
+seq:    2025-08-18-14
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  109374
+---
