@@ -1661,3 +1661,9 @@ seq:    2025-08-19-6
 msg:    test: add edge-case tests for input validators
 nonce:  114737
 ---
+## entry
+ts:     2025-08-19T15:11:41+00:00
+seq:    2025-08-19-7
+msg:    feat: add OAuth2 social login flow
+nonce:  109252
+---
