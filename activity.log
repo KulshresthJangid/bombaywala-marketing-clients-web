@@ -26477,3 +26477,9 @@ seq:    2025-08-19-10
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  110254
 ---
+## entry
+ts:     2025-08-19T22:04:06+00:00
+seq:    2025-08-19-11
+msg:    fix: sanitize user input in search filter
+nonce:  119569
+---
