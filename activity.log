@@ -1631,3 +1631,9 @@ seq:    2025-08-19-1
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  102383
 ---
+## entry
+ts:     2025-08-19T09:58:13+00:00
+seq:    2025-08-19-2
+msg:    test: add snapshot tests for report generator
+nonce:  122084
+---
