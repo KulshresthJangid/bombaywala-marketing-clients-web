@@ -1649,3 +1649,9 @@ seq:    2025-08-19-4
 msg:    chore: rotate copyright year in license header
 nonce:  115750
 ---
+## entry
+ts:     2025-08-19T14:15:52+00:00
+seq:    2025-08-19-5
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  112819
+---
