@@ -1655,3 +1655,9 @@ seq:    2025-08-19-5
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  112819
 ---
+## entry
+ts:     2025-08-19T14:51:15+00:00
+seq:    2025-08-19-6
+msg:    test: add edge-case tests for input validators
+nonce:  114737
+---
