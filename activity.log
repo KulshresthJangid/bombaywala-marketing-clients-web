@@ -1637,3 +1637,9 @@ seq:    2025-08-19-2
 msg:    test: add snapshot tests for report generator
 nonce:  122084
 ---
+## entry
+ts:     2025-08-19T11:17:27+00:00
+seq:    2025-08-19-3
+msg:    feat: add Stripe subscription billing
+nonce:  123543
+---
