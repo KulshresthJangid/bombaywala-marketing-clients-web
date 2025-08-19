@@ -26471,3 +26471,9 @@ seq:    2025-08-19-9
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  106482
 ---
+## entry
+ts:     2025-08-19T21:01:23+00:00
+seq:    2025-08-19-10
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  110254
+---
