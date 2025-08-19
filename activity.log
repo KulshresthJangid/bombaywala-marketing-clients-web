@@ -1679,3 +1679,9 @@ seq:    2025-08-19-9
 msg:    feat: add email-verification flow
 nonce:  109574
 ---
+## entry
+ts:     2025-08-19T20:21:33+00:00
+seq:    2025-08-19-10
+msg:    fix: resolve race condition in job queue
+nonce:  131132
+---
