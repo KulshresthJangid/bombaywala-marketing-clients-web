@@ -1673,3 +1673,9 @@ seq:    2025-08-19-8
 msg:    feat: add Stripe subscription billing
 nonce:  114264
 ---
+## entry
+ts:     2025-08-19T16:29:17+00:00
+seq:    2025-08-19-9
+msg:    feat: add email-verification flow
+nonce:  109574
+---
