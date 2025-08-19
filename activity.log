@@ -26453,3 +26453,9 @@ seq:    2025-08-19-6
 msg:    test: raise coverage floor for payment module
 nonce:  128530
 ---
+## entry
+ts:     2025-08-19T16:31:44+00:00
+seq:    2025-08-19-7
+msg:    perf: trim unnecessary fields from list responses
+nonce:  113069
+---
