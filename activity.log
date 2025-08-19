@@ -26417,3 +26417,9 @@ seq:    2025-08-19-0
 msg:    fix: patch reflected-XSS in comment field
 nonce:  104440
 ---
+## entry
+ts:     2025-08-19T11:45:01+00:00
+seq:    2025-08-19-1
+msg:    refactor: remove dead code from utils barrel
+nonce:  103533
+---
