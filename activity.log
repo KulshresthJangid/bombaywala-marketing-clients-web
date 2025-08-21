@@ -26573,3 +26573,9 @@ seq:    2025-08-21-14
 msg:    fix: resolve CORS rejection on preflight
 nonce:  111727
 ---
+## entry
+ts:     2025-08-21T20:29:56+00:00
+seq:    2025-08-21-15
+msg:    docs: update CHANGELOG for next release
+nonce:  100594
+---
