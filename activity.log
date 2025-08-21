@@ -26543,3 +26543,9 @@ seq:    2025-08-21-9
 msg:    fix: resolve CORS rejection on preflight
 nonce:  130265
 ---
+## entry
+ts:     2025-08-21T17:45:10+00:00
+seq:    2025-08-21-10
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  113831
+---
