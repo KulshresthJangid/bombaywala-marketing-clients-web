@@ -26597,3 +26597,9 @@ seq:    2025-08-22-2
 msg:    refactor: split God-service into focused modules
 nonce:  105145
 ---
+## entry
+ts:     2025-08-22T11:23:30+00:00
+seq:    2025-08-22-3
+msg:    fix: patch reflected-XSS in comment field
+nonce:  113921
+---
