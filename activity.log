@@ -26651,3 +26651,9 @@ seq:    2025-08-22-11
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  131158
 ---
+## entry
+ts:     2025-08-22T16:53:49+00:00
+seq:    2025-08-22-12
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  119027
+---
