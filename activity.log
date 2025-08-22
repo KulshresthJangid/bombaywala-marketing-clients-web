@@ -26675,3 +26675,9 @@ seq:    2025-08-22-15
 msg:    test: add k6 load-test script for checkout flow
 nonce:  124206
 ---
+## entry
+ts:     2025-08-22T21:33:28+00:00
+seq:    2025-08-22-16
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  114200
+---
