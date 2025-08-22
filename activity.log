@@ -26639,3 +26639,9 @@ seq:    2025-08-22-9
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  120709
 ---
+## entry
+ts:     2025-08-22T14:17:31+00:00
+seq:    2025-08-22-10
+msg:    test: improve assertion messages in user tests
+nonce:  129717
+---
