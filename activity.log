@@ -26609,3 +26609,9 @@ seq:    2025-08-22-4
 msg:    fix: sanitize user input in search filter
 nonce:  110996
 ---
+## entry
+ts:     2025-08-22T11:42:00+00:00
+seq:    2025-08-22-5
+msg:    test: add integration tests for /api/v2 routes
+nonce:  114209
+---
