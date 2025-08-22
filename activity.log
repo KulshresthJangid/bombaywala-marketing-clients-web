@@ -26579,3 +26579,9 @@ seq:    2025-08-21-15
 msg:    docs: update CHANGELOG for next release
 nonce:  100594
 ---
+## entry
+ts:     2025-08-22T08:24:44+00:00
+seq:    2025-08-22-0
+msg:    feat: add email-verification flow
+nonce:  120964
+---
