@@ -26711,3 +26711,9 @@ seq:    2025-08-24-3
 msg:    test: add k6 load-test script for checkout flow
 nonce:  106112
 ---
+## entry
+ts:     2025-08-24T11:18:18+00:00
+seq:    2025-08-24-4
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  120906
+---
