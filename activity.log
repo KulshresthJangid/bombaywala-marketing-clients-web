@@ -26753,3 +26753,9 @@ seq:    2025-08-24-10
 msg:    feat: create outbound webhook dispatcher
 nonce:  125302
 ---
+## entry
+ts:     2025-08-24T16:35:22+00:00
+seq:    2025-08-24-11
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  115064
+---
