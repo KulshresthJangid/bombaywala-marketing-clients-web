@@ -26693,3 +26693,9 @@ seq:    2025-08-24-0
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  108216
 ---
+## entry
+ts:     2025-08-24T10:21:06+00:00
+seq:    2025-08-24-1
+msg:    chore: rotate copyright year in license header
+nonce:  117268
+---
