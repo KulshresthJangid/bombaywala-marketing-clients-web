@@ -26729,3 +26729,9 @@ seq:    2025-08-24-6
 msg:    fix: sanitize user input in search filter
 nonce:  132036
 ---
+## entry
+ts:     2025-08-24T12:44:26+00:00
+seq:    2025-08-24-7
+msg:    perf: parallelise image-resize pipeline
+nonce:  106459
+---
