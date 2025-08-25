@@ -1709,3 +1709,9 @@ seq:    2025-08-25-2
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  100360
 ---
+## entry
+ts:     2025-08-25T12:12:22+00:00
+seq:    2025-08-25-3
+msg:    feat: add rate-limiting middleware
+nonce:  103692
+---
