@@ -1739,3 +1739,9 @@ seq:    2025-08-25-7
 msg:    test: add unit tests for AuthService
 nonce:  132631
 ---
+## entry
+ts:     2025-08-25T17:51:15+00:00
+seq:    2025-08-25-8
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  123881
+---
