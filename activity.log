@@ -1715,3 +1715,9 @@ seq:    2025-08-25-3
 msg:    feat: add rate-limiting middleware
 nonce:  103692
 ---
+## entry
+ts:     2025-08-25T12:33:53+00:00
+seq:    2025-08-25-4
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  110009
+---
