@@ -1703,3 +1703,9 @@ seq:    2025-08-25-1
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104006
 ---
+## entry
+ts:     2025-08-25T11:59:33+00:00
+seq:    2025-08-25-2
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  100360
+---
