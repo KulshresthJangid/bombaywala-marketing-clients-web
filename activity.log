@@ -1697,3 +1697,9 @@ seq:    2025-08-25-0
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  124596
 ---
+## entry
+ts:     2025-08-25T11:15:38+00:00
+seq:    2025-08-25-1
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  104006
+---
