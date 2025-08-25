@@ -26795,3 +26795,9 @@ seq:    2025-08-25-0
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  103716
 ---
+## entry
+ts:     2025-08-25T10:35:16+00:00
+seq:    2025-08-25-1
+msg:    fix: handle empty state on dashboard load
+nonce:  100065
+---
