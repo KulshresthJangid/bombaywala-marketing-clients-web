@@ -26831,3 +26831,9 @@ seq:    2025-08-25-6
 msg:    feat: implement Redis caching layer
 nonce:  119084
 ---
+## entry
+ts:     2025-08-25T15:48:49+00:00
+seq:    2025-08-25-7
+msg:    fix: handle empty state on dashboard load
+nonce:  129764
+---
