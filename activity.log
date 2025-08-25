@@ -1727,3 +1727,9 @@ seq:    2025-08-25-5
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  115703
 ---
+## entry
+ts:     2025-08-25T15:48:33+00:00
+seq:    2025-08-25-6
+msg:    docs: add getting-started guide to README
+nonce:  130404
+---
