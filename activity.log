@@ -1691,3 +1691,9 @@ seq:    2025-08-19-11
 msg:    perf: enable gzip compression on API responses
 nonce:  118756
 ---
+## entry
+ts:     2025-08-25T09:19:10+00:00
+seq:    2025-08-25-0
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  124596
+---
