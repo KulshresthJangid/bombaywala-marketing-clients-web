@@ -1775,3 +1775,9 @@ seq:    2025-08-25-13
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  127156
 ---
+## entry
+ts:     2025-08-25T22:34:00+00:00
+seq:    2025-08-25-14
+msg:    chore: reorganise src/ folder structure
+nonce:  117370
+---
