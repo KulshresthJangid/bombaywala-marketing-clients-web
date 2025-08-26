@@ -26891,3 +26891,9 @@ seq:    2025-08-26-2
 msg:    feat: implement role-based access control
 nonce:  113658
 ---
+## entry
+ts:     2025-08-26T14:00:49+00:00
+seq:    2025-08-26-3
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  105024
+---
