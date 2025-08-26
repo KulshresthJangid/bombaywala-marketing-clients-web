@@ -1799,3 +1799,9 @@ seq:    2025-08-26-1
 msg:    feat: implement dashboard analytics
 nonce:  101058
 ---
+## entry
+ts:     2025-08-26T09:57:03+00:00
+seq:    2025-08-26-2
+msg:    test: stub external HTTP calls in unit suite
+nonce:  105494
+---
