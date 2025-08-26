@@ -26873,3 +26873,9 @@ seq:    2025-08-25-13
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  104269
 ---
+## entry
+ts:     2025-08-26T09:27:48+00:00
+seq:    2025-08-26-0
+msg:    refactor: migrate from winston to pino logger
+nonce:  104958
+---
