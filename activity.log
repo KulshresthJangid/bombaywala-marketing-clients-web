@@ -1787,3 +1787,9 @@ seq:    2025-08-25-15
 msg:    test: add k6 load-test script for checkout flow
 nonce:  122685
 ---
+## entry
+ts:     2025-08-26T09:08:29+00:00
+seq:    2025-08-26-0
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  119815
+---
