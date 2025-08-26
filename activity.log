@@ -1811,3 +1811,9 @@ seq:    2025-08-26-3
 msg:    perf: parallelise image-resize pipeline
 nonce:  108831
 ---
+## entry
+ts:     2025-08-26T11:19:45+00:00
+seq:    2025-08-26-4
+msg:    feat: add Stripe subscription billing
+nonce:  130704
+---
