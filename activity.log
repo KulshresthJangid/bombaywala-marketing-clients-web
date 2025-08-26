@@ -1907,3 +1907,9 @@ seq:    2025-08-26-19
 msg:    perf: lazy-load heavy chart library
 nonce:  125609
 ---
+## entry
+ts:     2025-08-26T20:00:49+00:00
+seq:    2025-08-26-20
+msg:    perf: trim unnecessary fields from list responses
+nonce:  108482
+---
