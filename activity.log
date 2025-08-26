@@ -1841,3 +1841,9 @@ seq:    2025-08-26-8
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  125052
 ---
+## entry
+ts:     2025-08-26T14:29:31+00:00
+seq:    2025-08-26-9
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  100894
+---
