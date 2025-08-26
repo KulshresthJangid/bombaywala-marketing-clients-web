@@ -1895,3 +1895,9 @@ seq:    2025-08-26-17
 msg:    fix: correct off-by-one in pagination offset
 nonce:  121075
 ---
+## entry
+ts:     2025-08-26T19:43:14+00:00
+seq:    2025-08-26-18
+msg:    refactor: replace callback hell with async/await
+nonce:  131043
+---
