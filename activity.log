@@ -1829,3 +1829,9 @@ seq:    2025-08-26-6
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  107148
 ---
+## entry
+ts:     2025-08-26T13:03:26+00:00
+seq:    2025-08-26-7
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  121656
+---
