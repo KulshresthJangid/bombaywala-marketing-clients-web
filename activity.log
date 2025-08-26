@@ -26885,3 +26885,9 @@ seq:    2025-08-26-1
 msg:    test: add k6 load-test script for checkout flow
 nonce:  128705
 ---
+## entry
+ts:     2025-08-26T13:55:59+00:00
+seq:    2025-08-26-2
+msg:    feat: implement role-based access control
+nonce:  113658
+---
