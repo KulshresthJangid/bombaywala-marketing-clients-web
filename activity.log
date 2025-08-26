@@ -1823,3 +1823,9 @@ seq:    2025-08-26-5
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  117907
 ---
+## entry
+ts:     2025-08-26T12:42:24+00:00
+seq:    2025-08-26-6
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  107148
+---
