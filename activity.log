@@ -26897,3 +26897,9 @@ seq:    2025-08-26-3
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  105024
 ---
+## entry
+ts:     2025-08-26T14:18:47+00:00
+seq:    2025-08-26-4
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  105787
+---
