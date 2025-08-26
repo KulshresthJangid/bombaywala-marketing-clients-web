@@ -26903,3 +26903,9 @@ seq:    2025-08-26-4
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  105787
 ---
+## entry
+ts:     2025-08-26T14:38:56+00:00
+seq:    2025-08-26-5
+msg:    docs: add getting-started guide to README
+nonce:  131921
+---
