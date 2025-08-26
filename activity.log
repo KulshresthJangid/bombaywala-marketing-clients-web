@@ -1847,3 +1847,9 @@ seq:    2025-08-26-9
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  100894
 ---
+## entry
+ts:     2025-08-26T15:13:05+00:00
+seq:    2025-08-26-10
+msg:    feat: add real-time notification system
+nonce:  113415
+---
