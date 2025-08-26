@@ -1865,3 +1865,9 @@ seq:    2025-08-26-12
 msg:    feat: implement role-based access control
 nonce:  113223
 ---
+## entry
+ts:     2025-08-26T17:15:56+00:00
+seq:    2025-08-26-13
+msg:    fix: patch reflected-XSS in comment field
+nonce:  109268
+---
