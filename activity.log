@@ -1877,3 +1877,9 @@ seq:    2025-08-26-14
 msg:    test: add snapshot tests for report generator
 nonce:  109899
 ---
+## entry
+ts:     2025-08-26T18:15:56+00:00
+seq:    2025-08-26-15
+msg:    chore: reorganise src/ folder structure
+nonce:  126192
+---
