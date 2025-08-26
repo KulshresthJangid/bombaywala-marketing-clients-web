@@ -26909,3 +26909,9 @@ seq:    2025-08-26-5
 msg:    docs: add getting-started guide to README
 nonce:  131921
 ---
+## entry
+ts:     2025-08-26T14:58:54+00:00
+seq:    2025-08-26-6
+msg:    test: improve assertion messages in user tests
+nonce:  130167
+---
