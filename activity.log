@@ -1961,3 +1961,9 @@ seq:    2025-08-27-7
 msg:    feat: create immutable audit-log service
 nonce:  129356
 ---
+## entry
+ts:     2025-08-27T13:51:56+00:00
+seq:    2025-08-27-8
+msg:    feat: create admin panel route group
+nonce:  121528
+---
