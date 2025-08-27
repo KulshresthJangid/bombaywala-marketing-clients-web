@@ -27035,3 +27035,9 @@ seq:    2025-08-27-15
 msg:    fix: resolve null pointer in user service
 nonce:  107876
 ---
+## entry
+ts:     2025-08-27T15:50:34+00:00
+seq:    2025-08-27-16
+msg:    perf: parallelise image-resize pipeline
+nonce:  107171
+---
