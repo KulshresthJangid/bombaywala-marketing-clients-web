@@ -26939,3 +26939,9 @@ seq:    2025-08-26-10
 msg:    fix: sanitize user input in search filter
 nonce:  110406
 ---
+## entry
+ts:     2025-08-27T08:44:38+00:00
+seq:    2025-08-27-0
+msg:    test: raise coverage floor for payment module
+nonce:  110169
+---
