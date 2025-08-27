@@ -1949,3 +1949,9 @@ seq:    2025-08-27-5
 msg:    refactor: centralise API error-response factory
 nonce:  109749
 ---
+## entry
+ts:     2025-08-27T12:32:14+00:00
+seq:    2025-08-27-6
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  100362
+---
