@@ -1955,3 +1955,9 @@ seq:    2025-08-27-6
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  100362
 ---
+## entry
+ts:     2025-08-27T12:56:24+00:00
+seq:    2025-08-27-7
+msg:    feat: create immutable audit-log service
+nonce:  129356
+---
