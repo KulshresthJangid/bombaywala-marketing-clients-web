@@ -1943,3 +1943,9 @@ seq:    2025-08-27-4
 msg:    feat: add GraphQL subscription support
 nonce:  114782
 ---
+## entry
+ts:     2025-08-27T10:20:50+00:00
+seq:    2025-08-27-5
+msg:    refactor: centralise API error-response factory
+nonce:  109749
+---
