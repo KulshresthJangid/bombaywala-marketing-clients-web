@@ -27029,3 +27029,9 @@ seq:    2025-08-27-14
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  120477
 ---
+## entry
+ts:     2025-08-27T15:39:27+00:00
+seq:    2025-08-27-15
+msg:    fix: resolve null pointer in user service
+nonce:  107876
+---
