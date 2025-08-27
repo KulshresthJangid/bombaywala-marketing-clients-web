@@ -27011,3 +27011,9 @@ seq:    2025-08-27-11
 msg:    feat: implement Redis caching layer
 nonce:  103284
 ---
+## entry
+ts:     2025-08-27T14:01:03+00:00
+seq:    2025-08-27-12
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  116584
+---
