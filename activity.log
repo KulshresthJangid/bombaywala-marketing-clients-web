@@ -27125,3 +27125,9 @@ seq:    2025-08-28-6
 msg:    feat: implement full-text search with filters
 nonce:  103375
 ---
+## entry
+ts:     2025-08-28T16:56:57+00:00
+seq:    2025-08-28-7
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  110054
+---
