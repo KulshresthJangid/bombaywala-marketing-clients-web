@@ -2015,3 +2015,9 @@ seq:    2025-08-27-16
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  116644
 ---
+## entry
+ts:     2025-08-28T08:41:39+00:00
+seq:    2025-08-28-0
+msg:    test: add unit tests for AuthService
+nonce:  106943
+---
