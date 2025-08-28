@@ -2021,3 +2021,9 @@ seq:    2025-08-28-0
 msg:    test: add unit tests for AuthService
 nonce:  106943
 ---
+## entry
+ts:     2025-08-28T08:51:58+00:00
+seq:    2025-08-28-1
+msg:    refactor: extract auth guard into shared middleware
+nonce:  122190
+---
