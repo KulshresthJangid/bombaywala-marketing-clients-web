@@ -27083,3 +27083,9 @@ seq:    2025-08-27-23
 msg:    feat: add rate-limiting middleware
 nonce:  121420
 ---
+## entry
+ts:     2025-08-28T09:25:13+00:00
+seq:    2025-08-28-0
+msg:    fix: resolve CORS rejection on preflight
+nonce:  121903
+---
