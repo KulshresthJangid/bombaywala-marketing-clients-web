@@ -2123,3 +2123,9 @@ seq:    2025-08-28-17
 msg:    test: improve assertion messages in user tests
 nonce:  132028
 ---
+## entry
+ts:     2025-08-28T15:24:10+00:00
+seq:    2025-08-28-18
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  131752
+---
