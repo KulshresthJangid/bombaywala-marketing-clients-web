@@ -2051,3 +2051,9 @@ seq:    2025-08-28-5
 msg:    feat: implement file upload with S3 backend
 nonce:  113204
 ---
+## entry
+ts:     2025-08-28T10:06:44+00:00
+seq:    2025-08-28-6
+msg:    feat: add multi-language (i18n) support
+nonce:  129407
+---
