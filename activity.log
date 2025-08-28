@@ -27149,3 +27149,9 @@ seq:    2025-08-28-10
 msg:    feat: add batch job processing queue
 nonce:  125430
 ---
+## entry
+ts:     2025-08-28T21:45:15+00:00
+seq:    2025-08-28-11
+msg:    test: stub external HTTP calls in unit suite
+nonce:  116056
+---
