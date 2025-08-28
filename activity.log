@@ -2159,3 +2159,9 @@ seq:    2025-08-28-23
 msg:    feat: add multi-language (i18n) support
 nonce:  117777
 ---
+## entry
+ts:     2025-08-28T19:46:54+00:00
+seq:    2025-08-28-24
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  124133
+---
