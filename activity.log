@@ -2057,3 +2057,9 @@ seq:    2025-08-28-6
 msg:    feat: add multi-language (i18n) support
 nonce:  129407
 ---
+## entry
+ts:     2025-08-28T10:49:33+00:00
+seq:    2025-08-28-7
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  114387
+---
