@@ -2141,3 +2141,9 @@ seq:    2025-08-28-20
 msg:    feat: add export-to-CSV functionality
 nonce:  108682
 ---
+## entry
+ts:     2025-08-28T17:05:47+00:00
+seq:    2025-08-28-21
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  102670
+---
