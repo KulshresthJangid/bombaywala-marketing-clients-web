@@ -27095,3 +27095,9 @@ seq:    2025-08-28-1
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  110605
 ---
+## entry
+ts:     2025-08-28T14:34:54+00:00
+seq:    2025-08-28-2
+msg:    feat: implement role-based access control
+nonce:  101187
+---
