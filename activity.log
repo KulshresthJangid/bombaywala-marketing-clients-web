@@ -2135,3 +2135,9 @@ seq:    2025-08-28-19
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  116355
 ---
+## entry
+ts:     2025-08-28T16:33:14+00:00
+seq:    2025-08-28-20
+msg:    feat: add export-to-CSV functionality
+nonce:  108682
+---
