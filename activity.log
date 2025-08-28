@@ -2153,3 +2153,9 @@ seq:    2025-08-28-22
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  129167
 ---
+## entry
+ts:     2025-08-28T19:24:31+00:00
+seq:    2025-08-28-23
+msg:    feat: add multi-language (i18n) support
+nonce:  117777
+---
