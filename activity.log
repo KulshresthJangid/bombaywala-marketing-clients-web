@@ -27131,3 +27131,9 @@ seq:    2025-08-28-7
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  110054
 ---
+## entry
+ts:     2025-08-28T17:09:27+00:00
+seq:    2025-08-28-8
+msg:    perf: trim unnecessary fields from list responses
+nonce:  127166
+---
