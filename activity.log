@@ -2069,3 +2069,9 @@ seq:    2025-08-28-8
 msg:    docs: add architecture decision record for caching
 nonce:  118439
 ---
+## entry
+ts:     2025-08-28T11:28:22+00:00
+seq:    2025-08-28-9
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  105886
+---
