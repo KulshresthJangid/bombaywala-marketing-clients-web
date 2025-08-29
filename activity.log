@@ -2237,3 +2237,9 @@ seq:    2025-08-29-11
 msg:    feat: scaffold onboarding wizard UI
 nonce:  107741
 ---
+## entry
+ts:     2025-08-29T20:28:59+00:00
+seq:    2025-08-29-12
+msg:    chore: pin transitive dependency versions
+nonce:  121268
+---
