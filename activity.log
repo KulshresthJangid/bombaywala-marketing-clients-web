@@ -27245,3 +27245,9 @@ seq:    2025-08-29-14
 msg:    fix: resolve null pointer in user service
 nonce:  121505
 ---
+## entry
+ts:     2025-08-29T17:26:11+00:00
+seq:    2025-08-29-15
+msg:    perf: memoize expensive permission-check results
+nonce:  128129
+---
