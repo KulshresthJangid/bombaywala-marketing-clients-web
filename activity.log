@@ -2177,3 +2177,9 @@ seq:    2025-08-29-1
 msg:    refactor: migrate from winston to pino logger
 nonce:  130435
 ---
+## entry
+ts:     2025-08-29T10:45:55+00:00
+seq:    2025-08-29-2
+msg:    fix: fix stale JWT after password reset
+nonce:  106933
+---
