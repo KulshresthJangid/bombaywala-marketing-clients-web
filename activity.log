@@ -2243,3 +2243,9 @@ seq:    2025-08-29-12
 msg:    chore: pin transitive dependency versions
 nonce:  121268
 ---
+## entry
+ts:     2025-08-29T21:55:39+00:00
+seq:    2025-08-29-13
+msg:    fix: resolve null pointer in user service
+nonce:  129415
+---
