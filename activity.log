@@ -2201,3 +2201,9 @@ seq:    2025-08-29-5
 msg:    fix: resolve CORS rejection on preflight
 nonce:  109541
 ---
+## entry
+ts:     2025-08-29T14:44:41+00:00
+seq:    2025-08-29-6
+msg:    refactor: replace callback hell with async/await
+nonce:  130344
+---
