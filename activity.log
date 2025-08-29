@@ -27155,3 +27155,9 @@ seq:    2025-08-28-11
 msg:    test: stub external HTTP calls in unit suite
 nonce:  116056
 ---
+## entry
+ts:     2025-08-29T08:09:17+00:00
+seq:    2025-08-29-0
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  113141
+---
