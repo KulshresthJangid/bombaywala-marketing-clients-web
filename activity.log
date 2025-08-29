@@ -27197,3 +27197,9 @@ seq:    2025-08-29-6
 msg:    feat: implement two-factor authentication
 nonce:  111541
 ---
+## entry
+ts:     2025-08-29T14:08:33+00:00
+seq:    2025-08-29-7
+msg:    docs: document required environment variables
+nonce:  111645
+---
