@@ -2219,3 +2219,9 @@ seq:    2025-08-29-8
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  119289
 ---
+## entry
+ts:     2025-08-29T17:25:39+00:00
+seq:    2025-08-29-9
+msg:    fix: resolve CORS rejection on preflight
+nonce:  100694
+---
