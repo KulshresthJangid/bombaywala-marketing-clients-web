@@ -27203,3 +27203,9 @@ seq:    2025-08-29-7
 msg:    docs: document required environment variables
 nonce:  111645
 ---
+## entry
+ts:     2025-08-29T14:18:14+00:00
+seq:    2025-08-29-8
+msg:    fix: correct date formatting in monthly report
+nonce:  117073
+---
