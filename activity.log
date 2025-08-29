@@ -27251,3 +27251,9 @@ seq:    2025-08-29-15
 msg:    perf: memoize expensive permission-check results
 nonce:  128129
 ---
+## entry
+ts:     2025-08-29T17:40:48+00:00
+seq:    2025-08-29-16
+msg:    test: add unit tests for AuthService
+nonce:  124102
+---
