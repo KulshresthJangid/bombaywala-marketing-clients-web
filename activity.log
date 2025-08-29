@@ -27221,3 +27221,9 @@ seq:    2025-08-29-10
 msg:    feat: scaffold onboarding wizard UI
 nonce:  106511
 ---
+## entry
+ts:     2025-08-29T15:36:35+00:00
+seq:    2025-08-29-11
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  111198
+---
