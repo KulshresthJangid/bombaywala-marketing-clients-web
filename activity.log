@@ -27233,3 +27233,9 @@ seq:    2025-08-29-12
 msg:    feat: create immutable audit-log service
 nonce:  119794
 ---
+## entry
+ts:     2025-08-29T15:57:29+00:00
+seq:    2025-08-29-13
+msg:    chore: pin transitive dependency versions
+nonce:  106538
+---
