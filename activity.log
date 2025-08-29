@@ -2195,3 +2195,9 @@ seq:    2025-08-29-4
 msg:    feat: integrate payment gateway
 nonce:  125135
 ---
+## entry
+ts:     2025-08-29T13:00:11+00:00
+seq:    2025-08-29-5
+msg:    fix: resolve CORS rejection on preflight
+nonce:  109541
+---
