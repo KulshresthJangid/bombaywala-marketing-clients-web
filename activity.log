@@ -27317,3 +27317,9 @@ seq:    2025-08-30-5
 msg:    feat: create immutable audit-log service
 nonce:  111954
 ---
+## entry
+ts:     2025-08-30T14:39:23+00:00
+seq:    2025-08-30-6
+msg:    fix: sanitize user input in search filter
+nonce:  113430
+---
