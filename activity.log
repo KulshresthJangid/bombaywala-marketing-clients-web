@@ -27323,3 +27323,9 @@ seq:    2025-08-30-6
 msg:    fix: sanitize user input in search filter
 nonce:  113430
 ---
+## entry
+ts:     2025-08-30T17:15:44+00:00
+seq:    2025-08-30-7
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  100361
+---
