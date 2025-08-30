@@ -27305,3 +27305,9 @@ seq:    2025-08-30-3
 msg:    test: add integration tests for /api/v2 routes
 nonce:  105702
 ---
+## entry
+ts:     2025-08-30T13:31:23+00:00
+seq:    2025-08-30-4
+msg:    test: add integration tests for /api/v2 routes
+nonce:  102501
+---
