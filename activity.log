@@ -27335,3 +27335,9 @@ seq:    2025-08-30-8
 msg:    feat: implement file upload with S3 backend
 nonce:  125915
 ---
+## entry
+ts:     2025-08-30T18:40:41+00:00
+seq:    2025-08-30-9
+msg:    fix: correct off-by-one in pagination offset
+nonce:  122600
+---
