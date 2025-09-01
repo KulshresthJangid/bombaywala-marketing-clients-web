@@ -2255,3 +2255,9 @@ seq:    2025-08-29-14
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  107593
 ---
+## entry
+ts:     2025-09-01T09:03:07+00:00
+seq:    2025-09-01-0
+msg:    chore: pin transitive dependency versions
+nonce:  112719
+---
