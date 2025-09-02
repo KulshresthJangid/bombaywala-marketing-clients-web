@@ -27371,3 +27371,9 @@ seq:    2025-09-02-4
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  113304
 ---
+## entry
+ts:     2025-09-02T10:27:17+00:00
+seq:    2025-09-02-5
+msg:    feat: implement two-factor authentication
+nonce:  104615
+---
