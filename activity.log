@@ -2345,3 +2345,9 @@ seq:    2025-09-02-3
 msg:    docs: add architecture decision record for caching
 nonce:  128444
 ---
+## entry
+ts:     2025-09-02T12:39:34+00:00
+seq:    2025-09-02-4
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  110882
+---
