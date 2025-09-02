@@ -27347,3 +27347,9 @@ seq:    2025-09-02-0
 msg:    feat: create admin panel route group
 nonce:  124190
 ---
+## entry
+ts:     2025-09-02T09:44:54+00:00
+seq:    2025-09-02-1
+msg:    chore: pin transitive dependency versions
+nonce:  113153
+---
