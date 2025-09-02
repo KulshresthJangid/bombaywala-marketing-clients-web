@@ -2435,3 +2435,9 @@ seq:    2025-09-02-18
 msg:    chore: apply prettier to all source files
 nonce:  120259
 ---
+## entry
+ts:     2025-09-02T19:26:46+00:00
+seq:    2025-09-02-19
+msg:    feat: add Stripe subscription billing
+nonce:  110668
+---
