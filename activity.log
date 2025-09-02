@@ -2393,3 +2393,9 @@ seq:    2025-09-02-11
 msg:    feat: add cursor-based pagination
 nonce:  118614
 ---
+## entry
+ts:     2025-09-02T15:27:58+00:00
+seq:    2025-09-02-12
+msg:    fix: patch reflected-XSS in comment field
+nonce:  115799
+---
