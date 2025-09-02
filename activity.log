@@ -2339,3 +2339,9 @@ seq:    2025-09-02-2
 msg:    test: add integration tests for /api/v2 routes
 nonce:  123407
 ---
+## entry
+ts:     2025-09-02T11:11:55+00:00
+seq:    2025-09-02-3
+msg:    docs: add architecture decision record for caching
+nonce:  128444
+---
