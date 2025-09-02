@@ -2447,3 +2447,9 @@ seq:    2025-09-02-20
 msg:    feat: implement role-based access control
 nonce:  131198
 ---
+## entry
+ts:     2025-09-02T21:34:52+00:00
+seq:    2025-09-02-21
+msg:    refactor: extract auth guard into shared middleware
+nonce:  114653
+---
