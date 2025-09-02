@@ -27419,3 +27419,9 @@ seq:    2025-09-02-12
 msg:    chore: rotate copyright year in license header
 nonce:  112765
 ---
+## entry
+ts:     2025-09-02T14:26:25+00:00
+seq:    2025-09-02-13
+msg:    docs: add getting-started guide to README
+nonce:  104717
+---
