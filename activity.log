@@ -2333,3 +2333,9 @@ seq:    2025-09-02-1
 msg:    chore: reorganise src/ folder structure
 nonce:  107283
 ---
+## entry
+ts:     2025-09-02T10:58:31+00:00
+seq:    2025-09-02-2
+msg:    test: add integration tests for /api/v2 routes
+nonce:  123407
+---
