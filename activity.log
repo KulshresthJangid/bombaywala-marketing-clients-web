@@ -27341,3 +27341,9 @@ seq:    2025-08-30-9
 msg:    fix: correct off-by-one in pagination offset
 nonce:  122600
 ---
+## entry
+ts:     2025-09-02T08:15:49+00:00
+seq:    2025-09-02-0
+msg:    feat: create admin panel route group
+nonce:  124190
+---
