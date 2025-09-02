@@ -2399,3 +2399,9 @@ seq:    2025-09-02-12
 msg:    fix: patch reflected-XSS in comment field
 nonce:  115799
 ---
+## entry
+ts:     2025-09-02T16:41:31+00:00
+seq:    2025-09-02-13
+msg:    fix: correct date formatting in monthly report
+nonce:  112637
+---
