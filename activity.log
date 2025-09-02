@@ -27467,3 +27467,9 @@ seq:    2025-09-02-20
 msg:    refactor: move magic strings to constants module
 nonce:  130696
 ---
+## entry
+ts:     2025-09-02T18:35:46+00:00
+seq:    2025-09-02-21
+msg:    feat: add cursor-based pagination
+nonce:  116891
+---
