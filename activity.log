@@ -27449,3 +27449,9 @@ seq:    2025-09-02-17
 msg:    test: add snapshot tests for report generator
 nonce:  113036
 ---
+## entry
+ts:     2025-09-02T17:23:08+00:00
+seq:    2025-09-02-18
+msg:    fix: resolve null pointer in user service
+nonce:  113395
+---
