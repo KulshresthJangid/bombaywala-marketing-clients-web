@@ -27395,3 +27395,9 @@ seq:    2025-09-02-8
 msg:    feat: add Stripe subscription billing
 nonce:  123164
 ---
+## entry
+ts:     2025-09-02T11:52:37+00:00
+seq:    2025-09-02-9
+msg:    perf: memoize expensive permission-check results
+nonce:  117419
+---
