@@ -27455,3 +27455,9 @@ seq:    2025-09-02-18
 msg:    fix: resolve null pointer in user service
 nonce:  113395
 ---
+## entry
+ts:     2025-09-02T17:25:39+00:00
+seq:    2025-09-02-19
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  130920
+---
