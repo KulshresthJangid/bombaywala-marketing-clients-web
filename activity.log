@@ -27563,3 +27563,9 @@ seq:    2025-09-03-14
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  119838
 ---
+## entry
+ts:     2025-09-03T17:59:08+00:00
+seq:    2025-09-03-15
+msg:    test: raise coverage floor for payment module
+nonce:  117802
+---
