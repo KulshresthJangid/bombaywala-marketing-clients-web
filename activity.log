@@ -27527,3 +27527,9 @@ seq:    2025-09-03-8
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  103383
 ---
+## entry
+ts:     2025-09-03T13:15:11+00:00
+seq:    2025-09-03-9
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  104325
+---
