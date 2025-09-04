@@ -2561,3 +2561,9 @@ seq:    2025-09-04-14
 msg:    refactor: extract auth guard into shared middleware
 nonce:  129371
 ---
+## entry
+ts:     2025-09-04T18:32:45+00:00
+seq:    2025-09-04-15
+msg:    refactor: replace callback hell with async/await
+nonce:  129350
+---
