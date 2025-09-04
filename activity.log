@@ -27587,3 +27587,9 @@ seq:    2025-09-04-1
 msg:    perf: enable gzip compression on API responses
 nonce:  100964
 ---
+## entry
+ts:     2025-09-04T10:09:29+00:00
+seq:    2025-09-04-2
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  111912
+---
