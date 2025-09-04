@@ -2567,3 +2567,9 @@ seq:    2025-09-04-15
 msg:    refactor: replace callback hell with async/await
 nonce:  129350
 ---
+## entry
+ts:     2025-09-04T20:20:01+00:00
+seq:    2025-09-04-16
+msg:    fix: fix stale JWT after password reset
+nonce:  103993
+---
