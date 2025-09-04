@@ -27581,3 +27581,9 @@ seq:    2025-09-04-0
 msg:    test: add k6 load-test script for checkout flow
 nonce:  116082
 ---
+## entry
+ts:     2025-09-04T09:42:31+00:00
+seq:    2025-09-04-1
+msg:    perf: enable gzip compression on API responses
+nonce:  100964
+---
