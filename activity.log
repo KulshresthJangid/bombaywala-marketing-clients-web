@@ -27653,3 +27653,9 @@ seq:    2025-09-04-12
 msg:    fix: resolve race condition in job queue
 nonce:  132297
 ---
+## entry
+ts:     2025-09-04T15:09:44+00:00
+seq:    2025-09-04-13
+msg:    fix: resolve CORS rejection on preflight
+nonce:  126231
+---
