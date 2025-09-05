@@ -27755,3 +27755,9 @@ seq:    2025-09-05-6
 msg:    test: add snapshot tests for report generator
 nonce:  127761
 ---
+## entry
+ts:     2025-09-05T12:43:25+00:00
+seq:    2025-09-05-7
+msg:    refactor: simplify connection pool configuration
+nonce:  130117
+---
