@@ -27749,3 +27749,9 @@ seq:    2025-09-05-5
 msg:    chore: pin transitive dependency versions
 nonce:  119895
 ---
+## entry
+ts:     2025-09-05T12:30:18+00:00
+seq:    2025-09-05-6
+msg:    test: add snapshot tests for report generator
+nonce:  127761
+---
