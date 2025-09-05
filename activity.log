@@ -27791,3 +27791,9 @@ seq:    2025-09-05-12
 msg:    fix: sanitize user input in search filter
 nonce:  101080
 ---
+## entry
+ts:     2025-09-05T14:39:24+00:00
+seq:    2025-09-05-13
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  111397
+---
