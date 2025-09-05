@@ -2651,3 +2651,9 @@ seq:    2025-09-05-5
 msg:    perf: parallelise image-resize pipeline
 nonce:  102351
 ---
+## entry
+ts:     2025-09-05T12:57:00+00:00
+seq:    2025-09-05-6
+msg:    feat: add multi-language (i18n) support
+nonce:  112874
+---
