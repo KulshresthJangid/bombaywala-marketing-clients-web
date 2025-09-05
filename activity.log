@@ -2711,3 +2711,9 @@ seq:    2025-09-05-15
 msg:    feat: create immutable audit-log service
 nonce:  111661
 ---
+## entry
+ts:     2025-09-05T18:21:17+00:00
+seq:    2025-09-05-16
+msg:    test: improve assertion messages in user tests
+nonce:  101851
+---
