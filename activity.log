@@ -27737,3 +27737,9 @@ seq:    2025-09-05-3
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  106670
 ---
+## entry
+ts:     2025-09-05T11:51:57+00:00
+seq:    2025-09-05-4
+msg:    refactor: replace callback hell with async/await
+nonce:  114288
+---
