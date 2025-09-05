@@ -2615,3 +2615,9 @@ seq:    2025-09-04-23
 msg:    refactor: simplify connection pool configuration
 nonce:  125580
 ---
+## entry
+ts:     2025-09-05T08:54:18+00:00
+seq:    2025-09-05-0
+msg:    test: improve assertion messages in user tests
+nonce:  103522
+---
