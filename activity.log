@@ -2687,3 +2687,9 @@ seq:    2025-09-05-11
 msg:    refactor: move magic strings to constants module
 nonce:  128464
 ---
+## entry
+ts:     2025-09-05T15:14:49+00:00
+seq:    2025-09-05-12
+msg:    fix: resolve null pointer in user service
+nonce:  110067
+---
