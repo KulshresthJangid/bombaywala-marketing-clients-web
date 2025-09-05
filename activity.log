@@ -27779,3 +27779,9 @@ seq:    2025-09-05-10
 msg:    test: improve assertion messages in user tests
 nonce:  112334
 ---
+## entry
+ts:     2025-09-05T13:57:42+00:00
+seq:    2025-09-05-11
+msg:    feat: add rate-limiting middleware
+nonce:  119056
+---
