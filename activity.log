@@ -27743,3 +27743,9 @@ seq:    2025-09-05-4
 msg:    refactor: replace callback hell with async/await
 nonce:  114288
 ---
+## entry
+ts:     2025-09-05T12:26:57+00:00
+seq:    2025-09-05-5
+msg:    chore: pin transitive dependency versions
+nonce:  119895
+---
