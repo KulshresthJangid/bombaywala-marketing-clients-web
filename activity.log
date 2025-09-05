@@ -27767,3 +27767,9 @@ seq:    2025-09-05-8
 msg:    feat: add real-time notification system
 nonce:  117921
 ---
+## entry
+ts:     2025-09-05T13:10:08+00:00
+seq:    2025-09-05-9
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  102529
+---
