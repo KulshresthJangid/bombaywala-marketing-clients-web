@@ -2741,3 +2741,9 @@ seq:    2025-09-06-0
 msg:    test: raise coverage floor for payment module
 nonce:  115973
 ---
+## entry
+ts:     2025-09-06T09:39:25+00:00
+seq:    2025-09-06-1
+msg:    chore: reorganise src/ folder structure
+nonce:  132239
+---
