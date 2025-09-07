@@ -2855,3 +2855,9 @@ seq:    2025-09-07-8
 msg:    fix: resolve null pointer in user service
 nonce:  121793
 ---
+## entry
+ts:     2025-09-07T15:37:28+00:00
+seq:    2025-09-07-9
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  105818
+---
