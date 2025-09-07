@@ -27845,3 +27845,9 @@ seq:    2025-09-07-2
 msg:    fix: resolve CORS rejection on preflight
 nonce:  132705
 ---
+## entry
+ts:     2025-09-07T10:59:44+00:00
+seq:    2025-09-07-3
+msg:    feat: add email-verification flow
+nonce:  107516
+---
