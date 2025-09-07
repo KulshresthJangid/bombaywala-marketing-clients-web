@@ -2879,3 +2879,9 @@ seq:    2025-09-07-12
 msg:    refactor: consolidate duplicate validation logic
 nonce:  131549
 ---
+## entry
+ts:     2025-09-07T18:19:42+00:00
+seq:    2025-09-07-13
+msg:    refactor: migrate from winston to pino logger
+nonce:  102666
+---
