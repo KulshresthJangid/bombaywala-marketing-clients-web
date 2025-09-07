@@ -27863,3 +27863,9 @@ seq:    2025-09-07-5
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  117979
 ---
+## entry
+ts:     2025-09-07T13:38:09+00:00
+seq:    2025-09-07-6
+msg:    perf: enable gzip compression on API responses
+nonce:  118659
+---
