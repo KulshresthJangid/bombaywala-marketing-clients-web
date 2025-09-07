@@ -2813,3 +2813,9 @@ seq:    2025-09-07-1
 msg:    refactor: simplify connection pool configuration
 nonce:  132183
 ---
+## entry
+ts:     2025-09-07T10:50:50+00:00
+seq:    2025-09-07-2
+msg:    feat: add email-verification flow
+nonce:  101774
+---
