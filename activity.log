@@ -27869,3 +27869,9 @@ seq:    2025-09-07-6
 msg:    perf: enable gzip compression on API responses
 nonce:  118659
 ---
+## entry
+ts:     2025-09-07T13:40:01+00:00
+seq:    2025-09-07-7
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  131239
+---
