@@ -2843,3 +2843,9 @@ seq:    2025-09-07-6
 msg:    refactor: remove dead code from utils barrel
 nonce:  120608
 ---
+## entry
+ts:     2025-09-07T14:21:44+00:00
+seq:    2025-09-07-7
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  116432
+---
