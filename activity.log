@@ -2849,3 +2849,9 @@ seq:    2025-09-07-7
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  116432
 ---
+## entry
+ts:     2025-09-07T14:45:14+00:00
+seq:    2025-09-07-8
+msg:    fix: resolve null pointer in user service
+nonce:  121793
+---
