@@ -2801,3 +2801,9 @@ seq:    2025-09-06-10
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  110299
 ---
+## entry
+ts:     2025-09-07T10:11:19+00:00
+seq:    2025-09-07-0
+msg:    refactor: migrate from winston to pino logger
+nonce:  117196
+---
