@@ -27857,3 +27857,9 @@ seq:    2025-09-07-4
 msg:    feat: implement file upload with S3 backend
 nonce:  119290
 ---
+## entry
+ts:     2025-09-07T12:04:13+00:00
+seq:    2025-09-07-5
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  117979
+---
