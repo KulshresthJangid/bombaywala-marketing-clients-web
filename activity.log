@@ -27917,3 +27917,9 @@ seq:    2025-09-07-14
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  122841
 ---
+## entry
+ts:     2025-09-07T22:47:15+00:00
+seq:    2025-09-07-15
+msg:    fix: patch reflected-XSS in comment field
+nonce:  109964
+---
