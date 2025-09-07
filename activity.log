@@ -27887,3 +27887,9 @@ seq:    2025-09-07-9
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  104689
 ---
+## entry
+ts:     2025-09-07T14:55:16+00:00
+seq:    2025-09-07-10
+msg:    refactor: migrate from winston to pino logger
+nonce:  118401
+---
