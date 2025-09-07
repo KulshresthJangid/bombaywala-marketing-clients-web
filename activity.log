@@ -27833,3 +27833,9 @@ seq:    2025-09-07-0
 msg:    perf: memoize expensive permission-check results
 nonce:  115253
 ---
+## entry
+ts:     2025-09-07T10:06:34+00:00
+seq:    2025-09-07-1
+msg:    feat: add rate-limiting middleware
+nonce:  105520
+---
