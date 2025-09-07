@@ -2909,3 +2909,9 @@ seq:    2025-09-07-17
 msg:    fix: correct date formatting in monthly report
 nonce:  123109
 ---
+## entry
+ts:     2025-09-07T20:49:53+00:00
+seq:    2025-09-07-18
+msg:    chore: rotate copyright year in license header
+nonce:  101147
+---
