@@ -2981,3 +2981,9 @@ seq:    2025-09-08-9
 msg:    feat: create immutable audit-log service
 nonce:  108162
 ---
+## entry
+ts:     2025-09-08T14:55:30+00:00
+seq:    2025-09-08-10
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  121614
+---
