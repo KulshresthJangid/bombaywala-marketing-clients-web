@@ -3023,3 +3023,9 @@ seq:    2025-09-08-16
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  125439
 ---
+## entry
+ts:     2025-09-08T18:17:42+00:00
+seq:    2025-09-08-17
+msg:    test: stub external HTTP calls in unit suite
+nonce:  119863
+---
