@@ -2999,3 +2999,9 @@ seq:    2025-09-08-12
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  123263
 ---
+## entry
+ts:     2025-09-08T15:29:21+00:00
+seq:    2025-09-08-13
+msg:    chore: reorganise src/ folder structure
+nonce:  122169
+---
