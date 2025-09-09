@@ -27959,3 +27959,9 @@ seq:    2025-09-09-5
 msg:    test: improve assertion messages in user tests
 nonce:  120115
 ---
+## entry
+ts:     2025-09-09T10:49:19+00:00
+seq:    2025-09-09-6
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  105981
+---
