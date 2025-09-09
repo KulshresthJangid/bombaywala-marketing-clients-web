@@ -28007,3 +28007,9 @@ seq:    2025-09-09-13
 msg:    chore: remove unused imports across codebase
 nonce:  131872
 ---
+## entry
+ts:     2025-09-09T13:41:31+00:00
+seq:    2025-09-09-14
+msg:    feat: implement full-text search with filters
+nonce:  101719
+---
