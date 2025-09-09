@@ -27953,3 +27953,9 @@ seq:    2025-09-09-4
 msg:    refactor: centralise API error-response factory
 nonce:  125451
 ---
+## entry
+ts:     2025-09-09T10:48:20+00:00
+seq:    2025-09-09-5
+msg:    test: improve assertion messages in user tests
+nonce:  120115
+---
