@@ -27983,3 +27983,9 @@ seq:    2025-09-09-9
 msg:    refactor: extract auth guard into shared middleware
 nonce:  104041
 ---
+## entry
+ts:     2025-09-09T13:10:40+00:00
+seq:    2025-09-09-10
+msg:    docs: update CHANGELOG for next release
+nonce:  125935
+---
