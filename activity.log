@@ -28199,3 +28199,9 @@ seq:    2025-09-11-21
 msg:    chore: rotate copyright year in license header
 nonce:  120152
 ---
+## entry
+ts:     2025-09-11T21:52:09+00:00
+seq:    2025-09-11-22
+msg:    refactor: remove dead code from utils barrel
+nonce:  122380
+---
