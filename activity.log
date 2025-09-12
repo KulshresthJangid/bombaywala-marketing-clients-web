@@ -3083,3 +3083,9 @@ seq:    2025-09-12-5
 msg:    fix: resolve CORS rejection on preflight
 nonce:  119445
 ---
+## entry
+ts:     2025-09-12T12:01:14+00:00
+seq:    2025-09-12-6
+msg:    refactor: simplify connection pool configuration
+nonce:  105137
+---
