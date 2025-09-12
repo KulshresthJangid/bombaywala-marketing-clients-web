@@ -3089,3 +3089,9 @@ seq:    2025-09-12-6
 msg:    refactor: simplify connection pool configuration
 nonce:  105137
 ---
+## entry
+ts:     2025-09-12T12:47:37+00:00
+seq:    2025-09-12-7
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  102981
+---
