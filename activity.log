@@ -28223,3 +28223,9 @@ seq:    2025-09-12-0
 msg:    test: add unit tests for AuthService
 nonce:  124706
 ---
+## entry
+ts:     2025-09-12T09:22:33+00:00
+seq:    2025-09-12-1
+msg:    perf: trim unnecessary fields from list responses
+nonce:  110854
+---
