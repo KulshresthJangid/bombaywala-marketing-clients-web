@@ -28235,3 +28235,9 @@ seq:    2025-09-12-2
 msg:    fix: resolve race condition in job queue
 nonce:  130186
 ---
+## entry
+ts:     2025-09-12T13:34:49+00:00
+seq:    2025-09-12-3
+msg:    perf: enable gzip compression on API responses
+nonce:  120125
+---
