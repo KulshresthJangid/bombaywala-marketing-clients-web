@@ -3095,3 +3095,9 @@ seq:    2025-09-12-7
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  102981
 ---
+## entry
+ts:     2025-09-12T13:23:25+00:00
+seq:    2025-09-12-8
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  102643
+---
