@@ -3071,3 +3071,9 @@ seq:    2025-09-12-3
 msg:    chore: apply prettier to all source files
 nonce:  107749
 ---
+## entry
+ts:     2025-09-12T11:00:36+00:00
+seq:    2025-09-12-4
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  100597
+---
