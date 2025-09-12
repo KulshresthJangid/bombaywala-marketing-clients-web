@@ -28277,3 +28277,9 @@ seq:    2025-09-12-9
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  123682
 ---
+## entry
+ts:     2025-09-12T21:43:09+00:00
+seq:    2025-09-12-10
+msg:    docs: add getting-started guide to README
+nonce:  115647
+---
