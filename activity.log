@@ -3053,3 +3053,9 @@ seq:    2025-09-12-0
 msg:    perf: memoize expensive permission-check results
 nonce:  110851
 ---
+## entry
+ts:     2025-09-12T09:57:57+00:00
+seq:    2025-09-12-1
+msg:    feat: add email-verification flow
+nonce:  130944
+---
