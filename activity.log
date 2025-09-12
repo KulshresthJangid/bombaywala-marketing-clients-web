@@ -3101,3 +3101,9 @@ seq:    2025-09-12-8
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  102643
 ---
+## entry
+ts:     2025-09-12T15:12:00+00:00
+seq:    2025-09-12-9
+msg:    fix: sanitize user input in search filter
+nonce:  125167
+---
