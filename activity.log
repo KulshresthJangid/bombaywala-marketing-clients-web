@@ -3059,3 +3059,9 @@ seq:    2025-09-12-1
 msg:    feat: add email-verification flow
 nonce:  130944
 ---
+## entry
+ts:     2025-09-12T10:03:02+00:00
+seq:    2025-09-12-2
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  100408
+---
