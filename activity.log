@@ -3065,3 +3065,9 @@ seq:    2025-09-12-2
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  100408
 ---
+## entry
+ts:     2025-09-12T10:43:15+00:00
+seq:    2025-09-12-3
+msg:    chore: apply prettier to all source files
+nonce:  107749
+---
