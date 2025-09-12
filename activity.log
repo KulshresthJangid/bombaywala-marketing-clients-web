@@ -28289,3 +28289,9 @@ seq:    2025-09-12-11
 msg:    feat: add email-verification flow
 nonce:  101092
 ---
+## entry
+ts:     2025-09-12T22:48:30+00:00
+seq:    2025-09-12-12
+msg:    chore: apply prettier to all source files
+nonce:  101067
+---
