@@ -28283,3 +28283,9 @@ seq:    2025-09-12-10
 msg:    docs: add getting-started guide to README
 nonce:  115647
 ---
+## entry
+ts:     2025-09-12T21:47:54+00:00
+seq:    2025-09-12-11
+msg:    feat: add email-verification flow
+nonce:  101092
+---
