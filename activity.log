@@ -3203,3 +3203,9 @@ seq:    2025-09-15-4
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  127491
 ---
+## entry
+ts:     2025-09-15T15:50:04+00:00
+seq:    2025-09-15-5
+msg:    fix: handle empty state on dashboard load
+nonce:  104445
+---
