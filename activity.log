@@ -3245,3 +3245,9 @@ seq:    2025-09-15-11
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  132202
 ---
+## entry
+ts:     2025-09-15T22:47:32+00:00
+seq:    2025-09-15-12
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  101288
+---
