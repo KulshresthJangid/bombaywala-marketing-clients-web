@@ -28295,3 +28295,9 @@ seq:    2025-09-12-12
 msg:    chore: apply prettier to all source files
 nonce:  101067
 ---
+## entry
+ts:     2025-09-15T10:26:02+00:00
+seq:    2025-09-15-0
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  103912
+---
