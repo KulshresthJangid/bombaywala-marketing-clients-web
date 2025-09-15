@@ -3173,3 +3173,9 @@ seq:    2025-09-12-20
 msg:    refactor: centralise API error-response factory
 nonce:  121138
 ---
+## entry
+ts:     2025-09-15T10:37:18+00:00
+seq:    2025-09-15-0
+msg:    feat: create immutable audit-log service
+nonce:  130978
+---
