@@ -3209,3 +3209,9 @@ seq:    2025-09-15-5
 msg:    fix: handle empty state on dashboard load
 nonce:  104445
 ---
+## entry
+ts:     2025-09-15T16:03:49+00:00
+seq:    2025-09-15-6
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  114592
+---
