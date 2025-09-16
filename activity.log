@@ -3251,3 +3251,9 @@ seq:    2025-09-15-12
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  101288
 ---
+## entry
+ts:     2025-09-16T09:00:21+00:00
+seq:    2025-09-16-0
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  101543
+---
