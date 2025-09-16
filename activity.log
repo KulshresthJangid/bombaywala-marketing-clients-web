@@ -3323,3 +3323,9 @@ seq:    2025-09-16-11
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  104451
 ---
+## entry
+ts:     2025-09-16T17:39:19+00:00
+seq:    2025-09-16-12
+msg:    feat: add cursor-based pagination
+nonce:  108046
+---
