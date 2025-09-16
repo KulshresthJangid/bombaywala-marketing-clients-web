@@ -3329,3 +3329,9 @@ seq:    2025-09-16-12
 msg:    feat: add cursor-based pagination
 nonce:  108046
 ---
+## entry
+ts:     2025-09-16T18:21:06+00:00
+seq:    2025-09-16-13
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  121983
+---
