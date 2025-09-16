@@ -3317,3 +3317,9 @@ seq:    2025-09-16-10
 msg:    chore: reorganise src/ folder structure
 nonce:  119428
 ---
+## entry
+ts:     2025-09-16T17:14:30+00:00
+seq:    2025-09-16-11
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  104451
+---
