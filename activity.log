@@ -28427,3 +28427,9 @@ seq:    2025-09-16-10
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  110948
 ---
+## entry
+ts:     2025-09-16T17:43:21+00:00
+seq:    2025-09-16-11
+msg:    chore: pin transitive dependency versions
+nonce:  116057
+---
