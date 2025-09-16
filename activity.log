@@ -28415,3 +28415,9 @@ seq:    2025-09-16-8
 msg:    perf: memoize expensive permission-check results
 nonce:  118742
 ---
+## entry
+ts:     2025-09-16T16:51:14+00:00
+seq:    2025-09-16-9
+msg:    perf: memoize expensive permission-check results
+nonce:  104630
+---
