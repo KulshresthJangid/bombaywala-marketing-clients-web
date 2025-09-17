@@ -28529,3 +28529,9 @@ seq:    2025-09-17-11
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  127985
 ---
+## entry
+ts:     2025-09-17T15:32:46+00:00
+seq:    2025-09-17-12
+msg:    fix: handle empty state on dashboard load
+nonce:  106497
+---
