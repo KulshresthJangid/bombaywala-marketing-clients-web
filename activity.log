@@ -3365,3 +3365,9 @@ seq:    2025-09-17-3
 msg:    feat: implement file upload with S3 backend
 nonce:  128924
 ---
+## entry
+ts:     2025-09-17T13:26:27+00:00
+seq:    2025-09-17-4
+msg:    refactor: simplify connection pool configuration
+nonce:  121214
+---
