@@ -3359,3 +3359,9 @@ seq:    2025-09-17-2
 msg:    perf: parallelise image-resize pipeline
 nonce:  131991
 ---
+## entry
+ts:     2025-09-17T13:20:38+00:00
+seq:    2025-09-17-3
+msg:    feat: implement file upload with S3 backend
+nonce:  128924
+---
