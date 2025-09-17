@@ -28457,3 +28457,9 @@ seq:    2025-09-16-15
 msg:    refactor: consolidate duplicate validation logic
 nonce:  124569
 ---
+## entry
+ts:     2025-09-17T08:42:21+00:00
+seq:    2025-09-17-0
+msg:    feat: implement role-based access control
+nonce:  104469
+---
