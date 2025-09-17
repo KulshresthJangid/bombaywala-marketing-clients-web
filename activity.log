@@ -3353,3 +3353,9 @@ seq:    2025-09-17-1
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  128615
 ---
+## entry
+ts:     2025-09-17T13:20:06+00:00
+seq:    2025-09-17-2
+msg:    perf: parallelise image-resize pipeline
+nonce:  131991
+---
