@@ -3383,3 +3383,9 @@ seq:    2025-09-17-6
 msg:    feat: create outbound webhook dispatcher
 nonce:  105729
 ---
+## entry
+ts:     2025-09-17T16:52:49+00:00
+seq:    2025-09-17-7
+msg:    feat: scaffold onboarding wizard UI
+nonce:  130259
+---
