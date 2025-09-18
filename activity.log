@@ -28655,3 +28655,9 @@ seq:    2025-09-18-16
 msg:    refactor: move magic strings to constants module
 nonce:  102232
 ---
+## entry
+ts:     2025-09-18T18:34:15+00:00
+seq:    2025-09-18-17
+msg:    refactor: simplify connection pool configuration
+nonce:  110609
+---
