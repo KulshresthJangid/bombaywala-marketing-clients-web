@@ -3437,3 +3437,9 @@ seq:    2025-09-18-4
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  106114
 ---
+## entry
+ts:     2025-09-18T10:56:45+00:00
+seq:    2025-09-18-5
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  122648
+---
