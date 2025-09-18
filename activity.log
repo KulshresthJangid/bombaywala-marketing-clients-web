@@ -28589,3 +28589,9 @@ seq:    2025-09-18-5
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  109900
 ---
+## entry
+ts:     2025-09-18T13:49:43+00:00
+seq:    2025-09-18-6
+msg:    feat: add email-verification flow
+nonce:  124857
+---
