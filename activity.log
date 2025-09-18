@@ -3497,3 +3497,9 @@ seq:    2025-09-18-14
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  109098
 ---
+## entry
+ts:     2025-09-18T17:23:27+00:00
+seq:    2025-09-18-15
+msg:    refactor: split God-service into focused modules
+nonce:  114957
+---
