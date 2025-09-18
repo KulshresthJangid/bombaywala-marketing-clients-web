@@ -28607,3 +28607,9 @@ seq:    2025-09-18-8
 msg:    feat: implement full-text search with filters
 nonce:  128173
 ---
+## entry
+ts:     2025-09-18T15:24:15+00:00
+seq:    2025-09-18-9
+msg:    fix: handle empty state on dashboard load
+nonce:  117813
+---
