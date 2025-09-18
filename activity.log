@@ -28577,3 +28577,9 @@ seq:    2025-09-18-3
 msg:    chore: reorganise src/ folder structure
 nonce:  108278
 ---
+## entry
+ts:     2025-09-18T13:37:40+00:00
+seq:    2025-09-18-4
+msg:    feat: add export-to-CSV functionality
+nonce:  116769
+---
