@@ -3485,3 +3485,9 @@ seq:    2025-09-18-12
 msg:    chore: rotate copyright year in license header
 nonce:  116125
 ---
+## entry
+ts:     2025-09-18T16:40:42+00:00
+seq:    2025-09-18-13
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  120560
+---
