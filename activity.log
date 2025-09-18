@@ -28613,3 +28613,9 @@ seq:    2025-09-18-9
 msg:    fix: handle empty state on dashboard load
 nonce:  117813
 ---
+## entry
+ts:     2025-09-18T15:31:07+00:00
+seq:    2025-09-18-10
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  124590
+---
