@@ -3605,3 +3605,9 @@ seq:    2025-09-19-16
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  124334
 ---
+## entry
+ts:     2025-09-19T21:04:58+00:00
+seq:    2025-09-19-17
+msg:    feat: add export-to-CSV functionality
+nonce:  105088
+---
