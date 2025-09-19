@@ -28679,3 +28679,9 @@ seq:    2025-09-19-2
 msg:    feat: implement file upload with S3 backend
 nonce:  102990
 ---
+## entry
+ts:     2025-09-19T11:08:39+00:00
+seq:    2025-09-19-3
+msg:    feat: implement role-based access control
+nonce:  123190
+---
