@@ -3509,3 +3509,9 @@ seq:    2025-09-19-0
 msg:    perf: lazy-load heavy chart library
 nonce:  118563
 ---
+## entry
+ts:     2025-09-19T09:15:29+00:00
+seq:    2025-09-19-1
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  100798
+---
