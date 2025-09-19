@@ -28715,3 +28715,9 @@ seq:    2025-09-19-8
 msg:    test: add unit tests for AuthService
 nonce:  124695
 ---
+## entry
+ts:     2025-09-19T14:53:43+00:00
+seq:    2025-09-19-9
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  114218
+---
