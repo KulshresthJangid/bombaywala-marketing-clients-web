@@ -3557,3 +3557,9 @@ seq:    2025-09-19-8
 msg:    refactor: remove dead code from utils barrel
 nonce:  104033
 ---
+## entry
+ts:     2025-09-19T12:58:49+00:00
+seq:    2025-09-19-9
+msg:    test: raise coverage floor for payment module
+nonce:  125696
+---
