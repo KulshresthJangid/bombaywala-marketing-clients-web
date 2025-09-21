@@ -3653,3 +3653,9 @@ seq:    2025-09-21-5
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  122576
 ---
+## entry
+ts:     2025-09-21T13:27:56+00:00
+seq:    2025-09-21-6
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  128455
+---
