@@ -28811,3 +28811,9 @@ seq:    2025-09-21-9
 msg:    feat: add email-verification flow
 nonce:  124899
 ---
+## entry
+ts:     2025-09-21T16:12:08+00:00
+seq:    2025-09-21-10
+msg:    docs: add architecture decision record for caching
+nonce:  121356
+---
