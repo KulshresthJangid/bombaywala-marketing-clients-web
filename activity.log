@@ -28805,3 +28805,9 @@ seq:    2025-09-21-8
 msg:    feat: create immutable audit-log service
 nonce:  102060
 ---
+## entry
+ts:     2025-09-21T16:10:43+00:00
+seq:    2025-09-21-9
+msg:    feat: add email-verification flow
+nonce:  124899
+---
