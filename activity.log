@@ -3683,3 +3683,9 @@ seq:    2025-09-21-10
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  112488
 ---
+## entry
+ts:     2025-09-21T15:26:10+00:00
+seq:    2025-09-21-11
+msg:    feat: add rate-limiting middleware
+nonce:  126101
+---
