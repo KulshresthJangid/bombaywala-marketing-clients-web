@@ -28763,3 +28763,9 @@ seq:    2025-09-21-1
 msg:    perf: parallelise image-resize pipeline
 nonce:  107590
 ---
+## entry
+ts:     2025-09-21T10:48:35+00:00
+seq:    2025-09-21-2
+msg:    feat: add user authentication module
+nonce:  124333
+---
