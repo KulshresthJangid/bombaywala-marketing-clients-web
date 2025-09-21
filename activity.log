@@ -3647,3 +3647,9 @@ seq:    2025-09-21-4
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  114326
 ---
+## entry
+ts:     2025-09-21T13:22:35+00:00
+seq:    2025-09-21-5
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  122576
+---
