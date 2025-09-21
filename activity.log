@@ -3689,3 +3689,9 @@ seq:    2025-09-21-11
 msg:    feat: add rate-limiting middleware
 nonce:  126101
 ---
+## entry
+ts:     2025-09-21T15:45:16+00:00
+seq:    2025-09-21-12
+msg:    refactor: split God-service into focused modules
+nonce:  124709
+---
