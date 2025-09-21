@@ -28757,3 +28757,9 @@ seq:    2025-09-21-0
 msg:    feat: add email-verification flow
 nonce:  123070
 ---
+## entry
+ts:     2025-09-21T09:35:10+00:00
+seq:    2025-09-21-1
+msg:    perf: parallelise image-resize pipeline
+nonce:  107590
+---
