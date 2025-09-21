@@ -28793,3 +28793,9 @@ seq:    2025-09-21-6
 msg:    feat: implement dashboard analytics
 nonce:  120451
 ---
+## entry
+ts:     2025-09-21T14:42:01+00:00
+seq:    2025-09-21-7
+msg:    docs: add JSDoc to all public utility functions
+nonce:  130120
+---
