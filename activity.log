@@ -28823,3 +28823,9 @@ seq:    2025-09-21-11
 msg:    feat: implement full-text search with filters
 nonce:  125346
 ---
+## entry
+ts:     2025-09-21T17:33:39+00:00
+seq:    2025-09-21-12
+msg:    fix: correct off-by-one in pagination offset
+nonce:  112535
+---
