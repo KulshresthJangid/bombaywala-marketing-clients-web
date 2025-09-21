@@ -3629,3 +3629,9 @@ seq:    2025-09-21-1
 msg:    docs: update CHANGELOG for next release
 nonce:  113044
 ---
+## entry
+ts:     2025-09-21T11:52:55+00:00
+seq:    2025-09-21-2
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  110168
+---
