@@ -3791,3 +3791,9 @@ seq:    2025-09-22-9
 msg:    test: add edge-case tests for input validators
 nonce:  119902
 ---
+## entry
+ts:     2025-09-22T15:29:26+00:00
+seq:    2025-09-22-10
+msg:    fix: correct date formatting in monthly report
+nonce:  107398
+---
