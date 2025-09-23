@@ -28871,3 +28871,9 @@ seq:    2025-09-23-3
 msg:    chore: apply prettier to all source files
 nonce:  114024
 ---
+## entry
+ts:     2025-09-23T10:54:30+00:00
+seq:    2025-09-23-4
+msg:    feat: implement full-text search with filters
+nonce:  101777
+---
