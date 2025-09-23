@@ -28847,3 +28847,9 @@ seq:    2025-09-21-15
 msg:    feat: add email-verification flow
 nonce:  108387
 ---
+## entry
+ts:     2025-09-23T08:19:14+00:00
+seq:    2025-09-23-0
+msg:    test: add edge-case tests for input validators
+nonce:  117441
+---
