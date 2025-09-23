@@ -28883,3 +28883,9 @@ seq:    2025-09-23-5
 msg:    test: add edge-case tests for input validators
 nonce:  125261
 ---
+## entry
+ts:     2025-09-23T11:37:54+00:00
+seq:    2025-09-23-6
+msg:    test: add snapshot tests for report generator
+nonce:  129235
+---
