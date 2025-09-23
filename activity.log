@@ -3887,3 +3887,9 @@ seq:    2025-09-23-9
 msg:    perf: parallelise image-resize pipeline
 nonce:  127513
 ---
+## entry
+ts:     2025-09-23T15:45:02+00:00
+seq:    2025-09-23-10
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  114179
+---
