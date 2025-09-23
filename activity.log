@@ -28937,3 +28937,9 @@ seq:    2025-09-23-14
 msg:    feat: create admin panel route group
 nonce:  103980
 ---
+## entry
+ts:     2025-09-23T19:26:47+00:00
+seq:    2025-09-23-15
+msg:    feat: add rate-limiting middleware
+nonce:  113333
+---
