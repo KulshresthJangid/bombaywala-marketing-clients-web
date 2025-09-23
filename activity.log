@@ -28931,3 +28931,9 @@ seq:    2025-09-23-13
 msg:    fix: resolve null pointer in user service
 nonce:  115928
 ---
+## entry
+ts:     2025-09-23T18:59:30+00:00
+seq:    2025-09-23-14
+msg:    feat: create admin panel route group
+nonce:  103980
+---
