@@ -28889,3 +28889,9 @@ seq:    2025-09-23-6
 msg:    test: add snapshot tests for report generator
 nonce:  129235
 ---
+## entry
+ts:     2025-09-23T13:21:17+00:00
+seq:    2025-09-23-7
+msg:    refactor: remove dead code from utils barrel
+nonce:  118903
+---
