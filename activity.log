@@ -3881,3 +3881,9 @@ seq:    2025-09-23-8
 msg:    feat: add export-to-CSV functionality
 nonce:  114993
 ---
+## entry
+ts:     2025-09-23T15:20:52+00:00
+seq:    2025-09-23-9
+msg:    perf: parallelise image-resize pipeline
+nonce:  127513
+---
