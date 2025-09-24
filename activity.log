@@ -28973,3 +28973,9 @@ seq:    2025-09-24-1
 msg:    chore: pin transitive dependency versions
 nonce:  117734
 ---
+## entry
+ts:     2025-09-24T10:28:21+00:00
+seq:    2025-09-24-2
+msg:    test: stub external HTTP calls in unit suite
+nonce:  132754
+---
