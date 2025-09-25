@@ -4031,3 +4031,9 @@ seq:    2025-09-25-18
 msg:    fix: fix stale JWT after password reset
 nonce:  132730
 ---
+## entry
+ts:     2025-09-25T21:24:54+00:00
+seq:    2025-09-25-19
+msg:    test: add snapshot tests for report generator
+nonce:  126708
+---
