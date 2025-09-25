@@ -3995,3 +3995,9 @@ seq:    2025-09-25-12
 msg:    perf: trim unnecessary fields from list responses
 nonce:  123363
 ---
+## entry
+ts:     2025-09-25T17:02:02+00:00
+seq:    2025-09-25-13
+msg:    fix: correct off-by-one in pagination offset
+nonce:  103643
+---
