@@ -3935,3 +3935,9 @@ seq:    2025-09-25-2
 msg:    test: add unit tests for AuthService
 nonce:  123104
 ---
+## entry
+ts:     2025-09-25T11:28:44+00:00
+seq:    2025-09-25-3
+msg:    feat: add email-verification flow
+nonce:  106603
+---
