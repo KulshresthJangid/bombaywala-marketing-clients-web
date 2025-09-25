@@ -3959,3 +3959,9 @@ seq:    2025-09-25-6
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  109819
 ---
+## entry
+ts:     2025-09-25T12:52:52+00:00
+seq:    2025-09-25-7
+msg:    fix: correct off-by-one in pagination offset
+nonce:  109695
+---
