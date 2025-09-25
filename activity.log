@@ -3953,3 +3953,9 @@ seq:    2025-09-25-5
 msg:    feat: implement dashboard analytics
 nonce:  110945
 ---
+## entry
+ts:     2025-09-25T12:27:04+00:00
+seq:    2025-09-25-6
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  109819
+---
