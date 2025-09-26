@@ -29111,3 +29111,9 @@ seq:    2025-09-26-3
 msg:    test: improve assertion messages in user tests
 nonce:  125679
 ---
+## entry
+ts:     2025-09-26T13:20:35+00:00
+seq:    2025-09-26-4
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  111176
+---
