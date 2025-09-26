@@ -29123,3 +29123,9 @@ seq:    2025-09-26-5
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  119642
 ---
+## entry
+ts:     2025-09-26T15:14:52+00:00
+seq:    2025-09-26-6
+msg:    refactor: move magic strings to constants module
+nonce:  104205
+---
