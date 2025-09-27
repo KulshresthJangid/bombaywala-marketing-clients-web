@@ -29189,3 +29189,9 @@ seq:    2025-09-27-4
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  106050
 ---
+## entry
+ts:     2025-09-27T12:17:01+00:00
+seq:    2025-09-27-5
+msg:    refactor: simplify connection pool configuration
+nonce:  102586
+---
