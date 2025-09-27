@@ -29201,3 +29201,9 @@ seq:    2025-09-27-6
 msg:    feat: add OAuth2 social login flow
 nonce:  131839
 ---
+## entry
+ts:     2025-09-27T13:31:41+00:00
+seq:    2025-09-27-7
+msg:    fix: resolve CORS rejection on preflight
+nonce:  125397
+---
