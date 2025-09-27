@@ -29219,3 +29219,9 @@ seq:    2025-09-27-9
 msg:    feat: implement dashboard analytics
 nonce:  111213
 ---
+## entry
+ts:     2025-09-27T15:04:49+00:00
+seq:    2025-09-27-10
+msg:    test: improve assertion messages in user tests
+nonce:  108251
+---
