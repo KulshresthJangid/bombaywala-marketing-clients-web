@@ -29291,3 +29291,9 @@ seq:    2025-09-29-5
 msg:    refactor: consolidate duplicate validation logic
 nonce:  105822
 ---
+## entry
+ts:     2025-09-29T11:44:11+00:00
+seq:    2025-09-29-6
+msg:    feat: add Stripe subscription billing
+nonce:  118528
+---
