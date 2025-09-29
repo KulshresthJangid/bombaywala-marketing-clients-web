@@ -4133,3 +4133,9 @@ seq:    2025-09-29-5
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  127963
 ---
+## entry
+ts:     2025-09-29T12:03:54+00:00
+seq:    2025-09-29-6
+msg:    chore: rotate copyright year in license header
+nonce:  116822
+---
