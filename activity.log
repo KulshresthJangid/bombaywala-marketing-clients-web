@@ -4181,3 +4181,9 @@ seq:    2025-09-29-13
 msg:    feat: implement role-based access control
 nonce:  101387
 ---
+## entry
+ts:     2025-09-29T15:09:06+00:00
+seq:    2025-09-29-14
+msg:    feat: add export-to-CSV functionality
+nonce:  102663
+---
