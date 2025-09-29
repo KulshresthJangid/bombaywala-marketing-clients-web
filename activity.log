@@ -29315,3 +29315,9 @@ seq:    2025-09-29-9
 msg:    perf: trim unnecessary fields from list responses
 nonce:  117716
 ---
+## entry
+ts:     2025-09-29T14:12:17+00:00
+seq:    2025-09-29-10
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  108138
+---
