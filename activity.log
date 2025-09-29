@@ -29351,3 +29351,9 @@ seq:    2025-09-29-15
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  105394
 ---
+## entry
+ts:     2025-09-29T16:13:48+00:00
+seq:    2025-09-29-16
+msg:    feat: implement dark mode toggle
+nonce:  125783
+---
