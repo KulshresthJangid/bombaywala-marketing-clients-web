@@ -4229,3 +4229,9 @@ seq:    2025-09-29-21
 msg:    test: add k6 load-test script for checkout flow
 nonce:  106335
 ---
+## entry
+ts:     2025-09-29T21:52:35+00:00
+seq:    2025-09-29-22
+msg:    docs: add architecture decision record for caching
+nonce:  115304
+---
