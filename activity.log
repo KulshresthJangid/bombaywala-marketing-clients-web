@@ -29279,3 +29279,9 @@ seq:    2025-09-29-3
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  118020
 ---
+## entry
+ts:     2025-09-29T11:15:43+00:00
+seq:    2025-09-29-4
+msg:    feat: add GraphQL subscription support
+nonce:  104903
+---
