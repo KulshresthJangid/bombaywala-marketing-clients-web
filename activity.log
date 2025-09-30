@@ -29441,3 +29441,9 @@ seq:    2025-09-30-10
 msg:    fix: patch reflected-XSS in comment field
 nonce:  132258
 ---
+## entry
+ts:     2025-09-30T16:52:47+00:00
+seq:    2025-09-30-11
+msg:    feat: implement full-text search with filters
+nonce:  120784
+---
