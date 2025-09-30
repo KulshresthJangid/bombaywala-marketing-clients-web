@@ -4247,3 +4247,9 @@ seq:    2025-09-29-24
 msg:    feat: create outbound webhook dispatcher
 nonce:  128291
 ---
+## entry
+ts:     2025-09-30T08:43:42+00:00
+seq:    2025-09-30-0
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  100113
+---
