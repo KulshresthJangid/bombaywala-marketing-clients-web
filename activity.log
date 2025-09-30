@@ -4295,3 +4295,9 @@ seq:    2025-09-30-7
 msg:    test: add unit tests for AuthService
 nonce:  130771
 ---
+## entry
+ts:     2025-09-30T12:05:06+00:00
+seq:    2025-09-30-8
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  100219
+---
