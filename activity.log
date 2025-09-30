@@ -29447,3 +29447,9 @@ seq:    2025-09-30-11
 msg:    feat: implement full-text search with filters
 nonce:  120784
 ---
+## entry
+ts:     2025-09-30T16:57:51+00:00
+seq:    2025-09-30-12
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  125126
+---
