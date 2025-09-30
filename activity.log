@@ -4379,3 +4379,9 @@ seq:    2025-09-30-21
 msg:    test: add snapshot tests for report generator
 nonce:  112576
 ---
+## entry
+ts:     2025-09-30T21:20:12+00:00
+seq:    2025-09-30-22
+msg:    fix: resolve CORS rejection on preflight
+nonce:  127796
+---
