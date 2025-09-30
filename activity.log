@@ -4343,3 +4343,9 @@ seq:    2025-09-30-15
 msg:    test: raise coverage floor for payment module
 nonce:  128355
 ---
+## entry
+ts:     2025-09-30T17:19:52+00:00
+seq:    2025-09-30-16
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  124955
+---
