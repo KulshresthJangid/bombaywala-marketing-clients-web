@@ -4325,3 +4325,9 @@ seq:    2025-09-30-12
 msg:    fix: correct date formatting in monthly report
 nonce:  118608
 ---
+## entry
+ts:     2025-09-30T13:35:25+00:00
+seq:    2025-09-30-13
+msg:    feat: add Stripe subscription billing
+nonce:  129490
+---
