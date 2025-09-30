@@ -29417,3 +29417,9 @@ seq:    2025-09-30-6
 msg:    test: add k6 load-test script for checkout flow
 nonce:  124714
 ---
+## entry
+ts:     2025-09-30T14:51:12+00:00
+seq:    2025-09-30-7
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  122971
+---
