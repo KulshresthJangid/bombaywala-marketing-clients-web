@@ -4283,3 +4283,9 @@ seq:    2025-09-30-5
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  108274
 ---
+## entry
+ts:     2025-09-30T11:02:41+00:00
+seq:    2025-09-30-6
+msg:    refactor: split God-service into focused modules
+nonce:  109493
+---
