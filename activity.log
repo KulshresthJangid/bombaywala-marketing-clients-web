@@ -29435,3 +29435,9 @@ seq:    2025-09-30-9
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  110728
 ---
+## entry
+ts:     2025-09-30T15:16:29+00:00
+seq:    2025-09-30-10
+msg:    fix: patch reflected-XSS in comment field
+nonce:  132258
+---
