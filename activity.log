@@ -29399,3 +29399,9 @@ seq:    2025-09-30-3
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  131070
 ---
+## entry
+ts:     2025-09-30T14:35:32+00:00
+seq:    2025-09-30-4
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  117443
+---
