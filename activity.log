@@ -29387,3 +29387,9 @@ seq:    2025-09-30-1
 msg:    feat: add GraphQL subscription support
 nonce:  115025
 ---
+## entry
+ts:     2025-09-30T12:52:21+00:00
+seq:    2025-09-30-2
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  109896
+---
