@@ -4385,3 +4385,9 @@ seq:    2025-09-30-22
 msg:    fix: resolve CORS rejection on preflight
 nonce:  127796
 ---
+## entry
+ts:     2025-09-30T22:20:35+00:00
+seq:    2025-09-30-23
+msg:    feat: create immutable audit-log service
+nonce:  105098
+---
