@@ -4301,3 +4301,9 @@ seq:    2025-09-30-8
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  100219
 ---
+## entry
+ts:     2025-09-30T12:44:44+00:00
+seq:    2025-09-30-9
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  123139
+---
