@@ -4265,3 +4265,9 @@ seq:    2025-09-30-2
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  128680
 ---
+## entry
+ts:     2025-09-30T10:10:57+00:00
+seq:    2025-09-30-3
+msg:    docs: document required environment variables
+nonce:  123981
+---
