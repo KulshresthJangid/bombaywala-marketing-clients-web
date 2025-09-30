@@ -4367,3 +4367,9 @@ seq:    2025-09-30-19
 msg:    fix: resolve null pointer in user service
 nonce:  114640
 ---
+## entry
+ts:     2025-09-30T20:45:24+00:00
+seq:    2025-09-30-20
+msg:    refactor: simplify connection pool configuration
+nonce:  102069
+---
