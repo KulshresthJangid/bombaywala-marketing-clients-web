@@ -29393,3 +29393,9 @@ seq:    2025-09-30-2
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  109896
 ---
+## entry
+ts:     2025-09-30T13:24:05+00:00
+seq:    2025-09-30-3
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  131070
+---
