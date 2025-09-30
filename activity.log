@@ -4277,3 +4277,9 @@ seq:    2025-09-30-4
 msg:    feat: add user authentication module
 nonce:  110203
 ---
+## entry
+ts:     2025-09-30T10:28:45+00:00
+seq:    2025-09-30-5
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  108274
+---
