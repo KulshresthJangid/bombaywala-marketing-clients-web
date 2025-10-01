@@ -4439,3 +4439,9 @@ seq:    2025-10-01-6
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  103766
 ---
+## entry
+ts:     2025-10-01T13:54:31+00:00
+seq:    2025-10-01-7
+msg:    refactor: remove dead code from utils barrel
+nonce:  129333
+---
