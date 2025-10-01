@@ -29585,3 +29585,9 @@ seq:    2025-10-01-16
 msg:    fix: sanitize user input in search filter
 nonce:  112618
 ---
+## entry
+ts:     2025-10-01T15:27:19+00:00
+seq:    2025-10-01-17
+msg:    refactor: migrate from winston to pino logger
+nonce:  100379
+---
