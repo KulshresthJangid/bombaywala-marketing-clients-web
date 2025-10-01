@@ -4457,3 +4457,9 @@ seq:    2025-10-01-9
 msg:    docs: update CHANGELOG for next release
 nonce:  121868
 ---
+## entry
+ts:     2025-10-01T15:42:51+00:00
+seq:    2025-10-01-10
+msg:    feat: add rate-limiting middleware
+nonce:  116349
+---
