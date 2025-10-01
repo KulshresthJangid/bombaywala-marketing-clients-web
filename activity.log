@@ -4433,3 +4433,9 @@ seq:    2025-10-01-5
 msg:    feat: implement role-based access control
 nonce:  124913
 ---
+## entry
+ts:     2025-10-01T12:23:42+00:00
+seq:    2025-10-01-6
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  103766
+---
