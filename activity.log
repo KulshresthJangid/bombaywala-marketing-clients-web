@@ -29573,3 +29573,9 @@ seq:    2025-10-01-14
 msg:    refactor: migrate from winston to pino logger
 nonce:  128328
 ---
+## entry
+ts:     2025-10-01T15:00:04+00:00
+seq:    2025-10-01-15
+msg:    perf: memoize expensive permission-check results
+nonce:  129972
+---
