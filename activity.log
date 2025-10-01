@@ -29609,3 +29609,9 @@ seq:    2025-10-01-20
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  122163
 ---
+## entry
+ts:     2025-10-01T19:30:38+00:00
+seq:    2025-10-01-21
+msg:    chore: apply prettier to all source files
+nonce:  116461
+---
