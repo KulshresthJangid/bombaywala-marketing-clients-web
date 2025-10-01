@@ -29561,3 +29561,9 @@ seq:    2025-10-01-12
 msg:    feat: integrate payment gateway
 nonce:  132592
 ---
+## entry
+ts:     2025-10-01T13:13:17+00:00
+seq:    2025-10-01-13
+msg:    fix: patch reflected-XSS in comment field
+nonce:  114948
+---
