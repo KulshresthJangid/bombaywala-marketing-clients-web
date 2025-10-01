@@ -4421,3 +4421,9 @@ seq:    2025-10-01-3
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  131696
 ---
+## entry
+ts:     2025-10-01T11:00:56+00:00
+seq:    2025-10-01-4
+msg:    feat: add export-to-CSV functionality
+nonce:  101739
+---
