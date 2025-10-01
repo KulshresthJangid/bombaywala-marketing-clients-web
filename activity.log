@@ -4415,3 +4415,9 @@ seq:    2025-10-01-2
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  116589
 ---
+## entry
+ts:     2025-10-01T09:42:40+00:00
+seq:    2025-10-01-3
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  131696
+---
