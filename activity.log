@@ -29597,3 +29597,9 @@ seq:    2025-10-01-18
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  105570
 ---
+## entry
+ts:     2025-10-01T17:59:26+00:00
+seq:    2025-10-01-19
+msg:    refactor: simplify connection pool configuration
+nonce:  107571
+---
