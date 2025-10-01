@@ -29567,3 +29567,9 @@ seq:    2025-10-01-13
 msg:    fix: patch reflected-XSS in comment field
 nonce:  114948
 ---
+## entry
+ts:     2025-10-01T13:15:43+00:00
+seq:    2025-10-01-14
+msg:    refactor: migrate from winston to pino logger
+nonce:  128328
+---
