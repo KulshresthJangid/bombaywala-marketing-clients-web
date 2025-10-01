@@ -29507,3 +29507,9 @@ seq:    2025-10-01-3
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  129093
 ---
+## entry
+ts:     2025-10-01T10:35:50+00:00
+seq:    2025-10-01-4
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  121578
+---
