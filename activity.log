@@ -4445,3 +4445,9 @@ seq:    2025-10-01-7
 msg:    refactor: remove dead code from utils barrel
 nonce:  129333
 ---
+## entry
+ts:     2025-10-01T14:15:09+00:00
+seq:    2025-10-01-8
+msg:    docs: document required environment variables
+nonce:  121698
+---
