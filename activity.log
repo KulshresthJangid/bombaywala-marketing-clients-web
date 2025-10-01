@@ -29519,3 +29519,9 @@ seq:    2025-10-01-5
 msg:    perf: memoize expensive permission-check results
 nonce:  107744
 ---
+## entry
+ts:     2025-10-01T11:16:40+00:00
+seq:    2025-10-01-6
+msg:    chore: pin transitive dependency versions
+nonce:  104755
+---
