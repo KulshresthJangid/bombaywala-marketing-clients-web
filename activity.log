@@ -29639,3 +29639,9 @@ seq:    2025-10-02-3
 msg:    feat: implement file upload with S3 backend
 nonce:  125070
 ---
+## entry
+ts:     2025-10-02T13:40:28+00:00
+seq:    2025-10-02-4
+msg:    fix: handle empty state on dashboard load
+nonce:  113009
+---
