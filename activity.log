@@ -29645,3 +29645,9 @@ seq:    2025-10-02-4
 msg:    fix: handle empty state on dashboard load
 nonce:  113009
 ---
+## entry
+ts:     2025-10-02T13:52:16+00:00
+seq:    2025-10-02-5
+msg:    test: improve assertion messages in user tests
+nonce:  112178
+---
