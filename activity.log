@@ -29621,3 +29621,9 @@ seq:    2025-10-02-0
 msg:    test: raise coverage floor for payment module
 nonce:  112268
 ---
+## entry
+ts:     2025-10-02T11:21:40+00:00
+seq:    2025-10-02-1
+msg:    docs: update CHANGELOG for next release
+nonce:  106848
+---
