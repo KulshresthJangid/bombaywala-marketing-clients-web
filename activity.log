@@ -29651,3 +29651,9 @@ seq:    2025-10-02-5
 msg:    test: improve assertion messages in user tests
 nonce:  112178
 ---
+## entry
+ts:     2025-10-02T14:16:55+00:00
+seq:    2025-10-02-6
+msg:    feat: create outbound webhook dispatcher
+nonce:  101329
+---
