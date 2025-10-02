@@ -29615,3 +29615,9 @@ seq:    2025-10-01-21
 msg:    chore: apply prettier to all source files
 nonce:  116461
 ---
+## entry
+ts:     2025-10-02T09:30:14+00:00
+seq:    2025-10-02-0
+msg:    test: raise coverage floor for payment module
+nonce:  112268
+---
