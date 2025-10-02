@@ -29633,3 +29633,9 @@ seq:    2025-10-02-2
 msg:    feat: add email-verification flow
 nonce:  126448
 ---
+## entry
+ts:     2025-10-02T12:38:04+00:00
+seq:    2025-10-02-3
+msg:    feat: implement file upload with S3 backend
+nonce:  125070
+---
