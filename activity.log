@@ -29735,3 +29735,9 @@ seq:    2025-10-03-6
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  101589
 ---
+## entry
+ts:     2025-10-03T14:11:18+00:00
+seq:    2025-10-03-7
+msg:    feat: add rate-limiting middleware
+nonce:  125981
+---
