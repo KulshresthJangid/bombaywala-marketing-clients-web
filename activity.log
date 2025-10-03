@@ -29747,3 +29747,9 @@ seq:    2025-10-03-8
 msg:    refactor: consolidate duplicate validation logic
 nonce:  112605
 ---
+## entry
+ts:     2025-10-03T14:46:02+00:00
+seq:    2025-10-03-9
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  118295
+---
