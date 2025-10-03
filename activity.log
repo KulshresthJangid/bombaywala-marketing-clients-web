@@ -4505,3 +4505,9 @@ seq:    2025-10-03-4
 msg:    docs: add architecture decision record for caching
 nonce:  125624
 ---
+## entry
+ts:     2025-10-03T14:25:24+00:00
+seq:    2025-10-03-5
+msg:    docs: document required environment variables
+nonce:  118265
+---
