@@ -29705,3 +29705,9 @@ seq:    2025-10-03-1
 msg:    fix: resolve CORS rejection on preflight
 nonce:  108615
 ---
+## entry
+ts:     2025-10-03T09:42:21+00:00
+seq:    2025-10-03-2
+msg:    feat: implement Redis caching layer
+nonce:  119500
+---
