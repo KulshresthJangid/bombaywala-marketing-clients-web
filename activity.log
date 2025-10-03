@@ -29795,3 +29795,9 @@ seq:    2025-10-03-16
 msg:    chore: apply prettier to all source files
 nonce:  127589
 ---
+## entry
+ts:     2025-10-03T22:28:44+00:00
+seq:    2025-10-03-17
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  100549
+---
