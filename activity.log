@@ -29741,3 +29741,9 @@ seq:    2025-10-03-7
 msg:    feat: add rate-limiting middleware
 nonce:  125981
 ---
+## entry
+ts:     2025-10-03T14:36:40+00:00
+seq:    2025-10-03-8
+msg:    refactor: consolidate duplicate validation logic
+nonce:  112605
+---
