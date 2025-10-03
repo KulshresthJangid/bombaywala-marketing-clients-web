@@ -29783,3 +29783,9 @@ seq:    2025-10-03-14
 msg:    test: stub external HTTP calls in unit suite
 nonce:  126371
 ---
+## entry
+ts:     2025-10-03T19:17:25+00:00
+seq:    2025-10-03-15
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  130673
+---
