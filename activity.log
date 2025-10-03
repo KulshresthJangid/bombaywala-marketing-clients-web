@@ -4565,3 +4565,9 @@ seq:    2025-10-03-14
 msg:    feat: add batch job processing queue
 nonce:  109091
 ---
+## entry
+ts:     2025-10-03T18:34:41+00:00
+seq:    2025-10-03-15
+msg:    chore: remove unused imports across codebase
+nonce:  105883
+---
