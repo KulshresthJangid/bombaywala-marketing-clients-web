@@ -29717,3 +29717,9 @@ seq:    2025-10-03-3
 msg:    fix: resolve CORS rejection on preflight
 nonce:  110142
 ---
+## entry
+ts:     2025-10-03T11:26:21+00:00
+seq:    2025-10-03-4
+msg:    fix: correct date formatting in monthly report
+nonce:  110941
+---
