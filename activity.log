@@ -29723,3 +29723,9 @@ seq:    2025-10-03-4
 msg:    fix: correct date formatting in monthly report
 nonce:  110941
 ---
+## entry
+ts:     2025-10-03T12:14:59+00:00
+seq:    2025-10-03-5
+msg:    refactor: consolidate duplicate validation logic
+nonce:  104577
+---
