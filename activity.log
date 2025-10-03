@@ -4529,3 +4529,9 @@ seq:    2025-10-03-8
 msg:    test: add integration tests for /api/v2 routes
 nonce:  123686
 ---
+## entry
+ts:     2025-10-03T15:40:58+00:00
+seq:    2025-10-03-9
+msg:    test: add k6 load-test script for checkout flow
+nonce:  125030
+---
