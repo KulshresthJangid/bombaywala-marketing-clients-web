@@ -4475,3 +4475,9 @@ seq:    2025-10-01-12
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  113413
 ---
+## entry
+ts:     2025-10-03T09:18:53+00:00
+seq:    2025-10-03-0
+msg:    test: add snapshot tests for report generator
+nonce:  116683
+---
