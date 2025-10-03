@@ -4511,3 +4511,9 @@ seq:    2025-10-03-5
 msg:    docs: document required environment variables
 nonce:  118265
 ---
+## entry
+ts:     2025-10-03T14:27:15+00:00
+seq:    2025-10-03-6
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  126983
+---
