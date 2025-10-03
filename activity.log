@@ -4523,3 +4523,9 @@ seq:    2025-10-03-7
 msg:    refactor: centralise API error-response factory
 nonce:  127736
 ---
+## entry
+ts:     2025-10-03T15:26:05+00:00
+seq:    2025-10-03-8
+msg:    test: add integration tests for /api/v2 routes
+nonce:  123686
+---
