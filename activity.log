@@ -29819,3 +29819,9 @@ seq:    2025-10-04-2
 msg:    refactor: migrate from winston to pino logger
 nonce:  102212
 ---
+## entry
+ts:     2025-10-04T09:32:50+00:00
+seq:    2025-10-04-3
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  101764
+---
