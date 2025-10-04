@@ -29849,3 +29849,9 @@ seq:    2025-10-04-7
 msg:    test: add integration tests for /api/v2 routes
 nonce:  106122
 ---
+## entry
+ts:     2025-10-04T11:37:45+00:00
+seq:    2025-10-04-8
+msg:    fix: resolve null pointer in user service
+nonce:  121616
+---
