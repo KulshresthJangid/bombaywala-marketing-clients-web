@@ -29831,3 +29831,9 @@ seq:    2025-10-04-4
 msg:    feat: implement role-based access control
 nonce:  125762
 ---
+## entry
+ts:     2025-10-04T09:35:18+00:00
+seq:    2025-10-04-5
+msg:    feat: add cursor-based pagination
+nonce:  119316
+---
