@@ -29855,3 +29855,9 @@ seq:    2025-10-04-8
 msg:    fix: resolve null pointer in user service
 nonce:  121616
 ---
+## entry
+ts:     2025-10-04T13:35:55+00:00
+seq:    2025-10-04-9
+msg:    chore: reorganise src/ folder structure
+nonce:  101660
+---
