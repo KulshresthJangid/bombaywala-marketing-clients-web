@@ -29813,3 +29813,9 @@ seq:    2025-10-04-1
 msg:    test: raise coverage floor for payment module
 nonce:  132380
 ---
+## entry
+ts:     2025-10-04T09:21:00+00:00
+seq:    2025-10-04-2
+msg:    refactor: migrate from winston to pino logger
+nonce:  102212
+---
