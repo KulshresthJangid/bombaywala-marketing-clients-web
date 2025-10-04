@@ -29807,3 +29807,9 @@ seq:    2025-10-04-0
 msg:    test: add edge-case tests for input validators
 nonce:  124326
 ---
+## entry
+ts:     2025-10-04T09:17:47+00:00
+seq:    2025-10-04-1
+msg:    test: raise coverage floor for payment module
+nonce:  132380
+---
