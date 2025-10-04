@@ -29825,3 +29825,9 @@ seq:    2025-10-04-3
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  101764
 ---
+## entry
+ts:     2025-10-04T09:34:01+00:00
+seq:    2025-10-04-4
+msg:    feat: implement role-based access control
+nonce:  125762
+---
