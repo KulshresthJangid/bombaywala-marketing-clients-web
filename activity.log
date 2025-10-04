@@ -29837,3 +29837,9 @@ seq:    2025-10-04-5
 msg:    feat: add cursor-based pagination
 nonce:  119316
 ---
+## entry
+ts:     2025-10-04T11:12:19+00:00
+seq:    2025-10-04-6
+msg:    test: stub external HTTP calls in unit suite
+nonce:  124312
+---
