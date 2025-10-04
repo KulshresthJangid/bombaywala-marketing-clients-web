@@ -29891,3 +29891,9 @@ seq:    2025-10-04-14
 msg:    refactor: extract auth guard into shared middleware
 nonce:  104340
 ---
+## entry
+ts:     2025-10-04T19:16:48+00:00
+seq:    2025-10-04-15
+msg:    feat: add rate-limiting middleware
+nonce:  129028
+---
