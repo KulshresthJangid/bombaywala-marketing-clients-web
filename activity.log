@@ -29969,3 +29969,9 @@ seq:    2025-10-05-6
 msg:    feat: create admin panel route group
 nonce:  122807
 ---
+## entry
+ts:     2025-10-05T14:00:38+00:00
+seq:    2025-10-05-7
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  117082
+---
