@@ -4691,3 +4691,9 @@ seq:    2025-10-05-19
 msg:    test: add snapshot tests for report generator
 nonce:  106751
 ---
+## entry
+ts:     2025-10-05T22:39:44+00:00
+seq:    2025-10-05-20
+msg:    docs: add getting-started guide to README
+nonce:  122021
+---
