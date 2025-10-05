@@ -4673,3 +4673,9 @@ seq:    2025-10-05-16
 msg:    fix: sanitize user input in search filter
 nonce:  115746
 ---
+## entry
+ts:     2025-10-05T20:30:05+00:00
+seq:    2025-10-05-17
+msg:    test: add k6 load-test script for checkout flow
+nonce:  131230
+---
