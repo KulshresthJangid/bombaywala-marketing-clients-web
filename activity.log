@@ -4613,3 +4613,9 @@ seq:    2025-10-05-6
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  131491
 ---
+## entry
+ts:     2025-10-05T13:54:33+00:00
+seq:    2025-10-05-7
+msg:    refactor: split God-service into focused modules
+nonce:  112662
+---
