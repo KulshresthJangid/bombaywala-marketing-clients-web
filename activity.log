@@ -4625,3 +4625,9 @@ seq:    2025-10-05-8
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104273
 ---
+## entry
+ts:     2025-10-05T14:54:50+00:00
+seq:    2025-10-05-9
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  116165
+---
