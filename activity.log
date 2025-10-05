@@ -30059,3 +30059,9 @@ seq:    2025-10-05-21
 msg:    fix: handle empty state on dashboard load
 nonce:  127445
 ---
+## entry
+ts:     2025-10-05T22:13:52+00:00
+seq:    2025-10-05-22
+msg:    chore: reorganise src/ folder structure
+nonce:  113144
+---
