@@ -4607,3 +4607,9 @@ seq:    2025-10-05-5
 msg:    feat: create admin panel route group
 nonce:  104353
 ---
+## entry
+ts:     2025-10-05T13:39:15+00:00
+seq:    2025-10-05-6
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  131491
+---
