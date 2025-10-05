@@ -4601,3 +4601,9 @@ seq:    2025-10-05-4
 msg:    feat: add Stripe subscription billing
 nonce:  122786
 ---
+## entry
+ts:     2025-10-05T12:23:30+00:00
+seq:    2025-10-05-5
+msg:    feat: create admin panel route group
+nonce:  104353
+---
