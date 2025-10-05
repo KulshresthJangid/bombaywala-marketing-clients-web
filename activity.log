@@ -29975,3 +29975,9 @@ seq:    2025-10-05-7
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  117082
 ---
+## entry
+ts:     2025-10-05T14:09:44+00:00
+seq:    2025-10-05-8
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  131946
+---
