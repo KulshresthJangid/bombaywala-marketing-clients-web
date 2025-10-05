@@ -4583,3 +4583,9 @@ seq:    2025-10-05-1
 msg:    chore: apply prettier to all source files
 nonce:  101871
 ---
+## entry
+ts:     2025-10-05T10:12:24+00:00
+seq:    2025-10-05-2
+msg:    fix: handle empty state on dashboard load
+nonce:  103636
+---
