@@ -30047,3 +30047,9 @@ seq:    2025-10-05-19
 msg:    refactor: replace callback hell with async/await
 nonce:  111021
 ---
+## entry
+ts:     2025-10-05T20:59:11+00:00
+seq:    2025-10-05-20
+msg:    refactor: remove dead code from utils barrel
+nonce:  111252
+---
