@@ -30041,3 +30041,9 @@ seq:    2025-10-05-18
 msg:    fix: sanitize user input in search filter
 nonce:  111493
 ---
+## entry
+ts:     2025-10-05T20:11:47+00:00
+seq:    2025-10-05-19
+msg:    refactor: replace callback hell with async/await
+nonce:  111021
+---
