@@ -4619,3 +4619,9 @@ seq:    2025-10-05-7
 msg:    refactor: split God-service into focused modules
 nonce:  112662
 ---
+## entry
+ts:     2025-10-05T14:53:41+00:00
+seq:    2025-10-05-8
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  104273
+---
