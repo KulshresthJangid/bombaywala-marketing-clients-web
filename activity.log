@@ -29945,3 +29945,9 @@ seq:    2025-10-05-2
 msg:    feat: scaffold onboarding wizard UI
 nonce:  121633
 ---
+## entry
+ts:     2025-10-05T12:13:46+00:00
+seq:    2025-10-05-3
+msg:    feat: scaffold onboarding wizard UI
+nonce:  117217
+---
