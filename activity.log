@@ -30035,3 +30035,9 @@ seq:    2025-10-05-17
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  106763
 ---
+## entry
+ts:     2025-10-05T19:51:05+00:00
+seq:    2025-10-05-18
+msg:    fix: sanitize user input in search filter
+nonce:  111493
+---
