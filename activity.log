@@ -29963,3 +29963,9 @@ seq:    2025-10-05-5
 msg:    feat: implement full-text search with filters
 nonce:  125938
 ---
+## entry
+ts:     2025-10-05T13:41:40+00:00
+seq:    2025-10-05-6
+msg:    feat: create admin panel route group
+nonce:  122807
+---
