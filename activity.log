@@ -29957,3 +29957,9 @@ seq:    2025-10-05-4
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  119506
 ---
+## entry
+ts:     2025-10-05T13:19:36+00:00
+seq:    2025-10-05-5
+msg:    feat: implement full-text search with filters
+nonce:  125938
+---
