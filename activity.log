@@ -4721,3 +4721,9 @@ seq:    2025-10-06-3
 msg:    fix: correct date formatting in monthly report
 nonce:  117999
 ---
+## entry
+ts:     2025-10-06T11:07:28+00:00
+seq:    2025-10-06-4
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  109630
+---
