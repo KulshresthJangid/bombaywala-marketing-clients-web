@@ -4763,3 +4763,9 @@ seq:    2025-10-06-10
 msg:    feat: create outbound webhook dispatcher
 nonce:  103625
 ---
+## entry
+ts:     2025-10-06T15:08:11+00:00
+seq:    2025-10-06-11
+msg:    refactor: simplify connection pool configuration
+nonce:  112171
+---
