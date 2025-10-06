@@ -4787,3 +4787,9 @@ seq:    2025-10-06-14
 msg:    refactor: migrate from winston to pino logger
 nonce:  103434
 ---
+## entry
+ts:     2025-10-06T17:14:28+00:00
+seq:    2025-10-06-15
+msg:    test: add edge-case tests for input validators
+nonce:  111636
+---
