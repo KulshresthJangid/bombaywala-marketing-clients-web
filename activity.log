@@ -4715,3 +4715,9 @@ seq:    2025-10-06-2
 msg:    refactor: split God-service into focused modules
 nonce:  122314
 ---
+## entry
+ts:     2025-10-06T10:22:47+00:00
+seq:    2025-10-06-3
+msg:    fix: correct date formatting in monthly report
+nonce:  117999
+---
