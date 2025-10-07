@@ -4877,3 +4877,9 @@ seq:    2025-10-07-8
 msg:    feat: add user authentication module
 nonce:  108061
 ---
+## entry
+ts:     2025-10-07T13:25:23+00:00
+seq:    2025-10-07-9
+msg:    docs: document required environment variables
+nonce:  130328
+---
