@@ -30071,3 +30071,9 @@ seq:    2025-10-07-0
 msg:    chore: remove unused imports across codebase
 nonce:  114262
 ---
+## entry
+ts:     2025-10-07T08:15:08+00:00
+seq:    2025-10-07-1
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  104845
+---
