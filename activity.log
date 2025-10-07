@@ -30107,3 +30107,9 @@ seq:    2025-10-07-6
 msg:    refactor: extract auth guard into shared middleware
 nonce:  101173
 ---
+## entry
+ts:     2025-10-07T13:29:58+00:00
+seq:    2025-10-07-7
+msg:    refactor: simplify connection pool configuration
+nonce:  120274
+---
