@@ -30083,3 +30083,9 @@ seq:    2025-10-07-2
 msg:    feat: add export-to-CSV functionality
 nonce:  130385
 ---
+## entry
+ts:     2025-10-07T09:28:58+00:00
+seq:    2025-10-07-3
+msg:    refactor: centralise API error-response factory
+nonce:  112424
+---
