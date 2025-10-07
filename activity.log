@@ -30125,3 +30125,9 @@ seq:    2025-10-07-9
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  120502
 ---
+## entry
+ts:     2025-10-07T13:59:59+00:00
+seq:    2025-10-07-10
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  128559
+---
