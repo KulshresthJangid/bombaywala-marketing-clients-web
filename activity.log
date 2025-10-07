@@ -30113,3 +30113,9 @@ seq:    2025-10-07-7
 msg:    refactor: simplify connection pool configuration
 nonce:  120274
 ---
+## entry
+ts:     2025-10-07T13:30:51+00:00
+seq:    2025-10-07-8
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  117009
+---
