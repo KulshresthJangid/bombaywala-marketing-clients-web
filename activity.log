@@ -30137,3 +30137,9 @@ seq:    2025-10-07-11
 msg:    fix: resolve race condition in job queue
 nonce:  110626
 ---
+## entry
+ts:     2025-10-07T14:58:45+00:00
+seq:    2025-10-07-12
+msg:    refactor: migrate from winston to pino logger
+nonce:  121668
+---
