@@ -4859,3 +4859,9 @@ seq:    2025-10-07-5
 msg:    feat: implement full-text search with filters
 nonce:  108464
 ---
+## entry
+ts:     2025-10-07T13:09:27+00:00
+seq:    2025-10-07-6
+msg:    test: add k6 load-test script for checkout flow
+nonce:  111983
+---
