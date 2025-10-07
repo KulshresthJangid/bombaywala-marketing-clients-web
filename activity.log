@@ -30131,3 +30131,9 @@ seq:    2025-10-07-10
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  128559
 ---
+## entry
+ts:     2025-10-07T14:13:03+00:00
+seq:    2025-10-07-11
+msg:    fix: resolve race condition in job queue
+nonce:  110626
+---
