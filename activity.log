@@ -30077,3 +30077,9 @@ seq:    2025-10-07-1
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104845
 ---
+## entry
+ts:     2025-10-07T09:08:58+00:00
+seq:    2025-10-07-2
+msg:    feat: add export-to-CSV functionality
+nonce:  130385
+---
