@@ -4949,3 +4949,9 @@ seq:    2025-10-08-8
 msg:    feat: implement dashboard analytics
 nonce:  105881
 ---
+## entry
+ts:     2025-10-08T15:56:48+00:00
+seq:    2025-10-08-9
+msg:    test: add k6 load-test script for checkout flow
+nonce:  109262
+---
