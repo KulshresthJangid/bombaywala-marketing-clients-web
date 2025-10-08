@@ -4901,3 +4901,9 @@ seq:    2025-10-08-0
 msg:    test: stub external HTTP calls in unit suite
 nonce:  101629
 ---
+## entry
+ts:     2025-10-08T10:09:39+00:00
+seq:    2025-10-08-1
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  105345
+---
