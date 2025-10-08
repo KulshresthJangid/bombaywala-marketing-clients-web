@@ -4925,3 +4925,9 @@ seq:    2025-10-08-4
 msg:    feat: create immutable audit-log service
 nonce:  124302
 ---
+## entry
+ts:     2025-10-08T13:33:46+00:00
+seq:    2025-10-08-5
+msg:    refactor: extract auth guard into shared middleware
+nonce:  108333
+---
