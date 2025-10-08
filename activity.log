@@ -4979,3 +4979,9 @@ seq:    2025-10-08-13
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  127506
 ---
+## entry
+ts:     2025-10-08T19:09:02+00:00
+seq:    2025-10-08-14
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  101872
+---
