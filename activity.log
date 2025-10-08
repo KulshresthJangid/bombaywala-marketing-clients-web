@@ -4985,3 +4985,9 @@ seq:    2025-10-08-14
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  101872
 ---
+## entry
+ts:     2025-10-08T21:35:59+00:00
+seq:    2025-10-08-15
+msg:    chore: apply prettier to all source files
+nonce:  123389
+---
