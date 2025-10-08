@@ -4967,3 +4967,9 @@ seq:    2025-10-08-11
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  116438
 ---
+## entry
+ts:     2025-10-08T17:19:14+00:00
+seq:    2025-10-08-12
+msg:    test: improve assertion messages in user tests
+nonce:  124269
+---
