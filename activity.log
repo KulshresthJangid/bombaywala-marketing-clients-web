@@ -30203,3 +30203,9 @@ seq:    2025-10-09-0
 msg:    test: add k6 load-test script for checkout flow
 nonce:  120475
 ---
+## entry
+ts:     2025-10-09T08:20:34+00:00
+seq:    2025-10-09-1
+msg:    perf: memoize expensive permission-check results
+nonce:  104860
+---
