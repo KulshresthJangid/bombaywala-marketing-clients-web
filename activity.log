@@ -30269,3 +30269,9 @@ seq:    2025-10-09-11
 msg:    feat: implement Redis caching layer
 nonce:  116181
 ---
+## entry
+ts:     2025-10-09T15:57:18+00:00
+seq:    2025-10-09-12
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  128046
+---
