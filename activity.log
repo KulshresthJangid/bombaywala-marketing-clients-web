@@ -4997,3 +4997,9 @@ seq:    2025-10-08-16
 msg:    feat: create immutable audit-log service
 nonce:  111305
 ---
+## entry
+ts:     2025-10-09T08:24:49+00:00
+seq:    2025-10-09-0
+msg:    perf: enable gzip compression on API responses
+nonce:  104576
+---
