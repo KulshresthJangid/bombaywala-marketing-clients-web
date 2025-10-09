@@ -30197,3 +30197,9 @@ seq:    2025-10-07-21
 msg:    refactor: consolidate duplicate validation logic
 nonce:  118327
 ---
+## entry
+ts:     2025-10-09T08:05:08+00:00
+seq:    2025-10-09-0
+msg:    test: add k6 load-test script for checkout flow
+nonce:  120475
+---
