@@ -30251,3 +30251,9 @@ seq:    2025-10-09-8
 msg:    fix: resolve null pointer in user service
 nonce:  104135
 ---
+## entry
+ts:     2025-10-09T14:28:27+00:00
+seq:    2025-10-09-9
+msg:    refactor: extract auth guard into shared middleware
+nonce:  106984
+---
