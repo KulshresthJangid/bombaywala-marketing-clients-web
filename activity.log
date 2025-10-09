@@ -5009,3 +5009,9 @@ seq:    2025-10-09-1
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  101986
 ---
+## entry
+ts:     2025-10-09T10:00:47+00:00
+seq:    2025-10-09-2
+msg:    feat: implement full-text search with filters
+nonce:  131010
+---
