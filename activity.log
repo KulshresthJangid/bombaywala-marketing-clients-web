@@ -5069,3 +5069,9 @@ seq:    2025-10-09-11
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  129687
 ---
+## entry
+ts:     2025-10-09T15:34:32+00:00
+seq:    2025-10-09-12
+msg:    refactor: split God-service into focused modules
+nonce:  128658
+---
