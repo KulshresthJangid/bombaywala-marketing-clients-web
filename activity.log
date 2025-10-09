@@ -5015,3 +5015,9 @@ seq:    2025-10-09-2
 msg:    feat: implement full-text search with filters
 nonce:  131010
 ---
+## entry
+ts:     2025-10-09T12:25:23+00:00
+seq:    2025-10-09-3
+msg:    feat: add GraphQL subscription support
+nonce:  121698
+---
