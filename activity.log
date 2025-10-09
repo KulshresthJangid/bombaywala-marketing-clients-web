@@ -5093,3 +5093,9 @@ seq:    2025-10-09-15
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  106712
 ---
+## entry
+ts:     2025-10-09T16:21:41+00:00
+seq:    2025-10-09-16
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  127934
+---
