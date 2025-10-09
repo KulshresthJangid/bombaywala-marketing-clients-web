@@ -30257,3 +30257,9 @@ seq:    2025-10-09-9
 msg:    refactor: extract auth guard into shared middleware
 nonce:  106984
 ---
+## entry
+ts:     2025-10-09T14:37:56+00:00
+seq:    2025-10-09-10
+msg:    fix: patch reflected-XSS in comment field
+nonce:  118412
+---
