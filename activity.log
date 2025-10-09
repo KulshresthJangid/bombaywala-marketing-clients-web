@@ -5105,3 +5105,9 @@ seq:    2025-10-09-17
 msg:    docs: add architecture decision record for caching
 nonce:  131234
 ---
+## entry
+ts:     2025-10-09T17:33:24+00:00
+seq:    2025-10-09-18
+msg:    feat: create immutable audit-log service
+nonce:  105526
+---
