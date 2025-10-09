@@ -5087,3 +5087,9 @@ seq:    2025-10-09-14
 msg:    feat: add GraphQL subscription support
 nonce:  127997
 ---
+## entry
+ts:     2025-10-09T16:19:28+00:00
+seq:    2025-10-09-15
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  106712
+---
