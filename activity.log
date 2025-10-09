@@ -5081,3 +5081,9 @@ seq:    2025-10-09-13
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  121393
 ---
+## entry
+ts:     2025-10-09T16:14:43+00:00
+seq:    2025-10-09-14
+msg:    feat: add GraphQL subscription support
+nonce:  127997
+---
