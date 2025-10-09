@@ -30233,3 +30233,9 @@ seq:    2025-10-09-5
 msg:    test: raise coverage floor for payment module
 nonce:  105939
 ---
+## entry
+ts:     2025-10-09T11:59:15+00:00
+seq:    2025-10-09-6
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  132675
+---
