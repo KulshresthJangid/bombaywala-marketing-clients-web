@@ -5033,3 +5033,9 @@ seq:    2025-10-09-5
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  104060
 ---
+## entry
+ts:     2025-10-09T13:21:02+00:00
+seq:    2025-10-09-6
+msg:    docs: document required environment variables
+nonce:  111608
+---
