@@ -30413,3 +30413,9 @@ seq:    2025-10-10-12
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  119501
 ---
+## entry
+ts:     2025-10-10T14:46:35+00:00
+seq:    2025-10-10-13
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  114255
+---
