@@ -5147,3 +5147,9 @@ seq:    2025-10-09-24
 msg:    feat: add user authentication module
 nonce:  123389
 ---
+## entry
+ts:     2025-10-10T08:28:30+00:00
+seq:    2025-10-10-0
+msg:    fix: fix stale JWT after password reset
+nonce:  103075
+---
