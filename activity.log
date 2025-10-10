@@ -30359,3 +30359,9 @@ seq:    2025-10-10-3
 msg:    refactor: extract auth guard into shared middleware
 nonce:  112603
 ---
+## entry
+ts:     2025-10-10T10:12:00+00:00
+seq:    2025-10-10-4
+msg:    fix: fix stale JWT after password reset
+nonce:  117436
+---
