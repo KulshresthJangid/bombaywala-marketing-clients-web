@@ -5195,3 +5195,9 @@ seq:    2025-10-10-7
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  103684
 ---
+## entry
+ts:     2025-10-10T14:35:38+00:00
+seq:    2025-10-10-8
+msg:    feat: implement two-factor authentication
+nonce:  128481
+---
