@@ -30365,3 +30365,9 @@ seq:    2025-10-10-4
 msg:    fix: fix stale JWT after password reset
 nonce:  117436
 ---
+## entry
+ts:     2025-10-10T10:41:32+00:00
+seq:    2025-10-10-5
+msg:    fix: sanitize user input in search filter
+nonce:  117637
+---
