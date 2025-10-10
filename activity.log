@@ -5225,3 +5225,9 @@ seq:    2025-10-10-12
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  126091
 ---
+## entry
+ts:     2025-10-10T17:44:38+00:00
+seq:    2025-10-10-13
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  124547
+---
