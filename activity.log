@@ -5237,3 +5237,9 @@ seq:    2025-10-10-14
 msg:    perf: memoize expensive permission-check results
 nonce:  107763
 ---
+## entry
+ts:     2025-10-10T22:16:14+00:00
+seq:    2025-10-10-15
+msg:    feat: implement dark mode toggle
+nonce:  124439
+---
