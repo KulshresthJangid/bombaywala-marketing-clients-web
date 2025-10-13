@@ -5255,3 +5255,9 @@ seq:    2025-10-13-1
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  107494
 ---
+## entry
+ts:     2025-10-13T11:18:50+00:00
+seq:    2025-10-13-2
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  114938
+---
