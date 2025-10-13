@@ -5261,3 +5261,9 @@ seq:    2025-10-13-2
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  114938
 ---
+## entry
+ts:     2025-10-13T12:57:35+00:00
+seq:    2025-10-13-3
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  107549
+---
