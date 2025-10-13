@@ -30515,3 +30515,9 @@ seq:    2025-10-13-9
 msg:    test: add edge-case tests for input validators
 nonce:  120068
 ---
+## entry
+ts:     2025-10-13T15:29:55+00:00
+seq:    2025-10-13-10
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  123469
+---
