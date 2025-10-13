@@ -5303,3 +5303,9 @@ seq:    2025-10-13-9
 msg:    feat: implement Redis caching layer
 nonce:  105893
 ---
+## entry
+ts:     2025-10-13T14:46:25+00:00
+seq:    2025-10-13-10
+msg:    feat: add email-verification flow
+nonce:  114182
+---
