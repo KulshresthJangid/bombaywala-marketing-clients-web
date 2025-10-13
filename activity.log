@@ -30497,3 +30497,9 @@ seq:    2025-10-13-6
 msg:    test: raise coverage floor for payment module
 nonce:  121862
 ---
+## entry
+ts:     2025-10-13T14:15:52+00:00
+seq:    2025-10-13-7
+msg:    refactor: centralise API error-response factory
+nonce:  116619
+---
