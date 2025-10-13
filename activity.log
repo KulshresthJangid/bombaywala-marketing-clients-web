@@ -30455,3 +30455,9 @@ seq:    2025-10-10-19
 msg:    chore: remove unused imports across codebase
 nonce:  129482
 ---
+## entry
+ts:     2025-10-13T08:41:23+00:00
+seq:    2025-10-13-0
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  101041
+---
