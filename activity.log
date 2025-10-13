@@ -5243,3 +5243,9 @@ seq:    2025-10-10-15
 msg:    feat: implement dark mode toggle
 nonce:  124439
 ---
+## entry
+ts:     2025-10-13T10:10:46+00:00
+seq:    2025-10-13-0
+msg:    test: improve assertion messages in user tests
+nonce:  132628
+---
