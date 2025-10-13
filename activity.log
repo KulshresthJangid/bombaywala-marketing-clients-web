@@ -30503,3 +30503,9 @@ seq:    2025-10-13-7
 msg:    refactor: centralise API error-response factory
 nonce:  116619
 ---
+## entry
+ts:     2025-10-13T15:06:23+00:00
+seq:    2025-10-13-8
+msg:    chore: apply prettier to all source files
+nonce:  105535
+---
