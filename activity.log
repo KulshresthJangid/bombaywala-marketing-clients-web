@@ -30467,3 +30467,9 @@ seq:    2025-10-13-1
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  118866
 ---
+## entry
+ts:     2025-10-13T11:29:50+00:00
+seq:    2025-10-13-2
+msg:    feat: add email-verification flow
+nonce:  105186
+---
