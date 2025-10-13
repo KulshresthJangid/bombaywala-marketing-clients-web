@@ -30557,3 +30557,9 @@ seq:    2025-10-13-16
 msg:    refactor: remove dead code from utils barrel
 nonce:  128642
 ---
+## entry
+ts:     2025-10-13T20:57:45+00:00
+seq:    2025-10-13-17
+msg:    test: add edge-case tests for input validators
+nonce:  121782
+---
