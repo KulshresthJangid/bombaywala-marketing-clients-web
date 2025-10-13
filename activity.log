@@ -30509,3 +30509,9 @@ seq:    2025-10-13-8
 msg:    chore: apply prettier to all source files
 nonce:  105535
 ---
+## entry
+ts:     2025-10-13T15:17:25+00:00
+seq:    2025-10-13-9
+msg:    test: add edge-case tests for input validators
+nonce:  120068
+---
