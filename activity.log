@@ -5429,3 +5429,9 @@ seq:    2025-10-14-14
 msg:    test: add integration tests for /api/v2 routes
 nonce:  106832
 ---
+## entry
+ts:     2025-10-14T16:03:08+00:00
+seq:    2025-10-14-15
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  112302
+---
