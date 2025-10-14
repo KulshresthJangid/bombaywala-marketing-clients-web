@@ -5369,3 +5369,9 @@ seq:    2025-10-14-4
 msg:    refactor: consolidate duplicate validation logic
 nonce:  119173
 ---
+## entry
+ts:     2025-10-14T10:26:53+00:00
+seq:    2025-10-14-5
+msg:    fix: resolve CORS rejection on preflight
+nonce:  122887
+---
