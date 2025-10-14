@@ -30659,3 +30659,9 @@ seq:    2025-10-14-13
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  129118
 ---
+## entry
+ts:     2025-10-14T17:51:38+00:00
+seq:    2025-10-14-14
+msg:    perf: parallelise image-resize pipeline
+nonce:  116730
+---
