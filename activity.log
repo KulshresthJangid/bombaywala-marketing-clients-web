@@ -30677,3 +30677,9 @@ seq:    2025-10-14-16
 msg:    refactor: remove dead code from utils barrel
 nonce:  113491
 ---
+## entry
+ts:     2025-10-14T18:31:59+00:00
+seq:    2025-10-14-17
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  105087
+---
