@@ -30581,3 +30581,9 @@ seq:    2025-10-14-0
 msg:    test: add edge-case tests for input validators
 nonce:  116777
 ---
+## entry
+ts:     2025-10-14T09:27:08+00:00
+seq:    2025-10-14-1
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  104259
+---
