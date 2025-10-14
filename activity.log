@@ -30665,3 +30665,9 @@ seq:    2025-10-14-14
 msg:    perf: parallelise image-resize pipeline
 nonce:  116730
 ---
+## entry
+ts:     2025-10-14T18:00:09+00:00
+seq:    2025-10-14-15
+msg:    refactor: extract auth guard into shared middleware
+nonce:  101326
+---
