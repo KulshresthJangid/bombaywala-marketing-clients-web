@@ -5363,3 +5363,9 @@ seq:    2025-10-14-3
 msg:    docs: add JSDoc to all public utility functions
 nonce:  103028
 ---
+## entry
+ts:     2025-10-14T10:12:53+00:00
+seq:    2025-10-14-4
+msg:    refactor: consolidate duplicate validation logic
+nonce:  119173
+---
