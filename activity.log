@@ -5465,3 +5465,9 @@ seq:    2025-10-14-20
 msg:    refactor: centralise API error-response factory
 nonce:  127442
 ---
+## entry
+ts:     2025-10-14T20:23:02+00:00
+seq:    2025-10-14-21
+msg:    docs: add architecture decision record for caching
+nonce:  103523
+---
