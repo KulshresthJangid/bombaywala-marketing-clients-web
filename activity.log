@@ -5447,3 +5447,9 @@ seq:    2025-10-14-17
 msg:    test: add integration tests for /api/v2 routes
 nonce:  111160
 ---
+## entry
+ts:     2025-10-14T17:22:50+00:00
+seq:    2025-10-14-18
+msg:    feat: create outbound webhook dispatcher
+nonce:  109373
+---
