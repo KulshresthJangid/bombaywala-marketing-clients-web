@@ -5387,3 +5387,9 @@ seq:    2025-10-14-7
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  107043
 ---
+## entry
+ts:     2025-10-14T11:35:38+00:00
+seq:    2025-10-14-8
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  111499
+---
