@@ -5453,3 +5453,9 @@ seq:    2025-10-14-18
 msg:    feat: create outbound webhook dispatcher
 nonce:  109373
 ---
+## entry
+ts:     2025-10-14T18:44:40+00:00
+seq:    2025-10-14-19
+msg:    fix: handle empty state on dashboard load
+nonce:  116951
+---
