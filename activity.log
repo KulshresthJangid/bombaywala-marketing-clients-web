@@ -30593,3 +30593,9 @@ seq:    2025-10-14-2
 msg:    chore: rotate copyright year in license header
 nonce:  111132
 ---
+## entry
+ts:     2025-10-14T09:41:10+00:00
+seq:    2025-10-14-3
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  105294
+---
