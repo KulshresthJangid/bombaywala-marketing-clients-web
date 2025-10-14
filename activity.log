@@ -5459,3 +5459,9 @@ seq:    2025-10-14-19
 msg:    fix: handle empty state on dashboard load
 nonce:  116951
 ---
+## entry
+ts:     2025-10-14T19:09:38+00:00
+seq:    2025-10-14-20
+msg:    refactor: centralise API error-response factory
+nonce:  127442
+---
