@@ -5405,3 +5405,9 @@ seq:    2025-10-14-10
 msg:    chore: rotate copyright year in license header
 nonce:  106100
 ---
+## entry
+ts:     2025-10-14T14:16:32+00:00
+seq:    2025-10-14-11
+msg:    refactor: extract auth guard into shared middleware
+nonce:  110554
+---
