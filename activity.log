@@ -5381,3 +5381,9 @@ seq:    2025-10-14-6
 msg:    test: add k6 load-test script for checkout flow
 nonce:  122729
 ---
+## entry
+ts:     2025-10-14T11:21:46+00:00
+seq:    2025-10-14-7
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  107043
+---
