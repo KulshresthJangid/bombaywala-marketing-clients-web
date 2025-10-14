@@ -30653,3 +30653,9 @@ seq:    2025-10-14-12
 msg:    fix: fix stale JWT after password reset
 nonce:  108505
 ---
+## entry
+ts:     2025-10-14T17:49:41+00:00
+seq:    2025-10-14-13
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  129118
+---
