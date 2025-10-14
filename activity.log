@@ -30605,3 +30605,9 @@ seq:    2025-10-14-4
 msg:    test: stub external HTTP calls in unit suite
 nonce:  125639
 ---
+## entry
+ts:     2025-10-14T10:27:50+00:00
+seq:    2025-10-14-5
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  110895
+---
