@@ -30587,3 +30587,9 @@ seq:    2025-10-14-1
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  104259
 ---
+## entry
+ts:     2025-10-14T09:27:10+00:00
+seq:    2025-10-14-2
+msg:    chore: rotate copyright year in license header
+nonce:  111132
+---
