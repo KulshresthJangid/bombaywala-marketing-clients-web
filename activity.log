@@ -30731,3 +30731,9 @@ seq:    2025-10-15-5
 msg:    docs: add getting-started guide to README
 nonce:  119555
 ---
+## entry
+ts:     2025-10-15T12:24:40+00:00
+seq:    2025-10-15-6
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  111510
+---
