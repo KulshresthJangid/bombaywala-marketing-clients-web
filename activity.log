@@ -30737,3 +30737,9 @@ seq:    2025-10-15-6
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  111510
 ---
+## entry
+ts:     2025-10-15T13:21:53+00:00
+seq:    2025-10-15-7
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  109440
+---
