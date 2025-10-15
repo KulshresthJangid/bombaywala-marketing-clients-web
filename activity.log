@@ -30755,3 +30755,9 @@ seq:    2025-10-15-9
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  111974
 ---
+## entry
+ts:     2025-10-15T14:29:26+00:00
+seq:    2025-10-15-10
+msg:    test: add unit tests for AuthService
+nonce:  101236
+---
