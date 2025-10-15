@@ -30707,3 +30707,9 @@ seq:    2025-10-15-1
 msg:    feat: implement dashboard analytics
 nonce:  102702
 ---
+## entry
+ts:     2025-10-15T09:57:42+00:00
+seq:    2025-10-15-2
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  107988
+---
