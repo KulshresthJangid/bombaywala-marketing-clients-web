@@ -30749,3 +30749,9 @@ seq:    2025-10-15-8
 msg:    chore: remove unused imports across codebase
 nonce:  104013
 ---
+## entry
+ts:     2025-10-15T13:47:53+00:00
+seq:    2025-10-15-9
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  111974
+---
