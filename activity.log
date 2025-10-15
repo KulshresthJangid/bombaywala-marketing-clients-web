@@ -30797,3 +30797,9 @@ seq:    2025-10-15-16
 msg:    docs: add architecture decision record for caching
 nonce:  113194
 ---
+## entry
+ts:     2025-10-15T21:11:30+00:00
+seq:    2025-10-15-17
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  108752
+---
