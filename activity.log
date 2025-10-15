@@ -30695,3 +30695,9 @@ seq:    2025-10-14-19
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  123911
 ---
+## entry
+ts:     2025-10-15T09:02:21+00:00
+seq:    2025-10-15-0
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  130274
+---
