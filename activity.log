@@ -5597,3 +5597,9 @@ seq:    2025-10-16-17
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  109785
 ---
+## entry
+ts:     2025-10-16T17:36:08+00:00
+seq:    2025-10-16-18
+msg:    feat: add user authentication module
+nonce:  124349
+---
