@@ -5627,3 +5627,9 @@ seq:    2025-10-16-22
 msg:    docs: update CHANGELOG for next release
 nonce:  109193
 ---
+## entry
+ts:     2025-10-16T22:25:47+00:00
+seq:    2025-10-16-23
+msg:    test: improve assertion messages in user tests
+nonce:  105714
+---
