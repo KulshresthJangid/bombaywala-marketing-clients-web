@@ -5549,3 +5549,9 @@ seq:    2025-10-16-9
 msg:    docs: add JSDoc to all public utility functions
 nonce:  132449
 ---
+## entry
+ts:     2025-10-16T13:53:25+00:00
+seq:    2025-10-16-10
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  104479
+---
