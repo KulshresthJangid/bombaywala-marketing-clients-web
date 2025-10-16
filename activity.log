@@ -5525,3 +5525,9 @@ seq:    2025-10-16-5
 msg:    feat: implement full-text search with filters
 nonce:  117638
 ---
+## entry
+ts:     2025-10-16T11:26:29+00:00
+seq:    2025-10-16-6
+msg:    docs: add getting-started guide to README
+nonce:  119630
+---
