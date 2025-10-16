@@ -5585,3 +5585,9 @@ seq:    2025-10-16-15
 msg:    fix: sanitize user input in search filter
 nonce:  110057
 ---
+## entry
+ts:     2025-10-16T17:19:15+00:00
+seq:    2025-10-16-16
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  117656
+---
