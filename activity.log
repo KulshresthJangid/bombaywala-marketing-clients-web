@@ -5489,3 +5489,9 @@ seq:    2025-10-14-24
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  131968
 ---
+## entry
+ts:     2025-10-16T08:40:08+00:00
+seq:    2025-10-16-0
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  132008
+---
