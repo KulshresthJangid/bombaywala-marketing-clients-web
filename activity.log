@@ -5561,3 +5561,9 @@ seq:    2025-10-16-11
 msg:    feat: add email-verification flow
 nonce:  116548
 ---
+## entry
+ts:     2025-10-16T15:39:33+00:00
+seq:    2025-10-16-12
+msg:    fix: correct off-by-one in pagination offset
+nonce:  112327
+---
