@@ -5555,3 +5555,9 @@ seq:    2025-10-16-10
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104479
 ---
+## entry
+ts:     2025-10-16T14:59:53+00:00
+seq:    2025-10-16-11
+msg:    feat: add email-verification flow
+nonce:  116548
+---
