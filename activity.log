@@ -30857,3 +30857,9 @@ seq:    2025-10-16-8
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  123252
 ---
+## entry
+ts:     2025-10-16T19:08:51+00:00
+seq:    2025-10-16-9
+msg:    test: raise coverage floor for payment module
+nonce:  110639
+---
