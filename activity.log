@@ -5615,3 +5615,9 @@ seq:    2025-10-16-20
 msg:    fix: resolve race condition in job queue
 nonce:  105203
 ---
+## entry
+ts:     2025-10-16T20:11:52+00:00
+seq:    2025-10-16-21
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  128086
+---
