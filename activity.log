@@ -5531,3 +5531,9 @@ seq:    2025-10-16-6
 msg:    docs: add getting-started guide to README
 nonce:  119630
 ---
+## entry
+ts:     2025-10-16T11:33:45+00:00
+seq:    2025-10-16-7
+msg:    feat: implement Redis caching layer
+nonce:  111971
+---
