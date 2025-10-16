@@ -5567,3 +5567,9 @@ seq:    2025-10-16-12
 msg:    fix: correct off-by-one in pagination offset
 nonce:  112327
 ---
+## entry
+ts:     2025-10-16T15:41:37+00:00
+seq:    2025-10-16-13
+msg:    test: add k6 load-test script for checkout flow
+nonce:  116761
+---
