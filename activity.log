@@ -30851,3 +30851,9 @@ seq:    2025-10-16-7
 msg:    refactor: replace callback hell with async/await
 nonce:  101036
 ---
+## entry
+ts:     2025-10-16T15:44:54+00:00
+seq:    2025-10-16-8
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  123252
+---
