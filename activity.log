@@ -5603,3 +5603,9 @@ seq:    2025-10-16-18
 msg:    feat: add user authentication module
 nonce:  124349
 ---
+## entry
+ts:     2025-10-16T18:57:30+00:00
+seq:    2025-10-16-19
+msg:    fix: sanitize user input in search filter
+nonce:  127276
+---
