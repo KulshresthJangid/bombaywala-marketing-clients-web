@@ -5663,3 +5663,9 @@ seq:    2025-10-17-4
 msg:    perf: enable gzip compression on API responses
 nonce:  112643
 ---
+## entry
+ts:     2025-10-17T12:45:38+00:00
+seq:    2025-10-17-5
+msg:    test: add k6 load-test script for checkout flow
+nonce:  130300
+---
