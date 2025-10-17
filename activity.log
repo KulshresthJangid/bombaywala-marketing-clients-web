@@ -30899,3 +30899,9 @@ seq:    2025-10-17-5
 msg:    feat: add email-verification flow
 nonce:  100246
 ---
+## entry
+ts:     2025-10-17T11:15:00+00:00
+seq:    2025-10-17-6
+msg:    refactor: replace callback hell with async/await
+nonce:  121739
+---
