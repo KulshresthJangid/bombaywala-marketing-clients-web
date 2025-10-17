@@ -30923,3 +30923,9 @@ seq:    2025-10-17-9
 msg:    chore: rotate copyright year in license header
 nonce:  103040
 ---
+## entry
+ts:     2025-10-17T15:17:39+00:00
+seq:    2025-10-17-10
+msg:    test: add integration tests for /api/v2 routes
+nonce:  128430
+---
