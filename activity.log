@@ -5645,3 +5645,9 @@ seq:    2025-10-17-1
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  118169
 ---
+## entry
+ts:     2025-10-17T10:17:51+00:00
+seq:    2025-10-17-2
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  125621
+---
