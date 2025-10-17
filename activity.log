@@ -5717,3 +5717,9 @@ seq:    2025-10-17-13
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  120957
 ---
+## entry
+ts:     2025-10-17T20:53:53+00:00
+seq:    2025-10-17-14
+msg:    feat: add email-verification flow
+nonce:  129595
+---
