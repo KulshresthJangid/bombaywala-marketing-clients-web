@@ -30935,3 +30935,9 @@ seq:    2025-10-17-11
 msg:    test: stub external HTTP calls in unit suite
 nonce:  112460
 ---
+## entry
+ts:     2025-10-17T15:49:39+00:00
+seq:    2025-10-17-12
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  107473
+---
