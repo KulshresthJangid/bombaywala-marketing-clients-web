@@ -5699,3 +5699,9 @@ seq:    2025-10-17-10
 msg:    test: stub external HTTP calls in unit suite
 nonce:  121777
 ---
+## entry
+ts:     2025-10-17T17:06:24+00:00
+seq:    2025-10-17-11
+msg:    refactor: consolidate duplicate validation logic
+nonce:  103274
+---
