@@ -30893,3 +30893,9 @@ seq:    2025-10-17-4
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  130985
 ---
+## entry
+ts:     2025-10-17T10:43:44+00:00
+seq:    2025-10-17-5
+msg:    feat: add email-verification flow
+nonce:  100246
+---
