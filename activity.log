@@ -30911,3 +30911,9 @@ seq:    2025-10-17-7
 msg:    feat: implement file upload with S3 backend
 nonce:  121074
 ---
+## entry
+ts:     2025-10-17T13:58:05+00:00
+seq:    2025-10-17-8
+msg:    docs: add architecture decision record for caching
+nonce:  109866
+---
