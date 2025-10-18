@@ -5735,3 +5735,9 @@ seq:    2025-10-18-0
 msg:    refactor: remove dead code from utils barrel
 nonce:  123084
 ---
+## entry
+ts:     2025-10-18T11:02:04+00:00
+seq:    2025-10-18-1
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  123709
+---
