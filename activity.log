@@ -5753,3 +5753,9 @@ seq:    2025-10-18-3
 msg:    test: add integration tests for /api/v2 routes
 nonce:  100523
 ---
+## entry
+ts:     2025-10-18T13:45:51+00:00
+seq:    2025-10-18-4
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  117794
+---
