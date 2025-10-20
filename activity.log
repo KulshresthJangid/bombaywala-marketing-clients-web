@@ -5825,3 +5825,9 @@ seq:    2025-10-20-2
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  113490
 ---
+## entry
+ts:     2025-10-20T10:49:05+00:00
+seq:    2025-10-20-3
+msg:    fix: correct date formatting in monthly report
+nonce:  128726
+---
