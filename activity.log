@@ -31025,3 +31025,9 @@ seq:    2025-10-20-12
 msg:    fix: correct date formatting in monthly report
 nonce:  112296
 ---
+## entry
+ts:     2025-10-20T17:37:21+00:00
+seq:    2025-10-20-13
+msg:    feat: add GraphQL subscription support
+nonce:  105098
+---
