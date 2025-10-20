@@ -5843,3 +5843,9 @@ seq:    2025-10-20-5
 msg:    test: raise coverage floor for payment module
 nonce:  131518
 ---
+## entry
+ts:     2025-10-20T11:43:48+00:00
+seq:    2025-10-20-6
+msg:    refactor: remove dead code from utils barrel
+nonce:  111872
+---
