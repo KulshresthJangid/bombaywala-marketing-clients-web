@@ -5873,3 +5873,9 @@ seq:    2025-10-20-10
 msg:    feat: add GraphQL subscription support
 nonce:  125646
 ---
+## entry
+ts:     2025-10-20T13:29:07+00:00
+seq:    2025-10-20-11
+msg:    feat: implement file upload with S3 backend
+nonce:  106300
+---
