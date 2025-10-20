@@ -5861,3 +5861,9 @@ seq:    2025-10-20-8
 msg:    test: stub external HTTP calls in unit suite
 nonce:  105625
 ---
+## entry
+ts:     2025-10-20T12:50:44+00:00
+seq:    2025-10-20-9
+msg:    refactor: remove dead code from utils barrel
+nonce:  124247
+---
