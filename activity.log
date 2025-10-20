@@ -30989,3 +30989,9 @@ seq:    2025-10-20-6
 msg:    feat: add export-to-CSV functionality
 nonce:  121704
 ---
+## entry
+ts:     2025-10-20T12:28:22+00:00
+seq:    2025-10-20-7
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  125787
+---
