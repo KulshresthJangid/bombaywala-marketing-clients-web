@@ -5813,3 +5813,9 @@ seq:    2025-10-20-0
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  106023
 ---
+## entry
+ts:     2025-10-20T10:06:57+00:00
+seq:    2025-10-20-1
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  123877
+---
