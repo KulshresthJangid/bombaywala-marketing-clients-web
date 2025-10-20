@@ -5831,3 +5831,9 @@ seq:    2025-10-20-3
 msg:    fix: correct date formatting in monthly report
 nonce:  128726
 ---
+## entry
+ts:     2025-10-20T11:13:32+00:00
+seq:    2025-10-20-4
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  121781
+---
