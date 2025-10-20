@@ -5807,3 +5807,9 @@ seq:    2025-10-18-12
 msg:    test: stub external HTTP calls in unit suite
 nonce:  129424
 ---
+## entry
+ts:     2025-10-20T09:34:14+00:00
+seq:    2025-10-20-0
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  106023
+---
