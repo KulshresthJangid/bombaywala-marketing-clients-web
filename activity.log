@@ -5867,3 +5867,9 @@ seq:    2025-10-20-9
 msg:    refactor: remove dead code from utils barrel
 nonce:  124247
 ---
+## entry
+ts:     2025-10-20T13:13:55+00:00
+seq:    2025-10-20-10
+msg:    feat: add GraphQL subscription support
+nonce:  125646
+---
