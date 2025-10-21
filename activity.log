@@ -6005,3 +6005,9 @@ seq:    2025-10-21-16
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  119848
 ---
+## entry
+ts:     2025-10-21T20:25:40+00:00
+seq:    2025-10-21-17
+msg:    test: add integration tests for /api/v2 routes
+nonce:  108094
+---
