@@ -5981,3 +5981,9 @@ seq:    2025-10-21-12
 msg:    feat: add OAuth2 social login flow
 nonce:  111123
 ---
+## entry
+ts:     2025-10-21T15:54:09+00:00
+seq:    2025-10-21-13
+msg:    feat: add export-to-CSV functionality
+nonce:  128250
+---
