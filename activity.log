@@ -5927,3 +5927,9 @@ seq:    2025-10-21-3
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  129542
 ---
+## entry
+ts:     2025-10-21T12:37:16+00:00
+seq:    2025-10-21-4
+msg:    test: raise coverage floor for payment module
+nonce:  112822
+---
