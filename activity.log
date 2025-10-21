@@ -31085,3 +31085,9 @@ seq:    2025-10-21-4
 msg:    perf: memoize expensive permission-check results
 nonce:  115123
 ---
+## entry
+ts:     2025-10-21T13:03:39+00:00
+seq:    2025-10-21-5
+msg:    feat: add export-to-CSV functionality
+nonce:  114767
+---
