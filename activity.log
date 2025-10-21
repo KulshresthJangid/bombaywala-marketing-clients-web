@@ -31097,3 +31097,9 @@ seq:    2025-10-21-6
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  110581
 ---
+## entry
+ts:     2025-10-21T15:22:19+00:00
+seq:    2025-10-21-7
+msg:    feat: create immutable audit-log service
+nonce:  106187
+---
