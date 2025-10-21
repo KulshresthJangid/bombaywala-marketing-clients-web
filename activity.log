@@ -5933,3 +5933,9 @@ seq:    2025-10-21-4
 msg:    test: raise coverage floor for payment module
 nonce:  112822
 ---
+## entry
+ts:     2025-10-21T13:07:52+00:00
+seq:    2025-10-21-5
+msg:    fix: resolve null pointer in user service
+nonce:  132155
+---
