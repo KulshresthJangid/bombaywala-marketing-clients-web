@@ -31073,3 +31073,9 @@ seq:    2025-10-21-2
 msg:    chore: remove unused imports across codebase
 nonce:  125180
 ---
+## entry
+ts:     2025-10-21T11:55:12+00:00
+seq:    2025-10-21-3
+msg:    test: add unit tests for AuthService
+nonce:  116207
+---
