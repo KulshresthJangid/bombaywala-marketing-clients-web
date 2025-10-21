@@ -31109,3 +31109,9 @@ seq:    2025-10-21-8
 msg:    fix: resolve race condition in job queue
 nonce:  111600
 ---
+## entry
+ts:     2025-10-21T16:57:44+00:00
+seq:    2025-10-21-9
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  131730
+---
