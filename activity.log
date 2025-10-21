@@ -5987,3 +5987,9 @@ seq:    2025-10-21-13
 msg:    feat: add export-to-CSV functionality
 nonce:  128250
 ---
+## entry
+ts:     2025-10-21T16:54:33+00:00
+seq:    2025-10-21-14
+msg:    feat: add multi-language (i18n) support
+nonce:  128779
+---
