@@ -5993,3 +5993,9 @@ seq:    2025-10-21-14
 msg:    feat: add multi-language (i18n) support
 nonce:  128779
 ---
+## entry
+ts:     2025-10-21T19:46:13+00:00
+seq:    2025-10-21-15
+msg:    refactor: extract auth guard into shared middleware
+nonce:  115609
+---
