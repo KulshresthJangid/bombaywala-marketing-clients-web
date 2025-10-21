@@ -31091,3 +31091,9 @@ seq:    2025-10-21-5
 msg:    feat: add export-to-CSV functionality
 nonce:  114767
 ---
+## entry
+ts:     2025-10-21T14:27:52+00:00
+seq:    2025-10-21-6
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  110581
+---
