@@ -6095,3 +6095,9 @@ seq:    2025-10-22-12
 msg:    fix: resolve null pointer in user service
 nonce:  111322
 ---
+## entry
+ts:     2025-10-22T14:05:32+00:00
+seq:    2025-10-22-13
+msg:    fix: correct off-by-one in pagination offset
+nonce:  115995
+---
