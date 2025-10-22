@@ -6125,3 +6125,9 @@ seq:    2025-10-22-17
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  126819
 ---
+## entry
+ts:     2025-10-22T15:54:31+00:00
+seq:    2025-10-22-18
+msg:    chore: reorganise src/ folder structure
+nonce:  111014
+---
