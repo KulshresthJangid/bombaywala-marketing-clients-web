@@ -6119,3 +6119,9 @@ seq:    2025-10-22-16
 msg:    test: add k6 load-test script for checkout flow
 nonce:  122295
 ---
+## entry
+ts:     2025-10-22T15:52:19+00:00
+seq:    2025-10-22-17
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  126819
+---
