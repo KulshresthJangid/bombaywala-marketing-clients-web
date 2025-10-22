@@ -6131,3 +6131,9 @@ seq:    2025-10-22-18
 msg:    chore: reorganise src/ folder structure
 nonce:  111014
 ---
+## entry
+ts:     2025-10-22T16:06:24+00:00
+seq:    2025-10-22-19
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  123451
+---
