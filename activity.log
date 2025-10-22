@@ -6149,3 +6149,9 @@ seq:    2025-10-22-21
 msg:    fix: fix stale JWT after password reset
 nonce:  109318
 ---
+## entry
+ts:     2025-10-22T20:31:20+00:00
+seq:    2025-10-22-22
+msg:    perf: lazy-load heavy chart library
+nonce:  101961
+---
