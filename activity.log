@@ -6077,3 +6077,9 @@ seq:    2025-10-22-9
 msg:    fix: fix stale JWT after password reset
 nonce:  112442
 ---
+## entry
+ts:     2025-10-22T11:58:34+00:00
+seq:    2025-10-22-10
+msg:    refactor: split God-service into focused modules
+nonce:  109024
+---
