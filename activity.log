@@ -6113,3 +6113,9 @@ seq:    2025-10-22-15
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  129532
 ---
+## entry
+ts:     2025-10-22T15:40:41+00:00
+seq:    2025-10-22-16
+msg:    test: add k6 load-test script for checkout flow
+nonce:  122295
+---
