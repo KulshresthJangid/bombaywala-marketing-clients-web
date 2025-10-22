@@ -6089,3 +6089,9 @@ seq:    2025-10-22-11
 msg:    feat: add cursor-based pagination
 nonce:  105535
 ---
+## entry
+ts:     2025-10-22T13:20:56+00:00
+seq:    2025-10-22-12
+msg:    fix: resolve null pointer in user service
+nonce:  111322
+---
