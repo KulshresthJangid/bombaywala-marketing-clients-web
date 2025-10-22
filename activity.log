@@ -6143,3 +6143,9 @@ seq:    2025-10-22-20
 msg:    feat: add cursor-based pagination
 nonce:  120784
 ---
+## entry
+ts:     2025-10-22T18:16:15+00:00
+seq:    2025-10-22-21
+msg:    fix: fix stale JWT after password reset
+nonce:  109318
+---
