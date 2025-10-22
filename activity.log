@@ -6023,3 +6023,9 @@ seq:    2025-10-22-0
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  114429
 ---
+## entry
+ts:     2025-10-22T08:51:05+00:00
+seq:    2025-10-22-1
+msg:    docs: update CHANGELOG for next release
+nonce:  119459
+---
