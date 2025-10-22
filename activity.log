@@ -6029,3 +6029,9 @@ seq:    2025-10-22-1
 msg:    docs: update CHANGELOG for next release
 nonce:  119459
 ---
+## entry
+ts:     2025-10-22T09:07:59+00:00
+seq:    2025-10-22-2
+msg:    feat: implement full-text search with filters
+nonce:  103232
+---
