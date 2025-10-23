@@ -6173,3 +6173,9 @@ seq:    2025-10-23-1
 msg:    feat: add email-verification flow
 nonce:  126272
 ---
+## entry
+ts:     2025-10-23T12:11:16+00:00
+seq:    2025-10-23-2
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  108993
+---
