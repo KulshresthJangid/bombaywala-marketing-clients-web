@@ -31199,3 +31199,9 @@ seq:    2025-10-23-13
 msg:    test: add unit tests for AuthService
 nonce:  128699
 ---
+## entry
+ts:     2025-10-23T16:47:08+00:00
+seq:    2025-10-23-14
+msg:    fix: sanitize user input in search filter
+nonce:  128549
+---
