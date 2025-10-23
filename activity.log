@@ -31163,3 +31163,9 @@ seq:    2025-10-23-7
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  126900
 ---
+## entry
+ts:     2025-10-23T13:11:36+00:00
+seq:    2025-10-23-8
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  109117
+---
