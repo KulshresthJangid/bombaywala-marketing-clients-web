@@ -6209,3 +6209,9 @@ seq:    2025-10-23-7
 msg:    docs: add architecture decision record for caching
 nonce:  124738
 ---
+## entry
+ts:     2025-10-23T15:05:05+00:00
+seq:    2025-10-23-8
+msg:    test: add edge-case tests for input validators
+nonce:  113716
+---
