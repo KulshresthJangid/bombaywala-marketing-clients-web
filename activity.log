@@ -31145,3 +31145,9 @@ seq:    2025-10-23-4
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  126962
 ---
+## entry
+ts:     2025-10-23T12:42:15+00:00
+seq:    2025-10-23-5
+msg:    test: raise coverage floor for payment module
+nonce:  132025
+---
