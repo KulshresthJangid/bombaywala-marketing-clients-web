@@ -31115,3 +31115,9 @@ seq:    2025-10-21-9
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  131730
 ---
+## entry
+ts:     2025-10-23T09:23:02+00:00
+seq:    2025-10-23-0
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  127806
+---
