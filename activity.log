@@ -6203,3 +6203,9 @@ seq:    2025-10-23-6
 msg:    fix: resolve CORS rejection on preflight
 nonce:  119615
 ---
+## entry
+ts:     2025-10-23T15:03:31+00:00
+seq:    2025-10-23-7
+msg:    docs: add architecture decision record for caching
+nonce:  124738
+---
