@@ -31235,3 +31235,9 @@ seq:    2025-10-23-19
 msg:    feat: implement dashboard analytics
 nonce:  105660
 ---
+## entry
+ts:     2025-10-23T22:21:56+00:00
+seq:    2025-10-23-20
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  115890
+---
