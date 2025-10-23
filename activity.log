@@ -6197,3 +6197,9 @@ seq:    2025-10-23-5
 msg:    docs: add getting-started guide to README
 nonce:  124590
 ---
+## entry
+ts:     2025-10-23T14:36:10+00:00
+seq:    2025-10-23-6
+msg:    fix: resolve CORS rejection on preflight
+nonce:  119615
+---
