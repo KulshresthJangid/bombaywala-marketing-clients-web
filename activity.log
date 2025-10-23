@@ -6221,3 +6221,9 @@ seq:    2025-10-23-9
 msg:    refactor: simplify connection pool configuration
 nonce:  111500
 ---
+## entry
+ts:     2025-10-23T20:33:34+00:00
+seq:    2025-10-23-10
+msg:    feat: add OAuth2 social login flow
+nonce:  100873
+---
