@@ -31181,3 +31181,9 @@ seq:    2025-10-23-10
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  100246
 ---
+## entry
+ts:     2025-10-23T14:38:58+00:00
+seq:    2025-10-23-11
+msg:    fix: correct date formatting in monthly report
+nonce:  115631
+---
