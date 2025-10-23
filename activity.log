@@ -31229,3 +31229,9 @@ seq:    2025-10-23-18
 msg:    fix: correct off-by-one in pagination offset
 nonce:  124307
 ---
+## entry
+ts:     2025-10-23T20:46:20+00:00
+seq:    2025-10-23-19
+msg:    feat: implement dashboard analytics
+nonce:  105660
+---
