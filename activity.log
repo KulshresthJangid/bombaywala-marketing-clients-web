@@ -31187,3 +31187,9 @@ seq:    2025-10-23-11
 msg:    fix: correct date formatting in monthly report
 nonce:  115631
 ---
+## entry
+ts:     2025-10-23T16:23:39+00:00
+seq:    2025-10-23-12
+msg:    chore: apply prettier to all source files
+nonce:  117768
+---
