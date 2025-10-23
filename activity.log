@@ -31151,3 +31151,9 @@ seq:    2025-10-23-5
 msg:    test: raise coverage floor for payment module
 nonce:  132025
 ---
+## entry
+ts:     2025-10-23T12:47:05+00:00
+seq:    2025-10-23-6
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  128576
+---
