@@ -31325,3 +31325,9 @@ seq:    2025-10-24-13
 msg:    feat: create admin panel route group
 nonce:  131878
 ---
+## entry
+ts:     2025-10-24T19:49:57+00:00
+seq:    2025-10-24-14
+msg:    docs: update CHANGELOG for next release
+nonce:  129049
+---
