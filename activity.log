@@ -6269,3 +6269,9 @@ seq:    2025-10-24-3
 msg:    perf: lazy-load heavy chart library
 nonce:  110171
 ---
+## entry
+ts:     2025-10-24T11:26:30+00:00
+seq:    2025-10-24-4
+msg:    test: improve assertion messages in user tests
+nonce:  119904
+---
