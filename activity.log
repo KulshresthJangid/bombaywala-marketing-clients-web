@@ -31247,3 +31247,9 @@ seq:    2025-10-24-0
 msg:    feat: create immutable audit-log service
 nonce:  129939
 ---
+## entry
+ts:     2025-10-24T09:00:04+00:00
+seq:    2025-10-24-1
+msg:    fix: fix stale JWT after password reset
+nonce:  125029
+---
