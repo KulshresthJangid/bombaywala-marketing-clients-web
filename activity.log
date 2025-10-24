@@ -31283,3 +31283,9 @@ seq:    2025-10-24-6
 msg:    test: improve assertion messages in user tests
 nonce:  105511
 ---
+## entry
+ts:     2025-10-24T14:11:16+00:00
+seq:    2025-10-24-7
+msg:    feat: add Stripe subscription billing
+nonce:  131696
+---
