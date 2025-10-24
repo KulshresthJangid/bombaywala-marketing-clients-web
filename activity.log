@@ -31313,3 +31313,9 @@ seq:    2025-10-24-11
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  101193
 ---
+## entry
+ts:     2025-10-24T16:23:24+00:00
+seq:    2025-10-24-12
+msg:    test: stub external HTTP calls in unit suite
+nonce:  102772
+---
