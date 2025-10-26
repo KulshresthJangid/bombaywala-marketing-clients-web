@@ -31355,3 +31355,9 @@ seq:    2025-10-26-2
 msg:    fix: fix stale JWT after password reset
 nonce:  127715
 ---
+## entry
+ts:     2025-10-26T13:15:23+00:00
+seq:    2025-10-26-3
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  100927
+---
