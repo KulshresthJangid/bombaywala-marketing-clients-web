@@ -31337,3 +31337,9 @@ seq:    2025-10-24-15
 msg:    chore: pin transitive dependency versions
 nonce:  112662
 ---
+## entry
+ts:     2025-10-26T10:22:20+00:00
+seq:    2025-10-26-0
+msg:    test: add unit tests for AuthService
+nonce:  100240
+---
