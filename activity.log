@@ -6317,3 +6317,9 @@ seq:    2025-10-26-0
 msg:    fix: handle empty state on dashboard load
 nonce:  100534
 ---
+## entry
+ts:     2025-10-26T10:18:07+00:00
+seq:    2025-10-26-1
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  128885
+---
