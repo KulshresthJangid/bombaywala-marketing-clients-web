@@ -31373,3 +31373,9 @@ seq:    2025-10-26-5
 msg:    test: raise coverage floor for payment module
 nonce:  121861
 ---
+## entry
+ts:     2025-10-26T16:36:03+00:00
+seq:    2025-10-26-6
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  132512
+---
