@@ -31439,3 +31439,9 @@ seq:    2025-10-29-5
 msg:    test: add snapshot tests for report generator
 nonce:  118089
 ---
+## entry
+ts:     2025-10-29T13:53:27+00:00
+seq:    2025-10-29-6
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  125403
+---
