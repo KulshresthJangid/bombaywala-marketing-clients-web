@@ -31445,3 +31445,9 @@ seq:    2025-10-29-6
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  125403
 ---
+## entry
+ts:     2025-10-29T14:44:18+00:00
+seq:    2025-10-29-7
+msg:    refactor: centralise API error-response factory
+nonce:  100142
+---
