@@ -6431,3 +6431,9 @@ seq:    2025-10-30-8
 msg:    refactor: migrate from winston to pino logger
 nonce:  113838
 ---
+## entry
+ts:     2025-10-30T14:00:09+00:00
+seq:    2025-10-30-9
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  100142
+---
