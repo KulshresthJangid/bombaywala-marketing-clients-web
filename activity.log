@@ -6419,3 +6419,9 @@ seq:    2025-10-30-6
 msg:    feat: add user authentication module
 nonce:  124427
 ---
+## entry
+ts:     2025-10-30T12:05:24+00:00
+seq:    2025-10-30-7
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  107481
+---
