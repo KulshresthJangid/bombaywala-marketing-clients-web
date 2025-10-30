@@ -6449,3 +6449,9 @@ seq:    2025-10-30-11
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  115466
 ---
+## entry
+ts:     2025-10-30T15:43:21+00:00
+seq:    2025-10-30-12
+msg:    docs: add getting-started guide to README
+nonce:  112219
+---
