@@ -6377,3 +6377,9 @@ seq:    2025-10-26-10
 msg:    feat: implement dark mode toggle
 nonce:  101187
 ---
+## entry
+ts:     2025-10-30T08:00:29+00:00
+seq:    2025-10-30-0
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  117044
+---
