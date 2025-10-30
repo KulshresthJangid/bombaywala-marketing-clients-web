@@ -6479,3 +6479,9 @@ seq:    2025-10-30-16
 msg:    chore: apply prettier to all source files
 nonce:  114928
 ---
+## entry
+ts:     2025-10-30T19:23:51+00:00
+seq:    2025-10-30-17
+msg:    fix: correct off-by-one in pagination offset
+nonce:  120676
+---
