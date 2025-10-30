@@ -6389,3 +6389,9 @@ seq:    2025-10-30-1
 msg:    test: add integration tests for /api/v2 routes
 nonce:  112626
 ---
+## entry
+ts:     2025-10-30T08:46:46+00:00
+seq:    2025-10-30-2
+msg:    fix: resolve CORS rejection on preflight
+nonce:  108967
+---
