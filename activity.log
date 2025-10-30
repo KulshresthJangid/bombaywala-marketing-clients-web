@@ -6401,3 +6401,9 @@ seq:    2025-10-30-3
 msg:    feat: implement two-factor authentication
 nonce:  128796
 ---
+## entry
+ts:     2025-10-30T10:59:50+00:00
+seq:    2025-10-30-4
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  111469
+---
