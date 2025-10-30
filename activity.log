@@ -6485,3 +6485,9 @@ seq:    2025-10-30-17
 msg:    fix: correct off-by-one in pagination offset
 nonce:  120676
 ---
+## entry
+ts:     2025-10-30T20:10:58+00:00
+seq:    2025-10-30-18
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  112016
+---
