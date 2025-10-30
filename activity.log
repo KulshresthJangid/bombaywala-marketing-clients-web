@@ -6383,3 +6383,9 @@ seq:    2025-10-30-0
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  117044
 ---
+## entry
+ts:     2025-10-30T08:18:35+00:00
+seq:    2025-10-30-1
+msg:    test: add integration tests for /api/v2 routes
+nonce:  112626
+---
