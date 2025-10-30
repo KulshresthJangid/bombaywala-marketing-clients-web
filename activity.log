@@ -31505,3 +31505,9 @@ seq:    2025-10-30-5
 msg:    refactor: consolidate duplicate validation logic
 nonce:  122665
 ---
+## entry
+ts:     2025-10-30T11:19:29+00:00
+seq:    2025-10-30-6
+msg:    fix: resolve null pointer in user service
+nonce:  104046
+---
