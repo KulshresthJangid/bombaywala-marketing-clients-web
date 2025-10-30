@@ -31475,3 +31475,9 @@ seq:    2025-10-30-0
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  113278
 ---
+## entry
+ts:     2025-10-30T09:58:07+00:00
+seq:    2025-10-30-1
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  117939
+---
