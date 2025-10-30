@@ -31535,3 +31535,9 @@ seq:    2025-10-30-10
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  118060
 ---
+## entry
+ts:     2025-10-30T13:47:39+00:00
+seq:    2025-10-30-11
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  128569
+---
