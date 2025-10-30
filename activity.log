@@ -6461,3 +6461,9 @@ seq:    2025-10-30-13
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  102468
 ---
+## entry
+ts:     2025-10-30T16:48:11+00:00
+seq:    2025-10-30-14
+msg:    feat: add cursor-based pagination
+nonce:  106478
+---
