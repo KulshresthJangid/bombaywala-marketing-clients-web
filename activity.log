@@ -6413,3 +6413,9 @@ seq:    2025-10-30-5
 msg:    perf: trim unnecessary fields from list responses
 nonce:  131715
 ---
+## entry
+ts:     2025-10-30T11:58:45+00:00
+seq:    2025-10-30-6
+msg:    feat: add user authentication module
+nonce:  124427
+---
