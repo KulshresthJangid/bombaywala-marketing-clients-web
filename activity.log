@@ -31529,3 +31529,9 @@ seq:    2025-10-30-9
 msg:    feat: implement full-text search with filters
 nonce:  124484
 ---
+## entry
+ts:     2025-10-30T13:35:29+00:00
+seq:    2025-10-30-10
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  118060
+---
