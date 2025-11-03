@@ -6593,3 +6593,9 @@ seq:    2025-11-03-16
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  107446
 ---
+## entry
+ts:     2025-11-03T17:10:32+00:00
+seq:    2025-11-03-17
+msg:    feat: add real-time notification system
+nonce:  115115
+---
