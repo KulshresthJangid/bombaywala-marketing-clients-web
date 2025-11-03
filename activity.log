@@ -31607,3 +31607,9 @@ seq:    2025-10-30-22
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  132711
 ---
+## entry
+ts:     2025-11-03T10:15:10+00:00
+seq:    2025-11-03-0
+msg:    feat: scaffold onboarding wizard UI
+nonce:  109288
+---
