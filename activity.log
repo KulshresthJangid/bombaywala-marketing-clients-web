@@ -31679,3 +31679,9 @@ seq:    2025-11-03-11
 msg:    fix: correct date formatting in monthly report
 nonce:  115936
 ---
+## entry
+ts:     2025-11-03T22:49:07+00:00
+seq:    2025-11-03-12
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  127835
+---
