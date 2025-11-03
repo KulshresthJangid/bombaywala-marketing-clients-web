@@ -31655,3 +31655,9 @@ seq:    2025-11-03-7
 msg:    feat: add batch job processing queue
 nonce:  114280
 ---
+## entry
+ts:     2025-11-03T15:37:55+00:00
+seq:    2025-11-03-8
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  132517
+---
