@@ -31673,3 +31673,9 @@ seq:    2025-11-03-10
 msg:    test: add k6 load-test script for checkout flow
 nonce:  125311
 ---
+## entry
+ts:     2025-11-03T20:16:49+00:00
+seq:    2025-11-03-11
+msg:    fix: correct date formatting in monthly report
+nonce:  115936
+---
