@@ -6557,3 +6557,9 @@ seq:    2025-11-03-10
 msg:    fix: resolve null pointer in user service
 nonce:  131954
 ---
+## entry
+ts:     2025-11-03T14:55:51+00:00
+seq:    2025-11-03-11
+msg:    feat: add OAuth2 social login flow
+nonce:  105180
+---
