@@ -6575,3 +6575,9 @@ seq:    2025-11-03-13
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  114280
 ---
+## entry
+ts:     2025-11-03T15:43:02+00:00
+seq:    2025-11-03-14
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  102029
+---
