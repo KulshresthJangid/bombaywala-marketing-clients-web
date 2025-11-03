@@ -6581,3 +6581,9 @@ seq:    2025-11-03-14
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  102029
 ---
+## entry
+ts:     2025-11-03T15:51:54+00:00
+seq:    2025-11-03-15
+msg:    feat: implement full-text search with filters
+nonce:  111791
+---
