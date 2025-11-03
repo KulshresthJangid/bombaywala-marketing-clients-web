@@ -6617,3 +6617,9 @@ seq:    2025-11-03-20
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  123100
 ---
+## entry
+ts:     2025-11-03T22:38:28+00:00
+seq:    2025-11-03-21
+msg:    feat: scaffold onboarding wizard UI
+nonce:  129204
+---
