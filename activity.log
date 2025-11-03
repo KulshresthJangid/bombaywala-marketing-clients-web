@@ -31637,3 +31637,9 @@ seq:    2025-11-03-4
 msg:    fix: correct off-by-one in pagination offset
 nonce:  101588
 ---
+## entry
+ts:     2025-11-03T13:28:58+00:00
+seq:    2025-11-03-5
+msg:    feat: add GraphQL subscription support
+nonce:  121632
+---
