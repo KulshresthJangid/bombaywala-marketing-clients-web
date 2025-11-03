@@ -6545,3 +6545,9 @@ seq:    2025-11-03-8
 msg:    feat: create admin panel route group
 nonce:  113999
 ---
+## entry
+ts:     2025-11-03T13:06:46+00:00
+seq:    2025-11-03-9
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  107628
+---
