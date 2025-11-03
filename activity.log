@@ -31613,3 +31613,9 @@ seq:    2025-11-03-0
 msg:    feat: scaffold onboarding wizard UI
 nonce:  109288
 ---
+## entry
+ts:     2025-11-03T11:00:38+00:00
+seq:    2025-11-03-1
+msg:    chore: rotate copyright year in license header
+nonce:  105644
+---
