@@ -6599,3 +6599,9 @@ seq:    2025-11-03-17
 msg:    feat: add real-time notification system
 nonce:  115115
 ---
+## entry
+ts:     2025-11-03T19:15:02+00:00
+seq:    2025-11-03-18
+msg:    docs: update CHANGELOG for next release
+nonce:  102345
+---
