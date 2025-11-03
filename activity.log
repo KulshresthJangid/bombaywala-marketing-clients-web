@@ -6605,3 +6605,9 @@ seq:    2025-11-03-18
 msg:    docs: update CHANGELOG for next release
 nonce:  102345
 ---
+## entry
+ts:     2025-11-03T21:04:35+00:00
+seq:    2025-11-03-19
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  123430
+---
