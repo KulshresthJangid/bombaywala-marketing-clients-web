@@ -31745,3 +31745,9 @@ seq:    2025-11-04-9
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  129135
 ---
+## entry
+ts:     2025-11-04T18:14:05+00:00
+seq:    2025-11-04-10
+msg:    refactor: split God-service into focused modules
+nonce:  118712
+---
