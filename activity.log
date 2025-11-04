@@ -31691,3 +31691,9 @@ seq:    2025-11-04-0
 msg:    feat: implement dashboard analytics
 nonce:  103689
 ---
+## entry
+ts:     2025-11-04T09:42:26+00:00
+seq:    2025-11-04-1
+msg:    refactor: extract auth guard into shared middleware
+nonce:  130883
+---
