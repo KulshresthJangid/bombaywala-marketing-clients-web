@@ -31757,3 +31757,9 @@ seq:    2025-11-04-11
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  128829
 ---
+## entry
+ts:     2025-11-04T22:02:26+00:00
+seq:    2025-11-04-12
+msg:    fix: resolve race condition in job queue
+nonce:  109973
+---
