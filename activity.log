@@ -6653,3 +6653,9 @@ seq:    2025-11-04-3
 msg:    refactor: centralise API error-response factory
 nonce:  131205
 ---
+## entry
+ts:     2025-11-04T11:05:27+00:00
+seq:    2025-11-04-4
+msg:    feat: add Stripe subscription billing
+nonce:  120131
+---
