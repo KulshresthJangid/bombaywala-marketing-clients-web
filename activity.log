@@ -31697,3 +31697,9 @@ seq:    2025-11-04-1
 msg:    refactor: extract auth guard into shared middleware
 nonce:  130883
 ---
+## entry
+ts:     2025-11-04T12:12:40+00:00
+seq:    2025-11-04-2
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  131140
+---
