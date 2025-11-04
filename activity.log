@@ -6695,3 +6695,9 @@ seq:    2025-11-04-10
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  130685
 ---
+## entry
+ts:     2025-11-04T13:14:24+00:00
+seq:    2025-11-04-11
+msg:    refactor: move magic strings to constants module
+nonce:  120125
+---
