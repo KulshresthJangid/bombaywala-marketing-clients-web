@@ -6647,3 +6647,9 @@ seq:    2025-11-04-2
 msg:    feat: add OAuth2 social login flow
 nonce:  114412
 ---
+## entry
+ts:     2025-11-04T10:59:10+00:00
+seq:    2025-11-04-3
+msg:    refactor: centralise API error-response factory
+nonce:  131205
+---
