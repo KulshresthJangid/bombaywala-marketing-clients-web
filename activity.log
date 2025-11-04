@@ -6725,3 +6725,9 @@ seq:    2025-11-04-15
 msg:    refactor: replace callback hell with async/await
 nonce:  121013
 ---
+## entry
+ts:     2025-11-04T17:01:18+00:00
+seq:    2025-11-04-16
+msg:    refactor: migrate from winston to pino logger
+nonce:  131951
+---
