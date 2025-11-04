@@ -6659,3 +6659,9 @@ seq:    2025-11-04-4
 msg:    feat: add Stripe subscription billing
 nonce:  120131
 ---
+## entry
+ts:     2025-11-04T11:08:08+00:00
+seq:    2025-11-04-5
+msg:    test: add snapshot tests for report generator
+nonce:  125190
+---
