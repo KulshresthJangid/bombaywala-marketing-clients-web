@@ -6683,3 +6683,9 @@ seq:    2025-11-04-8
 msg:    refactor: replace callback hell with async/await
 nonce:  106859
 ---
+## entry
+ts:     2025-11-04T12:00:32+00:00
+seq:    2025-11-04-9
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  115243
+---
