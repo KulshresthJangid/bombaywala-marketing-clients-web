@@ -6635,3 +6635,9 @@ seq:    2025-11-04-0
 msg:    refactor: migrate from winston to pino logger
 nonce:  107731
 ---
+## entry
+ts:     2025-11-04T09:31:57+00:00
+seq:    2025-11-04-1
+msg:    refactor: remove dead code from utils barrel
+nonce:  130414
+---
