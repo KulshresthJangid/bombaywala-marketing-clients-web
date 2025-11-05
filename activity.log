@@ -6809,3 +6809,9 @@ seq:    2025-11-05-8
 msg:    refactor: remove dead code from utils barrel
 nonce:  113095
 ---
+## entry
+ts:     2025-11-05T13:47:19+00:00
+seq:    2025-11-05-9
+msg:    refactor: centralise API error-response factory
+nonce:  110830
+---
