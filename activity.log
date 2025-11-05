@@ -6767,3 +6767,9 @@ seq:    2025-11-05-1
 msg:    feat: create immutable audit-log service
 nonce:  105864
 ---
+## entry
+ts:     2025-11-05T09:30:11+00:00
+seq:    2025-11-05-2
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  124471
+---
