@@ -31853,3 +31853,9 @@ seq:    2025-11-05-14
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  106465
 ---
+## entry
+ts:     2025-11-05T20:04:41+00:00
+seq:    2025-11-05-15
+msg:    feat: add Stripe subscription billing
+nonce:  121668
+---
