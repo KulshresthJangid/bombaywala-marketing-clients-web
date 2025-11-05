@@ -6899,3 +6899,9 @@ seq:    2025-11-05-23
 msg:    refactor: remove dead code from utils barrel
 nonce:  123056
 ---
+## entry
+ts:     2025-11-05T19:31:53+00:00
+seq:    2025-11-05-24
+msg:    fix: resolve race condition in job queue
+nonce:  119917
+---
