@@ -6773,3 +6773,9 @@ seq:    2025-11-05-2
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  124471
 ---
+## entry
+ts:     2025-11-05T09:53:33+00:00
+seq:    2025-11-05-3
+msg:    feat: create admin panel route group
+nonce:  127763
+---
