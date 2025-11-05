@@ -31841,3 +31841,9 @@ seq:    2025-11-05-12
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  106466
 ---
+## entry
+ts:     2025-11-05T16:05:23+00:00
+seq:    2025-11-05-13
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  132697
+---
