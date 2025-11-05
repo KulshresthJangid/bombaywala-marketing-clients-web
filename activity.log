@@ -31811,3 +31811,9 @@ seq:    2025-11-05-7
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  111280
 ---
+## entry
+ts:     2025-11-05T13:16:12+00:00
+seq:    2025-11-05-8
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  113523
+---
