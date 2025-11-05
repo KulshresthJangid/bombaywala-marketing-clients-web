@@ -31805,3 +31805,9 @@ seq:    2025-11-05-6
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  105393
 ---
+## entry
+ts:     2025-11-05T13:03:54+00:00
+seq:    2025-11-05-7
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  111280
+---
