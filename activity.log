@@ -6839,3 +6839,9 @@ seq:    2025-11-05-13
 msg:    feat: add real-time notification system
 nonce:  106085
 ---
+## entry
+ts:     2025-11-05T15:03:23+00:00
+seq:    2025-11-05-14
+msg:    feat: add GraphQL subscription support
+nonce:  127066
+---
