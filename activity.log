@@ -6893,3 +6893,9 @@ seq:    2025-11-05-22
 msg:    refactor: split God-service into focused modules
 nonce:  100177
 ---
+## entry
+ts:     2025-11-05T19:09:31+00:00
+seq:    2025-11-05-23
+msg:    refactor: remove dead code from utils barrel
+nonce:  123056
+---
