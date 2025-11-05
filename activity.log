@@ -6791,3 +6791,9 @@ seq:    2025-11-05-5
 msg:    test: add unit tests for AuthService
 nonce:  124446
 ---
+## entry
+ts:     2025-11-05T12:16:34+00:00
+seq:    2025-11-05-6
+msg:    test: add k6 load-test script for checkout flow
+nonce:  115890
+---
