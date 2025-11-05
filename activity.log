@@ -6803,3 +6803,9 @@ seq:    2025-11-05-7
 msg:    fix: sanitize user input in search filter
 nonce:  122316
 ---
+## entry
+ts:     2025-11-05T13:44:17+00:00
+seq:    2025-11-05-8
+msg:    refactor: remove dead code from utils barrel
+nonce:  113095
+---
