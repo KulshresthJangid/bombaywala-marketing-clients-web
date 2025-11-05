@@ -6869,3 +6869,9 @@ seq:    2025-11-05-18
 msg:    feat: add GraphQL subscription support
 nonce:  117364
 ---
+## entry
+ts:     2025-11-05T16:48:50+00:00
+seq:    2025-11-05-19
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  129274
+---
