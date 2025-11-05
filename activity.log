@@ -6863,3 +6863,9 @@ seq:    2025-11-05-17
 msg:    perf: enable gzip compression on API responses
 nonce:  109036
 ---
+## entry
+ts:     2025-11-05T16:28:20+00:00
+seq:    2025-11-05-18
+msg:    feat: add GraphQL subscription support
+nonce:  117364
+---
