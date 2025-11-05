@@ -31775,3 +31775,9 @@ seq:    2025-11-05-1
 msg:    docs: add architecture decision record for caching
 nonce:  113913
 ---
+## entry
+ts:     2025-11-05T11:15:24+00:00
+seq:    2025-11-05-2
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  100817
+---
