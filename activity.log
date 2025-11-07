@@ -6941,3 +6941,9 @@ seq:    2025-11-07-5
 msg:    chore: apply prettier to all source files
 nonce:  116461
 ---
+## entry
+ts:     2025-11-07T13:06:03+00:00
+seq:    2025-11-07-6
+msg:    feat: add rate-limiting middleware
+nonce:  101423
+---
