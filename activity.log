@@ -31913,3 +31913,9 @@ seq:    2025-11-07-5
 msg:    test: add edge-case tests for input validators
 nonce:  129783
 ---
+## entry
+ts:     2025-11-07T15:57:29+00:00
+seq:    2025-11-07-6
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  122249
+---
