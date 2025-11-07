@@ -31895,3 +31895,9 @@ seq:    2025-11-07-2
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  126689
 ---
+## entry
+ts:     2025-11-07T15:03:13+00:00
+seq:    2025-11-07-3
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  102905
+---
