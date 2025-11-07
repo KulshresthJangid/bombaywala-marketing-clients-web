@@ -6983,3 +6983,9 @@ seq:    2025-11-07-12
 msg:    test: add k6 load-test script for checkout flow
 nonce:  112358
 ---
+## entry
+ts:     2025-11-07T21:25:25+00:00
+seq:    2025-11-07-13
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  103653
+---
