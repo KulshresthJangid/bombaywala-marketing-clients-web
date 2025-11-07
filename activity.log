@@ -6965,3 +6965,9 @@ seq:    2025-11-07-9
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  106908
 ---
+## entry
+ts:     2025-11-07T16:58:09+00:00
+seq:    2025-11-07-10
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  121123
+---
