@@ -6959,3 +6959,9 @@ seq:    2025-11-07-8
 msg:    feat: add OAuth2 social login flow
 nonce:  111411
 ---
+## entry
+ts:     2025-11-07T16:45:48+00:00
+seq:    2025-11-07-9
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  106908
+---
