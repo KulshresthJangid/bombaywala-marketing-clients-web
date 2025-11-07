@@ -6971,3 +6971,9 @@ seq:    2025-11-07-10
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  121123
 ---
+## entry
+ts:     2025-11-07T20:02:56+00:00
+seq:    2025-11-07-11
+msg:    feat: add multi-language (i18n) support
+nonce:  101849
+---
