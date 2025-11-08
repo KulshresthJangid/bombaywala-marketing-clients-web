@@ -31979,3 +31979,9 @@ seq:    2025-11-08-5
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  119998
 ---
+## entry
+ts:     2025-11-08T11:40:18+00:00
+seq:    2025-11-08-6
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  118462
+---
