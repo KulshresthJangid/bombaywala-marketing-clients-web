@@ -31973,3 +31973,9 @@ seq:    2025-11-08-4
 msg:    test: raise coverage floor for payment module
 nonce:  104537
 ---
+## entry
+ts:     2025-11-08T10:53:56+00:00
+seq:    2025-11-08-5
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  119998
+---
