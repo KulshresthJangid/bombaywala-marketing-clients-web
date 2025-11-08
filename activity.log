@@ -31997,3 +31997,9 @@ seq:    2025-11-08-8
 msg:    test: improve assertion messages in user tests
 nonce:  100951
 ---
+## entry
+ts:     2025-11-08T13:46:24+00:00
+seq:    2025-11-08-9
+msg:    feat: add user authentication module
+nonce:  118553
+---
