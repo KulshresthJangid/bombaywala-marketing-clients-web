@@ -32051,3 +32051,9 @@ seq:    2025-11-08-17
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  114032
 ---
+## entry
+ts:     2025-11-08T20:56:21+00:00
+seq:    2025-11-08-18
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  118184
+---
