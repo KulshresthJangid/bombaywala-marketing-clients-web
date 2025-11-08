@@ -32057,3 +32057,9 @@ seq:    2025-11-08-18
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  118184
 ---
+## entry
+ts:     2025-11-08T20:59:33+00:00
+seq:    2025-11-08-19
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  107638
+---
