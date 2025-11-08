@@ -31967,3 +31967,9 @@ seq:    2025-11-08-3
 msg:    feat: scaffold onboarding wizard UI
 nonce:  128182
 ---
+## entry
+ts:     2025-11-08T10:26:58+00:00
+seq:    2025-11-08-4
+msg:    test: raise coverage floor for payment module
+nonce:  104537
+---
