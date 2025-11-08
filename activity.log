@@ -32027,3 +32027,9 @@ seq:    2025-11-08-13
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  131985
 ---
+## entry
+ts:     2025-11-08T17:15:51+00:00
+seq:    2025-11-08-14
+msg:    fix: resolve null pointer in user service
+nonce:  107414
+---
