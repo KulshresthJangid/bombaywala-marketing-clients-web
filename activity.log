@@ -32045,3 +32045,9 @@ seq:    2025-11-08-16
 msg:    refactor: remove dead code from utils barrel
 nonce:  106033
 ---
+## entry
+ts:     2025-11-08T19:23:56+00:00
+seq:    2025-11-08-17
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  114032
+---
