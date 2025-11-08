@@ -31985,3 +31985,9 @@ seq:    2025-11-08-6
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  118462
 ---
+## entry
+ts:     2025-11-08T13:05:26+00:00
+seq:    2025-11-08-7
+msg:    feat: create outbound webhook dispatcher
+nonce:  113769
+---
