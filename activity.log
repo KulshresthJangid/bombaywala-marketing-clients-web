@@ -7055,3 +7055,9 @@ seq:    2025-11-09-10
 msg:    fix: sanitize user input in search filter
 nonce:  117979
 ---
+## entry
+ts:     2025-11-09T14:24:43+00:00
+seq:    2025-11-09-11
+msg:    fix: resolve null pointer in user service
+nonce:  124949
+---
