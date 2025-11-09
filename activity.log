@@ -7019,3 +7019,9 @@ seq:    2025-11-09-4
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  119550
 ---
+## entry
+ts:     2025-11-09T12:05:17+00:00
+seq:    2025-11-09-5
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  104196
+---
