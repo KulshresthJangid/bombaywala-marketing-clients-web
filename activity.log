@@ -32159,3 +32159,9 @@ seq:    2025-11-09-13
 msg:    fix: patch reflected-XSS in comment field
 nonce:  129576
 ---
+## entry
+ts:     2025-11-09T16:46:03+00:00
+seq:    2025-11-09-14
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  113396
+---
