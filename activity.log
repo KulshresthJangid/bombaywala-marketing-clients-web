@@ -7031,3 +7031,9 @@ seq:    2025-11-09-6
 msg:    chore: reorganise src/ folder structure
 nonce:  121492
 ---
+## entry
+ts:     2025-11-09T12:48:52+00:00
+seq:    2025-11-09-7
+msg:    feat: add GraphQL subscription support
+nonce:  108884
+---
