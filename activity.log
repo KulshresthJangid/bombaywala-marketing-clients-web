@@ -32201,3 +32201,9 @@ seq:    2025-11-09-20
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  127245
 ---
+## entry
+ts:     2025-11-09T22:22:27+00:00
+seq:    2025-11-09-21
+msg:    fix: correct off-by-one in pagination offset
+nonce:  114351
+---
