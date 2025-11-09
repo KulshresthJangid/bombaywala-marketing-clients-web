@@ -32153,3 +32153,9 @@ seq:    2025-11-09-12
 msg:    feat: create admin panel route group
 nonce:  123972
 ---
+## entry
+ts:     2025-11-09T16:35:37+00:00
+seq:    2025-11-09-13
+msg:    fix: patch reflected-XSS in comment field
+nonce:  129576
+---
