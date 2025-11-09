@@ -32099,3 +32099,9 @@ seq:    2025-11-09-3
 msg:    test: raise coverage floor for payment module
 nonce:  104441
 ---
+## entry
+ts:     2025-11-09T11:34:38+00:00
+seq:    2025-11-09-4
+msg:    refactor: simplify connection pool configuration
+nonce:  100433
+---
