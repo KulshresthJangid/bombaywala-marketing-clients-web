@@ -7079,3 +7079,9 @@ seq:    2025-11-09-14
 msg:    feat: add Stripe subscription billing
 nonce:  114661
 ---
+## entry
+ts:     2025-11-09T16:43:14+00:00
+seq:    2025-11-09-15
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  116660
+---
