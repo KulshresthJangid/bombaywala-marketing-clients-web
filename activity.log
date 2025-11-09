@@ -32147,3 +32147,9 @@ seq:    2025-11-09-11
 msg:    test: improve assertion messages in user tests
 nonce:  123990
 ---
+## entry
+ts:     2025-11-09T16:04:45+00:00
+seq:    2025-11-09-12
+msg:    feat: create admin panel route group
+nonce:  123972
+---
