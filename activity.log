@@ -7103,3 +7103,9 @@ seq:    2025-11-09-18
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  118025
 ---
+## entry
+ts:     2025-11-09T21:56:11+00:00
+seq:    2025-11-09-19
+msg:    feat: add multi-language (i18n) support
+nonce:  104522
+---
