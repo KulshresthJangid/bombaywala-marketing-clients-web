@@ -32141,3 +32141,9 @@ seq:    2025-11-09-10
 msg:    chore: rotate copyright year in license header
 nonce:  103323
 ---
+## entry
+ts:     2025-11-09T15:21:32+00:00
+seq:    2025-11-09-11
+msg:    test: improve assertion messages in user tests
+nonce:  123990
+---
