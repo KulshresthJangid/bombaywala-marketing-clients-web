@@ -32195,3 +32195,9 @@ seq:    2025-11-09-19
 msg:    test: improve assertion messages in user tests
 nonce:  111416
 ---
+## entry
+ts:     2025-11-09T22:16:08+00:00
+seq:    2025-11-09-20
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  127245
+---
