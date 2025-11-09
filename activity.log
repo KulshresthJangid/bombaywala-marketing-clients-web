@@ -32123,3 +32123,9 @@ seq:    2025-11-09-7
 msg:    feat: create outbound webhook dispatcher
 nonce:  115810
 ---
+## entry
+ts:     2025-11-09T14:22:24+00:00
+seq:    2025-11-09-8
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  132028
+---
