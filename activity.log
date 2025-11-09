@@ -7007,3 +7007,9 @@ seq:    2025-11-09-2
 msg:    test: add integration tests for /api/v2 routes
 nonce:  127453
 ---
+## entry
+ts:     2025-11-09T11:17:12+00:00
+seq:    2025-11-09-3
+msg:    fix: correct date formatting in monthly report
+nonce:  130362
+---
