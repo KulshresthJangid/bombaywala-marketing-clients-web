@@ -32171,3 +32171,9 @@ seq:    2025-11-09-15
 msg:    docs: add architecture decision record for caching
 nonce:  129013
 ---
+## entry
+ts:     2025-11-09T18:24:05+00:00
+seq:    2025-11-09-16
+msg:    refactor: consolidate duplicate validation logic
+nonce:  119230
+---
