@@ -32087,3 +32087,9 @@ seq:    2025-11-09-1
 msg:    refactor: extract auth guard into shared middleware
 nonce:  112181
 ---
+## entry
+ts:     2025-11-09T11:14:17+00:00
+seq:    2025-11-09-2
+msg:    fix: correct date formatting in monthly report
+nonce:  105787
+---
