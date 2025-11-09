@@ -7037,3 +7037,9 @@ seq:    2025-11-09-7
 msg:    feat: add GraphQL subscription support
 nonce:  108884
 ---
+## entry
+ts:     2025-11-09T13:13:51+00:00
+seq:    2025-11-09-8
+msg:    fix: resolve CORS rejection on preflight
+nonce:  116206
+---
