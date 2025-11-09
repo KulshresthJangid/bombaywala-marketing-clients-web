@@ -32111,3 +32111,9 @@ seq:    2025-11-09-5
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  102584
 ---
+## entry
+ts:     2025-11-09T12:05:12+00:00
+seq:    2025-11-09-6
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  123837
+---
