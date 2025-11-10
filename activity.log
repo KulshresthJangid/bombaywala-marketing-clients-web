@@ -7115,3 +7115,9 @@ seq:    2025-11-10-0
 msg:    feat: add batch job processing queue
 nonce:  107441
 ---
+## entry
+ts:     2025-11-10T08:50:37+00:00
+seq:    2025-11-10-1
+msg:    refactor: centralise API error-response factory
+nonce:  128027
+---
