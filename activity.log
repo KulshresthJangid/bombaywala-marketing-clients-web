@@ -7169,3 +7169,9 @@ seq:    2025-11-10-9
 msg:    chore: pin transitive dependency versions
 nonce:  104868
 ---
+## entry
+ts:     2025-11-10T13:50:40+00:00
+seq:    2025-11-10-10
+msg:    chore: pin transitive dependency versions
+nonce:  115428
+---
