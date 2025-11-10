@@ -7133,3 +7133,9 @@ seq:    2025-11-10-3
 msg:    test: add snapshot tests for report generator
 nonce:  107651
 ---
+## entry
+ts:     2025-11-10T09:15:58+00:00
+seq:    2025-11-10-4
+msg:    chore: rotate copyright year in license header
+nonce:  119057
+---
