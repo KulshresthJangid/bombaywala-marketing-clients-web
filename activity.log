@@ -7139,3 +7139,9 @@ seq:    2025-11-10-4
 msg:    chore: rotate copyright year in license header
 nonce:  119057
 ---
+## entry
+ts:     2025-11-10T10:54:42+00:00
+seq:    2025-11-10-5
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  103922
+---
