@@ -7163,3 +7163,9 @@ seq:    2025-11-10-8
 msg:    feat: implement dashboard analytics
 nonce:  100733
 ---
+## entry
+ts:     2025-11-10T13:03:15+00:00
+seq:    2025-11-10-9
+msg:    chore: pin transitive dependency versions
+nonce:  104868
+---
