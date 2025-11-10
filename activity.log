@@ -7205,3 +7205,9 @@ seq:    2025-11-10-15
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  101722
 ---
+## entry
+ts:     2025-11-10T15:37:22+00:00
+seq:    2025-11-10-16
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  115979
+---
