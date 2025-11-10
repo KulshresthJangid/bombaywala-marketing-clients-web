@@ -7187,3 +7187,9 @@ seq:    2025-11-10-12
 msg:    test: raise coverage floor for payment module
 nonce:  111340
 ---
+## entry
+ts:     2025-11-10T15:14:11+00:00
+seq:    2025-11-10-13
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  122419
+---
