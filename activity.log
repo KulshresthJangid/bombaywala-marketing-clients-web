@@ -7217,3 +7217,9 @@ seq:    2025-11-10-17
 msg:    refactor: consolidate duplicate validation logic
 nonce:  127621
 ---
+## entry
+ts:     2025-11-10T17:30:02+00:00
+seq:    2025-11-10-18
+msg:    fix: sanitize user input in search filter
+nonce:  103524
+---
