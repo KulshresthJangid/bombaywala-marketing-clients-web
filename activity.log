@@ -7229,3 +7229,9 @@ seq:    2025-11-10-19
 msg:    fix: fix stale JWT after password reset
 nonce:  104562
 ---
+## entry
+ts:     2025-11-10T20:17:00+00:00
+seq:    2025-11-10-20
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  125541
+---
