@@ -32231,3 +32231,9 @@ seq:    2025-11-11-3
 msg:    feat: integrate payment gateway
 nonce:  106155
 ---
+## entry
+ts:     2025-11-11T11:25:36+00:00
+seq:    2025-11-11-4
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  132546
+---
