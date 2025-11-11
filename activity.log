@@ -7271,3 +7271,9 @@ seq:    2025-11-11-2
 msg:    refactor: consolidate duplicate validation logic
 nonce:  121704
 ---
+## entry
+ts:     2025-11-11T12:51:10+00:00
+seq:    2025-11-11-3
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  130524
+---
