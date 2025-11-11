@@ -7283,3 +7283,9 @@ seq:    2025-11-11-4
 msg:    test: improve assertion messages in user tests
 nonce:  109194
 ---
+## entry
+ts:     2025-11-11T15:15:34+00:00
+seq:    2025-11-11-5
+msg:    chore: apply prettier to all source files
+nonce:  130063
+---
