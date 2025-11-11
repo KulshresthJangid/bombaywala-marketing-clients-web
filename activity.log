@@ -32291,3 +32291,9 @@ seq:    2025-11-11-13
 msg:    fix: resolve null pointer in user service
 nonce:  112172
 ---
+## entry
+ts:     2025-11-11T17:10:24+00:00
+seq:    2025-11-11-14
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  108346
+---
