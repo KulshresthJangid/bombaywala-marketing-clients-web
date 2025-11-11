@@ -7253,3 +7253,9 @@ seq:    2025-11-10-23
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  102447
 ---
+## entry
+ts:     2025-11-11T09:31:21+00:00
+seq:    2025-11-11-0
+msg:    feat: implement role-based access control
+nonce:  129609
+---
