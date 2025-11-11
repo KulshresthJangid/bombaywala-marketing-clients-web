@@ -7289,3 +7289,9 @@ seq:    2025-11-11-5
 msg:    chore: apply prettier to all source files
 nonce:  130063
 ---
+## entry
+ts:     2025-11-11T15:43:23+00:00
+seq:    2025-11-11-6
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  110607
+---
