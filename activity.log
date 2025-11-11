@@ -7301,3 +7301,9 @@ seq:    2025-11-11-7
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  120911
 ---
+## entry
+ts:     2025-11-11T17:31:53+00:00
+seq:    2025-11-11-8
+msg:    perf: memoize expensive permission-check results
+nonce:  110881
+---
