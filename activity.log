@@ -32285,3 +32285,9 @@ seq:    2025-11-11-12
 msg:    refactor: split God-service into focused modules
 nonce:  100355
 ---
+## entry
+ts:     2025-11-11T16:02:47+00:00
+seq:    2025-11-11-13
+msg:    fix: resolve null pointer in user service
+nonce:  112172
+---
