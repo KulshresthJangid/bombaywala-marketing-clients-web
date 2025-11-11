@@ -32243,3 +32243,9 @@ seq:    2025-11-11-5
 msg:    fix: resolve CORS rejection on preflight
 nonce:  119862
 ---
+## entry
+ts:     2025-11-11T14:48:41+00:00
+seq:    2025-11-11-6
+msg:    fix: resolve race condition in job queue
+nonce:  130237
+---
