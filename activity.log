@@ -32207,3 +32207,9 @@ seq:    2025-11-09-21
 msg:    fix: correct off-by-one in pagination offset
 nonce:  114351
 ---
+## entry
+ts:     2025-11-11T09:24:03+00:00
+seq:    2025-11-11-0
+msg:    docs: add architecture decision record for caching
+nonce:  119739
+---
