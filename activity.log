@@ -7337,3 +7337,9 @@ seq:    2025-11-12-2
 msg:    fix: fix stale JWT after password reset
 nonce:  115839
 ---
+## entry
+ts:     2025-11-12T10:51:06+00:00
+seq:    2025-11-12-3
+msg:    feat: add rate-limiting middleware
+nonce:  104197
+---
