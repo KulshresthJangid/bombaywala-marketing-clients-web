@@ -7367,3 +7367,9 @@ seq:    2025-11-12-7
 msg:    feat: add email-verification flow
 nonce:  119296
 ---
+## entry
+ts:     2025-11-12T16:45:57+00:00
+seq:    2025-11-12-8
+msg:    perf: lazy-load heavy chart library
+nonce:  122892
+---
