@@ -7349,3 +7349,9 @@ seq:    2025-11-12-4
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  112017
 ---
+## entry
+ts:     2025-11-12T11:17:47+00:00
+seq:    2025-11-12-5
+msg:    test: add snapshot tests for report generator
+nonce:  129762
+---
