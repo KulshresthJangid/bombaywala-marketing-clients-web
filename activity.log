@@ -32387,3 +32387,9 @@ seq:    2025-11-13-11
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  101903
 ---
+## entry
+ts:     2025-11-13T15:59:48+00:00
+seq:    2025-11-13-12
+msg:    feat: scaffold onboarding wizard UI
+nonce:  128693
+---
