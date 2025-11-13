@@ -32399,3 +32399,9 @@ seq:    2025-11-13-13
 msg:    feat: add multi-language (i18n) support
 nonce:  116966
 ---
+## entry
+ts:     2025-11-13T18:41:40+00:00
+seq:    2025-11-13-14
+msg:    perf: trim unnecessary fields from list responses
+nonce:  119192
+---
