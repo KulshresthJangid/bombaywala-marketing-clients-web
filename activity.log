@@ -32315,3 +32315,9 @@ seq:    2025-11-11-17
 msg:    refactor: centralise API error-response factory
 nonce:  106563
 ---
+## entry
+ts:     2025-11-13T09:05:47+00:00
+seq:    2025-11-13-0
+msg:    chore: pin transitive dependency versions
+nonce:  122716
+---
