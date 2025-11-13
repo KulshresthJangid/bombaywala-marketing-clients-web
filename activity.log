@@ -32393,3 +32393,9 @@ seq:    2025-11-13-12
 msg:    feat: scaffold onboarding wizard UI
 nonce:  128693
 ---
+## entry
+ts:     2025-11-13T16:30:45+00:00
+seq:    2025-11-13-13
+msg:    feat: add multi-language (i18n) support
+nonce:  116966
+---
