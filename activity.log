@@ -7397,3 +7397,9 @@ seq:    2025-11-12-12
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  129686
 ---
+## entry
+ts:     2025-11-13T09:06:37+00:00
+seq:    2025-11-13-0
+msg:    refactor: simplify connection pool configuration
+nonce:  129108
+---
