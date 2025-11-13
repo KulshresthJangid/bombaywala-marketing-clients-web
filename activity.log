@@ -7469,3 +7469,9 @@ seq:    2025-11-13-11
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  125446
 ---
+## entry
+ts:     2025-11-13T19:02:01+00:00
+seq:    2025-11-13-12
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  117225
+---
