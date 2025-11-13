@@ -7445,3 +7445,9 @@ seq:    2025-11-13-7
 msg:    feat: implement full-text search with filters
 nonce:  126516
 ---
+## entry
+ts:     2025-11-13T14:49:47+00:00
+seq:    2025-11-13-8
+msg:    fix: resolve CORS rejection on preflight
+nonce:  100095
+---
