@@ -7415,3 +7415,9 @@ seq:    2025-11-13-2
 msg:    test: improve assertion messages in user tests
 nonce:  112567
 ---
+## entry
+ts:     2025-11-13T12:48:04+00:00
+seq:    2025-11-13-3
+msg:    test: add integration tests for /api/v2 routes
+nonce:  111875
+---
