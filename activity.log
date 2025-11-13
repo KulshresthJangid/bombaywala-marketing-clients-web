@@ -32405,3 +32405,9 @@ seq:    2025-11-13-14
 msg:    perf: trim unnecessary fields from list responses
 nonce:  119192
 ---
+## entry
+ts:     2025-11-13T19:41:32+00:00
+seq:    2025-11-13-15
+msg:    docs: add JSDoc to all public utility functions
+nonce:  118108
+---
