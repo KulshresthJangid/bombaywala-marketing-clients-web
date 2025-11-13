@@ -7475,3 +7475,9 @@ seq:    2025-11-13-12
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  117225
 ---
+## entry
+ts:     2025-11-13T19:30:27+00:00
+seq:    2025-11-13-13
+msg:    feat: implement role-based access control
+nonce:  126974
+---
