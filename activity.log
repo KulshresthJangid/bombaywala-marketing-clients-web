@@ -32363,3 +32363,9 @@ seq:    2025-11-13-7
 msg:    refactor: extract auth guard into shared middleware
 nonce:  103364
 ---
+## entry
+ts:     2025-11-13T15:27:42+00:00
+seq:    2025-11-13-8
+msg:    fix: resolve race condition in job queue
+nonce:  114728
+---
