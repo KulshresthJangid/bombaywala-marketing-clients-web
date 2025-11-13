@@ -32369,3 +32369,9 @@ seq:    2025-11-13-8
 msg:    fix: resolve race condition in job queue
 nonce:  114728
 ---
+## entry
+ts:     2025-11-13T15:30:44+00:00
+seq:    2025-11-13-9
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  117314
+---
