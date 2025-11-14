@@ -7493,3 +7493,9 @@ seq:    2025-11-14-1
 msg:    refactor: consolidate duplicate validation logic
 nonce:  110522
 ---
+## entry
+ts:     2025-11-14T11:00:39+00:00
+seq:    2025-11-14-2
+msg:    feat: create outbound webhook dispatcher
+nonce:  131595
+---
