@@ -7505,3 +7505,9 @@ seq:    2025-11-14-3
 msg:    fix: correct off-by-one in pagination offset
 nonce:  101991
 ---
+## entry
+ts:     2025-11-14T13:58:05+00:00
+seq:    2025-11-14-4
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  115342
+---
