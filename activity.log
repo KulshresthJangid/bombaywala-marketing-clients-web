@@ -32465,3 +32465,9 @@ seq:    2025-11-14-8
 msg:    fix: resolve CORS rejection on preflight
 nonce:  123105
 ---
+## entry
+ts:     2025-11-14T15:44:48+00:00
+seq:    2025-11-14-9
+msg:    refactor: extract auth guard into shared middleware
+nonce:  111694
+---
