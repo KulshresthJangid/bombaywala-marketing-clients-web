@@ -7631,3 +7631,9 @@ seq:    2025-11-16-11
 msg:    feat: add cursor-based pagination
 nonce:  110918
 ---
+## entry
+ts:     2025-11-16T15:42:39+00:00
+seq:    2025-11-16-12
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  122797
+---
