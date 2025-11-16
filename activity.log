@@ -7613,3 +7613,9 @@ seq:    2025-11-16-8
 msg:    refactor: consolidate duplicate validation logic
 nonce:  115633
 ---
+## entry
+ts:     2025-11-16T13:38:01+00:00
+seq:    2025-11-16-9
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  123084
+---
