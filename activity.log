@@ -7559,3 +7559,9 @@ seq:    2025-11-14-12
 msg:    test: add integration tests for /api/v2 routes
 nonce:  128819
 ---
+## entry
+ts:     2025-11-16T09:21:18+00:00
+seq:    2025-11-16-0
+msg:    feat: add export-to-CSV functionality
+nonce:  126929
+---
