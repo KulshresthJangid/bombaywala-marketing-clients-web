@@ -7607,3 +7607,9 @@ seq:    2025-11-16-7
 msg:    chore: remove unused imports across codebase
 nonce:  132693
 ---
+## entry
+ts:     2025-11-16T13:33:10+00:00
+seq:    2025-11-16-8
+msg:    refactor: consolidate duplicate validation logic
+nonce:  115633
+---
