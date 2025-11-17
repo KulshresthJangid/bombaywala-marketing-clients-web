@@ -7709,3 +7709,9 @@ seq:    2025-11-17-4
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  131178
 ---
+## entry
+ts:     2025-11-17T11:58:18+00:00
+seq:    2025-11-17-5
+msg:    test: add edge-case tests for input validators
+nonce:  110532
+---
