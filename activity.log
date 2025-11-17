@@ -7697,3 +7697,9 @@ seq:    2025-11-17-2
 msg:    test: improve assertion messages in user tests
 nonce:  125520
 ---
+## entry
+ts:     2025-11-17T11:22:46+00:00
+seq:    2025-11-17-3
+msg:    feat: implement file upload with S3 backend
+nonce:  101012
+---
