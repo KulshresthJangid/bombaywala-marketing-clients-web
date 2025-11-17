@@ -7745,3 +7745,9 @@ seq:    2025-11-17-10
 msg:    refactor: split God-service into focused modules
 nonce:  111932
 ---
+## entry
+ts:     2025-11-17T15:44:55+00:00
+seq:    2025-11-17-11
+msg:    feat: add OAuth2 social login flow
+nonce:  131781
+---
