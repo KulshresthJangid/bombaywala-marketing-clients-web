@@ -7763,3 +7763,9 @@ seq:    2025-11-17-13
 msg:    refactor: split God-service into focused modules
 nonce:  109052
 ---
+## entry
+ts:     2025-11-17T16:41:06+00:00
+seq:    2025-11-17-14
+msg:    chore: reorganise src/ folder structure
+nonce:  125030
+---
