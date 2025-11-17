@@ -32501,3 +32501,9 @@ seq:    2025-11-17-2
 msg:    fix: correct off-by-one in pagination offset
 nonce:  121549
 ---
+## entry
+ts:     2025-11-17T14:53:35+00:00
+seq:    2025-11-17-3
+msg:    feat: add Stripe subscription billing
+nonce:  116574
+---
