@@ -7721,3 +7721,9 @@ seq:    2025-11-17-6
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  122317
 ---
+## entry
+ts:     2025-11-17T12:35:17+00:00
+seq:    2025-11-17-7
+msg:    refactor: remove dead code from utils barrel
+nonce:  116342
+---
