@@ -7775,3 +7775,9 @@ seq:    2025-11-17-15
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  117391
 ---
+## entry
+ts:     2025-11-17T20:41:46+00:00
+seq:    2025-11-17-16
+msg:    fix: resolve CORS rejection on preflight
+nonce:  129542
+---
