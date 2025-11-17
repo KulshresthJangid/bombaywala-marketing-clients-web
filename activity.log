@@ -32531,3 +32531,9 @@ seq:    2025-11-17-7
 msg:    refactor: migrate from winston to pino logger
 nonce:  120334
 ---
+## entry
+ts:     2025-11-17T17:34:48+00:00
+seq:    2025-11-17-8
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  112559
+---
