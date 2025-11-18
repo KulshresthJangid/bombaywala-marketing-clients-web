@@ -7871,3 +7871,9 @@ seq:    2025-11-18-14
 msg:    test: improve assertion messages in user tests
 nonce:  106557
 ---
+## entry
+ts:     2025-11-18T17:23:42+00:00
+seq:    2025-11-18-15
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  117990
+---
