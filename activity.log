@@ -7907,3 +7907,9 @@ seq:    2025-11-18-20
 msg:    feat: implement file upload with S3 backend
 nonce:  132720
 ---
+## entry
+ts:     2025-11-18T19:10:26+00:00
+seq:    2025-11-18-21
+msg:    refactor: extract auth guard into shared middleware
+nonce:  105709
+---
