@@ -7811,3 +7811,9 @@ seq:    2025-11-18-4
 msg:    fix: patch reflected-XSS in comment field
 nonce:  121654
 ---
+## entry
+ts:     2025-11-18T11:53:47+00:00
+seq:    2025-11-18-5
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  111232
+---
