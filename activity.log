@@ -32579,3 +32579,9 @@ seq:    2025-11-18-4
 msg:    chore: reorganise src/ folder structure
 nonce:  102929
 ---
+## entry
+ts:     2025-11-18T11:03:40+00:00
+seq:    2025-11-18-5
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  120814
+---
