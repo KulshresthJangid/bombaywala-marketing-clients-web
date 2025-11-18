@@ -32615,3 +32615,9 @@ seq:    2025-11-18-10
 msg:    feat: implement dashboard analytics
 nonce:  123657
 ---
+## entry
+ts:     2025-11-18T15:51:29+00:00
+seq:    2025-11-18-11
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  131313
+---
