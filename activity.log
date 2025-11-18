@@ -32591,3 +32591,9 @@ seq:    2025-11-18-6
 msg:    perf: lazy-load heavy chart library
 nonce:  125757
 ---
+## entry
+ts:     2025-11-18T13:32:25+00:00
+seq:    2025-11-18-7
+msg:    perf: enable gzip compression on API responses
+nonce:  107440
+---
