@@ -32645,3 +32645,9 @@ seq:    2025-11-18-15
 msg:    chore: reorganise src/ folder structure
 nonce:  112596
 ---
+## entry
+ts:     2025-11-18T19:03:00+00:00
+seq:    2025-11-18-16
+msg:    fix: resolve null pointer in user service
+nonce:  126664
+---
