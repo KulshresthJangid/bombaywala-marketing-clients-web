@@ -32597,3 +32597,9 @@ seq:    2025-11-18-7
 msg:    perf: enable gzip compression on API responses
 nonce:  107440
 ---
+## entry
+ts:     2025-11-18T15:18:18+00:00
+seq:    2025-11-18-8
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  121176
+---
