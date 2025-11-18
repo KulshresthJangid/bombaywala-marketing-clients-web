@@ -7829,3 +7829,9 @@ seq:    2025-11-18-7
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  114254
 ---
+## entry
+ts:     2025-11-18T13:29:08+00:00
+seq:    2025-11-18-8
+msg:    docs: add getting-started guide to README
+nonce:  131274
+---
