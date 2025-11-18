@@ -7895,3 +7895,9 @@ seq:    2025-11-18-18
 msg:    test: add snapshot tests for report generator
 nonce:  106481
 ---
+## entry
+ts:     2025-11-18T18:41:49+00:00
+seq:    2025-11-18-19
+msg:    feat: add rate-limiting middleware
+nonce:  130892
+---
