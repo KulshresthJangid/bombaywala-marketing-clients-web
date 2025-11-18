@@ -7841,3 +7841,9 @@ seq:    2025-11-18-9
 msg:    test: stub external HTTP calls in unit suite
 nonce:  128281
 ---
+## entry
+ts:     2025-11-18T15:04:33+00:00
+seq:    2025-11-18-10
+msg:    feat: implement Redis caching layer
+nonce:  130747
+---
