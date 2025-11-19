@@ -32735,3 +32735,9 @@ seq:    2025-11-19-10
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  107638
 ---
+## entry
+ts:     2025-11-19T20:40:59+00:00
+seq:    2025-11-19-11
+msg:    fix: resolve race condition in job queue
+nonce:  131845
+---
