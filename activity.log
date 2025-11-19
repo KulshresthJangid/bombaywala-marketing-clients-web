@@ -32699,3 +32699,9 @@ seq:    2025-11-19-4
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  103503
 ---
+## entry
+ts:     2025-11-19T15:49:52+00:00
+seq:    2025-11-19-5
+msg:    refactor: centralise API error-response factory
+nonce:  126989
+---
