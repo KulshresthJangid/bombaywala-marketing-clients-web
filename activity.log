@@ -32723,3 +32723,9 @@ seq:    2025-11-19-8
 msg:    fix: correct date formatting in monthly report
 nonce:  107612
 ---
+## entry
+ts:     2025-11-19T18:01:42+00:00
+seq:    2025-11-19-9
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  129056
+---
