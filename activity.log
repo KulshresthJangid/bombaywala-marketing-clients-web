@@ -32747,3 +32747,9 @@ seq:    2025-11-19-12
 msg:    feat: create immutable audit-log service
 nonce:  126209
 ---
+## entry
+ts:     2025-11-20T08:56:40+00:00
+seq:    2025-11-20-0
+msg:    feat: add Stripe subscription billing
+nonce:  108238
+---
