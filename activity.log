@@ -32825,3 +32825,9 @@ seq:    2025-11-20-12
 msg:    chore: apply prettier to all source files
 nonce:  115269
 ---
+## entry
+ts:     2025-11-20T15:17:40+00:00
+seq:    2025-11-20-13
+msg:    refactor: migrate from winston to pino logger
+nonce:  114478
+---
