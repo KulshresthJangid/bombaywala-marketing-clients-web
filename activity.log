@@ -32789,3 +32789,9 @@ seq:    2025-11-20-6
 msg:    fix: resolve race condition in job queue
 nonce:  112417
 ---
+## entry
+ts:     2025-11-20T12:56:05+00:00
+seq:    2025-11-20-7
+msg:    fix: correct date formatting in monthly report
+nonce:  131273
+---
