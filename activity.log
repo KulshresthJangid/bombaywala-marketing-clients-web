@@ -32795,3 +32795,9 @@ seq:    2025-11-20-7
 msg:    fix: correct date formatting in monthly report
 nonce:  131273
 ---
+## entry
+ts:     2025-11-20T13:48:46+00:00
+seq:    2025-11-20-8
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  127688
+---
