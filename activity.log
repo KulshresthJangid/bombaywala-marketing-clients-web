@@ -32801,3 +32801,9 @@ seq:    2025-11-20-8
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  127688
 ---
+## entry
+ts:     2025-11-20T14:22:07+00:00
+seq:    2025-11-20-9
+msg:    refactor: split God-service into focused modules
+nonce:  122852
+---
