@@ -7991,3 +7991,9 @@ seq:    2025-11-21-12
 msg:    feat: create admin panel route group
 nonce:  108741
 ---
+## entry
+ts:     2025-11-21T18:43:06+00:00
+seq:    2025-11-21-13
+msg:    test: add k6 load-test script for checkout flow
+nonce:  105847
+---
