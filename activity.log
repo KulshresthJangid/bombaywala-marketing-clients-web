@@ -7913,3 +7913,9 @@ seq:    2025-11-18-21
 msg:    refactor: extract auth guard into shared middleware
 nonce:  105709
 ---
+## entry
+ts:     2025-11-21T10:30:15+00:00
+seq:    2025-11-21-0
+msg:    refactor: move magic strings to constants module
+nonce:  117348
+---
