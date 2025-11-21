@@ -32915,3 +32915,9 @@ seq:    2025-11-21-12
 msg:    feat: add GraphQL subscription support
 nonce:  109602
 ---
+## entry
+ts:     2025-11-21T12:21:03+00:00
+seq:    2025-11-21-13
+msg:    perf: parallelise image-resize pipeline
+nonce:  102317
+---
