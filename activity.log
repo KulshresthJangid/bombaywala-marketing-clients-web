@@ -8015,3 +8015,9 @@ seq:    2025-11-21-16
 msg:    perf: lazy-load heavy chart library
 nonce:  100338
 ---
+## entry
+ts:     2025-11-21T21:08:49+00:00
+seq:    2025-11-21-17
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  112331
+---
