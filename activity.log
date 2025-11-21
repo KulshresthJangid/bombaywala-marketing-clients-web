@@ -7931,3 +7931,9 @@ seq:    2025-11-21-2
 msg:    feat: implement role-based access control
 nonce:  129696
 ---
+## entry
+ts:     2025-11-21T11:43:33+00:00
+seq:    2025-11-21-3
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  103109
+---
