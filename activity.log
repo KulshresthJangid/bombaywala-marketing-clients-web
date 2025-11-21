@@ -32903,3 +32903,9 @@ seq:    2025-11-21-10
 msg:    refactor: remove dead code from utils barrel
 nonce:  113914
 ---
+## entry
+ts:     2025-11-21T11:36:53+00:00
+seq:    2025-11-21-11
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  111227
+---
