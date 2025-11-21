@@ -32843,3 +32843,9 @@ seq:    2025-11-21-0
 msg:    test: raise coverage floor for payment module
 nonce:  125658
 ---
+## entry
+ts:     2025-11-21T09:11:22+00:00
+seq:    2025-11-21-1
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  119441
+---
