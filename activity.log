@@ -32957,3 +32957,9 @@ seq:    2025-11-21-19
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  110306
 ---
+## entry
+ts:     2025-11-21T20:54:13+00:00
+seq:    2025-11-21-20
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  130279
+---
