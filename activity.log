@@ -7937,3 +7937,9 @@ seq:    2025-11-21-3
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  103109
 ---
+## entry
+ts:     2025-11-21T13:32:06+00:00
+seq:    2025-11-21-4
+msg:    refactor: consolidate duplicate validation logic
+nonce:  106330
+---
