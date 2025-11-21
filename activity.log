@@ -32933,3 +32933,9 @@ seq:    2025-11-21-15
 msg:    test: add edge-case tests for input validators
 nonce:  105460
 ---
+## entry
+ts:     2025-11-21T15:15:06+00:00
+seq:    2025-11-21-16
+msg:    feat: implement role-based access control
+nonce:  129166
+---
