@@ -32921,3 +32921,9 @@ seq:    2025-11-21-13
 msg:    perf: parallelise image-resize pipeline
 nonce:  102317
 ---
+## entry
+ts:     2025-11-21T13:36:08+00:00
+seq:    2025-11-21-14
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  122395
+---
