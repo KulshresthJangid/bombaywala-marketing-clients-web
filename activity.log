@@ -32963,3 +32963,9 @@ seq:    2025-11-21-20
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  130279
 ---
+## entry
+ts:     2025-11-21T21:11:45+00:00
+seq:    2025-11-21-21
+msg:    chore: reorganise src/ folder structure
+nonce:  128944
+---
