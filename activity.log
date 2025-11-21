@@ -7955,3 +7955,9 @@ seq:    2025-11-21-6
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  124839
 ---
+## entry
+ts:     2025-11-21T14:23:25+00:00
+seq:    2025-11-21-7
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  122422
+---
