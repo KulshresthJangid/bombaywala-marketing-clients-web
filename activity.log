@@ -7985,3 +7985,9 @@ seq:    2025-11-21-11
 msg:    chore: remove unused imports across codebase
 nonce:  103288
 ---
+## entry
+ts:     2025-11-21T18:00:48+00:00
+seq:    2025-11-21-12
+msg:    feat: create admin panel route group
+nonce:  108741
+---
