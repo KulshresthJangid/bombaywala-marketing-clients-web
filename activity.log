@@ -32861,3 +32861,9 @@ seq:    2025-11-21-3
 msg:    fix: correct date formatting in monthly report
 nonce:  132366
 ---
+## entry
+ts:     2025-11-21T10:03:18+00:00
+seq:    2025-11-21-4
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  127404
+---
