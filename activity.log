@@ -7973,3 +7973,9 @@ seq:    2025-11-21-9
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  125079
 ---
+## entry
+ts:     2025-11-21T16:37:42+00:00
+seq:    2025-11-21-10
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  105639
+---
