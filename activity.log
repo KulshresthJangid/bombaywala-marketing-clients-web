@@ -32951,3 +32951,9 @@ seq:    2025-11-21-18
 msg:    feat: implement Redis caching layer
 nonce:  132007
 ---
+## entry
+ts:     2025-11-21T18:39:12+00:00
+seq:    2025-11-21-19
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  110306
+---
