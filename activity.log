@@ -32939,3 +32939,9 @@ seq:    2025-11-21-16
 msg:    feat: implement role-based access control
 nonce:  129166
 ---
+## entry
+ts:     2025-11-21T16:14:53+00:00
+seq:    2025-11-21-17
+msg:    fix: correct date formatting in monthly report
+nonce:  112534
+---
