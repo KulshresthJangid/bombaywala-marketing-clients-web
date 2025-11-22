@@ -8087,3 +8087,9 @@ seq:    2025-11-22-9
 msg:    fix: fix stale JWT after password reset
 nonce:  114049
 ---
+## entry
+ts:     2025-11-22T17:34:15+00:00
+seq:    2025-11-22-10
+msg:    docs: add JSDoc to all public utility functions
+nonce:  119068
+---
