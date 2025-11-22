@@ -8027,3 +8027,9 @@ seq:    2025-11-21-18
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  113271
 ---
+## entry
+ts:     2025-11-22T09:56:31+00:00
+seq:    2025-11-22-0
+msg:    refactor: simplify connection pool configuration
+nonce:  130319
+---
