@@ -8045,3 +8045,9 @@ seq:    2025-11-22-2
 msg:    docs: update CHANGELOG for next release
 nonce:  120623
 ---
+## entry
+ts:     2025-11-22T11:12:31+00:00
+seq:    2025-11-22-3
+msg:    feat: create admin panel route group
+nonce:  106053
+---
