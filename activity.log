@@ -33041,3 +33041,9 @@ seq:    2025-11-22-11
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  102013
 ---
+## entry
+ts:     2025-11-22T15:43:08+00:00
+seq:    2025-11-22-12
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  117141
+---
