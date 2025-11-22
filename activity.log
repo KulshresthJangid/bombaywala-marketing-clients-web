@@ -8075,3 +8075,9 @@ seq:    2025-11-22-7
 msg:    fix: resolve race condition in job queue
 nonce:  126162
 ---
+## entry
+ts:     2025-11-22T13:37:09+00:00
+seq:    2025-11-22-8
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  129629
+---
