@@ -33029,3 +33029,9 @@ seq:    2025-11-22-9
 msg:    fix: fix stale JWT after password reset
 nonce:  118009
 ---
+## entry
+ts:     2025-11-22T13:43:35+00:00
+seq:    2025-11-22-10
+msg:    test: stub external HTTP calls in unit suite
+nonce:  105756
+---
