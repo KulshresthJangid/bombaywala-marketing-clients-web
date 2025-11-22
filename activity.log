@@ -33023,3 +33023,9 @@ seq:    2025-11-22-8
 msg:    perf: enable gzip compression on API responses
 nonce:  107968
 ---
+## entry
+ts:     2025-11-22T13:17:16+00:00
+seq:    2025-11-22-9
+msg:    fix: fix stale JWT after password reset
+nonce:  118009
+---
