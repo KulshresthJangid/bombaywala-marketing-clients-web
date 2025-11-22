@@ -8033,3 +8033,9 @@ seq:    2025-11-22-0
 msg:    refactor: simplify connection pool configuration
 nonce:  130319
 ---
+## entry
+ts:     2025-11-22T10:30:12+00:00
+seq:    2025-11-22-1
+msg:    feat: add export-to-CSV functionality
+nonce:  128940
+---
