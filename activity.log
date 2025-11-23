@@ -33179,3 +33179,9 @@ seq:    2025-11-23-11
 msg:    perf: lazy-load heavy chart library
 nonce:  117479
 ---
+## entry
+ts:     2025-11-23T20:37:45+00:00
+seq:    2025-11-23-12
+msg:    test: add edge-case tests for input validators
+nonce:  130527
+---
