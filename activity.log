@@ -33203,3 +33203,9 @@ seq:    2025-11-23-15
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  129149
 ---
+## entry
+ts:     2025-11-23T22:43:16+00:00
+seq:    2025-11-23-16
+msg:    chore: apply prettier to all source files
+nonce:  115493
+---
