@@ -33107,3 +33107,9 @@ seq:    2025-11-22-22
 msg:    feat: add GraphQL subscription support
 nonce:  106544
 ---
+## entry
+ts:     2025-11-23T09:41:38+00:00
+seq:    2025-11-23-0
+msg:    docs: update CHANGELOG for next release
+nonce:  124945
+---
