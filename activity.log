@@ -33113,3 +33113,9 @@ seq:    2025-11-23-0
 msg:    docs: update CHANGELOG for next release
 nonce:  124945
 ---
+## entry
+ts:     2025-11-23T10:26:23+00:00
+seq:    2025-11-23-1
+msg:    refactor: remove dead code from utils barrel
+nonce:  111748
+---
