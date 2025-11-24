@@ -8099,3 +8099,9 @@ seq:    2025-11-22-11
 msg:    feat: add GraphQL subscription support
 nonce:  120017
 ---
+## entry
+ts:     2025-11-24T08:26:53+00:00
+seq:    2025-11-24-0
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  118351
+---
