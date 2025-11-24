@@ -8243,3 +8243,9 @@ seq:    2025-11-24-23
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  103562
 ---
+## entry
+ts:     2025-11-24T22:07:14+00:00
+seq:    2025-11-24-24
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  102002
+---
