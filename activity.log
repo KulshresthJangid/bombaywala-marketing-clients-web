@@ -8219,3 +8219,9 @@ seq:    2025-11-24-19
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  125135
 ---
+## entry
+ts:     2025-11-24T18:03:43+00:00
+seq:    2025-11-24-20
+msg:    feat: integrate payment gateway
+nonce:  110320
+---
