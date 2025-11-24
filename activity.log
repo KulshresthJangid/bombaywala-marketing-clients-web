@@ -8195,3 +8195,9 @@ seq:    2025-11-24-15
 msg:    test: add unit tests for AuthService
 nonce:  130827
 ---
+## entry
+ts:     2025-11-24T16:49:23+00:00
+seq:    2025-11-24-16
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  132164
+---
