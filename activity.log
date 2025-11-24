@@ -33245,3 +33245,9 @@ seq:    2025-11-24-5
 msg:    feat: add email-verification flow
 nonce:  111476
 ---
+## entry
+ts:     2025-11-24T13:50:52+00:00
+seq:    2025-11-24-6
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  122901
+---
