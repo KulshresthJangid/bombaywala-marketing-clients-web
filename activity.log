@@ -8129,3 +8129,9 @@ seq:    2025-11-24-4
 msg:    feat: add GraphQL subscription support
 nonce:  103107
 ---
+## entry
+ts:     2025-11-24T11:31:35+00:00
+seq:    2025-11-24-5
+msg:    perf: memoize expensive permission-check results
+nonce:  110049
+---
