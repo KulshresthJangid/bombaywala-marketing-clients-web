@@ -33299,3 +33299,9 @@ seq:    2025-11-24-14
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  128869
 ---
+## entry
+ts:     2025-11-24T19:42:05+00:00
+seq:    2025-11-24-15
+msg:    refactor: consolidate duplicate validation logic
+nonce:  115360
+---
