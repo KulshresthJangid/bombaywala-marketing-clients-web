@@ -8123,3 +8123,9 @@ seq:    2025-11-24-3
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  127402
 ---
+## entry
+ts:     2025-11-24T10:59:26+00:00
+seq:    2025-11-24-4
+msg:    feat: add GraphQL subscription support
+nonce:  103107
+---
