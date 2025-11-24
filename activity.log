@@ -8183,3 +8183,9 @@ seq:    2025-11-24-13
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  129875
 ---
+## entry
+ts:     2025-11-24T15:55:45+00:00
+seq:    2025-11-24-14
+msg:    test: improve assertion messages in user tests
+nonce:  115509
+---
