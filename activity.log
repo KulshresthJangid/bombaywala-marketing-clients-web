@@ -33329,3 +33329,9 @@ seq:    2025-11-24-19
 msg:    feat: implement full-text search with filters
 nonce:  120181
 ---
+## entry
+ts:     2025-11-24T22:56:54+00:00
+seq:    2025-11-24-20
+msg:    chore: reorganise src/ folder structure
+nonce:  107917
+---
