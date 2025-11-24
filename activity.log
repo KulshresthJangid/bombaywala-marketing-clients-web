@@ -33293,3 +33293,9 @@ seq:    2025-11-24-13
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  115816
 ---
+## entry
+ts:     2025-11-24T19:12:16+00:00
+seq:    2025-11-24-14
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  128869
+---
