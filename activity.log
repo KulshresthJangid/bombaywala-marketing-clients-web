@@ -33239,3 +33239,9 @@ seq:    2025-11-24-4
 msg:    chore: remove unused imports across codebase
 nonce:  103210
 ---
+## entry
+ts:     2025-11-24T13:26:18+00:00
+seq:    2025-11-24-5
+msg:    feat: add email-verification flow
+nonce:  111476
+---
