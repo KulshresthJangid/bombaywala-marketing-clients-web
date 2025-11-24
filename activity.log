@@ -8189,3 +8189,9 @@ seq:    2025-11-24-14
 msg:    test: improve assertion messages in user tests
 nonce:  115509
 ---
+## entry
+ts:     2025-11-24T15:59:04+00:00
+seq:    2025-11-24-15
+msg:    test: add unit tests for AuthService
+nonce:  130827
+---
