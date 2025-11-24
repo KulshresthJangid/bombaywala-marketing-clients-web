@@ -33215,3 +33215,9 @@ seq:    2025-11-24-0
 msg:    perf: parallelise image-resize pipeline
 nonce:  117594
 ---
+## entry
+ts:     2025-11-24T10:59:43+00:00
+seq:    2025-11-24-1
+msg:    fix: fix stale JWT after password reset
+nonce:  118947
+---
