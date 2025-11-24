@@ -33311,3 +33311,9 @@ seq:    2025-11-24-16
 msg:    chore: remove unused imports across codebase
 nonce:  123299
 ---
+## entry
+ts:     2025-11-24T21:00:20+00:00
+seq:    2025-11-24-17
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  114394
+---
