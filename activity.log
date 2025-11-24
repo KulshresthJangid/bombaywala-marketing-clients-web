@@ -8111,3 +8111,9 @@ seq:    2025-11-24-1
 msg:    feat: implement two-factor authentication
 nonce:  126143
 ---
+## entry
+ts:     2025-11-24T10:29:54+00:00
+seq:    2025-11-24-2
+msg:    perf: enable gzip compression on API responses
+nonce:  117000
+---
