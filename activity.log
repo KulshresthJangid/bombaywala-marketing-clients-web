@@ -33275,3 +33275,9 @@ seq:    2025-11-24-10
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  128295
 ---
+## entry
+ts:     2025-11-24T15:23:16+00:00
+seq:    2025-11-24-11
+msg:    fix: fix stale JWT after password reset
+nonce:  122879
+---
