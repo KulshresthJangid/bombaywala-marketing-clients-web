@@ -33389,3 +33389,9 @@ seq:    2025-11-25-8
 msg:    feat: add rate-limiting middleware
 nonce:  130896
 ---
+## entry
+ts:     2025-11-25T14:14:29+00:00
+seq:    2025-11-25-9
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  111733
+---
