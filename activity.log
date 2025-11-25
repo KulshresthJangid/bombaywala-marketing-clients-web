@@ -33425,3 +33425,9 @@ seq:    2025-11-25-14
 msg:    perf: parallelise image-resize pipeline
 nonce:  122708
 ---
+## entry
+ts:     2025-11-25T19:49:02+00:00
+seq:    2025-11-25-15
+msg:    refactor: consolidate duplicate validation logic
+nonce:  129946
+---
