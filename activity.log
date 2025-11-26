@@ -8297,3 +8297,9 @@ seq:    2025-11-26-7
 msg:    refactor: centralise API error-response factory
 nonce:  121244
 ---
+## entry
+ts:     2025-11-26T15:57:27+00:00
+seq:    2025-11-26-8
+msg:    refactor: split God-service into focused modules
+nonce:  103295
+---
