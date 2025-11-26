@@ -33509,3 +33509,9 @@ seq:    2025-11-26-12
 msg:    refactor: extract auth guard into shared middleware
 nonce:  104162
 ---
+## entry
+ts:     2025-11-26T16:20:14+00:00
+seq:    2025-11-26-13
+msg:    fix: sanitize user input in search filter
+nonce:  104290
+---
