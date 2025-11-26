@@ -8303,3 +8303,9 @@ seq:    2025-11-26-8
 msg:    refactor: split God-service into focused modules
 nonce:  103295
 ---
+## entry
+ts:     2025-11-26T19:00:24+00:00
+seq:    2025-11-26-9
+msg:    chore: remove unused imports across codebase
+nonce:  122090
+---
