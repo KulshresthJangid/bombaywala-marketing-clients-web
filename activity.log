@@ -33491,3 +33491,9 @@ seq:    2025-11-26-9
 msg:    test: add snapshot tests for report generator
 nonce:  102483
 ---
+## entry
+ts:     2025-11-26T15:33:21+00:00
+seq:    2025-11-26-10
+msg:    fix: correct date formatting in monthly report
+nonce:  111676
+---
