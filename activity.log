@@ -8261,3 +8261,9 @@ seq:    2025-11-26-1
 msg:    docs: add getting-started guide to README
 nonce:  120250
 ---
+## entry
+ts:     2025-11-26T11:42:41+00:00
+seq:    2025-11-26-2
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  130980
+---
