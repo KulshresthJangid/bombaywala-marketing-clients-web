@@ -33533,3 +33533,9 @@ seq:    2025-11-26-16
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  109885
 ---
+## entry
+ts:     2025-11-26T17:43:13+00:00
+seq:    2025-11-26-17
+msg:    chore: rotate copyright year in license header
+nonce:  130418
+---
