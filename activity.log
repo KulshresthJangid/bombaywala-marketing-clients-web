@@ -33473,3 +33473,9 @@ seq:    2025-11-26-6
 msg:    docs: document required environment variables
 nonce:  102186
 ---
+## entry
+ts:     2025-11-26T13:36:19+00:00
+seq:    2025-11-26-7
+msg:    feat: implement Redis caching layer
+nonce:  119263
+---
