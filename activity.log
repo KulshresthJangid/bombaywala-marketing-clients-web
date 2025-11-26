@@ -33461,3 +33461,9 @@ seq:    2025-11-26-4
 msg:    fix: correct date formatting in monthly report
 nonce:  119636
 ---
+## entry
+ts:     2025-11-26T13:02:46+00:00
+seq:    2025-11-26-5
+msg:    feat: add rate-limiting middleware
+nonce:  100192
+---
