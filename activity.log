@@ -8285,3 +8285,9 @@ seq:    2025-11-26-5
 msg:    fix: resolve null pointer in user service
 nonce:  128088
 ---
+## entry
+ts:     2025-11-26T15:07:06+00:00
+seq:    2025-11-26-6
+msg:    docs: add JSDoc to all public utility functions
+nonce:  100648
+---
