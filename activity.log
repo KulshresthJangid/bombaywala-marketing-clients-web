@@ -33515,3 +33515,9 @@ seq:    2025-11-26-13
 msg:    fix: sanitize user input in search filter
 nonce:  104290
 ---
+## entry
+ts:     2025-11-26T16:28:21+00:00
+seq:    2025-11-26-14
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  100674
+---
