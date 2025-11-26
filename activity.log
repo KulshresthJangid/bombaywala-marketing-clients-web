@@ -33449,3 +33449,9 @@ seq:    2025-11-26-2
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  111807
 ---
+## entry
+ts:     2025-11-26T11:31:56+00:00
+seq:    2025-11-26-3
+msg:    feat: add batch job processing queue
+nonce:  110431
+---
