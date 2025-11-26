@@ -33437,3 +33437,9 @@ seq:    2025-11-26-0
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  110024
 ---
+## entry
+ts:     2025-11-26T10:19:13+00:00
+seq:    2025-11-26-1
+msg:    fix: resolve null pointer in user service
+nonce:  100948
+---
