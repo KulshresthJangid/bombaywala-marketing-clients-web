@@ -33521,3 +33521,9 @@ seq:    2025-11-26-14
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  100674
 ---
+## entry
+ts:     2025-11-26T16:29:08+00:00
+seq:    2025-11-26-15
+msg:    perf: enable gzip compression on API responses
+nonce:  127245
+---
