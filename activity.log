@@ -33641,3 +33641,9 @@ seq:    2025-11-27-10
 msg:    docs: update CHANGELOG for next release
 nonce:  122865
 ---
+## entry
+ts:     2025-11-27T14:33:00+00:00
+seq:    2025-11-27-11
+msg:    test: stub external HTTP calls in unit suite
+nonce:  107305
+---
