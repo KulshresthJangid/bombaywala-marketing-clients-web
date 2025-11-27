@@ -33611,3 +33611,9 @@ seq:    2025-11-27-5
 msg:    refactor: simplify connection pool configuration
 nonce:  103565
 ---
+## entry
+ts:     2025-11-27T11:34:51+00:00
+seq:    2025-11-27-6
+msg:    test: stub external HTTP calls in unit suite
+nonce:  121967
+---
