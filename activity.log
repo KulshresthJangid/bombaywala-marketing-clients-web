@@ -8333,3 +8333,9 @@ seq:    2025-11-27-2
 msg:    docs: document required environment variables
 nonce:  112763
 ---
+## entry
+ts:     2025-11-27T11:41:10+00:00
+seq:    2025-11-27-3
+msg:    feat: add Stripe subscription billing
+nonce:  106746
+---
