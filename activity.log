@@ -33635,3 +33635,9 @@ seq:    2025-11-27-9
 msg:    chore: remove unused imports across codebase
 nonce:  115873
 ---
+## entry
+ts:     2025-11-27T14:23:51+00:00
+seq:    2025-11-27-10
+msg:    docs: update CHANGELOG for next release
+nonce:  122865
+---
