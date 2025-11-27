@@ -33581,3 +33581,9 @@ seq:    2025-11-27-0
 msg:    test: add edge-case tests for input validators
 nonce:  103771
 ---
+## entry
+ts:     2025-11-27T10:34:30+00:00
+seq:    2025-11-27-1
+msg:    feat: add rate-limiting middleware
+nonce:  123692
+---
