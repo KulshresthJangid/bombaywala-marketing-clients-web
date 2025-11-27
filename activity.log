@@ -33623,3 +33623,9 @@ seq:    2025-11-27-7
 msg:    refactor: remove dead code from utils barrel
 nonce:  125542
 ---
+## entry
+ts:     2025-11-27T12:10:12+00:00
+seq:    2025-11-27-8
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  107264
+---
