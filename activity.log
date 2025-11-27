@@ -8369,3 +8369,9 @@ seq:    2025-11-27-8
 msg:    test: add snapshot tests for report generator
 nonce:  121521
 ---
+## entry
+ts:     2025-11-27T14:55:03+00:00
+seq:    2025-11-27-9
+msg:    refactor: replace callback hell with async/await
+nonce:  107504
+---
