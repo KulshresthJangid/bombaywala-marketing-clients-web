@@ -33647,3 +33647,9 @@ seq:    2025-11-27-11
 msg:    test: stub external HTTP calls in unit suite
 nonce:  107305
 ---
+## entry
+ts:     2025-11-27T15:49:22+00:00
+seq:    2025-11-27-12
+msg:    feat: create admin panel route group
+nonce:  106900
+---
