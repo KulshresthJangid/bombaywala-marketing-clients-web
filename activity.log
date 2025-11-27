@@ -8387,3 +8387,9 @@ seq:    2025-11-27-11
 msg:    refactor: migrate from winston to pino logger
 nonce:  112477
 ---
+## entry
+ts:     2025-11-27T18:29:00+00:00
+seq:    2025-11-27-12
+msg:    feat: add GraphQL subscription support
+nonce:  107034
+---
