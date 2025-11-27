@@ -8375,3 +8375,9 @@ seq:    2025-11-27-9
 msg:    refactor: replace callback hell with async/await
 nonce:  107504
 ---
+## entry
+ts:     2025-11-27T15:46:20+00:00
+seq:    2025-11-27-10
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  131791
+---
