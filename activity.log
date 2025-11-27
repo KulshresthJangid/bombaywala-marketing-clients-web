@@ -33599,3 +33599,9 @@ seq:    2025-11-27-3
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  130451
 ---
+## entry
+ts:     2025-11-27T11:20:43+00:00
+seq:    2025-11-27-4
+msg:    feat: implement dark mode toggle
+nonce:  127381
+---
