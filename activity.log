@@ -33683,3 +33683,9 @@ seq:    2025-11-27-17
 msg:    test: add edge-case tests for input validators
 nonce:  105818
 ---
+## entry
+ts:     2025-11-27T21:05:02+00:00
+seq:    2025-11-27-18
+msg:    fix: correct off-by-one in pagination offset
+nonce:  132237
+---
