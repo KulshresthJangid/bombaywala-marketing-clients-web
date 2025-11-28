@@ -33743,3 +33743,9 @@ seq:    2025-11-28-8
 msg:    refactor: extract auth guard into shared middleware
 nonce:  123724
 ---
+## entry
+ts:     2025-11-28T16:41:51+00:00
+seq:    2025-11-28-9
+msg:    perf: trim unnecessary fields from list responses
+nonce:  119674
+---
