@@ -8423,3 +8423,9 @@ seq:    2025-11-28-2
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  111767
 ---
+## entry
+ts:     2025-11-28T10:10:47+00:00
+seq:    2025-11-28-3
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  119472
+---
