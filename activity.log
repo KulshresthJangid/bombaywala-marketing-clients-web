@@ -8435,3 +8435,9 @@ seq:    2025-11-28-4
 msg:    refactor: extract auth guard into shared middleware
 nonce:  125717
 ---
+## entry
+ts:     2025-11-28T12:37:54+00:00
+seq:    2025-11-28-5
+msg:    feat: implement dark mode toggle
+nonce:  128126
+---
