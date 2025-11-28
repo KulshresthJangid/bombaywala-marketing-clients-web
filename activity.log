@@ -8471,3 +8471,9 @@ seq:    2025-11-28-10
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  108928
 ---
+## entry
+ts:     2025-11-28T18:54:23+00:00
+seq:    2025-11-28-11
+msg:    feat: add batch job processing queue
+nonce:  108766
+---
