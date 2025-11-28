@@ -33755,3 +33755,9 @@ seq:    2025-11-28-10
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  108554
 ---
+## entry
+ts:     2025-11-28T20:24:59+00:00
+seq:    2025-11-28-11
+msg:    chore: apply prettier to all source files
+nonce:  129140
+---
