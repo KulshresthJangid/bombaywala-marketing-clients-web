@@ -33689,3 +33689,9 @@ seq:    2025-11-27-18
 msg:    fix: correct off-by-one in pagination offset
 nonce:  132237
 ---
+## entry
+ts:     2025-11-28T08:23:55+00:00
+seq:    2025-11-28-0
+msg:    fix: resolve race condition in job queue
+nonce:  110385
+---
