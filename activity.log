@@ -33713,3 +33713,9 @@ seq:    2025-11-28-3
 msg:    fix: sanitize user input in search filter
 nonce:  109891
 ---
+## entry
+ts:     2025-11-28T11:59:17+00:00
+seq:    2025-11-28-4
+msg:    chore: remove unused imports across codebase
+nonce:  121577
+---
