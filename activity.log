@@ -33737,3 +33737,9 @@ seq:    2025-11-28-7
 msg:    refactor: migrate from winston to pino logger
 nonce:  124465
 ---
+## entry
+ts:     2025-11-28T15:17:14+00:00
+seq:    2025-11-28-8
+msg:    refactor: extract auth guard into shared middleware
+nonce:  123724
+---
