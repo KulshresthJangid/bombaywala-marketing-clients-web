@@ -8477,3 +8477,9 @@ seq:    2025-11-28-11
 msg:    feat: add batch job processing queue
 nonce:  108766
 ---
+## entry
+ts:     2025-11-28T21:12:55+00:00
+seq:    2025-11-28-12
+msg:    fix: resolve CORS rejection on preflight
+nonce:  118532
+---
