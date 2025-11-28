@@ -33719,3 +33719,9 @@ seq:    2025-11-28-4
 msg:    chore: remove unused imports across codebase
 nonce:  121577
 ---
+## entry
+ts:     2025-11-28T12:05:35+00:00
+seq:    2025-11-28-5
+msg:    test: add edge-case tests for input validators
+nonce:  115128
+---
