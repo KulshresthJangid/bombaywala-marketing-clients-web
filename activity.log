@@ -33749,3 +33749,9 @@ seq:    2025-11-28-9
 msg:    perf: trim unnecessary fields from list responses
 nonce:  119674
 ---
+## entry
+ts:     2025-11-28T17:54:58+00:00
+seq:    2025-11-28-10
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  108554
+---
