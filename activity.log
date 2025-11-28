@@ -8447,3 +8447,9 @@ seq:    2025-11-28-6
 msg:    feat: create admin panel route group
 nonce:  130302
 ---
+## entry
+ts:     2025-11-28T16:44:04+00:00
+seq:    2025-11-28-7
+msg:    refactor: move magic strings to constants module
+nonce:  113949
+---
