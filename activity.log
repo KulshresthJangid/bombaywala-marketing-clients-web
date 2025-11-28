@@ -8411,3 +8411,9 @@ seq:    2025-11-28-0
 msg:    feat: create outbound webhook dispatcher
 nonce:  104619
 ---
+## entry
+ts:     2025-11-28T09:49:40+00:00
+seq:    2025-11-28-1
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  118851
+---
