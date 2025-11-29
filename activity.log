@@ -8525,3 +8525,9 @@ seq:    2025-11-29-4
 msg:    test: stub external HTTP calls in unit suite
 nonce:  104903
 ---
+## entry
+ts:     2025-11-29T13:14:15+00:00
+seq:    2025-11-29-5
+msg:    fix: correct date formatting in monthly report
+nonce:  122390
+---
