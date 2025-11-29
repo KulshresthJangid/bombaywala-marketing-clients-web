@@ -8579,3 +8579,9 @@ seq:    2025-11-29-13
 msg:    test: improve assertion messages in user tests
 nonce:  104891
 ---
+## entry
+ts:     2025-11-29T15:49:17+00:00
+seq:    2025-11-29-14
+msg:    test: stub external HTTP calls in unit suite
+nonce:  101342
+---
