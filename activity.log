@@ -8621,3 +8621,9 @@ seq:    2025-11-29-20
 msg:    feat: implement Redis caching layer
 nonce:  104550
 ---
+## entry
+ts:     2025-11-29T20:01:17+00:00
+seq:    2025-11-29-21
+msg:    fix: fix stale JWT after password reset
+nonce:  112062
+---
