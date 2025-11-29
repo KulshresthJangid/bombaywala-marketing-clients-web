@@ -8585,3 +8585,9 @@ seq:    2025-11-29-14
 msg:    test: stub external HTTP calls in unit suite
 nonce:  101342
 ---
+## entry
+ts:     2025-11-29T16:39:52+00:00
+seq:    2025-11-29-15
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  127970
+---
