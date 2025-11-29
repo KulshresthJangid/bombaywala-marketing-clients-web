@@ -8531,3 +8531,9 @@ seq:    2025-11-29-5
 msg:    fix: correct date formatting in monthly report
 nonce:  122390
 ---
+## entry
+ts:     2025-11-29T13:32:29+00:00
+seq:    2025-11-29-6
+msg:    perf: enable gzip compression on API responses
+nonce:  112912
+---
