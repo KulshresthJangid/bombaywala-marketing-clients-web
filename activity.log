@@ -8609,3 +8609,9 @@ seq:    2025-11-29-18
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  106430
 ---
+## entry
+ts:     2025-11-29T17:18:51+00:00
+seq:    2025-11-29-19
+msg:    feat: add rate-limiting middleware
+nonce:  113654
+---
