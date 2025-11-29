@@ -8495,3 +8495,9 @@ seq:    2025-11-28-14
 msg:    refactor: simplify connection pool configuration
 nonce:  102515
 ---
+## entry
+ts:     2025-11-29T09:51:25+00:00
+seq:    2025-11-29-0
+msg:    fix: correct date formatting in monthly report
+nonce:  118227
+---
