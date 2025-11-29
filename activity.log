@@ -8597,3 +8597,9 @@ seq:    2025-11-29-16
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  116210
 ---
+## entry
+ts:     2025-11-29T16:55:07+00:00
+seq:    2025-11-29-17
+msg:    refactor: replace callback hell with async/await
+nonce:  103727
+---
