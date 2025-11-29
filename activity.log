@@ -8555,3 +8555,9 @@ seq:    2025-11-29-9
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  131091
 ---
+## entry
+ts:     2025-11-29T15:01:15+00:00
+seq:    2025-11-29-10
+msg:    fix: handle empty state on dashboard load
+nonce:  108023
+---
