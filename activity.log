@@ -8501,3 +8501,9 @@ seq:    2025-11-29-0
 msg:    fix: correct date formatting in monthly report
 nonce:  118227
 ---
+## entry
+ts:     2025-11-29T10:25:50+00:00
+seq:    2025-11-29-1
+msg:    refactor: migrate from winston to pino logger
+nonce:  107855
+---
