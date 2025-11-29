@@ -8633,3 +8633,9 @@ seq:    2025-11-29-22
 msg:    fix: handle empty state on dashboard load
 nonce:  128485
 ---
+## entry
+ts:     2025-11-29T22:10:58+00:00
+seq:    2025-11-29-23
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  100916
+---
