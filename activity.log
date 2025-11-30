@@ -8645,3 +8645,9 @@ seq:    2025-11-30-0
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  110443
 ---
+## entry
+ts:     2025-11-30T11:35:01+00:00
+seq:    2025-11-30-1
+msg:    fix: correct date formatting in monthly report
+nonce:  122010
+---
