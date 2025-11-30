@@ -8687,3 +8687,9 @@ seq:    2025-11-30-7
 msg:    chore: apply prettier to all source files
 nonce:  119559
 ---
+## entry
+ts:     2025-11-30T14:52:12+00:00
+seq:    2025-11-30-8
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  125473
+---
