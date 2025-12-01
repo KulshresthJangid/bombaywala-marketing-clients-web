@@ -8729,3 +8729,9 @@ seq:    2025-12-01-3
 msg:    feat: add rate-limiting middleware
 nonce:  110143
 ---
+## entry
+ts:     2025-12-01T10:37:57+00:00
+seq:    2025-12-01-4
+msg:    chore: rotate copyright year in license header
+nonce:  126683
+---
