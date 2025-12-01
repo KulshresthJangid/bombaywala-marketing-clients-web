@@ -8717,3 +8717,9 @@ seq:    2025-12-01-1
 msg:    feat: add batch job processing queue
 nonce:  113441
 ---
+## entry
+ts:     2025-12-01T09:56:15+00:00
+seq:    2025-12-01-2
+msg:    perf: trim unnecessary fields from list responses
+nonce:  102839
+---
