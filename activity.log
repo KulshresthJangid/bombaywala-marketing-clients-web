@@ -8705,3 +8705,9 @@ seq:    2025-11-30-10
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  124384
 ---
+## entry
+ts:     2025-12-01T09:01:19+00:00
+seq:    2025-12-01-0
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  100883
+---
