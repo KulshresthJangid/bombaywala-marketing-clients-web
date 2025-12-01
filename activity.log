@@ -8813,3 +8813,9 @@ seq:    2025-12-01-17
 msg:    refactor: extract auth guard into shared middleware
 nonce:  122652
 ---
+## entry
+ts:     2025-12-01T18:34:41+00:00
+seq:    2025-12-01-18
+msg:    feat: add GraphQL subscription support
+nonce:  131700
+---
