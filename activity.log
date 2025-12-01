@@ -8741,3 +8741,9 @@ seq:    2025-12-01-5
 msg:    feat: add OAuth2 social login flow
 nonce:  102263
 ---
+## entry
+ts:     2025-12-01T10:50:35+00:00
+seq:    2025-12-01-6
+msg:    test: add unit tests for AuthService
+nonce:  100503
+---
