@@ -33797,3 +33797,9 @@ seq:    2025-12-01-5
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  112663
 ---
+## entry
+ts:     2025-12-01T12:51:53+00:00
+seq:    2025-12-01-6
+msg:    fix: patch reflected-XSS in comment field
+nonce:  120579
+---
