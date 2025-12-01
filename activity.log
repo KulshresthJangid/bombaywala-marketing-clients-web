@@ -33863,3 +33863,9 @@ seq:    2025-12-01-16
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  114222
 ---
+## entry
+ts:     2025-12-01T19:03:11+00:00
+seq:    2025-12-01-17
+msg:    perf: trim unnecessary fields from list responses
+nonce:  124242
+---
