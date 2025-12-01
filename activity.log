@@ -8759,3 +8759,9 @@ seq:    2025-12-01-8
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  104005
 ---
+## entry
+ts:     2025-12-01T11:58:43+00:00
+seq:    2025-12-01-9
+msg:    test: add integration tests for /api/v2 routes
+nonce:  125479
+---
