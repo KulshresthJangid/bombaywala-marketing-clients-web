@@ -8825,3 +8825,9 @@ seq:    2025-12-01-19
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  123129
 ---
+## entry
+ts:     2025-12-01T20:04:06+00:00
+seq:    2025-12-01-20
+msg:    test: raise coverage floor for payment module
+nonce:  114413
+---
