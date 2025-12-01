@@ -33839,3 +33839,9 @@ seq:    2025-12-01-12
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  116411
 ---
+## entry
+ts:     2025-12-01T16:22:51+00:00
+seq:    2025-12-01-13
+msg:    fix: resolve CORS rejection on preflight
+nonce:  121036
+---
