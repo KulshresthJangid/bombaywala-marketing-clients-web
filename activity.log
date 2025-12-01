@@ -8723,3 +8723,9 @@ seq:    2025-12-01-2
 msg:    perf: trim unnecessary fields from list responses
 nonce:  102839
 ---
+## entry
+ts:     2025-12-01T10:08:33+00:00
+seq:    2025-12-01-3
+msg:    feat: add rate-limiting middleware
+nonce:  110143
+---
