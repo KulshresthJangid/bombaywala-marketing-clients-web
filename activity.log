@@ -8807,3 +8807,9 @@ seq:    2025-12-01-16
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  116500
 ---
+## entry
+ts:     2025-12-01T18:13:56+00:00
+seq:    2025-12-01-17
+msg:    refactor: extract auth guard into shared middleware
+nonce:  122652
+---
