@@ -8777,3 +8777,9 @@ seq:    2025-12-01-11
 msg:    chore: rotate copyright year in license header
 nonce:  103436
 ---
+## entry
+ts:     2025-12-01T16:10:51+00:00
+seq:    2025-12-01-12
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  107402
+---
