@@ -8735,3 +8735,9 @@ seq:    2025-12-01-4
 msg:    chore: rotate copyright year in license header
 nonce:  126683
 ---
+## entry
+ts:     2025-12-01T10:42:10+00:00
+seq:    2025-12-01-5
+msg:    feat: add OAuth2 social login flow
+nonce:  102263
+---
