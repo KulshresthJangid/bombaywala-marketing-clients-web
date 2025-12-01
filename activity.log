@@ -33791,3 +33791,9 @@ seq:    2025-12-01-4
 msg:    feat: implement full-text search with filters
 nonce:  125478
 ---
+## entry
+ts:     2025-12-01T11:37:16+00:00
+seq:    2025-12-01-5
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  112663
+---
