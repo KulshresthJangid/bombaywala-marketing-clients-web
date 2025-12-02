@@ -8951,3 +8951,9 @@ seq:    2025-12-02-18
 msg:    fix: sanitize user input in search filter
 nonce:  128041
 ---
+## entry
+ts:     2025-12-02T22:33:20+00:00
+seq:    2025-12-02-19
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  123338
+---
