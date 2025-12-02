@@ -8909,3 +8909,9 @@ seq:    2025-12-02-11
 msg:    feat: implement full-text search with filters
 nonce:  115443
 ---
+## entry
+ts:     2025-12-02T16:44:09+00:00
+seq:    2025-12-02-12
+msg:    feat: add batch job processing queue
+nonce:  118644
+---
