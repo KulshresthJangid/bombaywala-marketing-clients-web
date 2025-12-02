@@ -8849,3 +8849,9 @@ seq:    2025-12-02-1
 msg:    docs: update CHANGELOG for next release
 nonce:  126532
 ---
+## entry
+ts:     2025-12-02T10:41:50+00:00
+seq:    2025-12-02-2
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  132306
+---
