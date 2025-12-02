@@ -8933,3 +8933,9 @@ seq:    2025-12-02-15
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  132555
 ---
+## entry
+ts:     2025-12-02T19:07:47+00:00
+seq:    2025-12-02-16
+msg:    fix: correct date formatting in monthly report
+nonce:  111015
+---
