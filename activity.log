@@ -8945,3 +8945,9 @@ seq:    2025-12-02-17
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  121836
 ---
+## entry
+ts:     2025-12-02T20:27:42+00:00
+seq:    2025-12-02-18
+msg:    fix: sanitize user input in search filter
+nonce:  128041
+---
