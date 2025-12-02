@@ -8855,3 +8855,9 @@ seq:    2025-12-02-2
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  132306
 ---
+## entry
+ts:     2025-12-02T11:32:02+00:00
+seq:    2025-12-02-3
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  113717
+---
