@@ -9029,3 +9029,9 @@ seq:    2025-12-03-11
 msg:    test: add unit tests for AuthService
 nonce:  105532
 ---
+## entry
+ts:     2025-12-03T17:17:27+00:00
+seq:    2025-12-03-12
+msg:    feat: add cursor-based pagination
+nonce:  112223
+---
