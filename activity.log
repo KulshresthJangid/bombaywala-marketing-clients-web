@@ -33899,3 +33899,9 @@ seq:    2025-12-03-0
 msg:    chore: remove unused imports across codebase
 nonce:  109507
 ---
+## entry
+ts:     2025-12-03T09:32:41+00:00
+seq:    2025-12-03-1
+msg:    perf: trim unnecessary fields from list responses
+nonce:  108634
+---
