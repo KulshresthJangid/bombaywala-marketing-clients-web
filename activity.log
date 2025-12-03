@@ -33977,3 +33977,9 @@ seq:    2025-12-03-13
 msg:    docs: add JSDoc to all public utility functions
 nonce:  119280
 ---
+## entry
+ts:     2025-12-03T19:54:57+00:00
+seq:    2025-12-03-14
+msg:    test: add integration tests for /api/v2 routes
+nonce:  119228
+---
