@@ -8969,3 +8969,9 @@ seq:    2025-12-03-1
 msg:    refactor: extract auth guard into shared middleware
 nonce:  123450
 ---
+## entry
+ts:     2025-12-03T09:12:35+00:00
+seq:    2025-12-03-2
+msg:    test: add k6 load-test script for checkout flow
+nonce:  130551
+---
