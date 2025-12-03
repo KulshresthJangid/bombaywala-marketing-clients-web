@@ -8981,3 +8981,9 @@ seq:    2025-12-03-3
 msg:    feat: add user authentication module
 nonce:  110601
 ---
+## entry
+ts:     2025-12-03T12:07:53+00:00
+seq:    2025-12-03-4
+msg:    refactor: remove dead code from utils barrel
+nonce:  123734
+---
