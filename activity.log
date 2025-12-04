@@ -34085,3 +34085,9 @@ seq:    2025-12-04-15
 msg:    fix: correct off-by-one in pagination offset
 nonce:  125190
 ---
+## entry
+ts:     2025-12-04T21:55:22+00:00
+seq:    2025-12-04-16
+msg:    fix: correct off-by-one in pagination offset
+nonce:  126336
+---
