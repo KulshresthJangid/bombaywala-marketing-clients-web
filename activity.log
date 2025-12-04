@@ -34001,3 +34001,9 @@ seq:    2025-12-04-1
 msg:    feat: implement dark mode toggle
 nonce:  116491
 ---
+## entry
+ts:     2025-12-04T09:53:02+00:00
+seq:    2025-12-04-2
+msg:    fix: handle empty state on dashboard load
+nonce:  131552
+---
