@@ -34079,3 +34079,9 @@ seq:    2025-12-04-14
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  105970
 ---
+## entry
+ts:     2025-12-04T21:50:52+00:00
+seq:    2025-12-04-15
+msg:    fix: correct off-by-one in pagination offset
+nonce:  125190
+---
