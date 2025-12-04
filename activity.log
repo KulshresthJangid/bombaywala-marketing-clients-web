@@ -9107,3 +9107,9 @@ seq:    2025-12-04-9
 msg:    feat: add user authentication module
 nonce:  105628
 ---
+## entry
+ts:     2025-12-04T16:18:54+00:00
+seq:    2025-12-04-10
+msg:    feat: add export-to-CSV functionality
+nonce:  118216
+---
