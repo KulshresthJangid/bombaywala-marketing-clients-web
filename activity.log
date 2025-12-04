@@ -34061,3 +34061,9 @@ seq:    2025-12-04-11
 msg:    docs: add getting-started guide to README
 nonce:  105697
 ---
+## entry
+ts:     2025-12-04T14:35:33+00:00
+seq:    2025-12-04-12
+msg:    fix: handle empty state on dashboard load
+nonce:  122131
+---
