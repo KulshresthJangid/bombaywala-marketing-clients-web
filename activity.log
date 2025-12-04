@@ -34025,3 +34025,9 @@ seq:    2025-12-04-5
 msg:    refactor: centralise API error-response factory
 nonce:  100700
 ---
+## entry
+ts:     2025-12-04T11:18:31+00:00
+seq:    2025-12-04-6
+msg:    test: add unit tests for AuthService
+nonce:  123468
+---
