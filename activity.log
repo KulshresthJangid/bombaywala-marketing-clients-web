@@ -9203,3 +9203,9 @@ seq:    2025-12-06-12
 msg:    feat: implement two-factor authentication
 nonce:  110328
 ---
+## entry
+ts:     2025-12-06T15:45:55+00:00
+seq:    2025-12-06-13
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  129582
+---
