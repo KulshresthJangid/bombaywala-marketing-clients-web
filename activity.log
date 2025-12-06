@@ -9239,3 +9239,9 @@ seq:    2025-12-06-18
 msg:    refactor: replace callback hell with async/await
 nonce:  124907
 ---
+## entry
+ts:     2025-12-06T19:37:08+00:00
+seq:    2025-12-06-19
+msg:    fix: resolve race condition in job queue
+nonce:  115537
+---
