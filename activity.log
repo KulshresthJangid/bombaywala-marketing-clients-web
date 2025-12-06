@@ -9167,3 +9167,9 @@ seq:    2025-12-06-6
 msg:    chore: reorganise src/ folder structure
 nonce:  118022
 ---
+## entry
+ts:     2025-12-06T14:25:01+00:00
+seq:    2025-12-06-7
+msg:    fix: resolve CORS rejection on preflight
+nonce:  108856
+---
