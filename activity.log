@@ -34097,3 +34097,9 @@ seq:    2025-12-04-17
 msg:    feat: add batch job processing queue
 nonce:  115153
 ---
+## entry
+ts:     2025-12-06T08:40:25+00:00
+seq:    2025-12-06-0
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  114828
+---
