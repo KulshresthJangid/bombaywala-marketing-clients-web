@@ -34133,3 +34133,9 @@ seq:    2025-12-06-5
 msg:    feat: add batch job processing queue
 nonce:  121358
 ---
+## entry
+ts:     2025-12-06T12:07:48+00:00
+seq:    2025-12-06-6
+msg:    refactor: migrate from winston to pino logger
+nonce:  106661
+---
