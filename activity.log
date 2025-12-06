@@ -9173,3 +9173,9 @@ seq:    2025-12-06-7
 msg:    fix: resolve CORS rejection on preflight
 nonce:  108856
 ---
+## entry
+ts:     2025-12-06T14:46:07+00:00
+seq:    2025-12-06-8
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  104884
+---
