@@ -34199,3 +34199,9 @@ seq:    2025-12-06-16
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  114888
 ---
+## entry
+ts:     2025-12-06T20:32:33+00:00
+seq:    2025-12-06-17
+msg:    feat: add rate-limiting middleware
+nonce:  103375
+---
