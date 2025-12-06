@@ -34157,3 +34157,9 @@ seq:    2025-12-06-9
 msg:    test: stub external HTTP calls in unit suite
 nonce:  102508
 ---
+## entry
+ts:     2025-12-06T14:38:24+00:00
+seq:    2025-12-06-10
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  132436
+---
