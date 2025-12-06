@@ -9179,3 +9179,9 @@ seq:    2025-12-06-8
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104884
 ---
+## entry
+ts:     2025-12-06T14:49:54+00:00
+seq:    2025-12-06-9
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  118654
+---
