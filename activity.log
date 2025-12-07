@@ -9323,3 +9323,9 @@ seq:    2025-12-07-8
 msg:    test: improve assertion messages in user tests
 nonce:  115604
 ---
+## entry
+ts:     2025-12-07T20:25:15+00:00
+seq:    2025-12-07-9
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  131826
+---
