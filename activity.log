@@ -34253,3 +34253,9 @@ seq:    2025-12-07-5
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  131964
 ---
+## entry
+ts:     2025-12-07T12:34:41+00:00
+seq:    2025-12-07-6
+msg:    test: add k6 load-test script for checkout flow
+nonce:  110859
+---
