@@ -34337,3 +34337,9 @@ seq:    2025-12-08-8
 msg:    refactor: split God-service into focused modules
 nonce:  124074
 ---
+## entry
+ts:     2025-12-08T15:20:36+00:00
+seq:    2025-12-08-9
+msg:    test: raise coverage floor for payment module
+nonce:  112647
+---
