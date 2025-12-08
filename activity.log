@@ -9383,3 +9383,9 @@ seq:    2025-12-08-8
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  109918
 ---
+## entry
+ts:     2025-12-08T15:26:07+00:00
+seq:    2025-12-08-9
+msg:    docs: document required environment variables
+nonce:  130736
+---
