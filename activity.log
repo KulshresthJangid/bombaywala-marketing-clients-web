@@ -9431,3 +9431,9 @@ seq:    2025-12-08-16
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  106542
 ---
+## entry
+ts:     2025-12-08T20:41:36+00:00
+seq:    2025-12-08-17
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  118961
+---
