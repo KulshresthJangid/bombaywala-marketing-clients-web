@@ -9413,3 +9413,9 @@ seq:    2025-12-08-13
 msg:    fix: resolve race condition in job queue
 nonce:  129513
 ---
+## entry
+ts:     2025-12-08T16:27:31+00:00
+seq:    2025-12-08-14
+msg:    test: improve assertion messages in user tests
+nonce:  118259
+---
