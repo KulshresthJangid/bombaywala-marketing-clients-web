@@ -9377,3 +9377,9 @@ seq:    2025-12-08-7
 msg:    feat: scaffold onboarding wizard UI
 nonce:  110894
 ---
+## entry
+ts:     2025-12-08T15:24:43+00:00
+seq:    2025-12-08-8
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  109918
+---
