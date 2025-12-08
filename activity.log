@@ -34343,3 +34343,9 @@ seq:    2025-12-08-9
 msg:    test: raise coverage floor for payment module
 nonce:  112647
 ---
+## entry
+ts:     2025-12-08T15:41:43+00:00
+seq:    2025-12-08-10
+msg:    feat: add OAuth2 social login flow
+nonce:  120787
+---
