@@ -9329,3 +9329,9 @@ seq:    2025-12-07-9
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  131826
 ---
+## entry
+ts:     2025-12-08T09:41:24+00:00
+seq:    2025-12-08-0
+msg:    feat: create admin panel route group
+nonce:  109095
+---
