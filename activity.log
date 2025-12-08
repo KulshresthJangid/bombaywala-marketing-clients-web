@@ -9371,3 +9371,9 @@ seq:    2025-12-08-6
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  116180
 ---
+## entry
+ts:     2025-12-08T14:47:44+00:00
+seq:    2025-12-08-7
+msg:    feat: scaffold onboarding wizard UI
+nonce:  110894
+---
