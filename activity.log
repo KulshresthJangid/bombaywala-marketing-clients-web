@@ -34313,3 +34313,9 @@ seq:    2025-12-08-4
 msg:    feat: implement two-factor authentication
 nonce:  108078
 ---
+## entry
+ts:     2025-12-08T12:33:21+00:00
+seq:    2025-12-08-5
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  114899
+---
