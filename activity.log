@@ -9551,3 +9551,9 @@ seq:    2025-12-09-15
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  106347
 ---
+## entry
+ts:     2025-12-09T14:56:34+00:00
+seq:    2025-12-09-16
+msg:    feat: add real-time notification system
+nonce:  117847
+---
