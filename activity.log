@@ -9581,3 +9581,9 @@ seq:    2025-12-09-20
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  115728
 ---
+## entry
+ts:     2025-12-09T20:06:01+00:00
+seq:    2025-12-09-21
+msg:    test: add snapshot tests for report generator
+nonce:  102178
+---
