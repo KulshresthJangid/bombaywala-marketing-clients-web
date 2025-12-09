@@ -9521,3 +9521,9 @@ seq:    2025-12-09-10
 msg:    fix: patch reflected-XSS in comment field
 nonce:  118765
 ---
+## entry
+ts:     2025-12-09T12:49:15+00:00
+seq:    2025-12-09-11
+msg:    feat: implement file upload with S3 backend
+nonce:  107289
+---
