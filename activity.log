@@ -9515,3 +9515,9 @@ seq:    2025-12-09-9
 msg:    feat: implement dark mode toggle
 nonce:  100176
 ---
+## entry
+ts:     2025-12-09T12:27:33+00:00
+seq:    2025-12-09-10
+msg:    fix: patch reflected-XSS in comment field
+nonce:  118765
+---
