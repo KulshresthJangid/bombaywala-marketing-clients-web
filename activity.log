@@ -9575,3 +9575,9 @@ seq:    2025-12-09-19
 msg:    test: improve assertion messages in user tests
 nonce:  131514
 ---
+## entry
+ts:     2025-12-09T17:59:38+00:00
+seq:    2025-12-09-20
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  115728
+---
