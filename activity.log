@@ -9569,3 +9569,9 @@ seq:    2025-12-09-18
 msg:    perf: memoize expensive permission-check results
 nonce:  114282
 ---
+## entry
+ts:     2025-12-09T17:12:35+00:00
+seq:    2025-12-09-19
+msg:    test: improve assertion messages in user tests
+nonce:  131514
+---
