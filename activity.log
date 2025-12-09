@@ -34385,3 +34385,9 @@ seq:    2025-12-09-0
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  101018
 ---
+## entry
+ts:     2025-12-09T09:48:59+00:00
+seq:    2025-12-09-1
+msg:    chore: remove unused imports across codebase
+nonce:  129776
+---
