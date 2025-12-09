@@ -9467,3 +9467,9 @@ seq:    2025-12-09-1
 msg:    feat: add email-verification flow
 nonce:  126045
 ---
+## entry
+ts:     2025-12-09T08:54:06+00:00
+seq:    2025-12-09-2
+msg:    feat: add OAuth2 social login flow
+nonce:  131953
+---
