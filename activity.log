@@ -9671,3 +9671,9 @@ seq:    2025-12-10-10
 msg:    fix: correct off-by-one in pagination offset
 nonce:  118998
 ---
+## entry
+ts:     2025-12-10T12:26:32+00:00
+seq:    2025-12-10-11
+msg:    feat: add export-to-CSV functionality
+nonce:  107031
+---
