@@ -34469,3 +34469,9 @@ seq:    2025-12-10-4
 msg:    docs: update CHANGELOG for next release
 nonce:  100525
 ---
+## entry
+ts:     2025-12-10T13:56:01+00:00
+seq:    2025-12-10-5
+msg:    perf: trim unnecessary fields from list responses
+nonce:  107029
+---
