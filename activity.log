@@ -9641,3 +9641,9 @@ seq:    2025-12-10-5
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  131764
 ---
+## entry
+ts:     2025-12-10T11:20:05+00:00
+seq:    2025-12-10-6
+msg:    feat: add batch job processing queue
+nonce:  110464
+---
