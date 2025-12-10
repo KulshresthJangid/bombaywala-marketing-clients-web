@@ -9605,3 +9605,9 @@ seq:    2025-12-09-24
 msg:    feat: create immutable audit-log service
 nonce:  100036
 ---
+## entry
+ts:     2025-12-10T08:38:45+00:00
+seq:    2025-12-10-0
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  106372
+---
