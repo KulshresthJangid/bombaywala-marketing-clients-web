@@ -9683,3 +9683,9 @@ seq:    2025-12-10-12
 msg:    fix: sanitize user input in search filter
 nonce:  102039
 ---
+## entry
+ts:     2025-12-10T13:06:31+00:00
+seq:    2025-12-10-13
+msg:    perf: trim unnecessary fields from list responses
+nonce:  106588
+---
