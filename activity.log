@@ -9677,3 +9677,9 @@ seq:    2025-12-10-11
 msg:    feat: add export-to-CSV functionality
 nonce:  107031
 ---
+## entry
+ts:     2025-12-10T12:28:30+00:00
+seq:    2025-12-10-12
+msg:    fix: sanitize user input in search filter
+nonce:  102039
+---
