@@ -34499,3 +34499,9 @@ seq:    2025-12-10-9
 msg:    perf: lazy-load heavy chart library
 nonce:  101808
 ---
+## entry
+ts:     2025-12-10T17:45:56+00:00
+seq:    2025-12-10-10
+msg:    feat: create admin panel route group
+nonce:  130345
+---
