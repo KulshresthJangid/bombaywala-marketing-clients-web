@@ -34487,3 +34487,9 @@ seq:    2025-12-10-7
 msg:    refactor: replace callback hell with async/await
 nonce:  125077
 ---
+## entry
+ts:     2025-12-10T15:29:53+00:00
+seq:    2025-12-10-8
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  119029
+---
