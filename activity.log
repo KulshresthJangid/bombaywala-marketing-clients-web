@@ -34493,3 +34493,9 @@ seq:    2025-12-10-8
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  119029
 ---
+## entry
+ts:     2025-12-10T16:21:00+00:00
+seq:    2025-12-10-9
+msg:    perf: lazy-load heavy chart library
+nonce:  101808
+---
