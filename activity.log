@@ -9611,3 +9611,9 @@ seq:    2025-12-10-0
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  106372
 ---
+## entry
+ts:     2025-12-10T09:53:56+00:00
+seq:    2025-12-10-1
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  120063
+---
