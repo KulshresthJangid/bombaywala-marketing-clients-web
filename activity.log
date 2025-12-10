@@ -34451,3 +34451,9 @@ seq:    2025-12-10-1
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  121201
 ---
+## entry
+ts:     2025-12-10T11:59:53+00:00
+seq:    2025-12-10-2
+msg:    test: raise coverage floor for payment module
+nonce:  101384
+---
