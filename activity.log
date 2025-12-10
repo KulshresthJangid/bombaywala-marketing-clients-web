@@ -9665,3 +9665,9 @@ seq:    2025-12-10-9
 msg:    chore: remove unused imports across codebase
 nonce:  103812
 ---
+## entry
+ts:     2025-12-10T11:39:46+00:00
+seq:    2025-12-10-10
+msg:    fix: correct off-by-one in pagination offset
+nonce:  118998
+---
