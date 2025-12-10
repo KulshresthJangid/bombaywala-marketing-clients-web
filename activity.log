@@ -9647,3 +9647,9 @@ seq:    2025-12-10-6
 msg:    feat: add batch job processing queue
 nonce:  110464
 ---
+## entry
+ts:     2025-12-10T11:21:07+00:00
+seq:    2025-12-10-7
+msg:    chore: pin transitive dependency versions
+nonce:  100510
+---
