@@ -9689,3 +9689,9 @@ seq:    2025-12-10-13
 msg:    perf: trim unnecessary fields from list responses
 nonce:  106588
 ---
+## entry
+ts:     2025-12-10T14:55:26+00:00
+seq:    2025-12-10-14
+msg:    feat: add email-verification flow
+nonce:  104675
+---
