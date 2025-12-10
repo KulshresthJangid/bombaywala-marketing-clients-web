@@ -9659,3 +9659,9 @@ seq:    2025-12-10-8
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  116921
 ---
+## entry
+ts:     2025-12-10T11:35:28+00:00
+seq:    2025-12-10-9
+msg:    chore: remove unused imports across codebase
+nonce:  103812
+---
