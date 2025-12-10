@@ -9617,3 +9617,9 @@ seq:    2025-12-10-1
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  120063
 ---
+## entry
+ts:     2025-12-10T09:54:25+00:00
+seq:    2025-12-10-2
+msg:    feat: implement full-text search with filters
+nonce:  105883
+---
