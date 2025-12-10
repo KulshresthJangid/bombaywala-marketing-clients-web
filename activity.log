@@ -9707,3 +9707,9 @@ seq:    2025-12-10-16
 msg:    docs: update CHANGELOG for next release
 nonce:  107772
 ---
+## entry
+ts:     2025-12-10T17:07:05+00:00
+seq:    2025-12-10-17
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  103595
+---
