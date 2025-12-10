@@ -9695,3 +9695,9 @@ seq:    2025-12-10-14
 msg:    feat: add email-verification flow
 nonce:  104675
 ---
+## entry
+ts:     2025-12-10T15:17:21+00:00
+seq:    2025-12-10-15
+msg:    test: stub external HTTP calls in unit suite
+nonce:  127164
+---
