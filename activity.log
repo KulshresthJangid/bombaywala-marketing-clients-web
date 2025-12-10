@@ -34517,3 +34517,9 @@ seq:    2025-12-10-12
 msg:    chore: pin transitive dependency versions
 nonce:  119604
 ---
+## entry
+ts:     2025-12-10T19:40:08+00:00
+seq:    2025-12-10-13
+msg:    perf: lazy-load heavy chart library
+nonce:  128370
+---
