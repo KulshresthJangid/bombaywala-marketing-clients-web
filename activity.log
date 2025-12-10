@@ -9635,3 +9635,9 @@ seq:    2025-12-10-4
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  110898
 ---
+## entry
+ts:     2025-12-10T11:16:08+00:00
+seq:    2025-12-10-5
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  131764
+---
