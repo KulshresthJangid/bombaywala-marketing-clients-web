@@ -34535,3 +34535,9 @@ seq:    2025-12-11-0
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  110829
 ---
+## entry
+ts:     2025-12-11T09:01:22+00:00
+seq:    2025-12-11-1
+msg:    test: add snapshot tests for report generator
+nonce:  110793
+---
