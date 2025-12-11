@@ -34547,3 +34547,9 @@ seq:    2025-12-11-2
 msg:    feat: add GraphQL subscription support
 nonce:  107629
 ---
+## entry
+ts:     2025-12-11T09:12:53+00:00
+seq:    2025-12-11-3
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  107215
+---
