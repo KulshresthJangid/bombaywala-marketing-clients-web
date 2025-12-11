@@ -9821,3 +9821,9 @@ seq:    2025-12-11-12
 msg:    refactor: centralise API error-response factory
 nonce:  119561
 ---
+## entry
+ts:     2025-12-11T15:03:24+00:00
+seq:    2025-12-11-13
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  127810
+---
