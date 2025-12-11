@@ -34541,3 +34541,9 @@ seq:    2025-12-11-1
 msg:    test: add snapshot tests for report generator
 nonce:  110793
 ---
+## entry
+ts:     2025-12-11T09:12:06+00:00
+seq:    2025-12-11-2
+msg:    feat: add GraphQL subscription support
+nonce:  107629
+---
