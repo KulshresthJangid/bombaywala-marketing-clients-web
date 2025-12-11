@@ -34523,3 +34523,15 @@ seq:    2025-12-10-13
 msg:    perf: lazy-load heavy chart library
 nonce:  128370
 ---
+## entry
+ts:     2025-12-10T19:57:19+00:00
+seq:    2025-12-10-14
+msg:    test: add k6 load-test script for checkout flow
+nonce:  120247
+---
+## entry
+ts:     2025-12-11T08:45:49+00:00
+seq:    2025-12-11-0
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  110829
+---
