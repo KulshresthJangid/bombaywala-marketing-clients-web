@@ -9791,3 +9791,9 @@ seq:    2025-12-11-7
 msg:    fix: patch reflected-XSS in comment field
 nonce:  109107
 ---
+## entry
+ts:     2025-12-11T13:56:21+00:00
+seq:    2025-12-11-8
+msg:    chore: rotate copyright year in license header
+nonce:  111246
+---
