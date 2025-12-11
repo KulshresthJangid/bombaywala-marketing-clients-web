@@ -34583,3 +34583,9 @@ seq:    2025-12-11-8
 msg:    refactor: consolidate duplicate validation logic
 nonce:  121217
 ---
+## entry
+ts:     2025-12-11T16:08:43+00:00
+seq:    2025-12-11-9
+msg:    chore: rotate copyright year in license header
+nonce:  110388
+---
