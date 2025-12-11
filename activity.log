@@ -9773,3 +9773,9 @@ seq:    2025-12-11-4
 msg:    feat: add Stripe subscription billing
 nonce:  102717
 ---
+## entry
+ts:     2025-12-11T11:45:40+00:00
+seq:    2025-12-11-5
+msg:    fix: fix stale JWT after password reset
+nonce:  105743
+---
