@@ -9779,3 +9779,9 @@ seq:    2025-12-11-5
 msg:    fix: fix stale JWT after password reset
 nonce:  105743
 ---
+## entry
+ts:     2025-12-11T11:48:45+00:00
+seq:    2025-12-11-6
+msg:    test: add unit tests for AuthService
+nonce:  110997
+---
