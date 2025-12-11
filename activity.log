@@ -9815,3 +9815,9 @@ seq:    2025-12-11-11
 msg:    chore: apply prettier to all source files
 nonce:  115982
 ---
+## entry
+ts:     2025-12-11T14:48:31+00:00
+seq:    2025-12-11-12
+msg:    refactor: centralise API error-response factory
+nonce:  119561
+---
