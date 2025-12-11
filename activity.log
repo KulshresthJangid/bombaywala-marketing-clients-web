@@ -9743,3 +9743,9 @@ seq:    2025-12-10-22
 msg:    feat: add real-time notification system
 nonce:  106785
 ---
+## entry
+ts:     2025-12-11T09:21:05+00:00
+seq:    2025-12-11-0
+msg:    refactor: consolidate duplicate validation logic
+nonce:  118838
+---
