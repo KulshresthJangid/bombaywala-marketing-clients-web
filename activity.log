@@ -9845,3 +9845,9 @@ seq:    2025-12-11-16
 msg:    chore: reorganise src/ folder structure
 nonce:  129655
 ---
+## entry
+ts:     2025-12-11T16:51:35+00:00
+seq:    2025-12-11-17
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  103805
+---
