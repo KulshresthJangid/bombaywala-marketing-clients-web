@@ -9893,3 +9893,9 @@ seq:    2025-12-12-1
 msg:    feat: add OAuth2 social login flow
 nonce:  100624
 ---
+## entry
+ts:     2025-12-12T11:27:28+00:00
+seq:    2025-12-12-2
+msg:    test: add integration tests for /api/v2 routes
+nonce:  102689
+---
