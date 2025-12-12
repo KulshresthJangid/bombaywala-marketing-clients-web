@@ -34673,3 +34673,9 @@ seq:    2025-12-12-10
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  126580
 ---
+## entry
+ts:     2025-12-12T15:48:04+00:00
+seq:    2025-12-12-11
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  117353
+---
