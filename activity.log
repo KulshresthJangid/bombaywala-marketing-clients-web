@@ -9935,3 +9935,9 @@ seq:    2025-12-12-8
 msg:    perf: parallelise image-resize pipeline
 nonce:  107042
 ---
+## entry
+ts:     2025-12-12T14:25:35+00:00
+seq:    2025-12-12-9
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  112030
+---
