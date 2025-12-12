@@ -34661,3 +34661,9 @@ seq:    2025-12-12-8
 msg:    feat: add OAuth2 social login flow
 nonce:  130169
 ---
+## entry
+ts:     2025-12-12T14:37:09+00:00
+seq:    2025-12-12-9
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  103313
+---
