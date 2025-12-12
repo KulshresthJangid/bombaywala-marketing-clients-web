@@ -9899,3 +9899,9 @@ seq:    2025-12-12-2
 msg:    test: add integration tests for /api/v2 routes
 nonce:  102689
 ---
+## entry
+ts:     2025-12-12T11:31:45+00:00
+seq:    2025-12-12-3
+msg:    fix: patch reflected-XSS in comment field
+nonce:  108210
+---
