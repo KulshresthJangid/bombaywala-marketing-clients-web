@@ -9881,3 +9881,9 @@ seq:    2025-12-11-22
 msg:    refactor: consolidate duplicate validation logic
 nonce:  112991
 ---
+## entry
+ts:     2025-12-12T08:00:41+00:00
+seq:    2025-12-12-0
+msg:    docs: add JSDoc to all public utility functions
+nonce:  111954
+---
