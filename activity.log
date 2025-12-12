@@ -34667,3 +34667,9 @@ seq:    2025-12-12-9
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  103313
 ---
+## entry
+ts:     2025-12-12T15:04:02+00:00
+seq:    2025-12-12-10
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  126580
+---
