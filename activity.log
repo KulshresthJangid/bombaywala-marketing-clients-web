@@ -34685,3 +34685,9 @@ seq:    2025-12-12-12
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  111892
 ---
+## entry
+ts:     2025-12-12T15:51:57+00:00
+seq:    2025-12-12-13
+msg:    fix: patch reflected-XSS in comment field
+nonce:  132756
+---
