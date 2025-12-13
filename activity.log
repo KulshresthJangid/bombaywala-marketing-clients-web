@@ -34703,3 +34703,9 @@ seq:    2025-12-12-15
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  117528
 ---
+## entry
+ts:     2025-12-13T08:15:56+00:00
+seq:    2025-12-13-0
+msg:    feat: create outbound webhook dispatcher
+nonce:  117754
+---
