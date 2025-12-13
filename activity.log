@@ -9995,3 +9995,9 @@ seq:    2025-12-13-0
 msg:    chore: rotate copyright year in license header
 nonce:  130202
 ---
+## entry
+ts:     2025-12-13T09:19:06+00:00
+seq:    2025-12-13-1
+msg:    feat: implement full-text search with filters
+nonce:  128195
+---
