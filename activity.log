@@ -10001,3 +10001,9 @@ seq:    2025-12-13-1
 msg:    feat: implement full-text search with filters
 nonce:  128195
 ---
+## entry
+ts:     2025-12-13T09:59:51+00:00
+seq:    2025-12-13-2
+msg:    refactor: remove dead code from utils barrel
+nonce:  132563
+---
