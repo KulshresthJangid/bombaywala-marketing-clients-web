@@ -34751,3 +34751,9 @@ seq:    2025-12-13-7
 msg:    refactor: consolidate duplicate validation logic
 nonce:  124150
 ---
+## entry
+ts:     2025-12-13T13:07:55+00:00
+seq:    2025-12-13-8
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  132197
+---
