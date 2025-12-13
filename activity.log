@@ -34745,3 +34745,9 @@ seq:    2025-12-13-6
 msg:    refactor: centralise API error-response factory
 nonce:  121760
 ---
+## entry
+ts:     2025-12-13T12:29:58+00:00
+seq:    2025-12-13-7
+msg:    refactor: consolidate duplicate validation logic
+nonce:  124150
+---
