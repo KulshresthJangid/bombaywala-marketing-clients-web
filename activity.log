@@ -10019,3 +10019,9 @@ seq:    2025-12-13-4
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  103657
 ---
+## entry
+ts:     2025-12-13T10:57:21+00:00
+seq:    2025-12-13-5
+msg:    feat: create immutable audit-log service
+nonce:  119464
+---
