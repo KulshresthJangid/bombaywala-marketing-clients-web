@@ -34757,3 +34757,9 @@ seq:    2025-12-13-8
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  132197
 ---
+## entry
+ts:     2025-12-13T13:34:26+00:00
+seq:    2025-12-13-9
+msg:    test: add k6 load-test script for checkout flow
+nonce:  105408
+---
