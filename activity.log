@@ -10007,3 +10007,9 @@ seq:    2025-12-13-2
 msg:    refactor: remove dead code from utils barrel
 nonce:  132563
 ---
+## entry
+ts:     2025-12-13T10:06:29+00:00
+seq:    2025-12-13-3
+msg:    feat: add OAuth2 social login flow
+nonce:  130242
+---
