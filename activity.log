@@ -34715,3 +34715,9 @@ seq:    2025-12-13-1
 msg:    refactor: split God-service into focused modules
 nonce:  123693
 ---
+## entry
+ts:     2025-12-13T11:16:28+00:00
+seq:    2025-12-13-2
+msg:    docs: update CHANGELOG for next release
+nonce:  127863
+---
