@@ -10061,3 +10061,9 @@ seq:    2025-12-13-11
 msg:    refactor: simplify connection pool configuration
 nonce:  109186
 ---
+## entry
+ts:     2025-12-13T18:41:26+00:00
+seq:    2025-12-13-12
+msg:    test: add k6 load-test script for checkout flow
+nonce:  131812
+---
