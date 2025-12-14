@@ -10139,3 +10139,9 @@ seq:    2025-12-14-8
 msg:    feat: scaffold onboarding wizard UI
 nonce:  101535
 ---
+## entry
+ts:     2025-12-14T16:15:34+00:00
+seq:    2025-12-14-9
+msg:    test: add unit tests for AuthService
+nonce:  114486
+---
