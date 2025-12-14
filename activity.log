@@ -10085,3 +10085,9 @@ seq:    2025-12-13-15
 msg:    chore: rotate copyright year in license header
 nonce:  102690
 ---
+## entry
+ts:     2025-12-14T08:02:11+00:00
+seq:    2025-12-14-0
+msg:    docs: document required environment variables
+nonce:  128472
+---
