@@ -10115,3 +10115,9 @@ seq:    2025-12-14-4
 msg:    test: add snapshot tests for report generator
 nonce:  118941
 ---
+## entry
+ts:     2025-12-14T12:20:43+00:00
+seq:    2025-12-14-5
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  112108
+---
