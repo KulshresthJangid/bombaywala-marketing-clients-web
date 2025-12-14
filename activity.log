@@ -34913,3 +34913,9 @@ seq:    2025-12-14-12
 msg:    chore: reorganise src/ folder structure
 nonce:  117340
 ---
+## entry
+ts:     2025-12-14T19:46:31+00:00
+seq:    2025-12-14-13
+msg:    test: stub external HTTP calls in unit suite
+nonce:  111286
+---
