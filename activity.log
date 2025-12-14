@@ -10127,3 +10127,9 @@ seq:    2025-12-14-6
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  123856
 ---
+## entry
+ts:     2025-12-14T14:17:18+00:00
+seq:    2025-12-14-7
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  103785
+---
