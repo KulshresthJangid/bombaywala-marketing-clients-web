@@ -34865,3 +34865,9 @@ seq:    2025-12-14-4
 msg:    feat: add OAuth2 social login flow
 nonce:  118219
 ---
+## entry
+ts:     2025-12-14T13:42:07+00:00
+seq:    2025-12-14-5
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  109388
+---
