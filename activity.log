@@ -34871,3 +34871,9 @@ seq:    2025-12-14-5
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  109388
 ---
+## entry
+ts:     2025-12-14T13:49:02+00:00
+seq:    2025-12-14-6
+msg:    chore: rotate copyright year in license header
+nonce:  125089
+---
