@@ -10151,3 +10151,9 @@ seq:    2025-12-14-10
 msg:    refactor: consolidate duplicate validation logic
 nonce:  117825
 ---
+## entry
+ts:     2025-12-14T17:52:06+00:00
+seq:    2025-12-14-11
+msg:    chore: apply prettier to all source files
+nonce:  119159
+---
