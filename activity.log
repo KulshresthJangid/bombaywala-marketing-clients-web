@@ -10175,3 +10175,9 @@ seq:    2025-12-14-14
 msg:    feat: add batch job processing queue
 nonce:  121721
 ---
+## entry
+ts:     2025-12-14T22:11:46+00:00
+seq:    2025-12-14-15
+msg:    feat: add export-to-CSV functionality
+nonce:  106041
+---
