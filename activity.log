@@ -34883,3 +34883,9 @@ seq:    2025-12-14-7
 msg:    fix: patch reflected-XSS in comment field
 nonce:  126759
 ---
+## entry
+ts:     2025-12-14T15:12:28+00:00
+seq:    2025-12-14-8
+msg:    test: raise coverage floor for payment module
+nonce:  129889
+---
