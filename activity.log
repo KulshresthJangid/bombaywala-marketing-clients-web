@@ -10109,3 +10109,9 @@ seq:    2025-12-14-3
 msg:    feat: implement file upload with S3 backend
 nonce:  103488
 ---
+## entry
+ts:     2025-12-14T11:49:04+00:00
+seq:    2025-12-14-4
+msg:    test: add snapshot tests for report generator
+nonce:  118941
+---
