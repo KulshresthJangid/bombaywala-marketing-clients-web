@@ -34919,3 +34919,9 @@ seq:    2025-12-14-13
 msg:    test: stub external HTTP calls in unit suite
 nonce:  111286
 ---
+## entry
+ts:     2025-12-14T19:57:23+00:00
+seq:    2025-12-14-14
+msg:    test: stub external HTTP calls in unit suite
+nonce:  123124
+---
