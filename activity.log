@@ -34841,3 +34841,9 @@ seq:    2025-12-14-0
 msg:    docs: add JSDoc to all public utility functions
 nonce:  132578
 ---
+## entry
+ts:     2025-12-14T09:45:09+00:00
+seq:    2025-12-14-1
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  110482
+---
