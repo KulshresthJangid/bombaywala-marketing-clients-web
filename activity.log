@@ -10091,3 +10091,9 @@ seq:    2025-12-14-0
 msg:    docs: document required environment variables
 nonce:  128472
 ---
+## entry
+ts:     2025-12-14T09:26:29+00:00
+seq:    2025-12-14-1
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  103037
+---
