@@ -34859,3 +34859,9 @@ seq:    2025-12-14-3
 msg:    feat: implement dashboard analytics
 nonce:  117078
 ---
+## entry
+ts:     2025-12-14T13:31:09+00:00
+seq:    2025-12-14-4
+msg:    feat: add OAuth2 social login flow
+nonce:  118219
+---
