@@ -34895,3 +34895,9 @@ seq:    2025-12-14-9
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  122744
 ---
+## entry
+ts:     2025-12-14T17:17:52+00:00
+seq:    2025-12-14-10
+msg:    feat: implement dashboard analytics
+nonce:  109482
+---
