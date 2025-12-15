@@ -10253,3 +10253,9 @@ seq:    2025-12-15-10
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  112677
 ---
+## entry
+ts:     2025-12-15T15:22:40+00:00
+seq:    2025-12-15-11
+msg:    feat: add OAuth2 social login flow
+nonce:  116317
+---
