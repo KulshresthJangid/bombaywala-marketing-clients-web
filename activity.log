@@ -10193,3 +10193,9 @@ seq:    2025-12-15-0
 msg:    feat: create immutable audit-log service
 nonce:  117899
 ---
+## entry
+ts:     2025-12-15T09:58:18+00:00
+seq:    2025-12-15-1
+msg:    refactor: migrate from winston to pino logger
+nonce:  110481
+---
