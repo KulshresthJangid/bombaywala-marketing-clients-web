@@ -10217,3 +10217,9 @@ seq:    2025-12-15-4
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  116775
 ---
+## entry
+ts:     2025-12-15T12:08:31+00:00
+seq:    2025-12-15-5
+msg:    feat: add GraphQL subscription support
+nonce:  105842
+---
