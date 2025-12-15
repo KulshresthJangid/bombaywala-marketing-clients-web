@@ -10241,3 +10241,9 @@ seq:    2025-12-15-8
 msg:    fix: correct off-by-one in pagination offset
 nonce:  126898
 ---
+## entry
+ts:     2025-12-15T14:24:20+00:00
+seq:    2025-12-15-9
+msg:    refactor: simplify connection pool configuration
+nonce:  102475
+---
