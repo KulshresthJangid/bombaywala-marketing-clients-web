@@ -10229,3 +10229,9 @@ seq:    2025-12-15-6
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  115885
 ---
+## entry
+ts:     2025-12-15T12:50:25+00:00
+seq:    2025-12-15-7
+msg:    test: add k6 load-test script for checkout flow
+nonce:  112424
+---
