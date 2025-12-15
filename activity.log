@@ -10265,3 +10265,9 @@ seq:    2025-12-15-12
 msg:    chore: reorganise src/ folder structure
 nonce:  125996
 ---
+## entry
+ts:     2025-12-15T18:40:06+00:00
+seq:    2025-12-15-13
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  130846
+---
