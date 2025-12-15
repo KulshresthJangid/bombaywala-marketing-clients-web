@@ -10205,3 +10205,9 @@ seq:    2025-12-15-2
 msg:    fix: fix stale JWT after password reset
 nonce:  128146
 ---
+## entry
+ts:     2025-12-15T11:16:29+00:00
+seq:    2025-12-15-3
+msg:    test: add edge-case tests for input validators
+nonce:  106365
+---
