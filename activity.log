@@ -10283,3 +10283,9 @@ seq:    2025-12-15-15
 msg:    fix: resolve CORS rejection on preflight
 nonce:  114859
 ---
+## entry
+ts:     2025-12-15T22:36:34+00:00
+seq:    2025-12-15-16
+msg:    chore: apply prettier to all source files
+nonce:  124306
+---
