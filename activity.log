@@ -10289,3 +10289,9 @@ seq:    2025-12-15-16
 msg:    chore: apply prettier to all source files
 nonce:  124306
 ---
+## entry
+ts:     2025-12-15T22:52:56+00:00
+seq:    2025-12-15-17
+msg:    chore: remove unused imports across codebase
+nonce:  101352
+---
