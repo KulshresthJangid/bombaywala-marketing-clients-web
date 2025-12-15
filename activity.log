@@ -10223,3 +10223,9 @@ seq:    2025-12-15-5
 msg:    feat: add GraphQL subscription support
 nonce:  105842
 ---
+## entry
+ts:     2025-12-15T12:13:42+00:00
+seq:    2025-12-15-6
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  115885
+---
