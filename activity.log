@@ -10325,3 +10325,9 @@ seq:    2025-12-16-4
 msg:    fix: sanitize user input in search filter
 nonce:  104657
 ---
+## entry
+ts:     2025-12-16T11:21:11+00:00
+seq:    2025-12-16-5
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  132084
+---
