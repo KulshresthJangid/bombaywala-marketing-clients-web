@@ -10355,3 +10355,9 @@ seq:    2025-12-16-9
 msg:    test: improve assertion messages in user tests
 nonce:  126074
 ---
+## entry
+ts:     2025-12-16T14:07:31+00:00
+seq:    2025-12-16-10
+msg:    fix: correct date formatting in monthly report
+nonce:  119346
+---
