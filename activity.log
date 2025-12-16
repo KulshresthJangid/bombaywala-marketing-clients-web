@@ -10337,3 +10337,9 @@ seq:    2025-12-16-6
 msg:    feat: add GraphQL subscription support
 nonce:  130146
 ---
+## entry
+ts:     2025-12-16T12:01:56+00:00
+seq:    2025-12-16-7
+msg:    refactor: consolidate duplicate validation logic
+nonce:  127422
+---
