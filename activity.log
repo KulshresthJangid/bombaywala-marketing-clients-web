@@ -10319,3 +10319,9 @@ seq:    2025-12-16-3
 msg:    chore: pin transitive dependency versions
 nonce:  129941
 ---
+## entry
+ts:     2025-12-16T11:10:23+00:00
+seq:    2025-12-16-4
+msg:    fix: sanitize user input in search filter
+nonce:  104657
+---
