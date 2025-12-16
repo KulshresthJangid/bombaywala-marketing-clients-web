@@ -10343,3 +10343,9 @@ seq:    2025-12-16-7
 msg:    refactor: consolidate duplicate validation logic
 nonce:  127422
 ---
+## entry
+ts:     2025-12-16T12:52:21+00:00
+seq:    2025-12-16-8
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  127603
+---
