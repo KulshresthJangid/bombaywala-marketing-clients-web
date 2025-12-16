@@ -10295,3 +10295,9 @@ seq:    2025-12-15-17
 msg:    chore: remove unused imports across codebase
 nonce:  101352
 ---
+## entry
+ts:     2025-12-16T08:16:51+00:00
+seq:    2025-12-16-0
+msg:    fix: resolve race condition in job queue
+nonce:  108082
+---
