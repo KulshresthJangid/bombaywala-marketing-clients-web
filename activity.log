@@ -10535,3 +10535,9 @@ seq:    2025-12-17-20
 msg:    perf: memoize expensive permission-check results
 nonce:  129971
 ---
+## entry
+ts:     2025-12-17T20:21:21+00:00
+seq:    2025-12-17-21
+msg:    test: add k6 load-test script for checkout flow
+nonce:  116950
+---
