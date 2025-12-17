@@ -34943,3 +34943,9 @@ seq:    2025-12-17-1
 msg:    fix: fix stale JWT after password reset
 nonce:  130740
 ---
+## entry
+ts:     2025-12-17T12:40:25+00:00
+seq:    2025-12-17-2
+msg:    feat: create outbound webhook dispatcher
+nonce:  120350
+---
