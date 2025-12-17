@@ -34979,3 +34979,9 @@ seq:    2025-12-17-7
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  112699
 ---
+## entry
+ts:     2025-12-17T13:59:01+00:00
+seq:    2025-12-17-8
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  124074
+---
