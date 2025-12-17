@@ -34949,3 +34949,9 @@ seq:    2025-12-17-2
 msg:    feat: create outbound webhook dispatcher
 nonce:  120350
 ---
+## entry
+ts:     2025-12-17T12:44:37+00:00
+seq:    2025-12-17-3
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  103409
+---
