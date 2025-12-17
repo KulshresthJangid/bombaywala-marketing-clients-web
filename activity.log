@@ -10505,3 +10505,9 @@ seq:    2025-12-17-15
 msg:    test: add snapshot tests for report generator
 nonce:  114610
 ---
+## entry
+ts:     2025-12-17T17:25:48+00:00
+seq:    2025-12-17-16
+msg:    test: add unit tests for AuthService
+nonce:  123385
+---
