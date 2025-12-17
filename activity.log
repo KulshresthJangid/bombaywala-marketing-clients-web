@@ -10493,3 +10493,9 @@ seq:    2025-12-17-13
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  116020
 ---
+## entry
+ts:     2025-12-17T16:30:47+00:00
+seq:    2025-12-17-14
+msg:    feat: add Stripe subscription billing
+nonce:  130364
+---
