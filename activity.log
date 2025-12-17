@@ -10541,3 +10541,9 @@ seq:    2025-12-17-21
 msg:    test: add k6 load-test script for checkout flow
 nonce:  116950
 ---
+## entry
+ts:     2025-12-17T21:25:44+00:00
+seq:    2025-12-17-22
+msg:    feat: add rate-limiting middleware
+nonce:  122911
+---
