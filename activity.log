@@ -35129,3 +35129,9 @@ seq:    2025-12-18-15
 msg:    refactor: migrate from winston to pino logger
 nonce:  101697
 ---
+## entry
+ts:     2025-12-18T19:13:37+00:00
+seq:    2025-12-18-16
+msg:    test: stub external HTTP calls in unit suite
+nonce:  108610
+---
