@@ -35075,3 +35075,9 @@ seq:    2025-12-18-6
 msg:    feat: implement role-based access control
 nonce:  128732
 ---
+## entry
+ts:     2025-12-18T12:26:48+00:00
+seq:    2025-12-18-7
+msg:    chore: pin transitive dependency versions
+nonce:  110984
+---
