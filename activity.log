@@ -35201,3 +35201,9 @@ seq:    2025-12-20-10
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104784
 ---
+## entry
+ts:     2025-12-20T15:37:47+00:00
+seq:    2025-12-20-11
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  122727
+---
