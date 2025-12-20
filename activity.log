@@ -35153,3 +35153,9 @@ seq:    2025-12-20-2
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  107276
 ---
+## entry
+ts:     2025-12-20T09:14:48+00:00
+seq:    2025-12-20-3
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  124649
+---
