@@ -35165,3 +35165,9 @@ seq:    2025-12-20-4
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  110687
 ---
+## entry
+ts:     2025-12-20T10:07:53+00:00
+seq:    2025-12-20-5
+msg:    docs: add getting-started guide to README
+nonce:  100634
+---
