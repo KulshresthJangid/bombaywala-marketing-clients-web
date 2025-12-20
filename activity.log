@@ -35195,3 +35195,9 @@ seq:    2025-12-20-9
 msg:    fix: handle empty state on dashboard load
 nonce:  110858
 ---
+## entry
+ts:     2025-12-20T15:34:46+00:00
+seq:    2025-12-20-10
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  104784
+---
