@@ -35189,3 +35189,9 @@ seq:    2025-12-20-8
 msg:    refactor: consolidate duplicate validation logic
 nonce:  105267
 ---
+## entry
+ts:     2025-12-20T14:55:18+00:00
+seq:    2025-12-20-9
+msg:    fix: handle empty state on dashboard load
+nonce:  110858
+---
