@@ -35231,3 +35231,9 @@ seq:    2025-12-20-15
 msg:    refactor: consolidate duplicate validation logic
 nonce:  105542
 ---
+## entry
+ts:     2025-12-20T17:43:31+00:00
+seq:    2025-12-20-16
+msg:    feat: add export-to-CSV functionality
+nonce:  130475
+---
