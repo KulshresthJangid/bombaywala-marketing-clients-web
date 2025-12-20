@@ -35237,3 +35237,9 @@ seq:    2025-12-20-16
 msg:    feat: add export-to-CSV functionality
 nonce:  130475
 ---
+## entry
+ts:     2025-12-20T18:44:35+00:00
+seq:    2025-12-20-17
+msg:    test: stub external HTTP calls in unit suite
+nonce:  120941
+---
