@@ -10619,3 +10619,9 @@ seq:    2025-12-21-9
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  106052
 ---
+## entry
+ts:     2025-12-21T17:54:25+00:00
+seq:    2025-12-21-10
+msg:    perf: enable gzip compression on API responses
+nonce:  117933
+---
