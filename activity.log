@@ -10577,3 +10577,9 @@ seq:    2025-12-21-2
 msg:    chore: rotate copyright year in license header
 nonce:  111476
 ---
+## entry
+ts:     2025-12-21T10:41:12+00:00
+seq:    2025-12-21-3
+msg:    perf: lazy-load heavy chart library
+nonce:  130518
+---
