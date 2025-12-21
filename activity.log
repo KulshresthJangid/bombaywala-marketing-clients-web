@@ -10625,3 +10625,9 @@ seq:    2025-12-21-10
 msg:    perf: enable gzip compression on API responses
 nonce:  117933
 ---
+## entry
+ts:     2025-12-21T18:18:30+00:00
+seq:    2025-12-21-11
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  105252
+---
