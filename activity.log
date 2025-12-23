@@ -35381,3 +35381,9 @@ seq:    2025-12-23-17
 msg:    docs: add architecture decision record for caching
 nonce:  130742
 ---
+## entry
+ts:     2025-12-23T15:36:00+00:00
+seq:    2025-12-23-18
+msg:    refactor: simplify connection pool configuration
+nonce:  108257
+---
