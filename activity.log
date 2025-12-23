@@ -35345,3 +35345,9 @@ seq:    2025-12-23-11
 msg:    chore: rotate copyright year in license header
 nonce:  129891
 ---
+## entry
+ts:     2025-12-23T13:49:44+00:00
+seq:    2025-12-23-12
+msg:    perf: enable gzip compression on API responses
+nonce:  111815
+---
