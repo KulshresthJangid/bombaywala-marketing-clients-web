@@ -35273,3 +35273,9 @@ seq:    2025-12-20-22
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  104707
 ---
+## entry
+ts:     2025-12-23T09:08:41+00:00
+seq:    2025-12-23-0
+msg:    fix: correct date formatting in monthly report
+nonce:  113765
+---
