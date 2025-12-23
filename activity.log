@@ -35309,3 +35309,9 @@ seq:    2025-12-23-5
 msg:    chore: reorganise src/ folder structure
 nonce:  125476
 ---
+## entry
+ts:     2025-12-23T12:53:38+00:00
+seq:    2025-12-23-6
+msg:    perf: lazy-load heavy chart library
+nonce:  107441
+---
