@@ -35405,3 +35405,9 @@ seq:    2025-12-23-21
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  105630
 ---
+## entry
+ts:     2025-12-23T21:04:48+00:00
+seq:    2025-12-23-22
+msg:    feat: implement file upload with S3 backend
+nonce:  123998
+---
