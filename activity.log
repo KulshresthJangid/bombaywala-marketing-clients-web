@@ -35333,3 +35333,9 @@ seq:    2025-12-23-9
 msg:    feat: implement Redis caching layer
 nonce:  116896
 ---
+## entry
+ts:     2025-12-23T13:43:52+00:00
+seq:    2025-12-23-10
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  121311
+---
