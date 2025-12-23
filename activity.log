@@ -35399,3 +35399,9 @@ seq:    2025-12-23-20
 msg:    docs: update CHANGELOG for next release
 nonce:  116543
 ---
+## entry
+ts:     2025-12-23T19:53:29+00:00
+seq:    2025-12-23-21
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  105630
+---
