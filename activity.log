@@ -35291,3 +35291,9 @@ seq:    2025-12-23-2
 msg:    test: add integration tests for /api/v2 routes
 nonce:  114661
 ---
+## entry
+ts:     2025-12-23T11:57:15+00:00
+seq:    2025-12-23-3
+msg:    feat: add user authentication module
+nonce:  112988
+---
