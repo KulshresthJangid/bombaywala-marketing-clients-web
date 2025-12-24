@@ -10685,3 +10685,9 @@ seq:    2025-12-24-6
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  105003
 ---
+## entry
+ts:     2025-12-24T15:27:53+00:00
+seq:    2025-12-24-7
+msg:    test: add snapshot tests for report generator
+nonce:  116911
+---
