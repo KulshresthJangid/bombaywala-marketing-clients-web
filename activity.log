@@ -10649,3 +10649,9 @@ seq:    2025-12-24-0
 msg:    chore: rotate copyright year in license header
 nonce:  129251
 ---
+## entry
+ts:     2025-12-24T09:01:23+00:00
+seq:    2025-12-24-1
+msg:    test: add k6 load-test script for checkout flow
+nonce:  100643
+---
