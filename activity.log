@@ -10667,3 +10667,9 @@ seq:    2025-12-24-3
 msg:    chore: rotate copyright year in license header
 nonce:  121922
 ---
+## entry
+ts:     2025-12-24T13:20:13+00:00
+seq:    2025-12-24-4
+msg:    feat: create outbound webhook dispatcher
+nonce:  108571
+---
