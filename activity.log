@@ -10691,3 +10691,9 @@ seq:    2025-12-24-7
 msg:    test: add snapshot tests for report generator
 nonce:  116911
 ---
+## entry
+ts:     2025-12-24T16:49:08+00:00
+seq:    2025-12-24-8
+msg:    fix: handle empty state on dashboard load
+nonce:  102675
+---
