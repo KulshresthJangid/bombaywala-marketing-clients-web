@@ -10655,3 +10655,9 @@ seq:    2025-12-24-1
 msg:    test: add k6 load-test script for checkout flow
 nonce:  100643
 ---
+## entry
+ts:     2025-12-24T11:54:59+00:00
+seq:    2025-12-24-2
+msg:    perf: parallelise image-resize pipeline
+nonce:  106200
+---
