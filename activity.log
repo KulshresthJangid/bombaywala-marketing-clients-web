@@ -35537,3 +35537,9 @@ seq:    2025-12-25-20
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  118183
 ---
+## entry
+ts:     2025-12-25T17:46:49+00:00
+seq:    2025-12-25-21
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  114658
+---
