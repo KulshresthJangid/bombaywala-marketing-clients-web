@@ -35435,3 +35435,9 @@ seq:    2025-12-25-3
 msg:    perf: trim unnecessary fields from list responses
 nonce:  108777
 ---
+## entry
+ts:     2025-12-25T11:30:33+00:00
+seq:    2025-12-25-4
+msg:    test: add edge-case tests for input validators
+nonce:  108421
+---
