@@ -35423,3 +35423,9 @@ seq:    2025-12-25-1
 msg:    perf: memoize expensive permission-check results
 nonce:  103692
 ---
+## entry
+ts:     2025-12-25T10:45:16+00:00
+seq:    2025-12-25-2
+msg:    fix: sanitize user input in search filter
+nonce:  115692
+---
