@@ -35513,3 +35513,9 @@ seq:    2025-12-25-16
 msg:    chore: rotate copyright year in license header
 nonce:  106370
 ---
+## entry
+ts:     2025-12-25T16:55:17+00:00
+seq:    2025-12-25-17
+msg:    feat: add export-to-CSV functionality
+nonce:  111848
+---
