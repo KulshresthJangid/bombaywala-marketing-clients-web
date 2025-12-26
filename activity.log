@@ -10769,3 +10769,9 @@ seq:    2025-12-26-9
 msg:    feat: add multi-language (i18n) support
 nonce:  119400
 ---
+## entry
+ts:     2025-12-26T16:41:01+00:00
+seq:    2025-12-26-10
+msg:    feat: add email-verification flow
+nonce:  115913
+---
