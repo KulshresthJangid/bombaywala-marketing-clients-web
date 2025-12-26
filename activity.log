@@ -10805,3 +10805,9 @@ seq:    2025-12-26-15
 msg:    fix: resolve CORS rejection on preflight
 nonce:  100837
 ---
+## entry
+ts:     2025-12-26T22:49:38+00:00
+seq:    2025-12-26-16
+msg:    test: improve assertion messages in user tests
+nonce:  114910
+---
