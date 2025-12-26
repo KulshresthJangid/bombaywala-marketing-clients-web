@@ -10781,3 +10781,9 @@ seq:    2025-12-26-11
 msg:    chore: rotate copyright year in license header
 nonce:  109075
 ---
+## entry
+ts:     2025-12-26T18:03:10+00:00
+seq:    2025-12-26-12
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  128317
+---
