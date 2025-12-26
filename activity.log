@@ -10751,3 +10751,9 @@ seq:    2025-12-26-6
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  114342
 ---
+## entry
+ts:     2025-12-26T15:25:14+00:00
+seq:    2025-12-26-7
+msg:    feat: add GraphQL subscription support
+nonce:  108819
+---
