@@ -10829,3 +10829,9 @@ seq:    2025-12-27-2
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  127027
 ---
+## entry
+ts:     2025-12-27T11:50:13+00:00
+seq:    2025-12-27-3
+msg:    feat: integrate payment gateway
+nonce:  104837
+---
