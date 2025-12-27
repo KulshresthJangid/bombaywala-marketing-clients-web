@@ -10877,3 +10877,9 @@ seq:    2025-12-27-10
 msg:    fix: patch reflected-XSS in comment field
 nonce:  121326
 ---
+## entry
+ts:     2025-12-27T13:31:56+00:00
+seq:    2025-12-27-11
+msg:    feat: implement two-factor authentication
+nonce:  118275
+---
