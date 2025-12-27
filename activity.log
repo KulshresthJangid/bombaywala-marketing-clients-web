@@ -10937,3 +10937,9 @@ seq:    2025-12-27-20
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  100835
 ---
+## entry
+ts:     2025-12-27T20:47:38+00:00
+seq:    2025-12-27-21
+msg:    feat: implement file upload with S3 backend
+nonce:  114282
+---
