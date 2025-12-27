@@ -10835,3 +10835,9 @@ seq:    2025-12-27-3
 msg:    feat: integrate payment gateway
 nonce:  104837
 ---
+## entry
+ts:     2025-12-27T11:51:35+00:00
+seq:    2025-12-27-4
+msg:    refactor: extract auth guard into shared middleware
+nonce:  117598
+---
