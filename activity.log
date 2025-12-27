@@ -10871,3 +10871,9 @@ seq:    2025-12-27-9
 msg:    feat: scaffold onboarding wizard UI
 nonce:  120981
 ---
+## entry
+ts:     2025-12-27T13:17:46+00:00
+seq:    2025-12-27-10
+msg:    fix: patch reflected-XSS in comment field
+nonce:  121326
+---
