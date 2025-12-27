@@ -10931,3 +10931,9 @@ seq:    2025-12-27-19
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  118494
 ---
+## entry
+ts:     2025-12-27T18:26:52+00:00
+seq:    2025-12-27-20
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  100835
+---
