@@ -10841,3 +10841,9 @@ seq:    2025-12-27-4
 msg:    refactor: extract auth guard into shared middleware
 nonce:  117598
 ---
+## entry
+ts:     2025-12-27T11:58:12+00:00
+seq:    2025-12-27-5
+msg:    fix: handle empty state on dashboard load
+nonce:  125031
+---
