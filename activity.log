@@ -10847,3 +10847,9 @@ seq:    2025-12-27-5
 msg:    fix: handle empty state on dashboard load
 nonce:  125031
 ---
+## entry
+ts:     2025-12-27T12:17:33+00:00
+seq:    2025-12-27-6
+msg:    fix: patch reflected-XSS in comment field
+nonce:  121476
+---
