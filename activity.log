@@ -10853,3 +10853,9 @@ seq:    2025-12-27-6
 msg:    fix: patch reflected-XSS in comment field
 nonce:  121476
 ---
+## entry
+ts:     2025-12-27T12:25:00+00:00
+seq:    2025-12-27-7
+msg:    fix: resolve null pointer in user service
+nonce:  130744
+---
