@@ -10907,3 +10907,9 @@ seq:    2025-12-27-15
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  105697
 ---
+## entry
+ts:     2025-12-27T14:46:52+00:00
+seq:    2025-12-27-16
+msg:    feat: create admin panel route group
+nonce:  109079
+---
