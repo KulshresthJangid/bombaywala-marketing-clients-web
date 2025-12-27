@@ -10925,3 +10925,9 @@ seq:    2025-12-27-18
 msg:    fix: fix stale JWT after password reset
 nonce:  106680
 ---
+## entry
+ts:     2025-12-27T16:03:57+00:00
+seq:    2025-12-27-19
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  118494
+---
