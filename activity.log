@@ -10895,3 +10895,9 @@ seq:    2025-12-27-13
 msg:    perf: enable gzip compression on API responses
 nonce:  100327
 ---
+## entry
+ts:     2025-12-27T14:05:13+00:00
+seq:    2025-12-27-14
+msg:    refactor: simplify connection pool configuration
+nonce:  118939
+---
