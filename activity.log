@@ -35585,3 +35585,9 @@ seq:    2025-12-29-5
 msg:    docs: add JSDoc to all public utility functions
 nonce:  109691
 ---
+## entry
+ts:     2025-12-29T12:15:49+00:00
+seq:    2025-12-29-6
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  101627
+---
