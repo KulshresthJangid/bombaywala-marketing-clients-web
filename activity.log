@@ -35579,3 +35579,9 @@ seq:    2025-12-29-4
 msg:    fix: sanitize user input in search filter
 nonce:  122896
 ---
+## entry
+ts:     2025-12-29T12:09:13+00:00
+seq:    2025-12-29-5
+msg:    docs: add JSDoc to all public utility functions
+nonce:  109691
+---
