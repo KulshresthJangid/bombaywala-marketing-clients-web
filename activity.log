@@ -10985,3 +10985,9 @@ seq:    2025-12-30-3
 msg:    perf: lazy-load heavy chart library
 nonce:  100189
 ---
+## entry
+ts:     2025-12-30T11:01:23+00:00
+seq:    2025-12-30-4
+msg:    refactor: simplify connection pool configuration
+nonce:  125492
+---
