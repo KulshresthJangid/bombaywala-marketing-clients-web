@@ -11045,3 +11045,9 @@ seq:    2025-12-30-13
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  110235
 ---
+## entry
+ts:     2025-12-30T15:16:00+00:00
+seq:    2025-12-30-14
+msg:    fix: correct off-by-one in pagination offset
+nonce:  126652
+---
