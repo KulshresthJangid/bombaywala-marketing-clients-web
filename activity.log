@@ -11015,3 +11015,9 @@ seq:    2025-12-30-8
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  117225
 ---
+## entry
+ts:     2025-12-30T14:00:48+00:00
+seq:    2025-12-30-9
+msg:    chore: reorganise src/ folder structure
+nonce:  105611
+---
