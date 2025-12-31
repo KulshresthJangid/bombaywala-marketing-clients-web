@@ -35663,3 +35663,9 @@ seq:    2025-12-31-5
 msg:    chore: remove unused imports across codebase
 nonce:  119121
 ---
+## entry
+ts:     2025-12-31T13:11:31+00:00
+seq:    2025-12-31-6
+msg:    refactor: simplify connection pool configuration
+nonce:  127160
+---
