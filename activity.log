@@ -35681,3 +35681,9 @@ seq:    2025-12-31-8
 msg:    feat: add Stripe subscription billing
 nonce:  116751
 ---
+## entry
+ts:     2025-12-31T17:40:06+00:00
+seq:    2025-12-31-9
+msg:    feat: add rate-limiting middleware
+nonce:  128120
+---
