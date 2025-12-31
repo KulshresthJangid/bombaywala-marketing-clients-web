@@ -11171,3 +11171,9 @@ seq:    2025-12-31-12
 msg:    test: stub external HTTP calls in unit suite
 nonce:  106280
 ---
+## entry
+ts:     2025-12-31T14:55:55+00:00
+seq:    2025-12-31-13
+msg:    fix: correct date formatting in monthly report
+nonce:  116493
+---
