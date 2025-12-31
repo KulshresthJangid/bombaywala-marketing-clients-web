@@ -11177,3 +11177,9 @@ seq:    2025-12-31-13
 msg:    fix: correct date formatting in monthly report
 nonce:  116493
 ---
+## entry
+ts:     2025-12-31T16:30:48+00:00
+seq:    2025-12-31-14
+msg:    test: add unit tests for AuthService
+nonce:  121445
+---
