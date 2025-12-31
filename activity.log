@@ -11159,3 +11159,9 @@ seq:    2025-12-31-10
 msg:    feat: implement two-factor authentication
 nonce:  122522
 ---
+## entry
+ts:     2025-12-31T13:46:43+00:00
+seq:    2025-12-31-11
+msg:    fix: fix stale JWT after password reset
+nonce:  125596
+---
