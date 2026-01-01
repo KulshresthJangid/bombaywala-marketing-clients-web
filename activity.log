@@ -35717,3 +35717,9 @@ seq:    2026-01-01-3
 msg:    chore: rotate copyright year in license header
 nonce:  111543
 ---
+## entry
+ts:     2026-01-01T13:44:15+00:00
+seq:    2026-01-01-4
+msg:    fix: correct off-by-one in pagination offset
+nonce:  107384
+---
