@@ -35771,3 +35771,9 @@ seq:    2026-01-01-12
 msg:    feat: create admin panel route group
 nonce:  121858
 ---
+## entry
+ts:     2026-01-01T18:52:14+00:00
+seq:    2026-01-01-13
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  127867
+---
