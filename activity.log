@@ -11261,3 +11261,9 @@ seq:    2026-01-02-10
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  106577
 ---
+## entry
+ts:     2026-01-02T13:31:27+00:00
+seq:    2026-01-02-11
+msg:    test: add edge-case tests for input validators
+nonce:  106064
+---
