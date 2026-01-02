@@ -11273,3 +11273,9 @@ seq:    2026-01-02-12
 msg:    perf: lazy-load heavy chart library
 nonce:  105478
 ---
+## entry
+ts:     2026-01-02T15:48:38+00:00
+seq:    2026-01-02-13
+msg:    refactor: split God-service into focused modules
+nonce:  122589
+---
