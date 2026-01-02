@@ -11219,3 +11219,9 @@ seq:    2026-01-02-3
 msg:    fix: resolve CORS rejection on preflight
 nonce:  114891
 ---
+## entry
+ts:     2026-01-02T11:09:54+00:00
+seq:    2026-01-02-4
+msg:    test: stub external HTTP calls in unit suite
+nonce:  110053
+---
