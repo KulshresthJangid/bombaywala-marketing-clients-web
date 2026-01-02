@@ -35843,3 +35843,9 @@ seq:    2026-01-02-10
 msg:    refactor: split God-service into focused modules
 nonce:  131699
 ---
+## entry
+ts:     2026-01-02T20:17:56+00:00
+seq:    2026-01-02-11
+msg:    fix: handle empty state on dashboard load
+nonce:  131705
+---
