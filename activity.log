@@ -11225,3 +11225,9 @@ seq:    2026-01-02-4
 msg:    test: stub external HTTP calls in unit suite
 nonce:  110053
 ---
+## entry
+ts:     2026-01-02T11:25:39+00:00
+seq:    2026-01-02-5
+msg:    refactor: simplify connection pool configuration
+nonce:  120758
+---
