@@ -11333,3 +11333,9 @@ seq:    2026-01-02-22
 msg:    fix: correct off-by-one in pagination offset
 nonce:  125156
 ---
+## entry
+ts:     2026-01-02T22:42:14+00:00
+seq:    2026-01-02-23
+msg:    chore: pin transitive dependency versions
+nonce:  107522
+---
