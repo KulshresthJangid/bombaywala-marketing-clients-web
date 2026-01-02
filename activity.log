@@ -11195,3 +11195,9 @@ seq:    2025-12-31-16
 msg:    test: add edge-case tests for input validators
 nonce:  130859
 ---
+## entry
+ts:     2026-01-02T08:31:13+00:00
+seq:    2026-01-02-0
+msg:    refactor: simplify connection pool configuration
+nonce:  131834
+---
