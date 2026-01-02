@@ -11243,3 +11243,9 @@ seq:    2026-01-02-7
 msg:    feat: create outbound webhook dispatcher
 nonce:  114061
 ---
+## entry
+ts:     2026-01-02T13:12:29+00:00
+seq:    2026-01-02-8
+msg:    fix: resolve race condition in job queue
+nonce:  114187
+---
