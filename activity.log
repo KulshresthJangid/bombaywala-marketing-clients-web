@@ -35831,3 +35831,9 @@ seq:    2026-01-02-8
 msg:    test: add snapshot tests for report generator
 nonce:  106703
 ---
+## entry
+ts:     2026-01-02T16:35:15+00:00
+seq:    2026-01-02-9
+msg:    perf: parallelise image-resize pipeline
+nonce:  113548
+---
