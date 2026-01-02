@@ -11309,3 +11309,9 @@ seq:    2026-01-02-18
 msg:    test: add snapshot tests for report generator
 nonce:  109298
 ---
+## entry
+ts:     2026-01-02T17:36:11+00:00
+seq:    2026-01-02-19
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  117984
+---
