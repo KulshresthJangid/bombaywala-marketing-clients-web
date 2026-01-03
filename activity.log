@@ -35915,3 +35915,9 @@ seq:    2026-01-03-10
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  121659
 ---
+## entry
+ts:     2026-01-03T16:23:26+00:00
+seq:    2026-01-03-11
+msg:    docs: add architecture decision record for caching
+nonce:  121403
+---
