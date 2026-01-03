@@ -35909,3 +35909,9 @@ seq:    2026-01-03-9
 msg:    test: add snapshot tests for report generator
 nonce:  106671
 ---
+## entry
+ts:     2026-01-03T16:05:54+00:00
+seq:    2026-01-03-10
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  121659
+---
