@@ -35939,3 +35939,9 @@ seq:    2026-01-03-14
 msg:    feat: create admin panel route group
 nonce:  113643
 ---
+## entry
+ts:     2026-01-03T21:40:58+00:00
+seq:    2026-01-03-15
+msg:    feat: add multi-language (i18n) support
+nonce:  131410
+---
