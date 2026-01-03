@@ -35855,3 +35855,9 @@ seq:    2026-01-03-0
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  127789
 ---
+## entry
+ts:     2026-01-03T11:03:18+00:00
+seq:    2026-01-03-1
+msg:    refactor: extract auth guard into shared middleware
+nonce:  110292
+---
