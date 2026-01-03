@@ -35903,3 +35903,9 @@ seq:    2026-01-03-8
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  112916
 ---
+## entry
+ts:     2026-01-03T14:20:12+00:00
+seq:    2026-01-03-9
+msg:    test: add snapshot tests for report generator
+nonce:  106671
+---
