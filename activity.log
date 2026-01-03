@@ -35885,3 +35885,9 @@ seq:    2026-01-03-5
 msg:    fix: correct off-by-one in pagination offset
 nonce:  120124
 ---
+## entry
+ts:     2026-01-03T13:19:54+00:00
+seq:    2026-01-03-6
+msg:    feat: add batch job processing queue
+nonce:  105854
+---
