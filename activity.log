@@ -35921,3 +35921,9 @@ seq:    2026-01-03-11
 msg:    docs: add architecture decision record for caching
 nonce:  121403
 ---
+## entry
+ts:     2026-01-03T18:04:50+00:00
+seq:    2026-01-03-12
+msg:    test: raise coverage floor for payment module
+nonce:  132510
+---
