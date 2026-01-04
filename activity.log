@@ -11399,3 +11399,9 @@ seq:    2026-01-04-9
 msg:    test: add k6 load-test script for checkout flow
 nonce:  108006
 ---
+## entry
+ts:     2026-01-04T13:58:13+00:00
+seq:    2026-01-04-10
+msg:    chore: rotate copyright year in license header
+nonce:  101859
+---
