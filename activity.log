@@ -11375,3 +11375,9 @@ seq:    2026-01-04-5
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  106776
 ---
+## entry
+ts:     2026-01-04T11:37:11+00:00
+seq:    2026-01-04-6
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  105507
+---
