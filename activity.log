@@ -11381,3 +11381,9 @@ seq:    2026-01-04-6
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  105507
 ---
+## entry
+ts:     2026-01-04T12:44:11+00:00
+seq:    2026-01-04-7
+msg:    fix: correct off-by-one in pagination offset
+nonce:  104217
+---
