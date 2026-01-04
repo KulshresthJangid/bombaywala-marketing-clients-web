@@ -11459,3 +11459,9 @@ seq:    2026-01-04-19
 msg:    chore: rotate copyright year in license header
 nonce:  106890
 ---
+## entry
+ts:     2026-01-04T19:16:36+00:00
+seq:    2026-01-04-20
+msg:    feat: implement file upload with S3 backend
+nonce:  107283
+---
