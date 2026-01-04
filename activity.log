@@ -11429,3 +11429,9 @@ seq:    2026-01-04-14
 msg:    feat: implement file upload with S3 backend
 nonce:  116100
 ---
+## entry
+ts:     2026-01-04T16:27:01+00:00
+seq:    2026-01-04-15
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  114644
+---
