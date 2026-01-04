@@ -11387,3 +11387,9 @@ seq:    2026-01-04-7
 msg:    fix: correct off-by-one in pagination offset
 nonce:  104217
 ---
+## entry
+ts:     2026-01-04T12:59:07+00:00
+seq:    2026-01-04-8
+msg:    chore: reorganise src/ folder structure
+nonce:  103140
+---
