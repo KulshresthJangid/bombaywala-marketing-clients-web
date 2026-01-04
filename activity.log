@@ -11417,3 +11417,9 @@ seq:    2026-01-04-12
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  106930
 ---
+## entry
+ts:     2026-01-04T14:49:01+00:00
+seq:    2026-01-04-13
+msg:    feat: add export-to-CSV functionality
+nonce:  118188
+---
