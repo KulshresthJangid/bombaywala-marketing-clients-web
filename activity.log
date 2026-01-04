@@ -11435,3 +11435,9 @@ seq:    2026-01-04-15
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  114644
 ---
+## entry
+ts:     2026-01-04T16:30:20+00:00
+seq:    2026-01-04-16
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  120115
+---
