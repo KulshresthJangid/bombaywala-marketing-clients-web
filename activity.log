@@ -11465,3 +11465,9 @@ seq:    2026-01-04-20
 msg:    feat: implement file upload with S3 backend
 nonce:  107283
 ---
+## entry
+ts:     2026-01-04T19:56:44+00:00
+seq:    2026-01-04-21
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  109568
+---
