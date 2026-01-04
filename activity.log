@@ -11345,3 +11345,9 @@ seq:    2026-01-04-0
 msg:    feat: add export-to-CSV functionality
 nonce:  132350
 ---
+## entry
+ts:     2026-01-04T09:54:59+00:00
+seq:    2026-01-04-1
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  128869
+---
