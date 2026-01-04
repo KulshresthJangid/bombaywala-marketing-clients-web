@@ -11339,3 +11339,9 @@ seq:    2026-01-02-23
 msg:    chore: pin transitive dependency versions
 nonce:  107522
 ---
+## entry
+ts:     2026-01-04T09:10:57+00:00
+seq:    2026-01-04-0
+msg:    feat: add export-to-CSV functionality
+nonce:  132350
+---
