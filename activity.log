@@ -11453,3 +11453,9 @@ seq:    2026-01-04-18
 msg:    feat: add multi-language (i18n) support
 nonce:  107879
 ---
+## entry
+ts:     2026-01-04T17:29:39+00:00
+seq:    2026-01-04-19
+msg:    chore: rotate copyright year in license header
+nonce:  106890
+---
