@@ -11405,3 +11405,9 @@ seq:    2026-01-04-10
 msg:    chore: rotate copyright year in license header
 nonce:  101859
 ---
+## entry
+ts:     2026-01-04T14:22:50+00:00
+seq:    2026-01-04-11
+msg:    fix: sanitize user input in search filter
+nonce:  128133
+---
