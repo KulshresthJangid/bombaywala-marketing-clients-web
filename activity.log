@@ -11423,3 +11423,9 @@ seq:    2026-01-04-13
 msg:    feat: add export-to-CSV functionality
 nonce:  118188
 ---
+## entry
+ts:     2026-01-04T15:21:54+00:00
+seq:    2026-01-04-14
+msg:    feat: implement file upload with S3 backend
+nonce:  116100
+---
