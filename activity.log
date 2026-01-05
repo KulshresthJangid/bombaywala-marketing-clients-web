@@ -35957,3 +35957,9 @@ seq:    2026-01-05-1
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  123226
 ---
+## entry
+ts:     2026-01-05T11:09:11+00:00
+seq:    2026-01-05-2
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  102438
+---
