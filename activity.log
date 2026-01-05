@@ -11543,3 +11543,9 @@ seq:    2026-01-05-9
 msg:    perf: enable gzip compression on API responses
 nonce:  113879
 ---
+## entry
+ts:     2026-01-05T14:29:02+00:00
+seq:    2026-01-05-10
+msg:    feat: add rate-limiting middleware
+nonce:  119166
+---
