@@ -11525,3 +11525,9 @@ seq:    2026-01-05-6
 msg:    feat: create immutable audit-log service
 nonce:  125717
 ---
+## entry
+ts:     2026-01-05T12:46:51+00:00
+seq:    2026-01-05-7
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  132320
+---
