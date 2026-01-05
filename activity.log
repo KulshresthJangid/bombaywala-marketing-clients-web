@@ -11531,3 +11531,9 @@ seq:    2026-01-05-7
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  132320
 ---
+## entry
+ts:     2026-01-05T12:56:51+00:00
+seq:    2026-01-05-8
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  108299
+---
