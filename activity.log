@@ -35981,3 +35981,9 @@ seq:    2026-01-05-5
 msg:    feat: implement dashboard analytics
 nonce:  108994
 ---
+## entry
+ts:     2026-01-05T14:28:42+00:00
+seq:    2026-01-05-6
+msg:    docs: add getting-started guide to README
+nonce:  109946
+---
