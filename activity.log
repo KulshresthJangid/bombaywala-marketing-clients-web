@@ -11549,3 +11549,9 @@ seq:    2026-01-05-10
 msg:    feat: add rate-limiting middleware
 nonce:  119166
 ---
+## entry
+ts:     2026-01-05T14:39:28+00:00
+seq:    2026-01-05-11
+msg:    chore: reorganise src/ folder structure
+nonce:  126252
+---
