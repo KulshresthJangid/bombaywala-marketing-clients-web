@@ -35993,3 +35993,9 @@ seq:    2026-01-05-7
 msg:    refactor: centralise API error-response factory
 nonce:  106399
 ---
+## entry
+ts:     2026-01-05T15:56:24+00:00
+seq:    2026-01-05-8
+msg:    feat: implement role-based access control
+nonce:  106368
+---
