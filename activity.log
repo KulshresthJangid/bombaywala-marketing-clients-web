@@ -36005,3 +36005,9 @@ seq:    2026-01-05-9
 msg:    test: add integration tests for /api/v2 routes
 nonce:  104871
 ---
+## entry
+ts:     2026-01-05T16:10:33+00:00
+seq:    2026-01-05-10
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  130770
+---
