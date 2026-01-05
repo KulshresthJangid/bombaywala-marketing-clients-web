@@ -11519,3 +11519,9 @@ seq:    2026-01-05-5
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  131308
 ---
+## entry
+ts:     2026-01-05T12:01:15+00:00
+seq:    2026-01-05-6
+msg:    feat: create immutable audit-log service
+nonce:  125717
+---
