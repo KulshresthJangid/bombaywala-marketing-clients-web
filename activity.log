@@ -36035,3 +36035,9 @@ seq:    2026-01-05-14
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  124297
 ---
+## entry
+ts:     2026-01-05T22:22:59+00:00
+seq:    2026-01-05-15
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  107618
+---
