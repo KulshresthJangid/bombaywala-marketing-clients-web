@@ -11561,3 +11561,9 @@ seq:    2026-01-05-12
 msg:    feat: add rate-limiting middleware
 nonce:  103085
 ---
+## entry
+ts:     2026-01-05T17:33:50+00:00
+seq:    2026-01-05-13
+msg:    test: improve assertion messages in user tests
+nonce:  124936
+---
