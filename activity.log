@@ -35999,3 +35999,9 @@ seq:    2026-01-05-8
 msg:    feat: implement role-based access control
 nonce:  106368
 ---
+## entry
+ts:     2026-01-05T15:57:35+00:00
+seq:    2026-01-05-9
+msg:    test: add integration tests for /api/v2 routes
+nonce:  104871
+---
