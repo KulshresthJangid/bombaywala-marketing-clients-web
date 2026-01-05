@@ -11537,3 +11537,9 @@ seq:    2026-01-05-8
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  108299
 ---
+## entry
+ts:     2026-01-05T13:56:53+00:00
+seq:    2026-01-05-9
+msg:    perf: enable gzip compression on API responses
+nonce:  113879
+---
