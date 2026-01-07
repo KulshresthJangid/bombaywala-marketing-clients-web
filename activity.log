@@ -36101,3 +36101,9 @@ seq:    2026-01-07-9
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  131574
 ---
+## entry
+ts:     2026-01-07T13:58:37+00:00
+seq:    2026-01-07-10
+msg:    feat: create outbound webhook dispatcher
+nonce:  127452
+---
