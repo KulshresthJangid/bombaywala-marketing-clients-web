@@ -36143,3 +36143,9 @@ seq:    2026-01-07-16
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  117556
 ---
+## entry
+ts:     2026-01-07T17:16:46+00:00
+seq:    2026-01-07-17
+msg:    feat: add cursor-based pagination
+nonce:  116453
+---
