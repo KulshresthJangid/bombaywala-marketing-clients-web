@@ -36095,3 +36095,9 @@ seq:    2026-01-07-8
 msg:    feat: add batch job processing queue
 nonce:  113007
 ---
+## entry
+ts:     2026-01-07T12:56:14+00:00
+seq:    2026-01-07-9
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  131574
+---
