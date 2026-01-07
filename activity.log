@@ -36125,3 +36125,9 @@ seq:    2026-01-07-13
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  125309
 ---
+## entry
+ts:     2026-01-07T15:08:11+00:00
+seq:    2026-01-07-14
+msg:    feat: implement role-based access control
+nonce:  132276
+---
