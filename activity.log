@@ -36155,3 +36155,9 @@ seq:    2026-01-07-18
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  109806
 ---
+## entry
+ts:     2026-01-08T09:51:45+00:00
+seq:    2026-01-08-0
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  106721
+---
