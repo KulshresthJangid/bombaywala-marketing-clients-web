@@ -11651,3 +11651,9 @@ seq:    2026-01-08-10
 msg:    test: add snapshot tests for report generator
 nonce:  105480
 ---
+## entry
+ts:     2026-01-08T15:54:16+00:00
+seq:    2026-01-08-11
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  101744
+---
