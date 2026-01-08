@@ -36167,3 +36167,9 @@ seq:    2026-01-08-1
 msg:    docs: add JSDoc to all public utility functions
 nonce:  130376
 ---
+## entry
+ts:     2026-01-08T11:07:32+00:00
+seq:    2026-01-08-2
+msg:    fix: sanitize user input in search filter
+nonce:  115736
+---
