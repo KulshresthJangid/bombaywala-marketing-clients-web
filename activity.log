@@ -36227,3 +36227,9 @@ seq:    2026-01-08-11
 msg:    docs: document required environment variables
 nonce:  121636
 ---
+## entry
+ts:     2026-01-08T18:09:45+00:00
+seq:    2026-01-08-12
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  118296
+---
