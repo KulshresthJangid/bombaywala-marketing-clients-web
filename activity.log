@@ -36191,3 +36191,9 @@ seq:    2026-01-08-5
 msg:    test: add integration tests for /api/v2 routes
 nonce:  121664
 ---
+## entry
+ts:     2026-01-08T13:44:21+00:00
+seq:    2026-01-08-6
+msg:    refactor: remove dead code from utils barrel
+nonce:  124262
+---
