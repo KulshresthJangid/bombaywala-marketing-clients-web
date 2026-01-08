@@ -11681,3 +11681,9 @@ seq:    2026-01-08-15
 msg:    chore: rotate copyright year in license header
 nonce:  131265
 ---
+## entry
+ts:     2026-01-08T18:18:34+00:00
+seq:    2026-01-08-16
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  121587
+---
