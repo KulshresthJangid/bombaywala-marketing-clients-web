@@ -36173,3 +36173,9 @@ seq:    2026-01-08-2
 msg:    fix: sanitize user input in search filter
 nonce:  115736
 ---
+## entry
+ts:     2026-01-08T13:33:32+00:00
+seq:    2026-01-08-3
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  120140
+---
