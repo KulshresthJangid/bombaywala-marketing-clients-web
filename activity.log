@@ -11585,3 +11585,9 @@ seq:    2026-01-05-16
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  118088
 ---
+## entry
+ts:     2026-01-08T09:27:40+00:00
+seq:    2026-01-08-0
+msg:    fix: handle empty state on dashboard load
+nonce:  118720
+---
