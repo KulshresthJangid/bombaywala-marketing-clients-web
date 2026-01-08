@@ -36203,3 +36203,9 @@ seq:    2026-01-08-7
 msg:    refactor: replace callback hell with async/await
 nonce:  113840
 ---
+## entry
+ts:     2026-01-08T15:30:22+00:00
+seq:    2026-01-08-8
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  123003
+---
