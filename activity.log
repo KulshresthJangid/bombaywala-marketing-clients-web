@@ -36161,3 +36161,9 @@ seq:    2026-01-08-0
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  106721
 ---
+## entry
+ts:     2026-01-08T10:03:10+00:00
+seq:    2026-01-08-1
+msg:    docs: add JSDoc to all public utility functions
+nonce:  130376
+---
