@@ -11657,3 +11657,9 @@ seq:    2026-01-08-11
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  101744
 ---
+## entry
+ts:     2026-01-08T15:58:25+00:00
+seq:    2026-01-08-12
+msg:    feat: create outbound webhook dispatcher
+nonce:  117929
+---
