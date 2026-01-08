@@ -36209,3 +36209,9 @@ seq:    2026-01-08-8
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  123003
 ---
+## entry
+ts:     2026-01-08T16:04:01+00:00
+seq:    2026-01-08-9
+msg:    feat: implement full-text search with filters
+nonce:  101598
+---
