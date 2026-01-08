@@ -11675,3 +11675,9 @@ seq:    2026-01-08-14
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  105660
 ---
+## entry
+ts:     2026-01-08T17:31:41+00:00
+seq:    2026-01-08-15
+msg:    chore: rotate copyright year in license header
+nonce:  131265
+---
