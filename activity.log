@@ -36221,3 +36221,9 @@ seq:    2026-01-08-10
 msg:    feat: add batch job processing queue
 nonce:  100283
 ---
+## entry
+ts:     2026-01-08T16:43:26+00:00
+seq:    2026-01-08-11
+msg:    docs: document required environment variables
+nonce:  121636
+---
