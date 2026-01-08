@@ -11609,3 +11609,9 @@ seq:    2026-01-08-3
 msg:    test: improve assertion messages in user tests
 nonce:  122571
 ---
+## entry
+ts:     2026-01-08T11:18:55+00:00
+seq:    2026-01-08-4
+msg:    perf: enable gzip compression on API responses
+nonce:  121764
+---
