@@ -11789,3 +11789,9 @@ seq:    2026-01-09-15
 msg:    feat: integrate payment gateway
 nonce:  105514
 ---
+## entry
+ts:     2026-01-09T20:52:20+00:00
+seq:    2026-01-09-16
+msg:    fix: sanitize user input in search filter
+nonce:  102544
+---
