@@ -11723,3 +11723,9 @@ seq:    2026-01-09-4
 msg:    feat: implement dark mode toggle
 nonce:  113255
 ---
+## entry
+ts:     2026-01-09T11:02:46+00:00
+seq:    2026-01-09-5
+msg:    fix: fix stale JWT after password reset
+nonce:  109795
+---
