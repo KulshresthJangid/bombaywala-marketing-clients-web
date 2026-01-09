@@ -11759,3 +11759,9 @@ seq:    2026-01-09-10
 msg:    feat: add real-time notification system
 nonce:  127404
 ---
+## entry
+ts:     2026-01-09T14:44:31+00:00
+seq:    2026-01-09-11
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  125863
+---
