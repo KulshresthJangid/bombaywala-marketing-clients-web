@@ -11795,3 +11795,9 @@ seq:    2026-01-09-16
 msg:    fix: sanitize user input in search filter
 nonce:  102544
 ---
+## entry
+ts:     2026-01-09T22:18:08+00:00
+seq:    2026-01-09-17
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  114115
+---
