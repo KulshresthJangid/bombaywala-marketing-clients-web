@@ -11705,3 +11705,9 @@ seq:    2026-01-09-1
 msg:    test: add integration tests for /api/v2 routes
 nonce:  128459
 ---
+## entry
+ts:     2026-01-09T10:11:40+00:00
+seq:    2026-01-09-2
+msg:    feat: create admin panel route group
+nonce:  101312
+---
