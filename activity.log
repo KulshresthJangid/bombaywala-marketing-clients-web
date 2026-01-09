@@ -11753,3 +11753,9 @@ seq:    2026-01-09-9
 msg:    perf: memoize expensive permission-check results
 nonce:  106872
 ---
+## entry
+ts:     2026-01-09T14:38:33+00:00
+seq:    2026-01-09-10
+msg:    feat: add real-time notification system
+nonce:  127404
+---
