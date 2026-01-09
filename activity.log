@@ -11729,3 +11729,9 @@ seq:    2026-01-09-5
 msg:    fix: fix stale JWT after password reset
 nonce:  109795
 ---
+## entry
+ts:     2026-01-09T11:09:35+00:00
+seq:    2026-01-09-6
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  113051
+---
