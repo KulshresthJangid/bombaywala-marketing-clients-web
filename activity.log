@@ -11747,3 +11747,9 @@ seq:    2026-01-09-8
 msg:    docs: add JSDoc to all public utility functions
 nonce:  107873
 ---
+## entry
+ts:     2026-01-09T11:52:54+00:00
+seq:    2026-01-09-9
+msg:    perf: memoize expensive permission-check results
+nonce:  106872
+---
