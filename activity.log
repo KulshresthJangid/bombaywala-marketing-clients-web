@@ -11741,3 +11741,9 @@ seq:    2026-01-09-7
 msg:    test: improve assertion messages in user tests
 nonce:  100423
 ---
+## entry
+ts:     2026-01-09T11:29:33+00:00
+seq:    2026-01-09-8
+msg:    docs: add JSDoc to all public utility functions
+nonce:  107873
+---
