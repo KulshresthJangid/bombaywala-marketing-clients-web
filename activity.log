@@ -11711,3 +11711,9 @@ seq:    2026-01-09-2
 msg:    feat: create admin panel route group
 nonce:  101312
 ---
+## entry
+ts:     2026-01-09T10:30:12+00:00
+seq:    2026-01-09-3
+msg:    docs: add JSDoc to all public utility functions
+nonce:  110431
+---
