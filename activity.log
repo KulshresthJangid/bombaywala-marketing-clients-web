@@ -36293,3 +36293,9 @@ seq:    2026-01-10-8
 msg:    fix: correct off-by-one in pagination offset
 nonce:  114415
 ---
+## entry
+ts:     2026-01-10T15:03:34+00:00
+seq:    2026-01-10-9
+msg:    perf: parallelise image-resize pipeline
+nonce:  125763
+---
