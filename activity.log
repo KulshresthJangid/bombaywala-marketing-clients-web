@@ -36299,3 +36299,9 @@ seq:    2026-01-10-9
 msg:    perf: parallelise image-resize pipeline
 nonce:  125763
 ---
+## entry
+ts:     2026-01-10T15:11:56+00:00
+seq:    2026-01-10-10
+msg:    feat: implement full-text search with filters
+nonce:  103110
+---
