@@ -36359,3 +36359,9 @@ seq:    2026-01-10-19
 msg:    fix: sanitize user input in search filter
 nonce:  119795
 ---
+## entry
+ts:     2026-01-10T21:27:30+00:00
+seq:    2026-01-10-20
+msg:    test: stub external HTTP calls in unit suite
+nonce:  105824
+---
