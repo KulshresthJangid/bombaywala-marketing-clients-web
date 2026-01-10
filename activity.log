@@ -36269,3 +36269,9 @@ seq:    2026-01-10-4
 msg:    test: stub external HTTP calls in unit suite
 nonce:  124723
 ---
+## entry
+ts:     2026-01-10T12:23:24+00:00
+seq:    2026-01-10-5
+msg:    perf: parallelise image-resize pipeline
+nonce:  121655
+---
