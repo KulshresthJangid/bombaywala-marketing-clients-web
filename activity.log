@@ -36425,3 +36425,9 @@ seq:    2026-01-11-8
 msg:    test: add k6 load-test script for checkout flow
 nonce:  118413
 ---
+## entry
+ts:     2026-01-11T18:52:10+00:00
+seq:    2026-01-11-9
+msg:    fix: resolve null pointer in user service
+nonce:  112316
+---
