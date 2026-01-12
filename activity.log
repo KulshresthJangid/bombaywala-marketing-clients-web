@@ -36503,3 +36503,9 @@ seq:    2026-01-12-9
 msg:    docs: update CHANGELOG for next release
 nonce:  121141
 ---
+## entry
+ts:     2026-01-12T13:46:25+00:00
+seq:    2026-01-12-10
+msg:    feat: add export-to-CSV functionality
+nonce:  109029
+---
