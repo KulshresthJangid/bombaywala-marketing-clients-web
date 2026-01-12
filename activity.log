@@ -36497,3 +36497,9 @@ seq:    2026-01-12-8
 msg:    test: add unit tests for AuthService
 nonce:  117713
 ---
+## entry
+ts:     2026-01-12T13:38:51+00:00
+seq:    2026-01-12-9
+msg:    docs: update CHANGELOG for next release
+nonce:  121141
+---
