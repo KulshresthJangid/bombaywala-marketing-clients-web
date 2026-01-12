@@ -36461,3 +36461,9 @@ seq:    2026-01-12-2
 msg:    feat: implement Redis caching layer
 nonce:  103277
 ---
+## entry
+ts:     2026-01-12T10:43:20+00:00
+seq:    2026-01-12-3
+msg:    refactor: extract auth guard into shared middleware
+nonce:  106601
+---
