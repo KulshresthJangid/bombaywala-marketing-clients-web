@@ -36473,3 +36473,9 @@ seq:    2026-01-12-4
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  117855
 ---
+## entry
+ts:     2026-01-12T11:21:36+00:00
+seq:    2026-01-12-5
+msg:    chore: rotate copyright year in license header
+nonce:  110795
+---
