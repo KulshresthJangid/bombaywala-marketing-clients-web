@@ -36533,3 +36533,9 @@ seq:    2026-01-12-14
 msg:    feat: create outbound webhook dispatcher
 nonce:  128043
 ---
+## entry
+ts:     2026-01-12T15:42:00+00:00
+seq:    2026-01-12-15
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  107660
+---
