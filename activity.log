@@ -36449,3 +36449,9 @@ seq:    2026-01-12-0
 msg:    refactor: split God-service into focused modules
 nonce:  109799
 ---
+## entry
+ts:     2026-01-12T09:20:13+00:00
+seq:    2026-01-12-1
+msg:    feat: add cursor-based pagination
+nonce:  110755
+---
