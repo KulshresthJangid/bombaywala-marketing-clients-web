@@ -36491,3 +36491,9 @@ seq:    2026-01-12-7
 msg:    fix: resolve CORS rejection on preflight
 nonce:  115156
 ---
+## entry
+ts:     2026-01-12T12:46:46+00:00
+seq:    2026-01-12-8
+msg:    test: add unit tests for AuthService
+nonce:  117713
+---
