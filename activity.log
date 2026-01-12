@@ -36521,3 +36521,9 @@ seq:    2026-01-12-12
 msg:    fix: correct off-by-one in pagination offset
 nonce:  101686
 ---
+## entry
+ts:     2026-01-12T14:58:07+00:00
+seq:    2026-01-12-13
+msg:    fix: correct date formatting in monthly report
+nonce:  123210
+---
