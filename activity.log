@@ -11855,3 +11855,9 @@ seq:    2026-01-13-8
 msg:    refactor: extract auth guard into shared middleware
 nonce:  113255
 ---
+## entry
+ts:     2026-01-13T15:03:31+00:00
+seq:    2026-01-13-9
+msg:    test: add snapshot tests for report generator
+nonce:  122968
+---
