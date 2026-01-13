@@ -36587,3 +36587,9 @@ seq:    2026-01-13-4
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  107660
 ---
+## entry
+ts:     2026-01-13T13:17:10+00:00
+seq:    2026-01-13-5
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  108027
+---
