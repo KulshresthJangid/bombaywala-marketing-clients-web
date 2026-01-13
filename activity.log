@@ -11813,3 +11813,9 @@ seq:    2026-01-13-1
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  131871
 ---
+## entry
+ts:     2026-01-13T10:38:11+00:00
+seq:    2026-01-13-2
+msg:    feat: create admin panel route group
+nonce:  112210
+---
