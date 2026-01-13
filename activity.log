@@ -11945,3 +11945,9 @@ seq:    2026-01-13-23
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  110296
 ---
+## entry
+ts:     2026-01-13T22:10:58+00:00
+seq:    2026-01-13-24
+msg:    test: add k6 load-test script for checkout flow
+nonce:  101694
+---
