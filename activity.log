@@ -11915,3 +11915,9 @@ seq:    2026-01-13-18
 msg:    test: add integration tests for /api/v2 routes
 nonce:  102325
 ---
+## entry
+ts:     2026-01-13T18:17:34+00:00
+seq:    2026-01-13-19
+msg:    feat: implement two-factor authentication
+nonce:  119138
+---
