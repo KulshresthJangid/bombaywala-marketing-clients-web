@@ -11825,3 +11825,9 @@ seq:    2026-01-13-3
 msg:    feat: add email-verification flow
 nonce:  114987
 ---
+## entry
+ts:     2026-01-13T12:29:13+00:00
+seq:    2026-01-13-4
+msg:    fix: fix stale JWT after password reset
+nonce:  116018
+---
