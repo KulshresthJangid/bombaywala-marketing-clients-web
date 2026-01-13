@@ -36557,3 +36557,9 @@ seq:    2026-01-12-18
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  112841
 ---
+## entry
+ts:     2026-01-13T09:48:35+00:00
+seq:    2026-01-13-0
+msg:    feat: create outbound webhook dispatcher
+nonce:  118355
+---
