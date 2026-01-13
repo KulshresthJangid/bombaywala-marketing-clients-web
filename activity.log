@@ -11867,3 +11867,9 @@ seq:    2026-01-13-10
 msg:    test: raise coverage floor for payment module
 nonce:  116027
 ---
+## entry
+ts:     2026-01-13T15:18:53+00:00
+seq:    2026-01-13-11
+msg:    docs: document required environment variables
+nonce:  131522
+---
