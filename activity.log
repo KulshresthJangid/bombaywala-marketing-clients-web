@@ -11939,3 +11939,9 @@ seq:    2026-01-13-22
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  106021
 ---
+## entry
+ts:     2026-01-13T21:49:03+00:00
+seq:    2026-01-13-23
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  110296
+---
