@@ -11837,3 +11837,9 @@ seq:    2026-01-13-5
 msg:    refactor: replace callback hell with async/await
 nonce:  127197
 ---
+## entry
+ts:     2026-01-13T14:24:32+00:00
+seq:    2026-01-13-6
+msg:    test: improve assertion messages in user tests
+nonce:  112775
+---
