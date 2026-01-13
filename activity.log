@@ -36575,3 +36575,9 @@ seq:    2026-01-13-2
 msg:    feat: create outbound webhook dispatcher
 nonce:  100456
 ---
+## entry
+ts:     2026-01-13T11:36:19+00:00
+seq:    2026-01-13-3
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  124612
+---
