@@ -11849,3 +11849,9 @@ seq:    2026-01-13-7
 msg:    feat: add real-time notification system
 nonce:  113369
 ---
+## entry
+ts:     2026-01-13T14:25:55+00:00
+seq:    2026-01-13-8
+msg:    refactor: extract auth guard into shared middleware
+nonce:  113255
+---
