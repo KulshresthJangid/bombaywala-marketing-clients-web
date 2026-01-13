@@ -11819,3 +11819,9 @@ seq:    2026-01-13-2
 msg:    feat: create admin panel route group
 nonce:  112210
 ---
+## entry
+ts:     2026-01-13T11:55:36+00:00
+seq:    2026-01-13-3
+msg:    feat: add email-verification flow
+nonce:  114987
+---
