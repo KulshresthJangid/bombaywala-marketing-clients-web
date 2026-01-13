@@ -11909,3 +11909,9 @@ seq:    2026-01-13-17
 msg:    perf: trim unnecessary fields from list responses
 nonce:  121049
 ---
+## entry
+ts:     2026-01-13T18:01:17+00:00
+seq:    2026-01-13-18
+msg:    test: add integration tests for /api/v2 routes
+nonce:  102325
+---
