@@ -11861,3 +11861,9 @@ seq:    2026-01-13-9
 msg:    test: add snapshot tests for report generator
 nonce:  122968
 ---
+## entry
+ts:     2026-01-13T15:11:40+00:00
+seq:    2026-01-13-10
+msg:    test: raise coverage floor for payment module
+nonce:  116027
+---
