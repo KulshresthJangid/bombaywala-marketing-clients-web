@@ -11873,3 +11873,9 @@ seq:    2026-01-13-11
 msg:    docs: document required environment variables
 nonce:  131522
 ---
+## entry
+ts:     2026-01-13T15:54:30+00:00
+seq:    2026-01-13-12
+msg:    fix: sanitize user input in search filter
+nonce:  123272
+---
