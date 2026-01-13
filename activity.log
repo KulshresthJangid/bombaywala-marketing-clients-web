@@ -11885,3 +11885,9 @@ seq:    2026-01-13-13
 msg:    refactor: consolidate duplicate validation logic
 nonce:  128187
 ---
+## entry
+ts:     2026-01-13T16:58:30+00:00
+seq:    2026-01-13-14
+msg:    fix: fix stale JWT after password reset
+nonce:  127843
+---
