@@ -36773,3 +36773,9 @@ seq:    2026-01-14-20
 msg:    test: add edge-case tests for input validators
 nonce:  120413
 ---
+## entry
+ts:     2026-01-14T20:25:30+00:00
+seq:    2026-01-14-21
+msg:    feat: add cursor-based pagination
+nonce:  105855
+---
