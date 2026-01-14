@@ -11987,3 +11987,9 @@ seq:    2026-01-14-5
 msg:    feat: add cursor-based pagination
 nonce:  116846
 ---
+## entry
+ts:     2026-01-14T17:12:20+00:00
+seq:    2026-01-14-6
+msg:    refactor: migrate from winston to pino logger
+nonce:  127312
+---
