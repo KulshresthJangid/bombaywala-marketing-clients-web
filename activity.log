@@ -11951,3 +11951,9 @@ seq:    2026-01-13-24
 msg:    test: add k6 load-test script for checkout flow
 nonce:  101694
 ---
+## entry
+ts:     2026-01-14T10:11:52+00:00
+seq:    2026-01-14-0
+msg:    feat: create outbound webhook dispatcher
+nonce:  107785
+---
