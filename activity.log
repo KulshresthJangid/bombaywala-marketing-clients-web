@@ -36647,3 +36647,9 @@ seq:    2026-01-13-14
 msg:    test: raise coverage floor for payment module
 nonce:  110170
 ---
+## entry
+ts:     2026-01-14T08:46:01+00:00
+seq:    2026-01-14-0
+msg:    perf: enable gzip compression on API responses
+nonce:  124704
+---
