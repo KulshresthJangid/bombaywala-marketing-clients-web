@@ -36761,3 +36761,9 @@ seq:    2026-01-14-18
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  120211
 ---
+## entry
+ts:     2026-01-14T17:41:37+00:00
+seq:    2026-01-14-19
+msg:    feat: add multi-language (i18n) support
+nonce:  119369
+---
