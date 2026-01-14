@@ -36731,3 +36731,9 @@ seq:    2026-01-14-13
 msg:    refactor: simplify connection pool configuration
 nonce:  123838
 ---
+## entry
+ts:     2026-01-14T16:08:05+00:00
+seq:    2026-01-14-14
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  115139
+---
