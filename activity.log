@@ -36743,3 +36743,9 @@ seq:    2026-01-14-15
 msg:    refactor: extract auth guard into shared middleware
 nonce:  117514
 ---
+## entry
+ts:     2026-01-14T16:48:09+00:00
+seq:    2026-01-14-16
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  123687
+---
