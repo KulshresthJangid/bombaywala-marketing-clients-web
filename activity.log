@@ -11975,3 +11975,9 @@ seq:    2026-01-14-3
 msg:    fix: patch reflected-XSS in comment field
 nonce:  121716
 ---
+## entry
+ts:     2026-01-14T16:33:41+00:00
+seq:    2026-01-14-4
+msg:    feat: scaffold onboarding wizard UI
+nonce:  115812
+---
