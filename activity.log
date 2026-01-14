@@ -11981,3 +11981,9 @@ seq:    2026-01-14-4
 msg:    feat: scaffold onboarding wizard UI
 nonce:  115812
 ---
+## entry
+ts:     2026-01-14T16:41:58+00:00
+seq:    2026-01-14-5
+msg:    feat: add cursor-based pagination
+nonce:  116846
+---
