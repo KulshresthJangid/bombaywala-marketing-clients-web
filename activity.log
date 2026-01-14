@@ -11963,3 +11963,9 @@ seq:    2026-01-14-1
 msg:    feat: create admin panel route group
 nonce:  113631
 ---
+## entry
+ts:     2026-01-14T10:43:57+00:00
+seq:    2026-01-14-2
+msg:    feat: add cursor-based pagination
+nonce:  118689
+---
