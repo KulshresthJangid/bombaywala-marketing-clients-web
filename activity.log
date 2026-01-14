@@ -36713,3 +36713,9 @@ seq:    2026-01-14-10
 msg:    chore: rotate copyright year in license header
 nonce:  126444
 ---
+## entry
+ts:     2026-01-14T14:58:53+00:00
+seq:    2026-01-14-11
+msg:    fix: correct date formatting in monthly report
+nonce:  120878
+---
