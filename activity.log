@@ -36689,3 +36689,9 @@ seq:    2026-01-14-6
 msg:    feat: create immutable audit-log service
 nonce:  118992
 ---
+## entry
+ts:     2026-01-14T13:39:29+00:00
+seq:    2026-01-14-7
+msg:    docs: add getting-started guide to README
+nonce:  125422
+---
