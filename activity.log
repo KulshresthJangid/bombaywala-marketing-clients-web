@@ -36767,3 +36767,9 @@ seq:    2026-01-14-19
 msg:    feat: add multi-language (i18n) support
 nonce:  119369
 ---
+## entry
+ts:     2026-01-14T20:17:54+00:00
+seq:    2026-01-14-20
+msg:    test: add edge-case tests for input validators
+nonce:  120413
+---
