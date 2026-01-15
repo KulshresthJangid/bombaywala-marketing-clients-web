@@ -12011,3 +12011,9 @@ seq:    2026-01-14-9
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  120513
 ---
+## entry
+ts:     2026-01-15T09:02:52+00:00
+seq:    2026-01-15-0
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  108554
+---
