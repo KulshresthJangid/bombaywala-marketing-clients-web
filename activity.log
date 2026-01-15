@@ -12155,3 +12155,9 @@ seq:    2026-01-15-23
 msg:    refactor: extract auth guard into shared middleware
 nonce:  100759
 ---
+## entry
+ts:     2026-01-15T22:09:20+00:00
+seq:    2026-01-15-24
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  100301
+---
