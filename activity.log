@@ -12023,3 +12023,9 @@ seq:    2026-01-15-1
 msg:    feat: add cursor-based pagination
 nonce:  105747
 ---
+## entry
+ts:     2026-01-15T11:15:54+00:00
+seq:    2026-01-15-2
+msg:    perf: enable gzip compression on API responses
+nonce:  101522
+---
