@@ -12107,3 +12107,9 @@ seq:    2026-01-15-15
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  104885
 ---
+## entry
+ts:     2026-01-15T16:31:59+00:00
+seq:    2026-01-15-16
+msg:    feat: implement role-based access control
+nonce:  120529
+---
