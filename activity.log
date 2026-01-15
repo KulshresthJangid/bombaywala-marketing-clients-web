@@ -12035,3 +12035,9 @@ seq:    2026-01-15-3
 msg:    test: add k6 load-test script for checkout flow
 nonce:  122501
 ---
+## entry
+ts:     2026-01-15T13:10:34+00:00
+seq:    2026-01-15-4
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  101763
+---
