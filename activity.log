@@ -12083,3 +12083,9 @@ seq:    2026-01-15-11
 msg:    docs: add JSDoc to all public utility functions
 nonce:  104531
 ---
+## entry
+ts:     2026-01-15T15:53:38+00:00
+seq:    2026-01-15-12
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  108243
+---
