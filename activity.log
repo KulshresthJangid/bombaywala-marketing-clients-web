@@ -12149,3 +12149,9 @@ seq:    2026-01-15-22
 msg:    refactor: split God-service into focused modules
 nonce:  118698
 ---
+## entry
+ts:     2026-01-15T19:03:15+00:00
+seq:    2026-01-15-23
+msg:    refactor: extract auth guard into shared middleware
+nonce:  100759
+---
