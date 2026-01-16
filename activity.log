@@ -12203,3 +12203,9 @@ seq:    2026-01-16-6
 msg:    perf: trim unnecessary fields from list responses
 nonce:  124372
 ---
+## entry
+ts:     2026-01-16T14:43:15+00:00
+seq:    2026-01-16-7
+msg:    feat: create immutable audit-log service
+nonce:  107158
+---
