@@ -12191,3 +12191,9 @@ seq:    2026-01-16-4
 msg:    feat: add batch job processing queue
 nonce:  119811
 ---
+## entry
+ts:     2026-01-16T14:17:08+00:00
+seq:    2026-01-16-5
+msg:    feat: add GraphQL subscription support
+nonce:  104783
+---
