@@ -12161,3 +12161,9 @@ seq:    2026-01-15-24
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  100301
 ---
+## entry
+ts:     2026-01-16T08:33:13+00:00
+seq:    2026-01-16-0
+msg:    feat: implement dark mode toggle
+nonce:  100212
+---
