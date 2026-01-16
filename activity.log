@@ -12185,3 +12185,9 @@ seq:    2026-01-16-3
 msg:    fix: resolve CORS rejection on preflight
 nonce:  114279
 ---
+## entry
+ts:     2026-01-16T14:03:40+00:00
+seq:    2026-01-16-4
+msg:    feat: add batch job processing queue
+nonce:  119811
+---
