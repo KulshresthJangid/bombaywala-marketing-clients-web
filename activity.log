@@ -36797,3 +36797,9 @@ seq:    2026-01-18-1
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  130319
 ---
+## entry
+ts:     2026-01-18T10:31:30+00:00
+seq:    2026-01-18-2
+msg:    fix: sanitize user input in search filter
+nonce:  131082
+---
