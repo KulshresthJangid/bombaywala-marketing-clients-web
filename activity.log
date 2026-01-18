@@ -12269,3 +12269,9 @@ seq:    2026-01-18-7
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  109525
 ---
+## entry
+ts:     2026-01-18T13:52:04+00:00
+seq:    2026-01-18-8
+msg:    fix: sanitize user input in search filter
+nonce:  121329
+---
