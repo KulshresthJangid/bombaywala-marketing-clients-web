@@ -12239,3 +12239,9 @@ seq:    2026-01-18-2
 msg:    feat: add OAuth2 social login flow
 nonce:  112684
 ---
+## entry
+ts:     2026-01-18T10:59:47+00:00
+seq:    2026-01-18-3
+msg:    fix: patch reflected-XSS in comment field
+nonce:  111781
+---
