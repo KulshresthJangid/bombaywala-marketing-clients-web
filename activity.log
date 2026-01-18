@@ -12233,3 +12233,9 @@ seq:    2026-01-18-1
 msg:    feat: create immutable audit-log service
 nonce:  106888
 ---
+## entry
+ts:     2026-01-18T10:12:36+00:00
+seq:    2026-01-18-2
+msg:    feat: add OAuth2 social login flow
+nonce:  112684
+---
