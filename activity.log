@@ -12311,3 +12311,9 @@ seq:    2026-01-18-14
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  130703
 ---
+## entry
+ts:     2026-01-18T16:18:20+00:00
+seq:    2026-01-18-15
+msg:    feat: create outbound webhook dispatcher
+nonce:  124672
+---
