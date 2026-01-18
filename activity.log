@@ -12293,3 +12293,9 @@ seq:    2026-01-18-11
 msg:    perf: memoize expensive permission-check results
 nonce:  116774
 ---
+## entry
+ts:     2026-01-18T15:04:01+00:00
+seq:    2026-01-18-12
+msg:    feat: implement full-text search with filters
+nonce:  118603
+---
