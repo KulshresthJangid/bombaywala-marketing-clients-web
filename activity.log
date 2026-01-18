@@ -36833,3 +36833,9 @@ seq:    2026-01-18-7
 msg:    feat: implement file upload with S3 backend
 nonce:  116482
 ---
+## entry
+ts:     2026-01-18T17:53:33+00:00
+seq:    2026-01-18-8
+msg:    test: add unit tests for AuthService
+nonce:  109340
+---
