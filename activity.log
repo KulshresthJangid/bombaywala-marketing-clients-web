@@ -12347,3 +12347,9 @@ seq:    2026-01-18-20
 msg:    perf: memoize expensive permission-check results
 nonce:  123450
 ---
+## entry
+ts:     2026-01-18T21:43:42+00:00
+seq:    2026-01-18-21
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  126410
+---
