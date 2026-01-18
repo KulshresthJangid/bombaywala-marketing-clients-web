@@ -36809,3 +36809,9 @@ seq:    2026-01-18-3
 msg:    fix: resolve CORS rejection on preflight
 nonce:  109396
 ---
+## entry
+ts:     2026-01-18T11:48:20+00:00
+seq:    2026-01-18-4
+msg:    fix: resolve CORS rejection on preflight
+nonce:  104746
+---
