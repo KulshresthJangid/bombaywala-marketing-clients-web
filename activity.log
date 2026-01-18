@@ -12335,3 +12335,9 @@ seq:    2026-01-18-18
 msg:    feat: add export-to-CSV functionality
 nonce:  106484
 ---
+## entry
+ts:     2026-01-18T18:58:36+00:00
+seq:    2026-01-18-19
+msg:    perf: trim unnecessary fields from list responses
+nonce:  121083
+---
