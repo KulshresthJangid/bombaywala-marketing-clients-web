@@ -36791,3 +36791,9 @@ seq:    2026-01-18-0
 msg:    fix: patch reflected-XSS in comment field
 nonce:  132439
 ---
+## entry
+ts:     2026-01-18T10:30:40+00:00
+seq:    2026-01-18-1
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  130319
+---
