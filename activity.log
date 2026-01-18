@@ -36785,3 +36785,9 @@ seq:    2026-01-14-22
 msg:    refactor: move magic strings to constants module
 nonce:  103222
 ---
+## entry
+ts:     2026-01-18T09:54:31+00:00
+seq:    2026-01-18-0
+msg:    fix: patch reflected-XSS in comment field
+nonce:  132439
+---
