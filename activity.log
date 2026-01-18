@@ -12287,3 +12287,9 @@ seq:    2026-01-18-10
 msg:    fix: sanitize user input in search filter
 nonce:  108352
 ---
+## entry
+ts:     2026-01-18T14:59:49+00:00
+seq:    2026-01-18-11
+msg:    perf: memoize expensive permission-check results
+nonce:  116774
+---
