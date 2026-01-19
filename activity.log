@@ -12365,3 +12365,9 @@ seq:    2026-01-19-0
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  122426
 ---
+## entry
+ts:     2026-01-19T09:31:00+00:00
+seq:    2026-01-19-1
+msg:    refactor: split God-service into focused modules
+nonce:  130789
+---
