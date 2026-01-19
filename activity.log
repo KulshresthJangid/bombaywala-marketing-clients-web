@@ -12371,3 +12371,9 @@ seq:    2026-01-19-1
 msg:    refactor: split God-service into focused modules
 nonce:  130789
 ---
+## entry
+ts:     2026-01-19T11:32:36+00:00
+seq:    2026-01-19-2
+msg:    perf: memoize expensive permission-check results
+nonce:  100999
+---
