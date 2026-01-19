@@ -12419,3 +12419,9 @@ seq:    2026-01-19-9
 msg:    fix: fix stale JWT after password reset
 nonce:  105287
 ---
+## entry
+ts:     2026-01-19T13:56:18+00:00
+seq:    2026-01-19-10
+msg:    fix: correct date formatting in monthly report
+nonce:  120186
+---
