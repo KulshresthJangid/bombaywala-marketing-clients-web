@@ -36917,3 +36917,9 @@ seq:    2026-01-19-11
 msg:    fix: resolve null pointer in user service
 nonce:  102690
 ---
+## entry
+ts:     2026-01-19T15:43:41+00:00
+seq:    2026-01-19-12
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  127361
+---
