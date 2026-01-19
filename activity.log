@@ -36911,3 +36911,9 @@ seq:    2026-01-19-10
 msg:    feat: implement dashboard analytics
 nonce:  125577
 ---
+## entry
+ts:     2026-01-19T14:44:34+00:00
+seq:    2026-01-19-11
+msg:    fix: resolve null pointer in user service
+nonce:  102690
+---
