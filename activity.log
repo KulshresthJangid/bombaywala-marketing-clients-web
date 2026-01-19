@@ -12455,3 +12455,9 @@ seq:    2026-01-19-15
 msg:    feat: add email-verification flow
 nonce:  119564
 ---
+## entry
+ts:     2026-01-19T21:36:02+00:00
+seq:    2026-01-19-16
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  117480
+---
