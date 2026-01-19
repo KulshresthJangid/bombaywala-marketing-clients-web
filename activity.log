@@ -36857,3 +36857,9 @@ seq:    2026-01-19-1
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  106459
 ---
+## entry
+ts:     2026-01-19T09:48:54+00:00
+seq:    2026-01-19-2
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  106593
+---
