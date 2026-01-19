@@ -12383,3 +12383,9 @@ seq:    2026-01-19-3
 msg:    refactor: centralise API error-response factory
 nonce:  125987
 ---
+## entry
+ts:     2026-01-19T12:33:30+00:00
+seq:    2026-01-19-4
+msg:    test: raise coverage floor for payment module
+nonce:  123765
+---
