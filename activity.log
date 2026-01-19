@@ -12443,3 +12443,9 @@ seq:    2026-01-19-13
 msg:    feat: scaffold onboarding wizard UI
 nonce:  116185
 ---
+## entry
+ts:     2026-01-19T19:55:40+00:00
+seq:    2026-01-19-14
+msg:    docs: add architecture decision record for caching
+nonce:  119520
+---
