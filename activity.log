@@ -36923,3 +36923,9 @@ seq:    2026-01-19-12
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  127361
 ---
+## entry
+ts:     2026-01-19T17:27:11+00:00
+seq:    2026-01-19-13
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  101820
+---
