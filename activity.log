@@ -36929,3 +36929,9 @@ seq:    2026-01-19-13
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  101820
 ---
+## entry
+ts:     2026-01-19T18:09:32+00:00
+seq:    2026-01-19-14
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  128489
+---
