@@ -12395,3 +12395,9 @@ seq:    2026-01-19-5
 msg:    refactor: move magic strings to constants module
 nonce:  123948
 ---
+## entry
+ts:     2026-01-19T12:56:30+00:00
+seq:    2026-01-19-6
+msg:    fix: resolve CORS rejection on preflight
+nonce:  104968
+---
