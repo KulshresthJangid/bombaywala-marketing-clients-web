@@ -36845,3 +36845,9 @@ seq:    2026-01-18-9
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  117858
 ---
+## entry
+ts:     2026-01-19T08:17:04+00:00
+seq:    2026-01-19-0
+msg:    feat: add cursor-based pagination
+nonce:  103155
+---
