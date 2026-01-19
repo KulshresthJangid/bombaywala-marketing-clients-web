@@ -12437,3 +12437,9 @@ seq:    2026-01-19-12
 msg:    test: stub external HTTP calls in unit suite
 nonce:  102116
 ---
+## entry
+ts:     2026-01-19T14:57:41+00:00
+seq:    2026-01-19-13
+msg:    feat: scaffold onboarding wizard UI
+nonce:  116185
+---
