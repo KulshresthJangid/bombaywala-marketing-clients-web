@@ -12431,3 +12431,9 @@ seq:    2026-01-19-11
 msg:    refactor: consolidate duplicate validation logic
 nonce:  101667
 ---
+## entry
+ts:     2026-01-19T14:37:29+00:00
+seq:    2026-01-19-12
+msg:    test: stub external HTTP calls in unit suite
+nonce:  102116
+---
