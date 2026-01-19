@@ -36899,3 +36899,9 @@ seq:    2026-01-19-8
 msg:    test: raise coverage floor for payment module
 nonce:  126454
 ---
+## entry
+ts:     2026-01-19T14:15:01+00:00
+seq:    2026-01-19-9
+msg:    fix: fix stale JWT after password reset
+nonce:  132388
+---
