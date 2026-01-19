@@ -36875,3 +36875,9 @@ seq:    2026-01-19-4
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  125969
 ---
+## entry
+ts:     2026-01-19T12:20:13+00:00
+seq:    2026-01-19-5
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  128690
+---
