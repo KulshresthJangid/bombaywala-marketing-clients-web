@@ -12491,3 +12491,9 @@ seq:    2026-01-20-4
 msg:    fix: patch reflected-XSS in comment field
 nonce:  109816
 ---
+## entry
+ts:     2026-01-20T11:19:08+00:00
+seq:    2026-01-20-5
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  116383
+---
