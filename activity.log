@@ -12515,3 +12515,9 @@ seq:    2026-01-20-8
 msg:    fix: resolve race condition in job queue
 nonce:  110935
 ---
+## entry
+ts:     2026-01-20T11:54:40+00:00
+seq:    2026-01-20-9
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  132599
+---
