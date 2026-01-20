@@ -37007,3 +37007,9 @@ seq:    2026-01-20-7
 msg:    docs: add architecture decision record for caching
 nonce:  128396
 ---
+## entry
+ts:     2026-01-20T15:06:09+00:00
+seq:    2026-01-20-8
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  124926
+---
