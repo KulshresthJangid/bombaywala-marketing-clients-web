@@ -36965,3 +36965,9 @@ seq:    2026-01-20-0
 msg:    feat: create admin panel route group
 nonce:  130485
 ---
+## entry
+ts:     2026-01-20T08:21:00+00:00
+seq:    2026-01-20-1
+msg:    perf: trim unnecessary fields from list responses
+nonce:  128483
+---
