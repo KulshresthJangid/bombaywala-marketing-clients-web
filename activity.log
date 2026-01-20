@@ -36977,3 +36977,9 @@ seq:    2026-01-20-2
 msg:    test: raise coverage floor for payment module
 nonce:  103177
 ---
+## entry
+ts:     2026-01-20T11:07:06+00:00
+seq:    2026-01-20-3
+msg:    test: add integration tests for /api/v2 routes
+nonce:  116882
+---
