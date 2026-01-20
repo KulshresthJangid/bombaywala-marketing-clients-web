@@ -12533,3 +12533,9 @@ seq:    2026-01-20-11
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  104500
 ---
+## entry
+ts:     2026-01-20T15:58:24+00:00
+seq:    2026-01-20-12
+msg:    test: add snapshot tests for report generator
+nonce:  108023
+---
