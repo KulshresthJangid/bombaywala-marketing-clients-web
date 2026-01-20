@@ -12527,3 +12527,9 @@ seq:    2026-01-20-10
 msg:    fix: sanitize user input in search filter
 nonce:  122479
 ---
+## entry
+ts:     2026-01-20T15:39:51+00:00
+seq:    2026-01-20-11
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  104500
+---
