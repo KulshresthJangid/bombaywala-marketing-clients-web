@@ -37001,3 +37001,9 @@ seq:    2026-01-20-6
 msg:    refactor: simplify connection pool configuration
 nonce:  117346
 ---
+## entry
+ts:     2026-01-20T13:48:12+00:00
+seq:    2026-01-20-7
+msg:    docs: add architecture decision record for caching
+nonce:  128396
+---
