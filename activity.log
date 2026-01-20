@@ -12467,3 +12467,9 @@ seq:    2026-01-20-0
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  103484
 ---
+## entry
+ts:     2026-01-20T09:46:36+00:00
+seq:    2026-01-20-1
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  121521
+---
