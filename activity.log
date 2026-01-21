@@ -37103,3 +37103,9 @@ seq:    2026-01-21-8
 msg:    refactor: split God-service into focused modules
 nonce:  102521
 ---
+## entry
+ts:     2026-01-21T13:37:04+00:00
+seq:    2026-01-21-9
+msg:    test: add snapshot tests for report generator
+nonce:  111158
+---
