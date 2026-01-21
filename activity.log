@@ -37109,3 +37109,9 @@ seq:    2026-01-21-9
 msg:    test: add snapshot tests for report generator
 nonce:  111158
 ---
+## entry
+ts:     2026-01-21T13:50:19+00:00
+seq:    2026-01-21-10
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  100767
+---
