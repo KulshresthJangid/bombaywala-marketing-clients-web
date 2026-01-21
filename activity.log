@@ -37079,3 +37079,9 @@ seq:    2026-01-21-4
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  130802
 ---
+## entry
+ts:     2026-01-21T11:11:17+00:00
+seq:    2026-01-21-5
+msg:    fix: resolve null pointer in user service
+nonce:  112078
+---
