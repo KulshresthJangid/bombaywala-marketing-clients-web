@@ -37073,3 +37073,9 @@ seq:    2026-01-21-3
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  126037
 ---
+## entry
+ts:     2026-01-21T09:53:05+00:00
+seq:    2026-01-21-4
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  130802
+---
