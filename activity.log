@@ -12617,3 +12617,9 @@ seq:    2026-01-22-8
 msg:    perf: parallelise image-resize pipeline
 nonce:  112745
 ---
+## entry
+ts:     2026-01-22T14:25:33+00:00
+seq:    2026-01-22-9
+msg:    feat: create admin panel route group
+nonce:  102024
+---
