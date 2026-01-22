@@ -12659,3 +12659,9 @@ seq:    2026-01-22-15
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  132138
 ---
+## entry
+ts:     2026-01-22T17:53:34+00:00
+seq:    2026-01-22-16
+msg:    fix: resolve CORS rejection on preflight
+nonce:  103165
+---
