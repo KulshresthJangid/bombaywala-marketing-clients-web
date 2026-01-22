@@ -37181,3 +37181,9 @@ seq:    2026-01-22-6
 msg:    refactor: centralise API error-response factory
 nonce:  106400
 ---
+## entry
+ts:     2026-01-22T12:53:36+00:00
+seq:    2026-01-22-7
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  119197
+---
