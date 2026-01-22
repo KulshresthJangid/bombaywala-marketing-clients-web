@@ -12605,3 +12605,9 @@ seq:    2026-01-22-6
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  107155
 ---
+## entry
+ts:     2026-01-22T11:58:49+00:00
+seq:    2026-01-22-7
+msg:    chore: apply prettier to all source files
+nonce:  102813
+---
