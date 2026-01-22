@@ -12593,3 +12593,9 @@ seq:    2026-01-22-4
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  126346
 ---
+## entry
+ts:     2026-01-22T11:41:49+00:00
+seq:    2026-01-22-5
+msg:    fix: patch reflected-XSS in comment field
+nonce:  114125
+---
