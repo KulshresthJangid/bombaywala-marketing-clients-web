@@ -37169,3 +37169,9 @@ seq:    2026-01-22-4
 msg:    refactor: centralise API error-response factory
 nonce:  125147
 ---
+## entry
+ts:     2026-01-22T11:48:58+00:00
+seq:    2026-01-22-5
+msg:    perf: memoize expensive permission-check results
+nonce:  115945
+---
