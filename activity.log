@@ -12647,3 +12647,9 @@ seq:    2026-01-22-13
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  104728
 ---
+## entry
+ts:     2026-01-22T17:23:18+00:00
+seq:    2026-01-22-14
+msg:    feat: add GraphQL subscription support
+nonce:  101705
+---
