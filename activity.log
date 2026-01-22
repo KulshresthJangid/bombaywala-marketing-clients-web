@@ -12587,3 +12587,9 @@ seq:    2026-01-22-3
 msg:    feat: create immutable audit-log service
 nonce:  106637
 ---
+## entry
+ts:     2026-01-22T11:26:08+00:00
+seq:    2026-01-22-4
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  126346
+---
