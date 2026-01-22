@@ -12581,3 +12581,9 @@ seq:    2026-01-22-2
 msg:    docs: add JSDoc to all public utility functions
 nonce:  115567
 ---
+## entry
+ts:     2026-01-22T11:17:25+00:00
+seq:    2026-01-22-3
+msg:    feat: create immutable audit-log service
+nonce:  106637
+---
