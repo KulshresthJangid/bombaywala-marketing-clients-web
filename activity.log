@@ -12611,3 +12611,9 @@ seq:    2026-01-22-7
 msg:    chore: apply prettier to all source files
 nonce:  102813
 ---
+## entry
+ts:     2026-01-22T12:21:09+00:00
+seq:    2026-01-22-8
+msg:    perf: parallelise image-resize pipeline
+nonce:  112745
+---
