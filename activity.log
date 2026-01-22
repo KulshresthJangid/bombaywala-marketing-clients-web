@@ -37223,3 +37223,9 @@ seq:    2026-01-22-13
 msg:    feat: add export-to-CSV functionality
 nonce:  118419
 ---
+## entry
+ts:     2026-01-22T17:05:08+00:00
+seq:    2026-01-22-14
+msg:    test: add integration tests for /api/v2 routes
+nonce:  121630
+---
