@@ -37163,3 +37163,9 @@ seq:    2026-01-22-3
 msg:    refactor: split God-service into focused modules
 nonce:  118605
 ---
+## entry
+ts:     2026-01-22T11:36:36+00:00
+seq:    2026-01-22-4
+msg:    refactor: centralise API error-response factory
+nonce:  125147
+---
