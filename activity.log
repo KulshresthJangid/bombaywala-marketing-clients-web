@@ -37229,3 +37229,9 @@ seq:    2026-01-22-14
 msg:    test: add integration tests for /api/v2 routes
 nonce:  121630
 ---
+## entry
+ts:     2026-01-22T18:15:10+00:00
+seq:    2026-01-22-15
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  117122
+---
