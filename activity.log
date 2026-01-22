@@ -12575,3 +12575,9 @@ seq:    2026-01-22-1
 msg:    chore: apply prettier to all source files
 nonce:  116988
 ---
+## entry
+ts:     2026-01-22T10:07:12+00:00
+seq:    2026-01-22-2
+msg:    docs: add JSDoc to all public utility functions
+nonce:  115567
+---
