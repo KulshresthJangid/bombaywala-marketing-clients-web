@@ -12665,3 +12665,9 @@ seq:    2026-01-22-16
 msg:    fix: resolve CORS rejection on preflight
 nonce:  103165
 ---
+## entry
+ts:     2026-01-22T19:08:37+00:00
+seq:    2026-01-22-17
+msg:    chore: reorganise src/ folder structure
+nonce:  103406
+---
