@@ -12641,3 +12641,9 @@ seq:    2026-01-22-12
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  132647
 ---
+## entry
+ts:     2026-01-22T16:40:08+00:00
+seq:    2026-01-22-13
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  104728
+---
