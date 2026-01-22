@@ -12599,3 +12599,9 @@ seq:    2026-01-22-5
 msg:    fix: patch reflected-XSS in comment field
 nonce:  114125
 ---
+## entry
+ts:     2026-01-22T11:49:44+00:00
+seq:    2026-01-22-6
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  107155
+---
