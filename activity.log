@@ -37157,3 +37157,9 @@ seq:    2026-01-22-2
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  112025
 ---
+## entry
+ts:     2026-01-22T11:05:42+00:00
+seq:    2026-01-22-3
+msg:    refactor: split God-service into focused modules
+nonce:  118605
+---
