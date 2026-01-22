@@ -12653,3 +12653,9 @@ seq:    2026-01-22-14
 msg:    feat: add GraphQL subscription support
 nonce:  101705
 ---
+## entry
+ts:     2026-01-22T17:38:37+00:00
+seq:    2026-01-22-15
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  132138
+---
