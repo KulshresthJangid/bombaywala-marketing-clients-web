@@ -37211,3 +37211,9 @@ seq:    2026-01-22-11
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  107530
 ---
+## entry
+ts:     2026-01-22T15:55:08+00:00
+seq:    2026-01-22-12
+msg:    test: stub external HTTP calls in unit suite
+nonce:  112078
+---
