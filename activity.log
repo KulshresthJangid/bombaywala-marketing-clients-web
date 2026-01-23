@@ -37295,3 +37295,9 @@ seq:    2026-01-23-8
 msg:    chore: remove unused imports across codebase
 nonce:  106091
 ---
+## entry
+ts:     2026-01-23T13:03:30+00:00
+seq:    2026-01-23-9
+msg:    test: add integration tests for /api/v2 routes
+nonce:  128482
+---
