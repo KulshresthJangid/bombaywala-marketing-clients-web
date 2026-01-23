@@ -37331,3 +37331,9 @@ seq:    2026-01-23-14
 msg:    fix: correct off-by-one in pagination offset
 nonce:  116627
 ---
+## entry
+ts:     2026-01-23T13:46:22+00:00
+seq:    2026-01-23-15
+msg:    feat: add user authentication module
+nonce:  110956
+---
