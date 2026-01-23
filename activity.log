@@ -37319,3 +37319,9 @@ seq:    2026-01-23-12
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  110081
 ---
+## entry
+ts:     2026-01-23T13:21:04+00:00
+seq:    2026-01-23-13
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  115371
+---
