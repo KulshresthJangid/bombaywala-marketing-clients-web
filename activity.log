@@ -37361,3 +37361,9 @@ seq:    2026-01-23-19
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  100004
 ---
+## entry
+ts:     2026-01-23T16:41:10+00:00
+seq:    2026-01-23-20
+msg:    refactor: split God-service into focused modules
+nonce:  114218
+---
