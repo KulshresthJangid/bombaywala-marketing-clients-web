@@ -37307,3 +37307,9 @@ seq:    2026-01-23-10
 msg:    refactor: simplify connection pool configuration
 nonce:  121594
 ---
+## entry
+ts:     2026-01-23T13:11:38+00:00
+seq:    2026-01-23-11
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  123247
+---
