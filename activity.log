@@ -37325,3 +37325,9 @@ seq:    2026-01-23-13
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  115371
 ---
+## entry
+ts:     2026-01-23T13:36:48+00:00
+seq:    2026-01-23-14
+msg:    fix: correct off-by-one in pagination offset
+nonce:  116627
+---
