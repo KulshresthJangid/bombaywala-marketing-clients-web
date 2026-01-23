@@ -37253,3 +37253,9 @@ seq:    2026-01-23-1
 msg:    feat: implement two-factor authentication
 nonce:  132146
 ---
+## entry
+ts:     2026-01-23T10:55:27+00:00
+seq:    2026-01-23-2
+msg:    fix: sanitize user input in search filter
+nonce:  118338
+---
