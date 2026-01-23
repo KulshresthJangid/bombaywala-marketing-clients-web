@@ -37355,3 +37355,9 @@ seq:    2026-01-23-18
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  118018
 ---
+## entry
+ts:     2026-01-23T15:36:22+00:00
+seq:    2026-01-23-19
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  100004
+---
