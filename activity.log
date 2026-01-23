@@ -37271,3 +37271,9 @@ seq:    2026-01-23-4
 msg:    refactor: centralise API error-response factory
 nonce:  100096
 ---
+## entry
+ts:     2026-01-23T11:48:27+00:00
+seq:    2026-01-23-5
+msg:    refactor: simplify connection pool configuration
+nonce:  102940
+---
