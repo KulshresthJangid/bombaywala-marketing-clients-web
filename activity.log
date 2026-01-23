@@ -37277,3 +37277,9 @@ seq:    2026-01-23-5
 msg:    refactor: simplify connection pool configuration
 nonce:  102940
 ---
+## entry
+ts:     2026-01-23T12:17:07+00:00
+seq:    2026-01-23-6
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  124957
+---
