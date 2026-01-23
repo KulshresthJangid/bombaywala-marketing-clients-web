@@ -37265,3 +37265,9 @@ seq:    2026-01-23-3
 msg:    test: stub external HTTP calls in unit suite
 nonce:  128886
 ---
+## entry
+ts:     2026-01-23T10:58:04+00:00
+seq:    2026-01-23-4
+msg:    refactor: centralise API error-response factory
+nonce:  100096
+---
