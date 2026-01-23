@@ -37373,3 +37373,9 @@ seq:    2026-01-23-21
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  113149
 ---
+## entry
+ts:     2026-01-23T17:22:32+00:00
+seq:    2026-01-23-22
+msg:    feat: implement role-based access control
+nonce:  121716
+---
