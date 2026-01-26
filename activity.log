@@ -37433,3 +37433,9 @@ seq:    2026-01-26-6
 msg:    docs: add JSDoc to all public utility functions
 nonce:  131640
 ---
+## entry
+ts:     2026-01-26T14:47:47+00:00
+seq:    2026-01-26-7
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  132120
+---
