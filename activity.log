@@ -12737,3 +12737,9 @@ seq:    2026-01-26-7
 msg:    feat: implement Redis caching layer
 nonce:  101268
 ---
+## entry
+ts:     2026-01-26T13:20:26+00:00
+seq:    2026-01-26-8
+msg:    docs: add architecture decision record for caching
+nonce:  118894
+---
