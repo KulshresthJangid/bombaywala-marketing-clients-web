@@ -12743,3 +12743,9 @@ seq:    2026-01-26-8
 msg:    docs: add architecture decision record for caching
 nonce:  118894
 ---
+## entry
+ts:     2026-01-26T13:44:39+00:00
+seq:    2026-01-26-9
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  121127
+---
