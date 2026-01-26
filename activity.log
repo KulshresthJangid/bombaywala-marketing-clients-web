@@ -37463,3 +37463,9 @@ seq:    2026-01-26-11
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  111516
 ---
+## entry
+ts:     2026-01-26T22:41:09+00:00
+seq:    2026-01-26-12
+msg:    feat: implement full-text search with filters
+nonce:  110072
+---
