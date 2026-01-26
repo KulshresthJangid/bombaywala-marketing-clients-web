@@ -12749,3 +12749,9 @@ seq:    2026-01-26-9
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  121127
 ---
+## entry
+ts:     2026-01-26T15:39:46+00:00
+seq:    2026-01-26-10
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  105764
+---
