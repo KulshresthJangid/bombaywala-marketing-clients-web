@@ -37469,3 +37469,9 @@ seq:    2026-01-26-12
 msg:    feat: implement full-text search with filters
 nonce:  110072
 ---
+## entry
+ts:     2026-01-26T22:51:15+00:00
+seq:    2026-01-26-13
+msg:    perf: enable gzip compression on API responses
+nonce:  124476
+---
