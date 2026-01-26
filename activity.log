@@ -12767,3 +12767,9 @@ seq:    2026-01-26-12
 msg:    refactor: consolidate duplicate validation logic
 nonce:  132160
 ---
+## entry
+ts:     2026-01-26T17:59:42+00:00
+seq:    2026-01-26-13
+msg:    test: add integration tests for /api/v2 routes
+nonce:  110783
+---
