@@ -12689,3 +12689,9 @@ seq:    2026-01-22-20
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  125025
 ---
+## entry
+ts:     2026-01-26T08:22:46+00:00
+seq:    2026-01-26-0
+msg:    test: improve assertion messages in user tests
+nonce:  105019
+---
