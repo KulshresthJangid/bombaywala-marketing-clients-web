@@ -37403,3 +37403,9 @@ seq:    2026-01-26-1
 msg:    perf: parallelise image-resize pipeline
 nonce:  121095
 ---
+## entry
+ts:     2026-01-26T11:11:28+00:00
+seq:    2026-01-26-2
+msg:    test: add integration tests for /api/v2 routes
+nonce:  121850
+---
