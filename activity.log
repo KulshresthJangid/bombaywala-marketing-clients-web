@@ -12707,3 +12707,9 @@ seq:    2026-01-26-2
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  124790
 ---
+## entry
+ts:     2026-01-26T09:02:04+00:00
+seq:    2026-01-26-3
+msg:    feat: add rate-limiting middleware
+nonce:  124420
+---
