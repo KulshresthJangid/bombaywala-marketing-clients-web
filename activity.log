@@ -37475,3 +37475,9 @@ seq:    2026-01-26-13
 msg:    perf: enable gzip compression on API responses
 nonce:  124476
 ---
+## entry
+ts:     2026-01-27T08:45:51+00:00
+seq:    2026-01-27-0
+msg:    feat: scaffold onboarding wizard UI
+nonce:  128948
+---
