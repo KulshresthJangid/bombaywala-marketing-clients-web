@@ -12785,3 +12785,9 @@ seq:    2026-01-27-0
 msg:    perf: trim unnecessary fields from list responses
 nonce:  123066
 ---
+## entry
+ts:     2026-01-27T11:58:49+00:00
+seq:    2026-01-27-1
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  110681
+---
