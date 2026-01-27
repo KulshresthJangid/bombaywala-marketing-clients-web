@@ -37529,3 +37529,9 @@ seq:    2026-01-27-8
 msg:    feat: scaffold onboarding wizard UI
 nonce:  120613
 ---
+## entry
+ts:     2026-01-27T14:30:04+00:00
+seq:    2026-01-27-9
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  126341
+---
