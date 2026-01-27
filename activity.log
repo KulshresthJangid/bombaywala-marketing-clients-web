@@ -37523,3 +37523,9 @@ seq:    2026-01-27-7
 msg:    refactor: centralise API error-response factory
 nonce:  105946
 ---
+## entry
+ts:     2026-01-27T12:31:20+00:00
+seq:    2026-01-27-8
+msg:    feat: scaffold onboarding wizard UI
+nonce:  120613
+---
