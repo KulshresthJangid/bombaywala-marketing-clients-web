@@ -12839,3 +12839,9 @@ seq:    2026-01-27-9
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  100044
 ---
+## entry
+ts:     2026-01-27T19:55:35+00:00
+seq:    2026-01-27-10
+msg:    feat: implement dark mode toggle
+nonce:  125487
+---
