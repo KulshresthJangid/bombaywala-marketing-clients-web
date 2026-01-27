@@ -37553,3 +37553,9 @@ seq:    2026-01-27-12
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  103339
 ---
+## entry
+ts:     2026-01-27T20:47:10+00:00
+seq:    2026-01-27-13
+msg:    chore: pin transitive dependency versions
+nonce:  126674
+---
