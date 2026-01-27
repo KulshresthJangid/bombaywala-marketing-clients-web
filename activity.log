@@ -12779,3 +12779,9 @@ seq:    2026-01-26-14
 msg:    feat: implement file upload with S3 backend
 nonce:  107652
 ---
+## entry
+ts:     2026-01-27T11:41:44+00:00
+seq:    2026-01-27-0
+msg:    perf: trim unnecessary fields from list responses
+nonce:  123066
+---
