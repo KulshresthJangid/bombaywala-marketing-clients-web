@@ -37511,3 +37511,9 @@ seq:    2026-01-27-5
 msg:    feat: implement Redis caching layer
 nonce:  114788
 ---
+## entry
+ts:     2026-01-27T11:44:30+00:00
+seq:    2026-01-27-6
+msg:    chore: remove unused imports across codebase
+nonce:  113573
+---
