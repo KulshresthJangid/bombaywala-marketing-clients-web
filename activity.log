@@ -12851,3 +12851,9 @@ seq:    2026-01-27-11
 msg:    test: add integration tests for /api/v2 routes
 nonce:  117153
 ---
+## entry
+ts:     2026-01-27T21:28:28+00:00
+seq:    2026-01-27-12
+msg:    feat: add rate-limiting middleware
+nonce:  105993
+---
