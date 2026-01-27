@@ -37541,3 +37541,9 @@ seq:    2026-01-27-10
 msg:    feat: implement full-text search with filters
 nonce:  118566
 ---
+## entry
+ts:     2026-01-27T17:56:24+00:00
+seq:    2026-01-27-11
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  127395
+---
