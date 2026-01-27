@@ -12833,3 +12833,9 @@ seq:    2026-01-27-8
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  125578
 ---
+## entry
+ts:     2026-01-27T19:48:41+00:00
+seq:    2026-01-27-9
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  100044
+---
