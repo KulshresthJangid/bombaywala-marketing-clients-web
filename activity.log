@@ -12983,3 +12983,9 @@ seq:    2026-01-28-19
 msg:    perf: lazy-load heavy chart library
 nonce:  130010
 ---
+## entry
+ts:     2026-01-28T21:11:03+00:00
+seq:    2026-01-28-20
+msg:    docs: document required environment variables
+nonce:  116852
+---
