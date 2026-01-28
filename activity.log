@@ -37601,3 +37601,9 @@ seq:    2026-01-28-6
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  118535
 ---
+## entry
+ts:     2026-01-28T13:58:29+00:00
+seq:    2026-01-28-7
+msg:    fix: resolve null pointer in user service
+nonce:  116579
+---
