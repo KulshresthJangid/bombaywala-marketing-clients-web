@@ -12923,3 +12923,9 @@ seq:    2026-01-28-9
 msg:    feat: add OAuth2 social login flow
 nonce:  103875
 ---
+## entry
+ts:     2026-01-28T13:10:07+00:00
+seq:    2026-01-28-10
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  110702
+---
