@@ -37625,3 +37625,9 @@ seq:    2026-01-28-10
 msg:    refactor: remove dead code from utils barrel
 nonce:  129047
 ---
+## entry
+ts:     2026-01-28T20:51:19+00:00
+seq:    2026-01-28-11
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  112568
+---
