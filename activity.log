@@ -12893,3 +12893,9 @@ seq:    2026-01-28-4
 msg:    refactor: centralise API error-response factory
 nonce:  114284
 ---
+## entry
+ts:     2026-01-28T11:35:16+00:00
+seq:    2026-01-28-5
+msg:    test: add snapshot tests for report generator
+nonce:  128494
+---
