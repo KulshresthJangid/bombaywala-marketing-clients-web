@@ -12869,3 +12869,9 @@ seq:    2026-01-28-0
 msg:    chore: reorganise src/ folder structure
 nonce:  126410
 ---
+## entry
+ts:     2026-01-28T08:17:52+00:00
+seq:    2026-01-28-1
+msg:    fix: handle empty state on dashboard load
+nonce:  121330
+---
