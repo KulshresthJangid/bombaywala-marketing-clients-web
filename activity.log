@@ -37559,3 +37559,9 @@ seq:    2026-01-27-13
 msg:    chore: pin transitive dependency versions
 nonce:  126674
 ---
+## entry
+ts:     2026-01-28T10:08:03+00:00
+seq:    2026-01-28-0
+msg:    feat: add cursor-based pagination
+nonce:  106470
+---
