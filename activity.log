@@ -37607,3 +37607,9 @@ seq:    2026-01-28-7
 msg:    fix: resolve null pointer in user service
 nonce:  116579
 ---
+## entry
+ts:     2026-01-28T14:14:31+00:00
+seq:    2026-01-28-8
+msg:    test: add integration tests for /api/v2 routes
+nonce:  126654
+---
