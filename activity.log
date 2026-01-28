@@ -12911,3 +12911,9 @@ seq:    2026-01-28-7
 msg:    chore: remove unused imports across codebase
 nonce:  122449
 ---
+## entry
+ts:     2026-01-28T13:03:59+00:00
+seq:    2026-01-28-8
+msg:    feat: add GraphQL subscription support
+nonce:  130643
+---
