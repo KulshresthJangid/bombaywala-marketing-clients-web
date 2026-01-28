@@ -12917,3 +12917,9 @@ seq:    2026-01-28-8
 msg:    feat: add GraphQL subscription support
 nonce:  130643
 ---
+## entry
+ts:     2026-01-28T13:06:18+00:00
+seq:    2026-01-28-9
+msg:    feat: add OAuth2 social login flow
+nonce:  103875
+---
