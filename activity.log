@@ -12947,3 +12947,9 @@ seq:    2026-01-28-13
 msg:    refactor: centralise API error-response factory
 nonce:  103392
 ---
+## entry
+ts:     2026-01-28T14:03:53+00:00
+seq:    2026-01-28-14
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  106976
+---
