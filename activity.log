@@ -12881,3 +12881,9 @@ seq:    2026-01-28-2
 msg:    docs: add getting-started guide to README
 nonce:  128084
 ---
+## entry
+ts:     2026-01-28T10:54:55+00:00
+seq:    2026-01-28-3
+msg:    perf: parallelise image-resize pipeline
+nonce:  109312
+---
