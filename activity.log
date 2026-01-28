@@ -12959,3 +12959,9 @@ seq:    2026-01-28-15
 msg:    test: add snapshot tests for report generator
 nonce:  110219
 ---
+## entry
+ts:     2026-01-28T15:51:32+00:00
+seq:    2026-01-28-16
+msg:    perf: lazy-load heavy chart library
+nonce:  125176
+---
