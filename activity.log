@@ -12965,3 +12965,9 @@ seq:    2026-01-28-16
 msg:    perf: lazy-load heavy chart library
 nonce:  125176
 ---
+## entry
+ts:     2026-01-28T17:31:15+00:00
+seq:    2026-01-28-17
+msg:    feat: implement role-based access control
+nonce:  120474
+---
