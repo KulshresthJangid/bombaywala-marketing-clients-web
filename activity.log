@@ -37577,3 +37577,9 @@ seq:    2026-01-28-2
 msg:    fix: resolve null pointer in user service
 nonce:  106784
 ---
+## entry
+ts:     2026-01-28T12:19:42+00:00
+seq:    2026-01-28-3
+msg:    feat: add GraphQL subscription support
+nonce:  117219
+---
