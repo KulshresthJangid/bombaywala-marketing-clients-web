@@ -13013,3 +13013,9 @@ seq:    2026-01-29-2
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  111893
 ---
+## entry
+ts:     2026-01-29T13:03:41+00:00
+seq:    2026-01-29-3
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  107222
+---
