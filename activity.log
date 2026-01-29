@@ -13085,3 +13085,9 @@ seq:    2026-01-29-14
 msg:    feat: add user authentication module
 nonce:  104278
 ---
+## entry
+ts:     2026-01-29T16:31:52+00:00
+seq:    2026-01-29-15
+msg:    fix: resolve CORS rejection on preflight
+nonce:  123544
+---
