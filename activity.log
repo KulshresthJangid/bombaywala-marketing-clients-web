@@ -13067,3 +13067,9 @@ seq:    2026-01-29-11
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  128598
 ---
+## entry
+ts:     2026-01-29T15:20:56+00:00
+seq:    2026-01-29-12
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  113214
+---
