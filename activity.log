@@ -37667,3 +37667,9 @@ seq:    2026-01-29-3
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  119835
 ---
+## entry
+ts:     2026-01-29T14:11:37+00:00
+seq:    2026-01-29-4
+msg:    refactor: migrate from winston to pino logger
+nonce:  126633
+---
