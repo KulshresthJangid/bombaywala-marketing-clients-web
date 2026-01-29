@@ -13025,3 +13025,9 @@ seq:    2026-01-29-4
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  109766
 ---
+## entry
+ts:     2026-01-29T13:25:48+00:00
+seq:    2026-01-29-5
+msg:    test: add k6 load-test script for checkout flow
+nonce:  121780
+---
