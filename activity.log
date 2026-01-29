@@ -13073,3 +13073,9 @@ seq:    2026-01-29-12
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  113214
 ---
+## entry
+ts:     2026-01-29T15:24:46+00:00
+seq:    2026-01-29-13
+msg:    chore: apply prettier to all source files
+nonce:  124876
+---
