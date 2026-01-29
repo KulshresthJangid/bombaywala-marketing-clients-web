@@ -37703,3 +37703,9 @@ seq:    2026-01-29-9
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  128821
 ---
+## entry
+ts:     2026-01-29T17:38:00+00:00
+seq:    2026-01-29-10
+msg:    feat: add email-verification flow
+nonce:  121492
+---
