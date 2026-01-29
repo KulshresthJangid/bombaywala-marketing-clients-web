@@ -37691,3 +37691,9 @@ seq:    2026-01-29-7
 msg:    perf: parallelise image-resize pipeline
 nonce:  108231
 ---
+## entry
+ts:     2026-01-29T15:26:43+00:00
+seq:    2026-01-29-8
+msg:    perf: enable gzip compression on API responses
+nonce:  128107
+---
