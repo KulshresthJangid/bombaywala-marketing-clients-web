@@ -13001,3 +13001,9 @@ seq:    2026-01-29-0
 msg:    test: add integration tests for /api/v2 routes
 nonce:  108950
 ---
+## entry
+ts:     2026-01-29T09:12:37+00:00
+seq:    2026-01-29-1
+msg:    refactor: migrate from winston to pino logger
+nonce:  129422
+---
