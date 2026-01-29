@@ -13049,3 +13049,9 @@ seq:    2026-01-29-8
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  111781
 ---
+## entry
+ts:     2026-01-29T14:49:49+00:00
+seq:    2026-01-29-9
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  108109
+---
