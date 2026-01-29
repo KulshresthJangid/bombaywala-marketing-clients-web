@@ -37649,3 +37649,9 @@ seq:    2026-01-29-0
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  129106
 ---
+## entry
+ts:     2026-01-29T09:55:44+00:00
+seq:    2026-01-29-1
+msg:    docs: update CHANGELOG for next release
+nonce:  119900
+---
