@@ -13163,3 +13163,9 @@ seq:    2026-01-30-2
 msg:    chore: pin transitive dependency versions
 nonce:  111536
 ---
+## entry
+ts:     2026-01-30T12:22:00+00:00
+seq:    2026-01-30-3
+msg:    feat: add GraphQL subscription support
+nonce:  109674
+---
