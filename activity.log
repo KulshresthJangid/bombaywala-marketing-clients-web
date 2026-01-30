@@ -13157,3 +13157,9 @@ seq:    2026-01-30-1
 msg:    feat: implement file upload with S3 backend
 nonce:  123780
 ---
+## entry
+ts:     2026-01-30T11:15:56+00:00
+seq:    2026-01-30-2
+msg:    chore: pin transitive dependency versions
+nonce:  111536
+---
