@@ -13181,3 +13181,9 @@ seq:    2026-01-30-5
 msg:    fix: sanitize user input in search filter
 nonce:  107043
 ---
+## entry
+ts:     2026-01-30T14:10:35+00:00
+seq:    2026-01-30-6
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  129440
+---
