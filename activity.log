@@ -13211,3 +13211,9 @@ seq:    2026-01-30-10
 msg:    refactor: replace callback hell with async/await
 nonce:  102646
 ---
+## entry
+ts:     2026-01-30T17:05:58+00:00
+seq:    2026-01-30-11
+msg:    feat: scaffold onboarding wizard UI
+nonce:  113083
+---
