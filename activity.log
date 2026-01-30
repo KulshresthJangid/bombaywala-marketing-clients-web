@@ -13193,3 +13193,9 @@ seq:    2026-01-30-7
 msg:    refactor: replace callback hell with async/await
 nonce:  129922
 ---
+## entry
+ts:     2026-01-30T15:25:08+00:00
+seq:    2026-01-30-8
+msg:    test: add k6 load-test script for checkout flow
+nonce:  106429
+---
