@@ -37781,3 +37781,9 @@ seq:    2026-01-30-8
 msg:    refactor: consolidate duplicate validation logic
 nonce:  100195
 ---
+## entry
+ts:     2026-01-30T21:28:07+00:00
+seq:    2026-01-30-9
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  122441
+---
