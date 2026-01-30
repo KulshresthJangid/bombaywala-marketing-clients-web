@@ -37769,3 +37769,9 @@ seq:    2026-01-30-6
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  114471
 ---
+## entry
+ts:     2026-01-30T14:28:43+00:00
+seq:    2026-01-30-7
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  113113
+---
