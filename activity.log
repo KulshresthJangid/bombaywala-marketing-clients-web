@@ -13175,3 +13175,9 @@ seq:    2026-01-30-4
 msg:    feat: add real-time notification system
 nonce:  100717
 ---
+## entry
+ts:     2026-01-30T13:40:53+00:00
+seq:    2026-01-30-5
+msg:    fix: sanitize user input in search filter
+nonce:  107043
+---
