@@ -13343,3 +13343,9 @@ seq:    2026-01-31-20
 msg:    docs: document required environment variables
 nonce:  112382
 ---
+## entry
+ts:     2026-01-31T16:34:47+00:00
+seq:    2026-01-31-21
+msg:    fix: patch reflected-XSS in comment field
+nonce:  100995
+---
