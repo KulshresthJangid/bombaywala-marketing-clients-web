@@ -37829,3 +37829,9 @@ seq:    2026-01-31-6
 msg:    feat: implement dashboard analytics
 nonce:  131407
 ---
+## entry
+ts:     2026-01-31T12:19:54+00:00
+seq:    2026-01-31-7
+msg:    test: add integration tests for /api/v2 routes
+nonce:  115456
+---
