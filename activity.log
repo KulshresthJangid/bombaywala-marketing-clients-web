@@ -13319,3 +13319,9 @@ seq:    2026-01-31-16
 msg:    feat: add multi-language (i18n) support
 nonce:  132093
 ---
+## entry
+ts:     2026-01-31T15:14:31+00:00
+seq:    2026-01-31-17
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  102420
+---
