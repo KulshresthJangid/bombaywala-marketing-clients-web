@@ -37895,3 +37895,9 @@ seq:    2026-01-31-17
 msg:    perf: parallelise image-resize pipeline
 nonce:  110114
 ---
+## entry
+ts:     2026-01-31T20:40:29+00:00
+seq:    2026-01-31-18
+msg:    perf: memoize expensive permission-check results
+nonce:  129976
+---
