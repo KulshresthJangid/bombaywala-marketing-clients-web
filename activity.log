@@ -13265,3 +13265,9 @@ seq:    2026-01-31-7
 msg:    chore: pin transitive dependency versions
 nonce:  107159
 ---
+## entry
+ts:     2026-01-31T11:36:12+00:00
+seq:    2026-01-31-8
+msg:    docs: document required environment variables
+nonce:  111148
+---
