@@ -37805,3 +37805,9 @@ seq:    2026-01-31-2
 msg:    feat: add Stripe subscription billing
 nonce:  112750
 ---
+## entry
+ts:     2026-01-31T10:34:44+00:00
+seq:    2026-01-31-3
+msg:    feat: implement full-text search with filters
+nonce:  100444
+---
