@@ -13277,3 +13277,9 @@ seq:    2026-01-31-9
 msg:    feat: implement full-text search with filters
 nonce:  106861
 ---
+## entry
+ts:     2026-01-31T12:24:18+00:00
+seq:    2026-01-31-10
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  124720
+---
