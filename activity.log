@@ -13337,3 +13337,9 @@ seq:    2026-01-31-19
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  132061
 ---
+## entry
+ts:     2026-01-31T15:58:26+00:00
+seq:    2026-01-31-20
+msg:    docs: document required environment variables
+nonce:  112382
+---
