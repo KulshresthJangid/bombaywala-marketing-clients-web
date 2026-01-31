@@ -37817,3 +37817,9 @@ seq:    2026-01-31-4
 msg:    feat: implement file upload with S3 backend
 nonce:  121526
 ---
+## entry
+ts:     2026-01-31T11:53:26+00:00
+seq:    2026-01-31-5
+msg:    test: raise coverage floor for payment module
+nonce:  122833
+---
