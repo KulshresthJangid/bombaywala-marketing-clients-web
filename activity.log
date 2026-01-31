@@ -37793,3 +37793,9 @@ seq:    2026-01-31-0
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  110382
 ---
+## entry
+ts:     2026-01-31T09:55:31+00:00
+seq:    2026-01-31-1
+msg:    fix: resolve CORS rejection on preflight
+nonce:  128531
+---
