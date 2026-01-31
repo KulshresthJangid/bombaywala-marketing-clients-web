@@ -13283,3 +13283,9 @@ seq:    2026-01-31-10
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  124720
 ---
+## entry
+ts:     2026-01-31T12:47:31+00:00
+seq:    2026-01-31-11
+msg:    feat: create immutable audit-log service
+nonce:  118201
+---
