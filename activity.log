@@ -37871,3 +37871,9 @@ seq:    2026-01-31-13
 msg:    perf: lazy-load heavy chart library
 nonce:  124112
 ---
+## entry
+ts:     2026-01-31T15:15:05+00:00
+seq:    2026-01-31-14
+msg:    fix: handle empty state on dashboard load
+nonce:  106655
+---
