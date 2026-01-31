@@ -13349,3 +13349,9 @@ seq:    2026-01-31-21
 msg:    fix: patch reflected-XSS in comment field
 nonce:  100995
 ---
+## entry
+ts:     2026-01-31T17:23:01+00:00
+seq:    2026-01-31-22
+msg:    fix: handle empty state on dashboard load
+nonce:  102439
+---
