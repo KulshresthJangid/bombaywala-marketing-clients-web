@@ -37925,3 +37925,9 @@ seq:    2026-02-01-2
 msg:    fix: fix stale JWT after password reset
 nonce:  103422
 ---
+## entry
+ts:     2026-02-01T13:16:45+00:00
+seq:    2026-02-01-3
+msg:    refactor: centralise API error-response factory
+nonce:  123503
+---
