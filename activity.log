@@ -37979,3 +37979,9 @@ seq:    2026-02-01-11
 msg:    test: add unit tests for AuthService
 nonce:  101285
 ---
+## entry
+ts:     2026-02-01T18:45:13+00:00
+seq:    2026-02-01-12
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  109508
+---
