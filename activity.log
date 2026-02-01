@@ -37931,3 +37931,9 @@ seq:    2026-02-01-3
 msg:    refactor: centralise API error-response factory
 nonce:  123503
 ---
+## entry
+ts:     2026-02-01T15:10:15+00:00
+seq:    2026-02-01-4
+msg:    fix: correct date formatting in monthly report
+nonce:  113967
+---
