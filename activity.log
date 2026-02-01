@@ -37955,3 +37955,9 @@ seq:    2026-02-01-7
 msg:    fix: handle empty state on dashboard load
 nonce:  131395
 ---
+## entry
+ts:     2026-02-01T16:23:27+00:00
+seq:    2026-02-01-8
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  120133
+---
