@@ -37913,3 +37913,9 @@ seq:    2026-02-01-0
 msg:    fix: patch reflected-XSS in comment field
 nonce:  103871
 ---
+## entry
+ts:     2026-02-01T11:05:44+00:00
+seq:    2026-02-01-1
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  108227
+---
