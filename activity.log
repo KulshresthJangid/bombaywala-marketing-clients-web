@@ -37985,3 +37985,9 @@ seq:    2026-02-01-12
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  109508
 ---
+## entry
+ts:     2026-02-01T18:59:00+00:00
+seq:    2026-02-01-13
+msg:    refactor: migrate from winston to pino logger
+nonce:  122999
+---
