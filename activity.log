@@ -37991,3 +37991,9 @@ seq:    2026-02-01-13
 msg:    refactor: migrate from winston to pino logger
 nonce:  122999
 ---
+## entry
+ts:     2026-02-01T20:33:36+00:00
+seq:    2026-02-01-14
+msg:    feat: add rate-limiting middleware
+nonce:  132051
+---
