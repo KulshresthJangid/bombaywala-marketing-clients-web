@@ -13451,3 +13451,9 @@ seq:    2026-02-03-13
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  124022
 ---
+## entry
+ts:     2026-02-03T17:21:54+00:00
+seq:    2026-02-03-14
+msg:    feat: add multi-language (i18n) support
+nonce:  104077
+---
