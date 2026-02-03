@@ -38015,3 +38015,9 @@ seq:    2026-02-03-0
 msg:    chore: pin transitive dependency versions
 nonce:  104428
 ---
+## entry
+ts:     2026-02-03T11:08:49+00:00
+seq:    2026-02-03-1
+msg:    fix: handle empty state on dashboard load
+nonce:  110526
+---
