@@ -38081,3 +38081,9 @@ seq:    2026-02-03-11
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  111988
 ---
+## entry
+ts:     2026-02-03T17:48:38+00:00
+seq:    2026-02-03-12
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  114259
+---
