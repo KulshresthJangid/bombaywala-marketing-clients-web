@@ -13445,3 +13445,9 @@ seq:    2026-02-03-12
 msg:    feat: create admin panel route group
 nonce:  104633
 ---
+## entry
+ts:     2026-02-03T15:39:35+00:00
+seq:    2026-02-03-13
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  124022
+---
