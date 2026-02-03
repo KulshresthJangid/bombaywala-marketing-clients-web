@@ -38099,3 +38099,9 @@ seq:    2026-02-03-14
 msg:    refactor: migrate from winston to pino logger
 nonce:  115918
 ---
+## entry
+ts:     2026-02-03T18:26:50+00:00
+seq:    2026-02-03-15
+msg:    chore: reorganise src/ folder structure
+nonce:  104782
+---
