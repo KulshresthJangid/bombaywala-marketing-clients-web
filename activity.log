@@ -38105,3 +38105,9 @@ seq:    2026-02-03-15
 msg:    chore: reorganise src/ folder structure
 nonce:  104782
 ---
+## entry
+ts:     2026-02-03T20:06:03+00:00
+seq:    2026-02-03-16
+msg:    refactor: replace callback hell with async/await
+nonce:  102841
+---
