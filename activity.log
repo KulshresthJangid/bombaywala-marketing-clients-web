@@ -13457,3 +13457,9 @@ seq:    2026-02-03-14
 msg:    feat: add multi-language (i18n) support
 nonce:  104077
 ---
+## entry
+ts:     2026-02-03T17:28:56+00:00
+seq:    2026-02-03-15
+msg:    fix: sanitize user input in search filter
+nonce:  108891
+---
