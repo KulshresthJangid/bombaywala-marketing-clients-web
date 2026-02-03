@@ -13403,3 +13403,9 @@ seq:    2026-02-03-5
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  102111
 ---
+## entry
+ts:     2026-02-03T10:58:14+00:00
+seq:    2026-02-03-6
+msg:    test: add k6 load-test script for checkout flow
+nonce:  115803
+---
