@@ -38009,3 +38009,9 @@ seq:    2026-02-01-16
 msg:    test: stub external HTTP calls in unit suite
 nonce:  104567
 ---
+## entry
+ts:     2026-02-03T11:00:49+00:00
+seq:    2026-02-03-0
+msg:    chore: pin transitive dependency versions
+nonce:  104428
+---
