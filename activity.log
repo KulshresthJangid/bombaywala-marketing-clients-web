@@ -13373,3 +13373,9 @@ seq:    2026-02-03-0
 msg:    feat: add email-verification flow
 nonce:  117861
 ---
+## entry
+ts:     2026-02-03T09:23:11+00:00
+seq:    2026-02-03-1
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  102406
+---
