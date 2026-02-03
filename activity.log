@@ -38045,3 +38045,9 @@ seq:    2026-02-03-5
 msg:    feat: add real-time notification system
 nonce:  107738
 ---
+## entry
+ts:     2026-02-03T14:36:56+00:00
+seq:    2026-02-03-6
+msg:    fix: fix stale JWT after password reset
+nonce:  118740
+---
