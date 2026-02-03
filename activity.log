@@ -38069,3 +38069,9 @@ seq:    2026-02-03-9
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  122432
 ---
+## entry
+ts:     2026-02-03T17:13:21+00:00
+seq:    2026-02-03-10
+msg:    chore: reorganise src/ folder structure
+nonce:  120132
+---
