@@ -13481,3 +13481,9 @@ seq:    2026-02-03-18
 msg:    chore: pin transitive dependency versions
 nonce:  132706
 ---
+## entry
+ts:     2026-02-03T19:21:08+00:00
+seq:    2026-02-03-19
+msg:    test: raise coverage floor for payment module
+nonce:  108733
+---
