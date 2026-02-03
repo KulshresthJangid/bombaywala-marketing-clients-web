@@ -38111,3 +38111,9 @@ seq:    2026-02-03-16
 msg:    refactor: replace callback hell with async/await
 nonce:  102841
 ---
+## entry
+ts:     2026-02-03T21:10:07+00:00
+seq:    2026-02-03-17
+msg:    fix: resolve null pointer in user service
+nonce:  132297
+---
