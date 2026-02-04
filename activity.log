@@ -38141,3 +38141,9 @@ seq:    2026-02-04-3
 msg:    docs: document required environment variables
 nonce:  107474
 ---
+## entry
+ts:     2026-02-04T09:43:15+00:00
+seq:    2026-02-04-4
+msg:    refactor: migrate from winston to pino logger
+nonce:  128347
+---
