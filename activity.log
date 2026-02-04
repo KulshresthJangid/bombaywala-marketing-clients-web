@@ -38159,3 +38159,9 @@ seq:    2026-02-04-6
 msg:    chore: rotate copyright year in license header
 nonce:  119445
 ---
+## entry
+ts:     2026-02-04T10:19:23+00:00
+seq:    2026-02-04-7
+msg:    test: raise coverage floor for payment module
+nonce:  126009
+---
