@@ -38201,3 +38201,9 @@ seq:    2026-02-04-13
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  120130
 ---
+## entry
+ts:     2026-02-04T16:39:30+00:00
+seq:    2026-02-04-14
+msg:    feat: add rate-limiting middleware
+nonce:  102919
+---
