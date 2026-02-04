@@ -38231,3 +38231,9 @@ seq:    2026-02-04-18
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  130932
 ---
+## entry
+ts:     2026-02-04T20:03:41+00:00
+seq:    2026-02-04-19
+msg:    test: add integration tests for /api/v2 routes
+nonce:  125024
+---
