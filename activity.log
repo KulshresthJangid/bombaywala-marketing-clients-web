@@ -38129,3 +38129,9 @@ seq:    2026-02-04-1
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  103777
 ---
+## entry
+ts:     2026-02-04T09:25:30+00:00
+seq:    2026-02-04-2
+msg:    feat: implement two-factor authentication
+nonce:  106049
+---
