@@ -38147,3 +38147,9 @@ seq:    2026-02-04-4
 msg:    refactor: migrate from winston to pino logger
 nonce:  128347
 ---
+## entry
+ts:     2026-02-04T10:03:50+00:00
+seq:    2026-02-04-5
+msg:    fix: correct off-by-one in pagination offset
+nonce:  120020
+---
