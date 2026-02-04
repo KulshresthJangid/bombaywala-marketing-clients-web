@@ -38195,3 +38195,9 @@ seq:    2026-02-04-12
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  126309
 ---
+## entry
+ts:     2026-02-04T16:10:15+00:00
+seq:    2026-02-04-13
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  120130
+---
