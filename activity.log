@@ -38183,3 +38183,9 @@ seq:    2026-02-04-10
 msg:    test: add integration tests for /api/v2 routes
 nonce:  128433
 ---
+## entry
+ts:     2026-02-04T13:03:25+00:00
+seq:    2026-02-04-11
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  110840
+---
