@@ -13577,3 +13577,9 @@ seq:    2026-02-05-11
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  124534
 ---
+## entry
+ts:     2026-02-05T15:35:07+00:00
+seq:    2026-02-05-12
+msg:    docs: add getting-started guide to README
+nonce:  107350
+---
