@@ -38309,3 +38309,9 @@ seq:    2026-02-05-9
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  104870
 ---
+## entry
+ts:     2026-02-05T17:31:38+00:00
+seq:    2026-02-05-10
+msg:    refactor: consolidate duplicate validation logic
+nonce:  101073
+---
