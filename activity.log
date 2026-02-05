@@ -13595,3 +13595,9 @@ seq:    2026-02-05-14
 msg:    refactor: extract auth guard into shared middleware
 nonce:  105493
 ---
+## entry
+ts:     2026-02-05T16:11:20+00:00
+seq:    2026-02-05-15
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  101693
+---
