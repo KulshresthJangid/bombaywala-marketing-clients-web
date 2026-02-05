@@ -38279,3 +38279,9 @@ seq:    2026-02-05-4
 msg:    perf: memoize expensive permission-check results
 nonce:  130195
 ---
+## entry
+ts:     2026-02-05T13:59:15+00:00
+seq:    2026-02-05-5
+msg:    fix: handle empty state on dashboard load
+nonce:  124365
+---
