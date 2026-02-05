@@ -13607,3 +13607,9 @@ seq:    2026-02-05-16
 msg:    feat: add OAuth2 social login flow
 nonce:  111816
 ---
+## entry
+ts:     2026-02-05T16:51:14+00:00
+seq:    2026-02-05-17
+msg:    chore: pin transitive dependency versions
+nonce:  110914
+---
