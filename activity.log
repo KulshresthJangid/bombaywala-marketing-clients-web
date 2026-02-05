@@ -13583,3 +13583,9 @@ seq:    2026-02-05-12
 msg:    docs: add getting-started guide to README
 nonce:  107350
 ---
+## entry
+ts:     2026-02-05T15:39:39+00:00
+seq:    2026-02-05-13
+msg:    test: add integration tests for /api/v2 routes
+nonce:  102143
+---
