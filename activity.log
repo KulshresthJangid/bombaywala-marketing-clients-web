@@ -13559,3 +13559,9 @@ seq:    2026-02-05-8
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  105472
 ---
+## entry
+ts:     2026-02-05T15:12:22+00:00
+seq:    2026-02-05-9
+msg:    test: add k6 load-test script for checkout flow
+nonce:  111423
+---
