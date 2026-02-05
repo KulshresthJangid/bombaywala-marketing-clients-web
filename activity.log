@@ -38273,3 +38273,9 @@ seq:    2026-02-05-3
 msg:    feat: add multi-language (i18n) support
 nonce:  100106
 ---
+## entry
+ts:     2026-02-05T13:20:12+00:00
+seq:    2026-02-05-4
+msg:    perf: memoize expensive permission-check results
+nonce:  130195
+---
