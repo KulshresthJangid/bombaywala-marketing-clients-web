@@ -38261,3 +38261,9 @@ seq:    2026-02-05-1
 msg:    perf: parallelise image-resize pipeline
 nonce:  100776
 ---
+## entry
+ts:     2026-02-05T12:52:36+00:00
+seq:    2026-02-05-2
+msg:    feat: create immutable audit-log service
+nonce:  111565
+---
