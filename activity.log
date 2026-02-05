@@ -38291,3 +38291,9 @@ seq:    2026-02-05-6
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  123846
 ---
+## entry
+ts:     2026-02-05T15:07:38+00:00
+seq:    2026-02-05-7
+msg:    feat: add Stripe subscription billing
+nonce:  111687
+---
