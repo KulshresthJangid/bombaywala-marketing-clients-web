@@ -13553,3 +13553,9 @@ seq:    2026-02-05-7
 msg:    docs: document required environment variables
 nonce:  128105
 ---
+## entry
+ts:     2026-02-05T15:08:07+00:00
+seq:    2026-02-05-8
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  105472
+---
