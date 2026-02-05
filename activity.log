@@ -38297,3 +38297,9 @@ seq:    2026-02-05-7
 msg:    feat: add Stripe subscription billing
 nonce:  111687
 ---
+## entry
+ts:     2026-02-05T16:10:15+00:00
+seq:    2026-02-05-8
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  100510
+---
