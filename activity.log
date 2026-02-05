@@ -13535,3 +13535,9 @@ seq:    2026-02-05-4
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  110694
 ---
+## entry
+ts:     2026-02-05T14:22:49+00:00
+seq:    2026-02-05-5
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  127776
+---
