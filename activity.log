@@ -13523,3 +13523,9 @@ seq:    2026-02-05-2
 msg:    test: add unit tests for AuthService
 nonce:  100343
 ---
+## entry
+ts:     2026-02-05T12:15:43+00:00
+seq:    2026-02-05-3
+msg:    test: add integration tests for /api/v2 routes
+nonce:  127900
+---
