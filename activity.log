@@ -38375,3 +38375,9 @@ seq:    2026-02-06-7
 msg:    feat: scaffold onboarding wizard UI
 nonce:  131695
 ---
+## entry
+ts:     2026-02-06T16:17:50+00:00
+seq:    2026-02-06-8
+msg:    feat: create admin panel route group
+nonce:  132743
+---
