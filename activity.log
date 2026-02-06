@@ -13631,3 +13631,9 @@ seq:    2026-02-06-0
 msg:    feat: implement full-text search with filters
 nonce:  108980
 ---
+## entry
+ts:     2026-02-06T09:36:27+00:00
+seq:    2026-02-06-1
+msg:    test: add integration tests for /api/v2 routes
+nonce:  105865
+---
