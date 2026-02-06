@@ -13685,3 +13685,9 @@ seq:    2026-02-06-9
 msg:    refactor: extract auth guard into shared middleware
 nonce:  109873
 ---
+## entry
+ts:     2026-02-06T22:43:19+00:00
+seq:    2026-02-06-10
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  101177
+---
