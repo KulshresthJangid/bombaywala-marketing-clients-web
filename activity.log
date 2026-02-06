@@ -13625,3 +13625,9 @@ seq:    2026-02-05-19
 msg:    fix: resolve CORS rejection on preflight
 nonce:  130133
 ---
+## entry
+ts:     2026-02-06T08:20:00+00:00
+seq:    2026-02-06-0
+msg:    feat: implement full-text search with filters
+nonce:  108980
+---
