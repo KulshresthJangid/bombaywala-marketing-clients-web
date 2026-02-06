@@ -13667,3 +13667,9 @@ seq:    2026-02-06-6
 msg:    test: add integration tests for /api/v2 routes
 nonce:  118791
 ---
+## entry
+ts:     2026-02-06T16:22:02+00:00
+seq:    2026-02-06-7
+msg:    feat: add batch job processing queue
+nonce:  111923
+---
