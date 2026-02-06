@@ -13655,3 +13655,9 @@ seq:    2026-02-06-4
 msg:    docs: add getting-started guide to README
 nonce:  131543
 ---
+## entry
+ts:     2026-02-06T14:36:11+00:00
+seq:    2026-02-06-5
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  125433
+---
