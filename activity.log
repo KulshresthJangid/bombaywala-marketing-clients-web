@@ -38369,3 +38369,9 @@ seq:    2026-02-06-6
 msg:    feat: add rate-limiting middleware
 nonce:  124981
 ---
+## entry
+ts:     2026-02-06T15:54:05+00:00
+seq:    2026-02-06-7
+msg:    feat: scaffold onboarding wizard UI
+nonce:  131695
+---
