@@ -38393,3 +38393,9 @@ seq:    2026-02-06-10
 msg:    chore: rotate copyright year in license header
 nonce:  111243
 ---
+## entry
+ts:     2026-02-06T20:46:01+00:00
+seq:    2026-02-06-11
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  125775
+---
