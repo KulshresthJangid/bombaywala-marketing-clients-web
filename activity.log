@@ -13673,3 +13673,9 @@ seq:    2026-02-06-7
 msg:    feat: add batch job processing queue
 nonce:  111923
 ---
+## entry
+ts:     2026-02-06T19:06:33+00:00
+seq:    2026-02-06-8
+msg:    perf: lazy-load heavy chart library
+nonce:  131174
+---
