@@ -38357,3 +38357,9 @@ seq:    2026-02-06-4
 msg:    refactor: replace callback hell with async/await
 nonce:  104905
 ---
+## entry
+ts:     2026-02-06T13:04:39+00:00
+seq:    2026-02-06-5
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  121765
+---
