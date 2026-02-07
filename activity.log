@@ -38513,3 +38513,9 @@ seq:    2026-02-07-18
 msg:    refactor: centralise API error-response factory
 nonce:  117054
 ---
+## entry
+ts:     2026-02-07T19:57:38+00:00
+seq:    2026-02-07-19
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  101305
+---
