@@ -38435,3 +38435,9 @@ seq:    2026-02-07-5
 msg:    feat: add rate-limiting middleware
 nonce:  110626
 ---
+## entry
+ts:     2026-02-07T12:37:34+00:00
+seq:    2026-02-07-6
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  123653
+---
