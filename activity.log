@@ -38453,3 +38453,9 @@ seq:    2026-02-07-8
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  123525
 ---
+## entry
+ts:     2026-02-07T15:49:05+00:00
+seq:    2026-02-07-9
+msg:    fix: sanitize user input in search filter
+nonce:  126407
+---
