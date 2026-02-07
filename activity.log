@@ -38495,3 +38495,9 @@ seq:    2026-02-07-15
 msg:    feat: add user authentication module
 nonce:  105408
 ---
+## entry
+ts:     2026-02-07T19:08:49+00:00
+seq:    2026-02-07-16
+msg:    fix: patch reflected-XSS in comment field
+nonce:  108326
+---
