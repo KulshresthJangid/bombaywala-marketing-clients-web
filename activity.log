@@ -38405,3 +38405,9 @@ seq:    2026-02-07-0
 msg:    test: improve assertion messages in user tests
 nonce:  132638
 ---
+## entry
+ts:     2026-02-07T08:11:06+00:00
+seq:    2026-02-07-1
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  125036
+---
