@@ -38411,3 +38411,9 @@ seq:    2026-02-07-1
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  125036
 ---
+## entry
+ts:     2026-02-07T08:59:23+00:00
+seq:    2026-02-07-2
+msg:    docs: update CHANGELOG for next release
+nonce:  110364
+---
