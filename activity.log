@@ -38447,3 +38447,9 @@ seq:    2026-02-07-7
 msg:    feat: implement Redis caching layer
 nonce:  101366
 ---
+## entry
+ts:     2026-02-07T14:09:31+00:00
+seq:    2026-02-07-8
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  123525
+---
