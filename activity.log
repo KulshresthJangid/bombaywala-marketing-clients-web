@@ -38525,3 +38525,9 @@ seq:    2026-02-07-20
 msg:    test: raise coverage floor for payment module
 nonce:  132376
 ---
+## entry
+ts:     2026-02-07T21:20:43+00:00
+seq:    2026-02-07-21
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  122983
+---
