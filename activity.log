@@ -38399,3 +38399,9 @@ seq:    2026-02-06-11
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  125775
 ---
+## entry
+ts:     2026-02-07T08:04:53+00:00
+seq:    2026-02-07-0
+msg:    test: improve assertion messages in user tests
+nonce:  132638
+---
