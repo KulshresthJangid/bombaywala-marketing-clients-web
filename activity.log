@@ -38537,3 +38537,9 @@ seq:    2026-02-07-22
 msg:    refactor: extract auth guard into shared middleware
 nonce:  114498
 ---
+## entry
+ts:     2026-02-07T22:14:13+00:00
+seq:    2026-02-07-23
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  108303
+---
