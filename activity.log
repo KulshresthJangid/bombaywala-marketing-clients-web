@@ -38483,3 +38483,9 @@ seq:    2026-02-07-13
 msg:    chore: remove unused imports across codebase
 nonce:  104810
 ---
+## entry
+ts:     2026-02-07T17:10:53+00:00
+seq:    2026-02-07-14
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  109743
+---
