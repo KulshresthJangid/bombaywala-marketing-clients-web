@@ -38507,3 +38507,9 @@ seq:    2026-02-07-17
 msg:    chore: remove unused imports across codebase
 nonce:  109610
 ---
+## entry
+ts:     2026-02-07T19:56:36+00:00
+seq:    2026-02-07-18
+msg:    refactor: centralise API error-response factory
+nonce:  117054
+---
