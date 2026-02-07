@@ -38417,3 +38417,9 @@ seq:    2026-02-07-2
 msg:    docs: update CHANGELOG for next release
 nonce:  110364
 ---
+## entry
+ts:     2026-02-07T11:16:52+00:00
+seq:    2026-02-07-3
+msg:    fix: fix stale JWT after password reset
+nonce:  130798
+---
