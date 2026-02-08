@@ -38561,3 +38561,9 @@ seq:    2026-02-08-2
 msg:    docs: document required environment variables
 nonce:  127227
 ---
+## entry
+ts:     2026-02-08T13:40:36+00:00
+seq:    2026-02-08-3
+msg:    chore: reorganise src/ folder structure
+nonce:  122218
+---
