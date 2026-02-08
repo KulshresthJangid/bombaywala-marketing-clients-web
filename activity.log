@@ -38591,3 +38591,9 @@ seq:    2026-02-08-7
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  128680
 ---
+## entry
+ts:     2026-02-08T15:28:22+00:00
+seq:    2026-02-08-8
+msg:    feat: implement file upload with S3 backend
+nonce:  120872
+---
