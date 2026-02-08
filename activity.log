@@ -13739,3 +13739,9 @@ seq:    2026-02-08-7
 msg:    fix: fix stale JWT after password reset
 nonce:  120784
 ---
+## entry
+ts:     2026-02-08T15:39:41+00:00
+seq:    2026-02-08-8
+msg:    feat: implement full-text search with filters
+nonce:  114057
+---
