@@ -38639,3 +38639,9 @@ seq:    2026-02-08-15
 msg:    refactor: centralise API error-response factory
 nonce:  129599
 ---
+## entry
+ts:     2026-02-08T22:21:12+00:00
+seq:    2026-02-08-16
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  116833
+---
