@@ -13703,3 +13703,9 @@ seq:    2026-02-08-1
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  115814
 ---
+## entry
+ts:     2026-02-08T09:37:36+00:00
+seq:    2026-02-08-2
+msg:    feat: add multi-language (i18n) support
+nonce:  112155
+---
