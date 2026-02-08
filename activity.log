@@ -13745,3 +13745,9 @@ seq:    2026-02-08-8
 msg:    feat: implement full-text search with filters
 nonce:  114057
 ---
+## entry
+ts:     2026-02-08T15:54:40+00:00
+seq:    2026-02-08-9
+msg:    feat: create outbound webhook dispatcher
+nonce:  106378
+---
