@@ -38585,3 +38585,9 @@ seq:    2026-02-08-6
 msg:    feat: add GraphQL subscription support
 nonce:  129677
 ---
+## entry
+ts:     2026-02-08T14:40:50+00:00
+seq:    2026-02-08-7
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  128680
+---
