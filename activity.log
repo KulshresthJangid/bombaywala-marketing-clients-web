@@ -38621,3 +38621,9 @@ seq:    2026-02-08-12
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  110846
 ---
+## entry
+ts:     2026-02-08T16:36:07+00:00
+seq:    2026-02-08-13
+msg:    docs: add getting-started guide to README
+nonce:  115795
+---
