@@ -13727,3 +13727,9 @@ seq:    2026-02-08-5
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  128397
 ---
+## entry
+ts:     2026-02-08T13:29:26+00:00
+seq:    2026-02-08-6
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  115488
+---
