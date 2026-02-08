@@ -13763,3 +13763,9 @@ seq:    2026-02-08-11
 msg:    feat: implement dashboard analytics
 nonce:  102699
 ---
+## entry
+ts:     2026-02-08T17:30:08+00:00
+seq:    2026-02-08-12
+msg:    refactor: split God-service into focused modules
+nonce:  111373
+---
