@@ -13781,3 +13781,9 @@ seq:    2026-02-08-14
 msg:    feat: implement Redis caching layer
 nonce:  111980
 ---
+## entry
+ts:     2026-02-08T22:22:52+00:00
+seq:    2026-02-08-15
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  118454
+---
