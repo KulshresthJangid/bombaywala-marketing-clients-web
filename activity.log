@@ -13775,3 +13775,9 @@ seq:    2026-02-08-13
 msg:    perf: trim unnecessary fields from list responses
 nonce:  122477
 ---
+## entry
+ts:     2026-02-08T20:56:24+00:00
+seq:    2026-02-08-14
+msg:    feat: implement Redis caching layer
+nonce:  111980
+---
