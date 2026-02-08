@@ -38627,3 +38627,9 @@ seq:    2026-02-08-13
 msg:    docs: add getting-started guide to README
 nonce:  115795
 ---
+## entry
+ts:     2026-02-08T20:00:15+00:00
+seq:    2026-02-08-14
+msg:    test: raise coverage floor for payment module
+nonce:  120541
+---
