@@ -38699,3 +38699,9 @@ seq:    2026-02-09-8
 msg:    fix: resolve race condition in job queue
 nonce:  128619
 ---
+## entry
+ts:     2026-02-09T18:29:14+00:00
+seq:    2026-02-09-9
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  103819
+---
