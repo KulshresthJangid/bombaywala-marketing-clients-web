@@ -38651,3 +38651,9 @@ seq:    2026-02-09-0
 msg:    feat: integrate payment gateway
 nonce:  111786
 ---
+## entry
+ts:     2026-02-09T10:07:43+00:00
+seq:    2026-02-09-1
+msg:    test: add integration tests for /api/v2 routes
+nonce:  101099
+---
