@@ -38681,3 +38681,9 @@ seq:    2026-02-09-5
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  109454
 ---
+## entry
+ts:     2026-02-09T14:22:55+00:00
+seq:    2026-02-09-6
+msg:    perf: lazy-load heavy chart library
+nonce:  100786
+---
