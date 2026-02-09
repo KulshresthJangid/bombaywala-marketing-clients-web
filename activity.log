@@ -38693,3 +38693,9 @@ seq:    2026-02-09-7
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  126885
 ---
+## entry
+ts:     2026-02-09T15:10:39+00:00
+seq:    2026-02-09-8
+msg:    fix: resolve race condition in job queue
+nonce:  128619
+---
