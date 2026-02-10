@@ -38789,3 +38789,9 @@ seq:    2026-02-10-12
 msg:    fix: sanitize user input in search filter
 nonce:  102655
 ---
+## entry
+ts:     2026-02-10T20:25:47+00:00
+seq:    2026-02-10-13
+msg:    docs: add getting-started guide to README
+nonce:  100768
+---
