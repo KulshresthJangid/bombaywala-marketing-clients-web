@@ -38753,3 +38753,9 @@ seq:    2026-02-10-6
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  103503
 ---
+## entry
+ts:     2026-02-10T15:15:50+00:00
+seq:    2026-02-10-7
+msg:    test: stub external HTTP calls in unit suite
+nonce:  116994
+---
