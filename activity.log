@@ -38735,3 +38735,9 @@ seq:    2026-02-10-3
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  131356
 ---
+## entry
+ts:     2026-02-10T12:46:46+00:00
+seq:    2026-02-10-4
+msg:    refactor: extract auth guard into shared middleware
+nonce:  106380
+---
