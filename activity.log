@@ -38777,3 +38777,9 @@ seq:    2026-02-10-10
 msg:    feat: implement Redis caching layer
 nonce:  115843
 ---
+## entry
+ts:     2026-02-10T16:40:42+00:00
+seq:    2026-02-10-11
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  102552
+---
