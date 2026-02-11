@@ -38879,3 +38879,9 @@ seq:    2026-02-11-12
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  114622
 ---
+## entry
+ts:     2026-02-11T14:54:36+00:00
+seq:    2026-02-11-13
+msg:    test: stub external HTTP calls in unit suite
+nonce:  126744
+---
