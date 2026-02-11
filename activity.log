@@ -38867,3 +38867,9 @@ seq:    2026-02-11-10
 msg:    test: raise coverage floor for payment module
 nonce:  118343
 ---
+## entry
+ts:     2026-02-11T13:12:12+00:00
+seq:    2026-02-11-11
+msg:    perf: parallelise image-resize pipeline
+nonce:  131075
+---
