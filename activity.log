@@ -13829,3 +13829,9 @@ seq:    2026-02-11-5
 msg:    feat: integrate payment gateway
 nonce:  116349
 ---
+## entry
+ts:     2026-02-11T15:37:29+00:00
+seq:    2026-02-11-6
+msg:    fix: correct off-by-one in pagination offset
+nonce:  119590
+---
