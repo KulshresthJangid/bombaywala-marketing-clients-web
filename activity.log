@@ -13811,3 +13811,9 @@ seq:    2026-02-11-2
 msg:    feat: implement dashboard analytics
 nonce:  105646
 ---
+## entry
+ts:     2026-02-11T13:27:13+00:00
+seq:    2026-02-11-3
+msg:    fix: handle empty state on dashboard load
+nonce:  122622
+---
