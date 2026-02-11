@@ -13799,3 +13799,9 @@ seq:    2026-02-11-0
 msg:    perf: parallelise image-resize pipeline
 nonce:  121368
 ---
+## entry
+ts:     2026-02-11T12:04:35+00:00
+seq:    2026-02-11-1
+msg:    fix: correct off-by-one in pagination offset
+nonce:  122150
+---
