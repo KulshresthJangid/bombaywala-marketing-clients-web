@@ -38891,3 +38891,9 @@ seq:    2026-02-11-14
 msg:    refactor: centralise API error-response factory
 nonce:  112088
 ---
+## entry
+ts:     2026-02-11T16:32:44+00:00
+seq:    2026-02-11-15
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  117635
+---
