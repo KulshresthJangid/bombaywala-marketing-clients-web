@@ -38849,3 +38849,9 @@ seq:    2026-02-11-7
 msg:    feat: add email-verification flow
 nonce:  120811
 ---
+## entry
+ts:     2026-02-11T13:00:07+00:00
+seq:    2026-02-11-8
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  120601
+---
