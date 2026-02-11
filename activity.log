@@ -13805,3 +13805,9 @@ seq:    2026-02-11-1
 msg:    fix: correct off-by-one in pagination offset
 nonce:  122150
 ---
+## entry
+ts:     2026-02-11T12:15:49+00:00
+seq:    2026-02-11-2
+msg:    feat: implement dashboard analytics
+nonce:  105646
+---
