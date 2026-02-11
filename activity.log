@@ -38837,3 +38837,9 @@ seq:    2026-02-11-5
 msg:    refactor: simplify connection pool configuration
 nonce:  105775
 ---
+## entry
+ts:     2026-02-11T12:25:29+00:00
+seq:    2026-02-11-6
+msg:    fix: handle empty state on dashboard load
+nonce:  112373
+---
