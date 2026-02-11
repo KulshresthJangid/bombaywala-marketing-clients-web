@@ -13853,3 +13853,9 @@ seq:    2026-02-11-9
 msg:    chore: reorganise src/ folder structure
 nonce:  132513
 ---
+## entry
+ts:     2026-02-11T22:02:15+00:00
+seq:    2026-02-11-10
+msg:    test: add edge-case tests for input validators
+nonce:  125681
+---
