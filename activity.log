@@ -13817,3 +13817,9 @@ seq:    2026-02-11-3
 msg:    fix: handle empty state on dashboard load
 nonce:  122622
 ---
+## entry
+ts:     2026-02-11T15:10:07+00:00
+seq:    2026-02-11-4
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  109056
+---
