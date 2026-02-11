@@ -38831,3 +38831,9 @@ seq:    2026-02-11-4
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  130578
 ---
+## entry
+ts:     2026-02-11T11:54:55+00:00
+seq:    2026-02-11-5
+msg:    refactor: simplify connection pool configuration
+nonce:  105775
+---
