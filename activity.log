@@ -13835,3 +13835,9 @@ seq:    2026-02-11-6
 msg:    fix: correct off-by-one in pagination offset
 nonce:  119590
 ---
+## entry
+ts:     2026-02-11T15:40:13+00:00
+seq:    2026-02-11-7
+msg:    test: add integration tests for /api/v2 routes
+nonce:  110882
+---
