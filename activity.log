@@ -13985,3 +13985,9 @@ seq:    2026-02-15-20
 msg:    perf: parallelise image-resize pipeline
 nonce:  123880
 ---
+## entry
+ts:     2026-02-15T19:27:10+00:00
+seq:    2026-02-15-21
+msg:    docs: add architecture decision record for caching
+nonce:  114271
+---
