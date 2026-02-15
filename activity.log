@@ -38981,3 +38981,9 @@ seq:    2026-02-15-11
 msg:    feat: add Stripe subscription billing
 nonce:  113195
 ---
+## entry
+ts:     2026-02-15T14:02:57+00:00
+seq:    2026-02-15-12
+msg:    feat: scaffold onboarding wizard UI
+nonce:  106020
+---
