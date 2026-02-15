@@ -38909,3 +38909,9 @@ seq:    2026-02-11-17
 msg:    chore: rotate copyright year in license header
 nonce:  126788
 ---
+## entry
+ts:     2026-02-15T10:16:03+00:00
+seq:    2026-02-15-0
+msg:    chore: apply prettier to all source files
+nonce:  103145
+---
