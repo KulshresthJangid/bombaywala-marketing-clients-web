@@ -13913,3 +13913,9 @@ seq:    2026-02-15-8
 msg:    docs: document required environment variables
 nonce:  128593
 ---
+## entry
+ts:     2026-02-15T14:33:14+00:00
+seq:    2026-02-15-9
+msg:    refactor: remove dead code from utils barrel
+nonce:  110850
+---
