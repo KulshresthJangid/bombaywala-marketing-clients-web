@@ -38963,3 +38963,9 @@ seq:    2026-02-15-8
 msg:    fix: resolve null pointer in user service
 nonce:  131300
 ---
+## entry
+ts:     2026-02-15T12:38:26+00:00
+seq:    2026-02-15-9
+msg:    fix: sanitize user input in search filter
+nonce:  129709
+---
