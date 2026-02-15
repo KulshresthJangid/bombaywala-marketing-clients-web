@@ -13883,3 +13883,9 @@ seq:    2026-02-15-3
 msg:    feat: implement file upload with S3 backend
 nonce:  121515
 ---
+## entry
+ts:     2026-02-15T12:01:46+00:00
+seq:    2026-02-15-4
+msg:    chore: apply prettier to all source files
+nonce:  115656
+---
