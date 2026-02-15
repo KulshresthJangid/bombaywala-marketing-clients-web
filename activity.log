@@ -38927,3 +38927,9 @@ seq:    2026-02-15-2
 msg:    perf: lazy-load heavy chart library
 nonce:  121248
 ---
+## entry
+ts:     2026-02-15T11:13:25+00:00
+seq:    2026-02-15-3
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  119089
+---
