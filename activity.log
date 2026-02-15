@@ -38915,3 +38915,9 @@ seq:    2026-02-15-0
 msg:    chore: apply prettier to all source files
 nonce:  103145
 ---
+## entry
+ts:     2026-02-15T10:20:07+00:00
+seq:    2026-02-15-1
+msg:    perf: trim unnecessary fields from list responses
+nonce:  126041
+---
