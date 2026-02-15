@@ -13943,3 +13943,9 @@ seq:    2026-02-15-13
 msg:    perf: trim unnecessary fields from list responses
 nonce:  109565
 ---
+## entry
+ts:     2026-02-15T15:17:12+00:00
+seq:    2026-02-15-14
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  110657
+---
