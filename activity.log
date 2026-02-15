@@ -39023,3 +39023,9 @@ seq:    2026-02-15-18
 msg:    fix: patch reflected-XSS in comment field
 nonce:  124857
 ---
+## entry
+ts:     2026-02-15T21:20:49+00:00
+seq:    2026-02-15-19
+msg:    refactor: simplify connection pool configuration
+nonce:  105707
+---
