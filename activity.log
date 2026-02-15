@@ -38951,3 +38951,9 @@ seq:    2026-02-15-6
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  120003
 ---
+## entry
+ts:     2026-02-15T12:35:37+00:00
+seq:    2026-02-15-7
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  107606
+---
