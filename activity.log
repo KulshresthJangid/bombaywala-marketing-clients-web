@@ -13955,3 +13955,9 @@ seq:    2026-02-15-15
 msg:    fix: patch reflected-XSS in comment field
 nonce:  101964
 ---
+## entry
+ts:     2026-02-15T15:36:26+00:00
+seq:    2026-02-15-16
+msg:    refactor: extract auth guard into shared middleware
+nonce:  104911
+---
