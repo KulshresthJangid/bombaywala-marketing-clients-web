@@ -13919,3 +13919,9 @@ seq:    2026-02-15-9
 msg:    refactor: remove dead code from utils barrel
 nonce:  110850
 ---
+## entry
+ts:     2026-02-15T14:37:37+00:00
+seq:    2026-02-15-10
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  121262
+---
