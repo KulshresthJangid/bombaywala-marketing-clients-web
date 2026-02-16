@@ -39041,3 +39041,9 @@ seq:    2026-02-16-0
 msg:    fix: correct off-by-one in pagination offset
 nonce:  118651
 ---
+## entry
+ts:     2026-02-16T08:59:01+00:00
+seq:    2026-02-16-1
+msg:    feat: create outbound webhook dispatcher
+nonce:  116300
+---
