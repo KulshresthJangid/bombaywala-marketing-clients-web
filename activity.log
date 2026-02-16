@@ -14003,3 +14003,9 @@ seq:    2026-02-15-23
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  105907
 ---
+## entry
+ts:     2026-02-16T11:29:01+00:00
+seq:    2026-02-16-0
+msg:    perf: enable gzip compression on API responses
+nonce:  116503
+---
