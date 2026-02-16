@@ -39065,3 +39065,9 @@ seq:    2026-02-16-4
 msg:    fix: fix stale JWT after password reset
 nonce:  112345
 ---
+## entry
+ts:     2026-02-16T14:28:16+00:00
+seq:    2026-02-16-5
+msg:    test: add integration tests for /api/v2 routes
+nonce:  132036
+---
