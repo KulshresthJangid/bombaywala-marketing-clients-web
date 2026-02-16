@@ -39053,3 +39053,9 @@ seq:    2026-02-16-2
 msg:    docs: add JSDoc to all public utility functions
 nonce:  103585
 ---
+## entry
+ts:     2026-02-16T12:22:45+00:00
+seq:    2026-02-16-3
+msg:    refactor: split God-service into focused modules
+nonce:  107629
+---
