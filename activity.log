@@ -14063,3 +14063,9 @@ seq:    2026-02-16-9
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  121889
 ---
+## entry
+ts:     2026-02-16T18:47:15+00:00
+seq:    2026-02-16-10
+msg:    fix: handle empty state on dashboard load
+nonce:  122821
+---
