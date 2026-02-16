@@ -39071,3 +39071,9 @@ seq:    2026-02-16-5
 msg:    test: add integration tests for /api/v2 routes
 nonce:  132036
 ---
+## entry
+ts:     2026-02-16T14:37:03+00:00
+seq:    2026-02-16-6
+msg:    refactor: simplify connection pool configuration
+nonce:  115268
+---
