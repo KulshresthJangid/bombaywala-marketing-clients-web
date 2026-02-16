@@ -39101,3 +39101,9 @@ seq:    2026-02-16-10
 msg:    test: add unit tests for AuthService
 nonce:  124360
 ---
+## entry
+ts:     2026-02-16T19:17:00+00:00
+seq:    2026-02-16-11
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  132084
+---
