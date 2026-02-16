@@ -14075,3 +14075,9 @@ seq:    2026-02-16-11
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  123895
 ---
+## entry
+ts:     2026-02-16T21:41:30+00:00
+seq:    2026-02-16-12
+msg:    chore: remove unused imports across codebase
+nonce:  130744
+---
