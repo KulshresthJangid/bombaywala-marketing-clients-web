@@ -14051,3 +14051,9 @@ seq:    2026-02-16-7
 msg:    feat: add GraphQL subscription support
 nonce:  120245
 ---
+## entry
+ts:     2026-02-16T15:50:18+00:00
+seq:    2026-02-16-8
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  111510
+---
