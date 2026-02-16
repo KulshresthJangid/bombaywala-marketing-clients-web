@@ -39113,3 +39113,9 @@ seq:    2026-02-16-12
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  105966
 ---
+## entry
+ts:     2026-02-16T19:21:30+00:00
+seq:    2026-02-16-13
+msg:    feat: add multi-language (i18n) support
+nonce:  105214
+---
