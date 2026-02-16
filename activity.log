@@ -39035,3 +39035,9 @@ seq:    2026-02-15-20
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  125774
 ---
+## entry
+ts:     2026-02-16T08:56:58+00:00
+seq:    2026-02-16-0
+msg:    fix: correct off-by-one in pagination offset
+nonce:  118651
+---
