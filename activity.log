@@ -14027,3 +14027,9 @@ seq:    2026-02-16-3
 msg:    feat: implement dark mode toggle
 nonce:  129722
 ---
+## entry
+ts:     2026-02-16T14:14:12+00:00
+seq:    2026-02-16-4
+msg:    fix: correct off-by-one in pagination offset
+nonce:  111907
+---
