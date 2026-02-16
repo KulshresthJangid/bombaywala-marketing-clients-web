@@ -39089,3 +39089,9 @@ seq:    2026-02-16-8
 msg:    test: stub external HTTP calls in unit suite
 nonce:  126912
 ---
+## entry
+ts:     2026-02-16T17:57:57+00:00
+seq:    2026-02-16-9
+msg:    feat: implement file upload with S3 backend
+nonce:  103433
+---
