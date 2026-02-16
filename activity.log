@@ -39083,3 +39083,9 @@ seq:    2026-02-16-7
 msg:    test: raise coverage floor for payment module
 nonce:  114464
 ---
+## entry
+ts:     2026-02-16T17:46:32+00:00
+seq:    2026-02-16-8
+msg:    test: stub external HTTP calls in unit suite
+nonce:  126912
+---
