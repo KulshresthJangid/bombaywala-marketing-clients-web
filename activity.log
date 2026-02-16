@@ -14033,3 +14033,9 @@ seq:    2026-02-16-4
 msg:    fix: correct off-by-one in pagination offset
 nonce:  111907
 ---
+## entry
+ts:     2026-02-16T15:11:06+00:00
+seq:    2026-02-16-5
+msg:    refactor: consolidate duplicate validation logic
+nonce:  121993
+---
