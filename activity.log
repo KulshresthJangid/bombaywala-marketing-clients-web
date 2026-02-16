@@ -14045,3 +14045,9 @@ seq:    2026-02-16-6
 msg:    docs: add getting-started guide to README
 nonce:  110330
 ---
+## entry
+ts:     2026-02-16T15:47:19+00:00
+seq:    2026-02-16-7
+msg:    feat: add GraphQL subscription support
+nonce:  120245
+---
