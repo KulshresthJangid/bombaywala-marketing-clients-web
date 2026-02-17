@@ -14165,3 +14165,9 @@ seq:    2026-02-17-13
 msg:    test: add integration tests for /api/v2 routes
 nonce:  119544
 ---
+## entry
+ts:     2026-02-17T15:27:18+00:00
+seq:    2026-02-17-14
+msg:    test: stub external HTTP calls in unit suite
+nonce:  114497
+---
