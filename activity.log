@@ -14171,3 +14171,9 @@ seq:    2026-02-17-14
 msg:    test: stub external HTTP calls in unit suite
 nonce:  114497
 ---
+## entry
+ts:     2026-02-17T16:30:45+00:00
+seq:    2026-02-17-15
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  105291
+---
