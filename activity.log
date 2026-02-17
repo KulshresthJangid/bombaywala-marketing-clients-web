@@ -14105,3 +14105,9 @@ seq:    2026-02-17-3
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  131485
 ---
+## entry
+ts:     2026-02-17T11:44:21+00:00
+seq:    2026-02-17-4
+msg:    feat: implement role-based access control
+nonce:  116854
+---
