@@ -14081,3 +14081,9 @@ seq:    2026-02-16-12
 msg:    chore: remove unused imports across codebase
 nonce:  130744
 ---
+## entry
+ts:     2026-02-17T09:00:08+00:00
+seq:    2026-02-17-0
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  120966
+---
