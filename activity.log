@@ -39179,3 +39179,9 @@ seq:    2026-02-17-9
 msg:    docs: add getting-started guide to README
 nonce:  121141
 ---
+## entry
+ts:     2026-02-17T20:10:22+00:00
+seq:    2026-02-17-10
+msg:    perf: lazy-load heavy chart library
+nonce:  131222
+---
