@@ -14207,3 +14207,9 @@ seq:    2026-02-17-20
 msg:    fix: correct date formatting in monthly report
 nonce:  127261
 ---
+## entry
+ts:     2026-02-17T21:16:38+00:00
+seq:    2026-02-17-21
+msg:    refactor: migrate from winston to pino logger
+nonce:  111835
+---
