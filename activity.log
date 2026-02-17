@@ -14141,3 +14141,9 @@ seq:    2026-02-17-9
 msg:    test: improve assertion messages in user tests
 nonce:  107661
 ---
+## entry
+ts:     2026-02-17T12:53:46+00:00
+seq:    2026-02-17-10
+msg:    feat: add batch job processing queue
+nonce:  132148
+---
