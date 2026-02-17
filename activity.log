@@ -14123,3 +14123,9 @@ seq:    2026-02-17-6
 msg:    perf: trim unnecessary fields from list responses
 nonce:  122663
 ---
+## entry
+ts:     2026-02-17T12:27:44+00:00
+seq:    2026-02-17-7
+msg:    refactor: split God-service into focused modules
+nonce:  115653
+---
