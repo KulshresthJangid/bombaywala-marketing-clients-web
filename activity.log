@@ -39173,3 +39173,9 @@ seq:    2026-02-17-8
 msg:    feat: add multi-language (i18n) support
 nonce:  123734
 ---
+## entry
+ts:     2026-02-17T17:52:51+00:00
+seq:    2026-02-17-9
+msg:    docs: add getting-started guide to README
+nonce:  121141
+---
