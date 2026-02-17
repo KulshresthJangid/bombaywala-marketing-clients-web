@@ -39131,3 +39131,9 @@ seq:    2026-02-17-1
 msg:    fix: sanitize user input in search filter
 nonce:  104783
 ---
+## entry
+ts:     2026-02-17T09:26:33+00:00
+seq:    2026-02-17-2
+msg:    refactor: centralise API error-response factory
+nonce:  115537
+---
