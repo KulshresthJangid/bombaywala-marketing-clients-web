@@ -39119,3 +39119,9 @@ seq:    2026-02-16-13
 msg:    feat: add multi-language (i18n) support
 nonce:  105214
 ---
+## entry
+ts:     2026-02-17T08:15:20+00:00
+seq:    2026-02-17-0
+msg:    refactor: simplify connection pool configuration
+nonce:  118783
+---
