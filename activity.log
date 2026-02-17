@@ -14219,3 +14219,9 @@ seq:    2026-02-17-22
 msg:    feat: add batch job processing queue
 nonce:  104079
 ---
+## entry
+ts:     2026-02-17T22:59:37+00:00
+seq:    2026-02-17-23
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  100423
+---
