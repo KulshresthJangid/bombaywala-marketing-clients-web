@@ -14195,3 +14195,9 @@ seq:    2026-02-17-18
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  105557
 ---
+## entry
+ts:     2026-02-17T20:42:34+00:00
+seq:    2026-02-17-19
+msg:    feat: create immutable audit-log service
+nonce:  106431
+---
