@@ -14177,3 +14177,9 @@ seq:    2026-02-17-15
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  105291
 ---
+## entry
+ts:     2026-02-17T17:48:21+00:00
+seq:    2026-02-17-16
+msg:    test: add integration tests for /api/v2 routes
+nonce:  115151
+---
