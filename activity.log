@@ -14243,3 +14243,9 @@ seq:    2026-02-18-2
 msg:    refactor: consolidate duplicate validation logic
 nonce:  119086
 ---
+## entry
+ts:     2026-02-18T09:55:02+00:00
+seq:    2026-02-18-3
+msg:    feat: add Stripe subscription billing
+nonce:  113845
+---
