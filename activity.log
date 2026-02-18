@@ -39311,3 +39311,9 @@ seq:    2026-02-18-19
 msg:    feat: scaffold onboarding wizard UI
 nonce:  101105
 ---
+## entry
+ts:     2026-02-18T21:04:16+00:00
+seq:    2026-02-18-20
+msg:    refactor: extract auth guard into shared middleware
+nonce:  123813
+---
