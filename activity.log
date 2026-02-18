@@ -39257,3 +39257,9 @@ seq:    2026-02-18-10
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  132028
 ---
+## entry
+ts:     2026-02-18T11:58:03+00:00
+seq:    2026-02-18-11
+msg:    docs: add architecture decision record for caching
+nonce:  101544
+---
