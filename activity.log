@@ -39281,3 +39281,9 @@ seq:    2026-02-18-14
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  115757
 ---
+## entry
+ts:     2026-02-18T15:56:25+00:00
+seq:    2026-02-18-15
+msg:    fix: correct off-by-one in pagination offset
+nonce:  126131
+---
