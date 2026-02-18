@@ -39203,3 +39203,9 @@ seq:    2026-02-18-1
 msg:    chore: apply prettier to all source files
 nonce:  113456
 ---
+## entry
+ts:     2026-02-18T09:46:18+00:00
+seq:    2026-02-18-2
+msg:    refactor: remove dead code from utils barrel
+nonce:  109903
+---
