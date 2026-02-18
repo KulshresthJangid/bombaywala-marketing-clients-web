@@ -39269,3 +39269,9 @@ seq:    2026-02-18-12
 msg:    test: add edge-case tests for input validators
 nonce:  104147
 ---
+## entry
+ts:     2026-02-18T13:03:56+00:00
+seq:    2026-02-18-13
+msg:    perf: parallelise image-resize pipeline
+nonce:  103732
+---
