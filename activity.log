@@ -14261,3 +14261,9 @@ seq:    2026-02-18-5
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  119399
 ---
+## entry
+ts:     2026-02-18T11:30:05+00:00
+seq:    2026-02-18-6
+msg:    refactor: centralise API error-response factory
+nonce:  103365
+---
