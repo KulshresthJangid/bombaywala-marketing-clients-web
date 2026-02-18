@@ -14231,3 +14231,9 @@ seq:    2026-02-18-0
 msg:    chore: remove unused imports across codebase
 nonce:  113652
 ---
+## entry
+ts:     2026-02-18T09:03:11+00:00
+seq:    2026-02-18-1
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  112697
+---
