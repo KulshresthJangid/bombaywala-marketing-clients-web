@@ -39287,3 +39287,9 @@ seq:    2026-02-18-15
 msg:    fix: correct off-by-one in pagination offset
 nonce:  126131
 ---
+## entry
+ts:     2026-02-18T17:37:05+00:00
+seq:    2026-02-18-16
+msg:    docs: add JSDoc to all public utility functions
+nonce:  118871
+---
