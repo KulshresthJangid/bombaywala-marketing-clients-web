@@ -14303,3 +14303,9 @@ seq:    2026-02-18-12
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  104560
 ---
+## entry
+ts:     2026-02-18T15:56:23+00:00
+seq:    2026-02-18-13
+msg:    docs: add getting-started guide to README
+nonce:  105612
+---
