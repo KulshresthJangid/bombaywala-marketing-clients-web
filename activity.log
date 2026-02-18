@@ -39227,3 +39227,9 @@ seq:    2026-02-18-5
 msg:    fix: resolve CORS rejection on preflight
 nonce:  129246
 ---
+## entry
+ts:     2026-02-18T10:38:45+00:00
+seq:    2026-02-18-6
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  120791
+---
