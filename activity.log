@@ -39317,3 +39317,9 @@ seq:    2026-02-18-20
 msg:    refactor: extract auth guard into shared middleware
 nonce:  123813
 ---
+## entry
+ts:     2026-02-18T21:40:29+00:00
+seq:    2026-02-18-21
+msg:    feat: add export-to-CSV functionality
+nonce:  128744
+---
