@@ -14297,3 +14297,9 @@ seq:    2026-02-18-11
 msg:    fix: correct off-by-one in pagination offset
 nonce:  120039
 ---
+## entry
+ts:     2026-02-18T15:34:47+00:00
+seq:    2026-02-18-12
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  104560
+---
