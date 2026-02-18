@@ -39221,3 +39221,9 @@ seq:    2026-02-18-4
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  128548
 ---
+## entry
+ts:     2026-02-18T10:36:30+00:00
+seq:    2026-02-18-5
+msg:    fix: resolve CORS rejection on preflight
+nonce:  129246
+---
