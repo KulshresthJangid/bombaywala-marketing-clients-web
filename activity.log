@@ -39215,3 +39215,9 @@ seq:    2026-02-18-3
 msg:    perf: trim unnecessary fields from list responses
 nonce:  123170
 ---
+## entry
+ts:     2026-02-18T10:22:46+00:00
+seq:    2026-02-18-4
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  128548
+---
