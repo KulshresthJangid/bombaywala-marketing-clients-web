@@ -14411,3 +14411,9 @@ seq:    2026-02-19-14
 msg:    feat: implement dashboard analytics
 nonce:  114138
 ---
+## entry
+ts:     2026-02-19T15:08:35+00:00
+seq:    2026-02-19-15
+msg:    fix: sanitize user input in search filter
+nonce:  127067
+---
