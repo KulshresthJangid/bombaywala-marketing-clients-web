@@ -14399,3 +14399,9 @@ seq:    2026-02-19-12
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  130279
 ---
+## entry
+ts:     2026-02-19T13:49:45+00:00
+seq:    2026-02-19-13
+msg:    test: add k6 load-test script for checkout flow
+nonce:  119130
+---
