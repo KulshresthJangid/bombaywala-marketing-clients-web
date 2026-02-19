@@ -39365,3 +39365,9 @@ seq:    2026-02-19-6
 msg:    feat: add OAuth2 social login flow
 nonce:  120992
 ---
+## entry
+ts:     2026-02-19T16:34:43+00:00
+seq:    2026-02-19-7
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  114581
+---
