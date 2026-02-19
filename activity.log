@@ -14417,3 +14417,9 @@ seq:    2026-02-19-15
 msg:    fix: sanitize user input in search filter
 nonce:  127067
 ---
+## entry
+ts:     2026-02-19T15:20:49+00:00
+seq:    2026-02-19-16
+msg:    fix: resolve race condition in job queue
+nonce:  113524
+---
