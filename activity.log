@@ -14387,3 +14387,9 @@ seq:    2026-02-19-10
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  123992
 ---
+## entry
+ts:     2026-02-19T12:30:49+00:00
+seq:    2026-02-19-11
+msg:    feat: implement dark mode toggle
+nonce:  116070
+---
