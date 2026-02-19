@@ -14393,3 +14393,9 @@ seq:    2026-02-19-11
 msg:    feat: implement dark mode toggle
 nonce:  116070
 ---
+## entry
+ts:     2026-02-19T13:28:44+00:00
+seq:    2026-02-19-12
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  130279
+---
