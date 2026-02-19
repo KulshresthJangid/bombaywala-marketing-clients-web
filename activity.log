@@ -39359,3 +39359,9 @@ seq:    2026-02-19-5
 msg:    chore: remove unused imports across codebase
 nonce:  131554
 ---
+## entry
+ts:     2026-02-19T15:39:29+00:00
+seq:    2026-02-19-6
+msg:    feat: add OAuth2 social login flow
+nonce:  120992
+---
