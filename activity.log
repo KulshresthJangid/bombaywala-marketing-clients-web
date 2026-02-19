@@ -14333,3 +14333,9 @@ seq:    2026-02-19-1
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  101523
 ---
+## entry
+ts:     2026-02-19T08:59:32+00:00
+seq:    2026-02-19-2
+msg:    perf: enable gzip compression on API responses
+nonce:  115718
+---
