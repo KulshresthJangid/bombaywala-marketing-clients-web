@@ -14453,3 +14453,9 @@ seq:    2026-02-19-21
 msg:    test: add integration tests for /api/v2 routes
 nonce:  102041
 ---
+## entry
+ts:     2026-02-19T20:53:46+00:00
+seq:    2026-02-19-22
+msg:    test: add snapshot tests for report generator
+nonce:  113606
+---
