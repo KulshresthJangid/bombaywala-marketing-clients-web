@@ -14381,3 +14381,9 @@ seq:    2026-02-19-9
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  129562
 ---
+## entry
+ts:     2026-02-19T11:44:22+00:00
+seq:    2026-02-19-10
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  123992
+---
