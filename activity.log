@@ -39347,3 +39347,9 @@ seq:    2026-02-19-3
 msg:    docs: add getting-started guide to README
 nonce:  111012
 ---
+## entry
+ts:     2026-02-19T13:29:20+00:00
+seq:    2026-02-19-4
+msg:    refactor: remove dead code from utils barrel
+nonce:  102973
+---
