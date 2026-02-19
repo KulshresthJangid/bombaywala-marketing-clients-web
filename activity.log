@@ -14441,3 +14441,9 @@ seq:    2026-02-19-19
 msg:    refactor: remove dead code from utils barrel
 nonce:  101739
 ---
+## entry
+ts:     2026-02-19T17:07:51+00:00
+seq:    2026-02-19-20
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  121266
+---
