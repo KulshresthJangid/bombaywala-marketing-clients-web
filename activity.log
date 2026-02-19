@@ -39341,3 +39341,9 @@ seq:    2026-02-19-2
 msg:    feat: add user authentication module
 nonce:  101600
 ---
+## entry
+ts:     2026-02-19T13:15:25+00:00
+seq:    2026-02-19-3
+msg:    docs: add getting-started guide to README
+nonce:  111012
+---
