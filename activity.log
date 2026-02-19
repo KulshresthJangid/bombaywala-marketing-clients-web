@@ -39353,3 +39353,9 @@ seq:    2026-02-19-4
 msg:    refactor: remove dead code from utils barrel
 nonce:  102973
 ---
+## entry
+ts:     2026-02-19T15:15:59+00:00
+seq:    2026-02-19-5
+msg:    chore: remove unused imports across codebase
+nonce:  131554
+---
