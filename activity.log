@@ -39401,3 +39401,9 @@ seq:    2026-02-20-2
 msg:    docs: add getting-started guide to README
 nonce:  111768
 ---
+## entry
+ts:     2026-02-20T14:56:08+00:00
+seq:    2026-02-20-3
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  128304
+---
