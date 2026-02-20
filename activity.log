@@ -39395,3 +39395,9 @@ seq:    2026-02-20-1
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  100251
 ---
+## entry
+ts:     2026-02-20T14:17:53+00:00
+seq:    2026-02-20-2
+msg:    docs: add getting-started guide to README
+nonce:  111768
+---
