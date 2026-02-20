@@ -39467,3 +39467,9 @@ seq:    2026-02-20-13
 msg:    feat: integrate payment gateway
 nonce:  128973
 ---
+## entry
+ts:     2026-02-20T21:04:11+00:00
+seq:    2026-02-20-14
+msg:    test: improve assertion messages in user tests
+nonce:  121917
+---
