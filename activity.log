@@ -39443,3 +39443,9 @@ seq:    2026-02-20-9
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  102888
 ---
+## entry
+ts:     2026-02-20T18:37:07+00:00
+seq:    2026-02-20-10
+msg:    test: add snapshot tests for report generator
+nonce:  113994
+---
