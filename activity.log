@@ -39437,3 +39437,9 @@ seq:    2026-02-20-8
 msg:    fix: patch reflected-XSS in comment field
 nonce:  127827
 ---
+## entry
+ts:     2026-02-20T18:28:02+00:00
+seq:    2026-02-20-9
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  102888
+---
