@@ -39461,3 +39461,9 @@ seq:    2026-02-20-12
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  107161
 ---
+## entry
+ts:     2026-02-20T20:14:47+00:00
+seq:    2026-02-20-13
+msg:    feat: integrate payment gateway
+nonce:  128973
+---
