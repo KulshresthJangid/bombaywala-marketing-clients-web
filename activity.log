@@ -39455,3 +39455,9 @@ seq:    2026-02-20-11
 msg:    fix: resolve null pointer in user service
 nonce:  102097
 ---
+## entry
+ts:     2026-02-20T19:11:09+00:00
+seq:    2026-02-20-12
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  107161
+---
