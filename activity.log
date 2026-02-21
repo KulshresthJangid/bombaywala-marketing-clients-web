@@ -39575,3 +39575,9 @@ seq:    2026-02-21-16
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  118501
 ---
+## entry
+ts:     2026-02-21T17:51:53+00:00
+seq:    2026-02-21-17
+msg:    docs: document required environment variables
+nonce:  118148
+---
