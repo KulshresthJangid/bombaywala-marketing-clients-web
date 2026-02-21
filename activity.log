@@ -39527,3 +39527,9 @@ seq:    2026-02-21-8
 msg:    test: stub external HTTP calls in unit suite
 nonce:  132339
 ---
+## entry
+ts:     2026-02-21T14:16:17+00:00
+seq:    2026-02-21-9
+msg:    perf: lazy-load heavy chart library
+nonce:  106631
+---
