@@ -14507,3 +14507,9 @@ seq:    2026-02-21-7
 msg:    perf: lazy-load heavy chart library
 nonce:  125605
 ---
+## entry
+ts:     2026-02-21T15:53:17+00:00
+seq:    2026-02-21-8
+msg:    refactor: remove dead code from utils barrel
+nonce:  111309
+---
