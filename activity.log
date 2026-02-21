@@ -14465,3 +14465,9 @@ seq:    2026-02-21-0
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  116825
 ---
+## entry
+ts:     2026-02-21T10:32:41+00:00
+seq:    2026-02-21-1
+msg:    fix: resolve CORS rejection on preflight
+nonce:  104359
+---
