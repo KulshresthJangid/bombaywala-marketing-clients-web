@@ -39479,3 +39479,9 @@ seq:    2026-02-21-0
 msg:    docs: update CHANGELOG for next release
 nonce:  102629
 ---
+## entry
+ts:     2026-02-21T09:35:21+00:00
+seq:    2026-02-21-1
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  107847
+---
