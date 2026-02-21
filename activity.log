@@ -39497,3 +39497,9 @@ seq:    2026-02-21-3
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  114759
 ---
+## entry
+ts:     2026-02-21T11:31:48+00:00
+seq:    2026-02-21-4
+msg:    docs: add architecture decision record for caching
+nonce:  127976
+---
