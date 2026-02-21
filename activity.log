@@ -39473,3 +39473,9 @@ seq:    2026-02-20-14
 msg:    test: improve assertion messages in user tests
 nonce:  121917
 ---
+## entry
+ts:     2026-02-21T08:47:40+00:00
+seq:    2026-02-21-0
+msg:    docs: update CHANGELOG for next release
+nonce:  102629
+---
