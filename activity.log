@@ -39515,3 +39515,9 @@ seq:    2026-02-21-6
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  128927
 ---
+## entry
+ts:     2026-02-21T13:40:50+00:00
+seq:    2026-02-21-7
+msg:    test: improve assertion messages in user tests
+nonce:  113748
+---
