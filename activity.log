@@ -14513,3 +14513,9 @@ seq:    2026-02-21-8
 msg:    refactor: remove dead code from utils barrel
 nonce:  111309
 ---
+## entry
+ts:     2026-02-21T15:58:22+00:00
+seq:    2026-02-21-9
+msg:    fix: resolve null pointer in user service
+nonce:  119418
+---
