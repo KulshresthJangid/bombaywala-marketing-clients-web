@@ -14495,3 +14495,9 @@ seq:    2026-02-21-5
 msg:    test: add edge-case tests for input validators
 nonce:  110039
 ---
+## entry
+ts:     2026-02-21T13:39:12+00:00
+seq:    2026-02-21-6
+msg:    test: improve assertion messages in user tests
+nonce:  119388
+---
