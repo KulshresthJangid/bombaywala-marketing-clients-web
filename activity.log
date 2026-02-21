@@ -39557,3 +39557,9 @@ seq:    2026-02-21-13
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  115430
 ---
+## entry
+ts:     2026-02-21T16:40:17+00:00
+seq:    2026-02-21-14
+msg:    fix: patch reflected-XSS in comment field
+nonce:  109347
+---
