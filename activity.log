@@ -39581,3 +39581,9 @@ seq:    2026-02-21-17
 msg:    docs: document required environment variables
 nonce:  118148
 ---
+## entry
+ts:     2026-02-21T18:32:09+00:00
+seq:    2026-02-21-18
+msg:    feat: implement file upload with S3 backend
+nonce:  118592
+---
