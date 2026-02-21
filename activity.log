@@ -39569,3 +39569,9 @@ seq:    2026-02-21-15
 msg:    test: add integration tests for /api/v2 routes
 nonce:  115247
 ---
+## entry
+ts:     2026-02-21T17:32:00+00:00
+seq:    2026-02-21-16
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  118501
+---
