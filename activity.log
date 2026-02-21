@@ -39563,3 +39563,9 @@ seq:    2026-02-21-14
 msg:    fix: patch reflected-XSS in comment field
 nonce:  109347
 ---
+## entry
+ts:     2026-02-21T17:25:29+00:00
+seq:    2026-02-21-15
+msg:    test: add integration tests for /api/v2 routes
+nonce:  115247
+---
