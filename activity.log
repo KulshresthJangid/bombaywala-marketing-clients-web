@@ -14543,3 +14543,9 @@ seq:    2026-02-23-2
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  125962
 ---
+## entry
+ts:     2026-02-23T13:18:39+00:00
+seq:    2026-02-23-3
+msg:    test: add edge-case tests for input validators
+nonce:  113687
+---
