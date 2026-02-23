@@ -14597,3 +14597,9 @@ seq:    2026-02-23-11
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  110677
 ---
+## entry
+ts:     2026-02-23T15:46:23+00:00
+seq:    2026-02-23-12
+msg:    test: raise coverage floor for payment module
+nonce:  117161
+---
