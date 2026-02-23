@@ -14603,3 +14603,9 @@ seq:    2026-02-23-12
 msg:    test: raise coverage floor for payment module
 nonce:  117161
 ---
+## entry
+ts:     2026-02-23T16:23:14+00:00
+seq:    2026-02-23-13
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  113909
+---
