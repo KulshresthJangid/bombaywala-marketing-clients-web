@@ -14609,3 +14609,9 @@ seq:    2026-02-23-13
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  113909
 ---
+## entry
+ts:     2026-02-23T17:47:04+00:00
+seq:    2026-02-23-14
+msg:    fix: patch reflected-XSS in comment field
+nonce:  109922
+---
