@@ -14567,3 +14567,9 @@ seq:    2026-02-23-6
 msg:    chore: remove unused imports across codebase
 nonce:  103275
 ---
+## entry
+ts:     2026-02-23T14:19:13+00:00
+seq:    2026-02-23-7
+msg:    chore: rotate copyright year in license header
+nonce:  119610
+---
