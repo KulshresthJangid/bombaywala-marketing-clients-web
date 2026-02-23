@@ -39635,3 +39635,9 @@ seq:    2026-02-23-6
 msg:    test: add k6 load-test script for checkout flow
 nonce:  105468
 ---
+## entry
+ts:     2026-02-23T13:24:00+00:00
+seq:    2026-02-23-7
+msg:    fix: resolve CORS rejection on preflight
+nonce:  122210
+---
