@@ -39689,3 +39689,9 @@ seq:    2026-02-23-15
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  109635
 ---
+## entry
+ts:     2026-02-23T17:39:10+00:00
+seq:    2026-02-23-16
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  110912
+---
