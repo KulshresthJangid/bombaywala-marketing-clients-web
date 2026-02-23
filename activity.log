@@ -14573,3 +14573,9 @@ seq:    2026-02-23-7
 msg:    chore: rotate copyright year in license header
 nonce:  119610
 ---
+## entry
+ts:     2026-02-23T14:26:25+00:00
+seq:    2026-02-23-8
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  126068
+---
