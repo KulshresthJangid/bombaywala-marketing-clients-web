@@ -39599,3 +39599,9 @@ seq:    2026-02-23-0
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  122260
 ---
+## entry
+ts:     2026-02-23T10:45:33+00:00
+seq:    2026-02-23-1
+msg:    test: stub external HTTP calls in unit suite
+nonce:  100669
+---
