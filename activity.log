@@ -39653,3 +39653,9 @@ seq:    2026-02-23-9
 msg:    docs: add JSDoc to all public utility functions
 nonce:  104842
 ---
+## entry
+ts:     2026-02-23T15:38:57+00:00
+seq:    2026-02-23-10
+msg:    test: add edge-case tests for input validators
+nonce:  117004
+---
