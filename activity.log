@@ -39617,3 +39617,9 @@ seq:    2026-02-23-3
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  105248
 ---
+## entry
+ts:     2026-02-23T11:38:11+00:00
+seq:    2026-02-23-4
+msg:    test: add snapshot tests for report generator
+nonce:  117966
+---
