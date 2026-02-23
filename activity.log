@@ -14591,3 +14591,9 @@ seq:    2026-02-23-10
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  103465
 ---
+## entry
+ts:     2026-02-23T15:23:42+00:00
+seq:    2026-02-23-11
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  110677
+---
