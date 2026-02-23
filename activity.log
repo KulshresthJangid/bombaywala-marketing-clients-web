@@ -39659,3 +39659,9 @@ seq:    2026-02-23-10
 msg:    test: add edge-case tests for input validators
 nonce:  117004
 ---
+## entry
+ts:     2026-02-23T15:45:05+00:00
+seq:    2026-02-23-11
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  116151
+---
