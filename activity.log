@@ -14645,3 +14645,9 @@ seq:    2026-02-23-19
 msg:    chore: remove unused imports across codebase
 nonce:  118231
 ---
+## entry
+ts:     2026-02-23T22:56:08+00:00
+seq:    2026-02-23-20
+msg:    feat: create outbound webhook dispatcher
+nonce:  104878
+---
