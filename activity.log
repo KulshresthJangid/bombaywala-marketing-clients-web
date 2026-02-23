@@ -14579,3 +14579,9 @@ seq:    2026-02-23-8
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  126068
 ---
+## entry
+ts:     2026-02-23T15:05:37+00:00
+seq:    2026-02-23-9
+msg:    refactor: centralise API error-response factory
+nonce:  107790
+---
