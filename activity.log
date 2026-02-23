@@ -14531,3 +14531,9 @@ seq:    2026-02-23-0
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  107266
 ---
+## entry
+ts:     2026-02-23T11:33:46+00:00
+seq:    2026-02-23-1
+msg:    perf: memoize expensive permission-check results
+nonce:  118034
+---
