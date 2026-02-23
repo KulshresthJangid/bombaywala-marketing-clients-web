@@ -14555,3 +14555,9 @@ seq:    2026-02-23-4
 msg:    feat: add email-verification flow
 nonce:  107833
 ---
+## entry
+ts:     2026-02-23T14:04:55+00:00
+seq:    2026-02-23-5
+msg:    feat: add batch job processing queue
+nonce:  113608
+---
