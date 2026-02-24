@@ -39827,3 +39827,9 @@ seq:    2026-02-24-16
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  100970
 ---
+## entry
+ts:     2026-02-24T20:37:25+00:00
+seq:    2026-02-24-17
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  105718
+---
