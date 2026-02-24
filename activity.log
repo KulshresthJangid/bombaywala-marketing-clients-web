@@ -39809,3 +39809,9 @@ seq:    2026-02-24-13
 msg:    fix: resolve CORS rejection on preflight
 nonce:  131623
 ---
+## entry
+ts:     2026-02-24T17:42:19+00:00
+seq:    2026-02-24-14
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  100170
+---
