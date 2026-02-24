@@ -39767,3 +39767,9 @@ seq:    2026-02-24-6
 msg:    chore: apply prettier to all source files
 nonce:  132097
 ---
+## entry
+ts:     2026-02-24T12:46:53+00:00
+seq:    2026-02-24-7
+msg:    chore: reorganise src/ folder structure
+nonce:  116639
+---
