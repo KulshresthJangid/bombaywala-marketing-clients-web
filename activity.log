@@ -39749,3 +39749,9 @@ seq:    2026-02-24-3
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  122716
 ---
+## entry
+ts:     2026-02-24T11:55:33+00:00
+seq:    2026-02-24-4
+msg:    feat: create immutable audit-log service
+nonce:  103238
+---
