@@ -39815,3 +39815,9 @@ seq:    2026-02-24-14
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  100170
 ---
+## entry
+ts:     2026-02-24T18:29:35+00:00
+seq:    2026-02-24-15
+msg:    feat: add email-verification flow
+nonce:  132264
+---
