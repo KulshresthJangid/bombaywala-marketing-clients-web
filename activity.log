@@ -39821,3 +39821,9 @@ seq:    2026-02-24-15
 msg:    feat: add email-verification flow
 nonce:  132264
 ---
+## entry
+ts:     2026-02-24T20:14:00+00:00
+seq:    2026-02-24-16
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  100970
+---
