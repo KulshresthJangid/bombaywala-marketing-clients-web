@@ -39743,3 +39743,9 @@ seq:    2026-02-24-2
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  105682
 ---
+## entry
+ts:     2026-02-24T11:16:12+00:00
+seq:    2026-02-24-3
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  122716
+---
