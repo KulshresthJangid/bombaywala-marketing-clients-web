@@ -39947,3 +39947,9 @@ seq:    2026-02-25-16
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  114678
 ---
+## entry
+ts:     2026-02-25T20:23:11+00:00
+seq:    2026-02-25-17
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  110792
+---
