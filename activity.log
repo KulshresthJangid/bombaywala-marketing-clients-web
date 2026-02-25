@@ -14729,3 +14729,9 @@ seq:    2026-02-25-12
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  105434
 ---
+## entry
+ts:     2026-02-25T20:01:34+00:00
+seq:    2026-02-25-13
+msg:    refactor: extract auth guard into shared middleware
+nonce:  105049
+---
