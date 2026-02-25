@@ -14663,3 +14663,9 @@ seq:    2026-02-25-1
 msg:    feat: implement dark mode toggle
 nonce:  127672
 ---
+## entry
+ts:     2026-02-25T10:59:06+00:00
+seq:    2026-02-25-2
+msg:    test: add k6 load-test script for checkout flow
+nonce:  104748
+---
