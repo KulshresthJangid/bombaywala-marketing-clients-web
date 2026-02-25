@@ -14705,3 +14705,9 @@ seq:    2026-02-25-8
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  103552
 ---
+## entry
+ts:     2026-02-25T16:06:27+00:00
+seq:    2026-02-25-9
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  104725
+---
