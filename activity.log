@@ -14681,3 +14681,9 @@ seq:    2026-02-25-4
 msg:    fix: resolve CORS rejection on preflight
 nonce:  130794
 ---
+## entry
+ts:     2026-02-25T12:54:14+00:00
+seq:    2026-02-25-5
+msg:    perf: trim unnecessary fields from list responses
+nonce:  115494
+---
