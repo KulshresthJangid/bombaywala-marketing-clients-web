@@ -14651,3 +14651,9 @@ seq:    2026-02-23-20
 msg:    feat: create outbound webhook dispatcher
 nonce:  104878
 ---
+## entry
+ts:     2026-02-25T09:45:41+00:00
+seq:    2026-02-25-0
+msg:    feat: add GraphQL subscription support
+nonce:  121780
+---
