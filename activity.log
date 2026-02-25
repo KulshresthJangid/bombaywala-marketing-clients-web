@@ -14711,3 +14711,9 @@ seq:    2026-02-25-9
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  104725
 ---
+## entry
+ts:     2026-02-25T16:17:25+00:00
+seq:    2026-02-25-10
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  132666
+---
