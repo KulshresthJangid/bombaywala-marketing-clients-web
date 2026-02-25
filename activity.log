@@ -14699,3 +14699,9 @@ seq:    2026-02-25-7
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  100796
 ---
+## entry
+ts:     2026-02-25T15:22:36+00:00
+seq:    2026-02-25-8
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  103552
+---
