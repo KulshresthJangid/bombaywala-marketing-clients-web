@@ -39941,3 +39941,9 @@ seq:    2026-02-25-15
 msg:    fix: correct date formatting in monthly report
 nonce:  114100
 ---
+## entry
+ts:     2026-02-25T18:58:17+00:00
+seq:    2026-02-25-16
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  114678
+---
