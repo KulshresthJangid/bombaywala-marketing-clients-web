@@ -39983,3 +39983,9 @@ seq:    2026-02-26-1
 msg:    test: add snapshot tests for report generator
 nonce:  121183
 ---
+## entry
+ts:     2026-02-26T10:36:10+00:00
+seq:    2026-02-26-2
+msg:    fix: patch reflected-XSS in comment field
+nonce:  109742
+---
