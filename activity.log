@@ -40085,3 +40085,9 @@ seq:    2026-02-26-18
 msg:    feat: implement dark mode toggle
 nonce:  122917
 ---
+## entry
+ts:     2026-02-26T18:57:47+00:00
+seq:    2026-02-26-19
+msg:    chore: pin transitive dependency versions
+nonce:  113516
+---
