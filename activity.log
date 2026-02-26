@@ -39989,3 +39989,9 @@ seq:    2026-02-26-2
 msg:    fix: patch reflected-XSS in comment field
 nonce:  109742
 ---
+## entry
+ts:     2026-02-26T10:43:18+00:00
+seq:    2026-02-26-3
+msg:    fix: resolve race condition in job queue
+nonce:  126823
+---
