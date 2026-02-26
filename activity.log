@@ -14849,3 +14849,9 @@ seq:    2026-02-26-17
 msg:    test: improve assertion messages in user tests
 nonce:  127585
 ---
+## entry
+ts:     2026-02-26T16:15:07+00:00
+seq:    2026-02-26-18
+msg:    fix: resolve race condition in job queue
+nonce:  126087
+---
