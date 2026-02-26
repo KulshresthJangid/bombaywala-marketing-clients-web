@@ -14783,3 +14783,9 @@ seq:    2026-02-26-6
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  122318
 ---
+## entry
+ts:     2026-02-26T11:53:50+00:00
+seq:    2026-02-26-7
+msg:    test: add snapshot tests for report generator
+nonce:  112859
+---
