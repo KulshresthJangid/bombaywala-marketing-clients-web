@@ -40001,3 +40001,9 @@ seq:    2026-02-26-4
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  109693
 ---
+## entry
+ts:     2026-02-26T12:38:36+00:00
+seq:    2026-02-26-5
+msg:    fix: resolve null pointer in user service
+nonce:  124249
+---
