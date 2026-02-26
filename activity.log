@@ -40103,3 +40103,9 @@ seq:    2026-02-26-21
 msg:    fix: sanitize user input in search filter
 nonce:  120364
 ---
+## entry
+ts:     2026-02-26T21:35:52+00:00
+seq:    2026-02-26-22
+msg:    fix: correct date formatting in monthly report
+nonce:  109169
+---
