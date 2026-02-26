@@ -14759,3 +14759,9 @@ seq:    2026-02-26-2
 msg:    chore: apply prettier to all source files
 nonce:  109838
 ---
+## entry
+ts:     2026-02-26T11:10:18+00:00
+seq:    2026-02-26-3
+msg:    feat: implement role-based access control
+nonce:  132506
+---
