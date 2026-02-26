@@ -40061,3 +40061,9 @@ seq:    2026-02-26-14
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  120125
 ---
+## entry
+ts:     2026-02-26T17:41:00+00:00
+seq:    2026-02-26-15
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  127277
+---
