@@ -40043,3 +40043,9 @@ seq:    2026-02-26-11
 msg:    refactor: extract auth guard into shared middleware
 nonce:  110951
 ---
+## entry
+ts:     2026-02-26T16:09:00+00:00
+seq:    2026-02-26-12
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  128297
+---
