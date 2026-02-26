@@ -14741,3 +14741,9 @@ seq:    2026-02-25-14
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  114549
 ---
+## entry
+ts:     2026-02-26T08:09:05+00:00
+seq:    2026-02-26-0
+msg:    feat: create outbound webhook dispatcher
+nonce:  104529
+---
