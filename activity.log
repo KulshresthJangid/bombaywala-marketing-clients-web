@@ -40031,3 +40031,9 @@ seq:    2026-02-26-9
 msg:    fix: resolve race condition in job queue
 nonce:  131506
 ---
+## entry
+ts:     2026-02-26T15:15:01+00:00
+seq:    2026-02-26-10
+msg:    test: add edge-case tests for input validators
+nonce:  121058
+---
