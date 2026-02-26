@@ -14855,3 +14855,9 @@ seq:    2026-02-26-18
 msg:    fix: resolve race condition in job queue
 nonce:  126087
 ---
+## entry
+ts:     2026-02-26T16:42:46+00:00
+seq:    2026-02-26-19
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  124486
+---
