@@ -40013,3 +40013,9 @@ seq:    2026-02-26-6
 msg:    test: add k6 load-test script for checkout flow
 nonce:  119905
 ---
+## entry
+ts:     2026-02-26T13:20:58+00:00
+seq:    2026-02-26-7
+msg:    refactor: centralise API error-response factory
+nonce:  111403
+---
