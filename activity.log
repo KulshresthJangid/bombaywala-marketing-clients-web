@@ -14753,3 +14753,9 @@ seq:    2026-02-26-1
 msg:    fix: fix stale JWT after password reset
 nonce:  120102
 ---
+## entry
+ts:     2026-02-26T11:02:27+00:00
+seq:    2026-02-26-2
+msg:    chore: apply prettier to all source files
+nonce:  109838
+---
