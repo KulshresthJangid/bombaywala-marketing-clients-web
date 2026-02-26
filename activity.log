@@ -39995,3 +39995,9 @@ seq:    2026-02-26-3
 msg:    fix: resolve race condition in job queue
 nonce:  126823
 ---
+## entry
+ts:     2026-02-26T11:58:17+00:00
+seq:    2026-02-26-4
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  109693
+---
