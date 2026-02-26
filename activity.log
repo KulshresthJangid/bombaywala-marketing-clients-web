@@ -40055,3 +40055,9 @@ seq:    2026-02-26-13
 msg:    test: add unit tests for AuthService
 nonce:  100275
 ---
+## entry
+ts:     2026-02-26T17:23:56+00:00
+seq:    2026-02-26-14
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  120125
+---
