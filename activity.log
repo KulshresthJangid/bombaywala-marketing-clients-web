@@ -14915,3 +14915,9 @@ seq:    2026-02-27-6
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  120325
 ---
+## entry
+ts:     2026-02-27T15:02:58+00:00
+seq:    2026-02-27-7
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  113137
+---
