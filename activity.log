@@ -14879,3 +14879,9 @@ seq:    2026-02-27-0
 msg:    feat: add GraphQL subscription support
 nonce:  113065
 ---
+## entry
+ts:     2026-02-27T09:25:49+00:00
+seq:    2026-02-27-1
+msg:    feat: add export-to-CSV functionality
+nonce:  125721
+---
