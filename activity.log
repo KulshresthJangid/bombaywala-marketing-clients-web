@@ -14909,3 +14909,9 @@ seq:    2026-02-27-5
 msg:    feat: create admin panel route group
 nonce:  101370
 ---
+## entry
+ts:     2026-02-27T14:06:04+00:00
+seq:    2026-02-27-6
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  120325
+---
