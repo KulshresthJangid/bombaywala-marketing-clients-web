@@ -14957,3 +14957,9 @@ seq:    2026-02-27-13
 msg:    test: add unit tests for AuthService
 nonce:  101795
 ---
+## entry
+ts:     2026-02-27T20:32:32+00:00
+seq:    2026-02-27-14
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  105195
+---
