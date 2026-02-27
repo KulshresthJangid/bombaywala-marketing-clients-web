@@ -14945,3 +14945,9 @@ seq:    2026-02-27-11
 msg:    feat: add batch job processing queue
 nonce:  123129
 ---
+## entry
+ts:     2026-02-27T19:34:34+00:00
+seq:    2026-02-27-12
+msg:    feat: add Stripe subscription billing
+nonce:  120574
+---
