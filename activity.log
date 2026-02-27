@@ -14873,3 +14873,9 @@ seq:    2026-02-26-21
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  104316
 ---
+## entry
+ts:     2026-02-27T09:09:52+00:00
+seq:    2026-02-27-0
+msg:    feat: add GraphQL subscription support
+nonce:  113065
+---
