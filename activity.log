@@ -40127,3 +40127,9 @@ seq:    2026-03-01-2
 msg:    perf: enable gzip compression on API responses
 nonce:  128324
 ---
+## entry
+ts:     2026-03-01T12:49:44+00:00
+seq:    2026-03-01-3
+msg:    fix: correct off-by-one in pagination offset
+nonce:  118715
+---
