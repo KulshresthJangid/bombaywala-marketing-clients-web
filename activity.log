@@ -40121,3 +40121,9 @@ seq:    2026-03-01-1
 msg:    perf: trim unnecessary fields from list responses
 nonce:  100384
 ---
+## entry
+ts:     2026-03-01T11:08:33+00:00
+seq:    2026-03-01-2
+msg:    perf: enable gzip compression on API responses
+nonce:  128324
+---
