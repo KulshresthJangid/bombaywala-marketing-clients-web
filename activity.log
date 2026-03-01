@@ -15005,3 +15005,9 @@ seq:    2026-03-01-5
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  128030
 ---
+## entry
+ts:     2026-03-01T12:35:22+00:00
+seq:    2026-03-01-6
+msg:    feat: implement two-factor authentication
+nonce:  108961
+---
