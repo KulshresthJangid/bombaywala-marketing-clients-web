@@ -14987,3 +14987,9 @@ seq:    2026-03-01-2
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  131008
 ---
+## entry
+ts:     2026-03-01T09:47:45+00:00
+seq:    2026-03-01-3
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  102631
+---
