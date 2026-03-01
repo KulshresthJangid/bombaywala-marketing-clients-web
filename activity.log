@@ -40115,3 +40115,9 @@ seq:    2026-03-01-0
 msg:    perf: trim unnecessary fields from list responses
 nonce:  113395
 ---
+## entry
+ts:     2026-03-01T10:56:31+00:00
+seq:    2026-03-01-1
+msg:    perf: trim unnecessary fields from list responses
+nonce:  100384
+---
