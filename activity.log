@@ -40205,3 +40205,9 @@ seq:    2026-03-01-15
 msg:    docs: add architecture decision record for caching
 nonce:  112014
 ---
+## entry
+ts:     2026-03-01T22:41:06+00:00
+seq:    2026-03-01-16
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  103522
+---
