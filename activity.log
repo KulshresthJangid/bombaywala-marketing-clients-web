@@ -14969,3 +14969,9 @@ seq:    2026-02-27-15
 msg:    chore: reorganise src/ folder structure
 nonce:  100946
 ---
+## entry
+ts:     2026-03-01T08:37:15+00:00
+seq:    2026-03-01-0
+msg:    refactor: extract auth guard into shared middleware
+nonce:  105226
+---
