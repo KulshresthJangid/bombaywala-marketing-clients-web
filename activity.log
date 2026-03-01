@@ -40133,3 +40133,9 @@ seq:    2026-03-01-3
 msg:    fix: correct off-by-one in pagination offset
 nonce:  118715
 ---
+## entry
+ts:     2026-03-01T13:11:21+00:00
+seq:    2026-03-01-4
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  128197
+---
