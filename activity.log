@@ -40181,3 +40181,9 @@ seq:    2026-03-01-11
 msg:    feat: implement role-based access control
 nonce:  104827
 ---
+## entry
+ts:     2026-03-01T16:07:46+00:00
+seq:    2026-03-01-12
+msg:    fix: resolve CORS rejection on preflight
+nonce:  123644
+---
