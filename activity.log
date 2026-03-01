@@ -14999,3 +14999,9 @@ seq:    2026-03-01-4
 msg:    refactor: extract auth guard into shared middleware
 nonce:  100418
 ---
+## entry
+ts:     2026-03-01T10:32:58+00:00
+seq:    2026-03-01-5
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  128030
+---
