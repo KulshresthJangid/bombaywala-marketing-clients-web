@@ -40301,3 +40301,9 @@ seq:    2026-03-02-14
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  109970
 ---
+## entry
+ts:     2026-03-02T16:27:02+00:00
+seq:    2026-03-02-15
+msg:    feat: implement dark mode toggle
+nonce:  130121
+---
