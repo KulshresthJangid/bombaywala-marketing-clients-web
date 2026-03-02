@@ -40253,3 +40253,9 @@ seq:    2026-03-02-6
 msg:    test: add edge-case tests for input validators
 nonce:  105371
 ---
+## entry
+ts:     2026-03-02T14:20:20+00:00
+seq:    2026-03-02-7
+msg:    feat: add email-verification flow
+nonce:  104079
+---
