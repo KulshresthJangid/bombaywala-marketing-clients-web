@@ -40295,3 +40295,9 @@ seq:    2026-03-02-13
 msg:    refactor: split God-service into focused modules
 nonce:  110343
 ---
+## entry
+ts:     2026-03-02T16:19:19+00:00
+seq:    2026-03-02-14
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  109970
+---
