@@ -40259,3 +40259,9 @@ seq:    2026-03-02-7
 msg:    feat: add email-verification flow
 nonce:  104079
 ---
+## entry
+ts:     2026-03-02T14:21:00+00:00
+seq:    2026-03-02-8
+msg:    chore: reorganise src/ folder structure
+nonce:  104912
+---
