@@ -40265,3 +40265,9 @@ seq:    2026-03-02-8
 msg:    chore: reorganise src/ folder structure
 nonce:  104912
 ---
+## entry
+ts:     2026-03-02T14:25:16+00:00
+seq:    2026-03-02-9
+msg:    test: add k6 load-test script for checkout flow
+nonce:  106644
+---
