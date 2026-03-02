@@ -40337,3 +40337,9 @@ seq:    2026-03-02-20
 msg:    feat: implement dark mode toggle
 nonce:  131396
 ---
+## entry
+ts:     2026-03-02T21:33:56+00:00
+seq:    2026-03-02-21
+msg:    perf: parallelise image-resize pipeline
+nonce:  129336
+---
