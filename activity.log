@@ -40271,3 +40271,9 @@ seq:    2026-03-02-9
 msg:    test: add k6 load-test script for checkout flow
 nonce:  106644
 ---
+## entry
+ts:     2026-03-02T15:10:10+00:00
+seq:    2026-03-02-10
+msg:    refactor: migrate from winston to pino logger
+nonce:  119481
+---
