@@ -40367,3 +40367,9 @@ seq:    2026-03-03-2
 msg:    perf: trim unnecessary fields from list responses
 nonce:  132520
 ---
+## entry
+ts:     2026-03-03T12:04:10+00:00
+seq:    2026-03-03-3
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  102054
+---
