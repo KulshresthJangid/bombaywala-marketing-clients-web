@@ -40361,3 +40361,9 @@ seq:    2026-03-03-1
 msg:    fix: resolve race condition in job queue
 nonce:  113749
 ---
+## entry
+ts:     2026-03-03T12:01:31+00:00
+seq:    2026-03-03-2
+msg:    perf: trim unnecessary fields from list responses
+nonce:  132520
+---
