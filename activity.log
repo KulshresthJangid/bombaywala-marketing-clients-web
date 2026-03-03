@@ -40373,3 +40373,9 @@ seq:    2026-03-03-3
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  102054
 ---
+## entry
+ts:     2026-03-03T12:18:50+00:00
+seq:    2026-03-03-4
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  110007
+---
