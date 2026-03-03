@@ -40403,3 +40403,9 @@ seq:    2026-03-03-8
 msg:    fix: resolve null pointer in user service
 nonce:  124444
 ---
+## entry
+ts:     2026-03-03T14:29:16+00:00
+seq:    2026-03-03-9
+msg:    perf: parallelise image-resize pipeline
+nonce:  107084
+---
