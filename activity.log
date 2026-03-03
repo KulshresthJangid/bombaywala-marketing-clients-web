@@ -40415,3 +40415,9 @@ seq:    2026-03-03-10
 msg:    fix: sanitize user input in search filter
 nonce:  120366
 ---
+## entry
+ts:     2026-03-03T15:53:42+00:00
+seq:    2026-03-03-11
+msg:    fix: resolve race condition in job queue
+nonce:  122316
+---
