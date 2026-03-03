@@ -40349,3 +40349,9 @@ seq:    2026-03-02-22
 msg:    chore: reorganise src/ folder structure
 nonce:  120466
 ---
+## entry
+ts:     2026-03-03T10:18:53+00:00
+seq:    2026-03-03-0
+msg:    docs: add JSDoc to all public utility functions
+nonce:  124546
+---
