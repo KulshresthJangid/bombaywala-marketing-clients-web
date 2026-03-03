@@ -40409,3 +40409,9 @@ seq:    2026-03-03-9
 msg:    perf: parallelise image-resize pipeline
 nonce:  107084
 ---
+## entry
+ts:     2026-03-03T15:30:10+00:00
+seq:    2026-03-03-10
+msg:    fix: sanitize user input in search filter
+nonce:  120366
+---
