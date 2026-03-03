@@ -40355,3 +40355,9 @@ seq:    2026-03-03-0
 msg:    docs: add JSDoc to all public utility functions
 nonce:  124546
 ---
+## entry
+ts:     2026-03-03T11:09:22+00:00
+seq:    2026-03-03-1
+msg:    fix: resolve race condition in job queue
+nonce:  113749
+---
