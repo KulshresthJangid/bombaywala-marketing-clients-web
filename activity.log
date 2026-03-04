@@ -15185,3 +15185,9 @@ seq:    2026-03-04-15
 msg:    feat: add multi-language (i18n) support
 nonce:  108546
 ---
+## entry
+ts:     2026-03-04T18:09:18+00:00
+seq:    2026-03-04-16
+msg:    perf: parallelise image-resize pipeline
+nonce:  103567
+---
