@@ -15137,3 +15137,9 @@ seq:    2026-03-04-7
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  114026
 ---
+## entry
+ts:     2026-03-04T15:02:46+00:00
+seq:    2026-03-04-8
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  123154
+---
