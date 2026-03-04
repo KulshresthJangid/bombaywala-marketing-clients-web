@@ -15119,3 +15119,9 @@ seq:    2026-03-04-4
 msg:    feat: add cursor-based pagination
 nonce:  101198
 ---
+## entry
+ts:     2026-03-04T13:20:06+00:00
+seq:    2026-03-04-5
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  129508
+---
