@@ -15095,3 +15095,9 @@ seq:    2026-03-04-0
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  107562
 ---
+## entry
+ts:     2026-03-04T10:43:22+00:00
+seq:    2026-03-04-1
+msg:    refactor: migrate from winston to pino logger
+nonce:  130960
+---
