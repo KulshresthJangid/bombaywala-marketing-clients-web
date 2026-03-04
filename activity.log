@@ -15197,3 +15197,9 @@ seq:    2026-03-04-17
 msg:    refactor: split God-service into focused modules
 nonce:  132696
 ---
+## entry
+ts:     2026-03-04T22:37:49+00:00
+seq:    2026-03-04-18
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  132430
+---
