@@ -15209,3 +15209,9 @@ seq:    2026-03-05-0
 msg:    test: add unit tests for AuthService
 nonce:  127485
 ---
+## entry
+ts:     2026-03-05T10:26:27+00:00
+seq:    2026-03-05-1
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  116606
+---
