@@ -15251,3 +15251,9 @@ seq:    2026-03-05-7
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  106312
 ---
+## entry
+ts:     2026-03-05T13:20:10+00:00
+seq:    2026-03-05-8
+msg:    refactor: move magic strings to constants module
+nonce:  124513
+---
