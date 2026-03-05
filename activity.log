@@ -15239,3 +15239,9 @@ seq:    2026-03-05-5
 msg:    feat: add batch job processing queue
 nonce:  127764
 ---
+## entry
+ts:     2026-03-05T12:15:00+00:00
+seq:    2026-03-05-6
+msg:    perf: parallelise image-resize pipeline
+nonce:  122535
+---
