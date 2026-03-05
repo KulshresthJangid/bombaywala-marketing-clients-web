@@ -15215,3 +15215,9 @@ seq:    2026-03-05-1
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  116606
 ---
+## entry
+ts:     2026-03-05T11:10:21+00:00
+seq:    2026-03-05-2
+msg:    feat: implement full-text search with filters
+nonce:  124039
+---
