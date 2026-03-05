@@ -15269,3 +15269,9 @@ seq:    2026-03-05-10
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  125575
 ---
+## entry
+ts:     2026-03-05T14:39:55+00:00
+seq:    2026-03-05-11
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  127781
+---
