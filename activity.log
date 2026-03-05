@@ -15299,3 +15299,9 @@ seq:    2026-03-05-15
 msg:    test: stub external HTTP calls in unit suite
 nonce:  108555
 ---
+## entry
+ts:     2026-03-05T22:44:30+00:00
+seq:    2026-03-05-16
+msg:    docs: update CHANGELOG for next release
+nonce:  108799
+---
