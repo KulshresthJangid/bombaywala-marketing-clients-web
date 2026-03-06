@@ -15371,3 +15371,9 @@ seq:    2026-03-06-8
 msg:    test: raise coverage floor for payment module
 nonce:  122384
 ---
+## entry
+ts:     2026-03-06T15:41:18+00:00
+seq:    2026-03-06-9
+msg:    fix: handle empty state on dashboard load
+nonce:  118626
+---
