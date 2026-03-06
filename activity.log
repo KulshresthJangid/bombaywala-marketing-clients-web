@@ -15353,3 +15353,9 @@ seq:    2026-03-06-5
 msg:    test: add snapshot tests for report generator
 nonce:  132707
 ---
+## entry
+ts:     2026-03-06T14:50:51+00:00
+seq:    2026-03-06-6
+msg:    test: add edge-case tests for input validators
+nonce:  105745
+---
