@@ -15317,3 +15317,9 @@ seq:    2026-03-05-18
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  127700
 ---
+## entry
+ts:     2026-03-06T08:11:42+00:00
+seq:    2026-03-06-0
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  105896
+---
