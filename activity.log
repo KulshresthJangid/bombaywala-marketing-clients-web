@@ -15407,3 +15407,9 @@ seq:    2026-03-06-14
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  126913
 ---
+## entry
+ts:     2026-03-06T19:48:44+00:00
+seq:    2026-03-06-15
+msg:    fix: patch reflected-XSS in comment field
+nonce:  100636
+---
