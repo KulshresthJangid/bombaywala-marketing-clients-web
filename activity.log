@@ -40511,3 +40511,9 @@ seq:    2026-03-06-10
 msg:    refactor: centralise API error-response factory
 nonce:  116749
 ---
+## entry
+ts:     2026-03-06T16:02:49+00:00
+seq:    2026-03-06-11
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  115984
+---
