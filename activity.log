@@ -40535,3 +40535,9 @@ seq:    2026-03-06-14
 msg:    feat: implement full-text search with filters
 nonce:  116273
 ---
+## entry
+ts:     2026-03-06T17:57:21+00:00
+seq:    2026-03-06-15
+msg:    feat: add export-to-CSV functionality
+nonce:  111379
+---
