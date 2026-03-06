@@ -15401,3 +15401,9 @@ seq:    2026-03-06-13
 msg:    chore: pin transitive dependency versions
 nonce:  111370
 ---
+## entry
+ts:     2026-03-06T17:44:56+00:00
+seq:    2026-03-06-14
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  126913
+---
