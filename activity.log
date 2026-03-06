@@ -15359,3 +15359,9 @@ seq:    2026-03-06-6
 msg:    test: add edge-case tests for input validators
 nonce:  105745
 ---
+## entry
+ts:     2026-03-06T14:57:10+00:00
+seq:    2026-03-06-7
+msg:    refactor: consolidate duplicate validation logic
+nonce:  125965
+---
