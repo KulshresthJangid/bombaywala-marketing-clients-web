@@ -15341,3 +15341,9 @@ seq:    2026-03-06-3
 msg:    feat: create outbound webhook dispatcher
 nonce:  110279
 ---
+## entry
+ts:     2026-03-06T12:40:54+00:00
+seq:    2026-03-06-4
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  131504
+---
