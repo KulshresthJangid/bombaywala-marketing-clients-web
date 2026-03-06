@@ -40481,3 +40481,9 @@ seq:    2026-03-06-5
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  108819
 ---
+## entry
+ts:     2026-03-06T11:19:07+00:00
+seq:    2026-03-06-6
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  124565
+---
