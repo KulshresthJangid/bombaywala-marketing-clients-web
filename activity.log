@@ -40571,3 +40571,9 @@ seq:    2026-03-07-0
 msg:    fix: patch reflected-XSS in comment field
 nonce:  125729
 ---
+## entry
+ts:     2026-03-07T10:01:54+00:00
+seq:    2026-03-07-1
+msg:    feat: add rate-limiting middleware
+nonce:  128329
+---
