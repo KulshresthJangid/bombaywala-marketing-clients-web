@@ -40631,3 +40631,9 @@ seq:    2026-03-07-10
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  128272
 ---
+## entry
+ts:     2026-03-07T17:29:04+00:00
+seq:    2026-03-07-11
+msg:    docs: add architecture decision record for caching
+nonce:  123677
+---
