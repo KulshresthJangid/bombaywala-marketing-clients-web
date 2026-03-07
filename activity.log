@@ -40589,3 +40589,9 @@ seq:    2026-03-07-3
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  132088
 ---
+## entry
+ts:     2026-03-07T11:25:46+00:00
+seq:    2026-03-07-4
+msg:    fix: handle empty state on dashboard load
+nonce:  115339
+---
