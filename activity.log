@@ -40595,3 +40595,9 @@ seq:    2026-03-07-4
 msg:    fix: handle empty state on dashboard load
 nonce:  115339
 ---
+## entry
+ts:     2026-03-07T12:02:36+00:00
+seq:    2026-03-07-5
+msg:    test: add k6 load-test script for checkout flow
+nonce:  124580
+---
