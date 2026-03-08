@@ -15521,3 +15521,9 @@ seq:    2026-03-08-14
 msg:    test: stub external HTTP calls in unit suite
 nonce:  115298
 ---
+## entry
+ts:     2026-03-08T17:30:15+00:00
+seq:    2026-03-08-15
+msg:    feat: implement role-based access control
+nonce:  130674
+---
