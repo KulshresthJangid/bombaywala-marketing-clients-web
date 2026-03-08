@@ -15497,3 +15497,9 @@ seq:    2026-03-08-10
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  114540
 ---
+## entry
+ts:     2026-03-08T14:38:46+00:00
+seq:    2026-03-08-11
+msg:    docs: update CHANGELOG for next release
+nonce:  124608
+---
