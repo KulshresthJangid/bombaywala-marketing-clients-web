@@ -15437,3 +15437,9 @@ seq:    2026-03-08-0
 msg:    docs: add architecture decision record for caching
 nonce:  131429
 ---
+## entry
+ts:     2026-03-08T09:40:32+00:00
+seq:    2026-03-08-1
+msg:    feat: implement file upload with S3 backend
+nonce:  108377
+---
