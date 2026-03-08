@@ -15533,3 +15533,9 @@ seq:    2026-03-08-16
 msg:    perf: lazy-load heavy chart library
 nonce:  127186
 ---
+## entry
+ts:     2026-03-08T22:04:40+00:00
+seq:    2026-03-08-17
+msg:    feat: add export-to-CSV functionality
+nonce:  116585
+---
