@@ -15527,3 +15527,9 @@ seq:    2026-03-08-15
 msg:    feat: implement role-based access control
 nonce:  130674
 ---
+## entry
+ts:     2026-03-08T17:31:47+00:00
+seq:    2026-03-08-16
+msg:    perf: lazy-load heavy chart library
+nonce:  127186
+---
