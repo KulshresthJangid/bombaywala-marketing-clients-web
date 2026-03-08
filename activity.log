@@ -15431,3 +15431,9 @@ seq:    2026-03-06-18
 msg:    fix: patch reflected-XSS in comment field
 nonce:  100196
 ---
+## entry
+ts:     2026-03-08T09:03:41+00:00
+seq:    2026-03-08-0
+msg:    docs: add architecture decision record for caching
+nonce:  131429
+---
