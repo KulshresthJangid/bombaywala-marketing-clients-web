@@ -15557,3 +15557,9 @@ seq:    2026-03-09-1
 msg:    docs: add getting-started guide to README
 nonce:  120622
 ---
+## entry
+ts:     2026-03-09T10:08:05+00:00
+seq:    2026-03-09-2
+msg:    fix: correct date formatting in monthly report
+nonce:  125873
+---
