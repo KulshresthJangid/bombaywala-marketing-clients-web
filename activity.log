@@ -15647,3 +15647,9 @@ seq:    2026-03-09-16
 msg:    chore: rotate copyright year in license header
 nonce:  111097
 ---
+## entry
+ts:     2026-03-09T17:08:03+00:00
+seq:    2026-03-09-17
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  110335
+---
