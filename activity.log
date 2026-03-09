@@ -15617,3 +15617,9 @@ seq:    2026-03-09-11
 msg:    chore: remove unused imports across codebase
 nonce:  132064
 ---
+## entry
+ts:     2026-03-09T14:18:50+00:00
+seq:    2026-03-09-12
+msg:    fix: patch reflected-XSS in comment field
+nonce:  112578
+---
