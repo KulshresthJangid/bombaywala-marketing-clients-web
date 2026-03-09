@@ -15569,3 +15569,9 @@ seq:    2026-03-09-3
 msg:    feat: add export-to-CSV functionality
 nonce:  120799
 ---
+## entry
+ts:     2026-03-09T11:07:02+00:00
+seq:    2026-03-09-4
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  129114
+---
