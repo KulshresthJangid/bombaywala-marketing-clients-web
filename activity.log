@@ -15659,3 +15659,9 @@ seq:    2026-03-09-18
 msg:    perf: trim unnecessary fields from list responses
 nonce:  110866
 ---
+## entry
+ts:     2026-03-09T19:56:03+00:00
+seq:    2026-03-09-19
+msg:    fix: sanitize user input in search filter
+nonce:  131249
+---
