@@ -15719,3 +15719,9 @@ seq:    2026-03-10-5
 msg:    fix: correct date formatting in monthly report
 nonce:  100236
 ---
+## entry
+ts:     2026-03-10T12:48:56+00:00
+seq:    2026-03-10-6
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  109950
+---
