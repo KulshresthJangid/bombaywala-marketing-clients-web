@@ -40775,3 +40775,9 @@ seq:    2026-03-10-19
 msg:    chore: apply prettier to all source files
 nonce:  119764
 ---
+## entry
+ts:     2026-03-10T16:41:15+00:00
+seq:    2026-03-10-20
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  116165
+---
