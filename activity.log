@@ -40655,3 +40655,9 @@ seq:    2026-03-07-14
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  108768
 ---
+## entry
+ts:     2026-03-10T09:08:23+00:00
+seq:    2026-03-10-0
+msg:    test: add integration tests for /api/v2 routes
+nonce:  105810
+---
