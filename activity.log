@@ -15689,3 +15689,9 @@ seq:    2026-03-10-0
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  132508
 ---
+## entry
+ts:     2026-03-10T10:33:15+00:00
+seq:    2026-03-10-1
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  124125
+---
