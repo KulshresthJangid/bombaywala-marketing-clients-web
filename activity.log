@@ -15695,3 +15695,9 @@ seq:    2026-03-10-1
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  124125
 ---
+## entry
+ts:     2026-03-10T11:25:18+00:00
+seq:    2026-03-10-2
+msg:    fix: resolve CORS rejection on preflight
+nonce:  113464
+---
