@@ -15743,3 +15743,9 @@ seq:    2026-03-10-9
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  128398
 ---
+## entry
+ts:     2026-03-10T14:47:53+00:00
+seq:    2026-03-10-10
+msg:    refactor: remove dead code from utils barrel
+nonce:  102682
+---
