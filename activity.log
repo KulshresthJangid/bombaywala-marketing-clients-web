@@ -15749,3 +15749,9 @@ seq:    2026-03-10-10
 msg:    refactor: remove dead code from utils barrel
 nonce:  102682
 ---
+## entry
+ts:     2026-03-10T16:25:38+00:00
+seq:    2026-03-10-11
+msg:    fix: patch reflected-XSS in comment field
+nonce:  126385
+---
