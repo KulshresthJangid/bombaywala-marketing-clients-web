@@ -40739,3 +40739,9 @@ seq:    2026-03-10-13
 msg:    refactor: replace callback hell with async/await
 nonce:  106362
 ---
+## entry
+ts:     2026-03-10T14:42:10+00:00
+seq:    2026-03-10-14
+msg:    feat: add email-verification flow
+nonce:  115661
+---
