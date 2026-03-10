@@ -40787,3 +40787,9 @@ seq:    2026-03-10-21
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  105211
 ---
+## entry
+ts:     2026-03-10T20:17:05+00:00
+seq:    2026-03-10-22
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  132730
+---
