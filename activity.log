@@ -15725,3 +15725,9 @@ seq:    2026-03-10-6
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  109950
 ---
+## entry
+ts:     2026-03-10T14:12:09+00:00
+seq:    2026-03-10-7
+msg:    refactor: remove dead code from utils barrel
+nonce:  111338
+---
