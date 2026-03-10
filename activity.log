@@ -40703,3 +40703,9 @@ seq:    2026-03-10-7
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  119455
 ---
+## entry
+ts:     2026-03-10T12:04:24+00:00
+seq:    2026-03-10-8
+msg:    fix: handle empty state on dashboard load
+nonce:  124080
+---
