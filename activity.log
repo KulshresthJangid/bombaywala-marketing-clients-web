@@ -40859,3 +40859,9 @@ seq:    2026-03-11-9
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  109570
 ---
+## entry
+ts:     2026-03-11T21:55:00+00:00
+seq:    2026-03-11-10
+msg:    perf: parallelise image-resize pipeline
+nonce:  110549
+---
