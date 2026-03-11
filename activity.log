@@ -15833,3 +15833,9 @@ seq:    2026-03-11-10
 msg:    fix: handle empty state on dashboard load
 nonce:  108661
 ---
+## entry
+ts:     2026-03-11T21:34:19+00:00
+seq:    2026-03-11-11
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  111754
+---
