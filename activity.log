@@ -40799,3 +40799,9 @@ seq:    2026-03-10-23
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  128345
 ---
+## entry
+ts:     2026-03-11T08:09:24+00:00
+seq:    2026-03-11-0
+msg:    fix: fix stale JWT after password reset
+nonce:  124258
+---
