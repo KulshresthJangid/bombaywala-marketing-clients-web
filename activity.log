@@ -15779,3 +15779,9 @@ seq:    2026-03-11-1
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  112208
 ---
+## entry
+ts:     2026-03-11T11:07:40+00:00
+seq:    2026-03-11-2
+msg:    fix: resolve race condition in job queue
+nonce:  118032
+---
