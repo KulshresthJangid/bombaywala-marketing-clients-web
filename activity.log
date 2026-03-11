@@ -15767,3 +15767,9 @@ seq:    2026-03-10-13
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  103439
 ---
+## entry
+ts:     2026-03-11T09:58:24+00:00
+seq:    2026-03-11-0
+msg:    refactor: move magic strings to constants module
+nonce:  119686
+---
