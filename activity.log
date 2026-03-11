@@ -40823,3 +40823,9 @@ seq:    2026-03-11-3
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  100621
 ---
+## entry
+ts:     2026-03-11T10:59:29+00:00
+seq:    2026-03-11-4
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  119040
+---
