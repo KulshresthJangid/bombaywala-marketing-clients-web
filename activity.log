@@ -15803,3 +15803,9 @@ seq:    2026-03-11-5
 msg:    feat: add multi-language (i18n) support
 nonce:  111995
 ---
+## entry
+ts:     2026-03-11T13:48:32+00:00
+seq:    2026-03-11-6
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  121586
+---
