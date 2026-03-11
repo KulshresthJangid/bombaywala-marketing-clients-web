@@ -40829,3 +40829,9 @@ seq:    2026-03-11-4
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  119040
 ---
+## entry
+ts:     2026-03-11T11:39:26+00:00
+seq:    2026-03-11-5
+msg:    fix: fix stale JWT after password reset
+nonce:  122752
+---
