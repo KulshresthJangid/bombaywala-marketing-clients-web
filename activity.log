@@ -15809,3 +15809,9 @@ seq:    2026-03-11-6
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  121586
 ---
+## entry
+ts:     2026-03-11T14:01:37+00:00
+seq:    2026-03-11-7
+msg:    test: add edge-case tests for input validators
+nonce:  132601
+---
