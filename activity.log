@@ -15797,3 +15797,9 @@ seq:    2026-03-11-4
 msg:    test: add unit tests for AuthService
 nonce:  111345
 ---
+## entry
+ts:     2026-03-11T13:24:16+00:00
+seq:    2026-03-11-5
+msg:    feat: add multi-language (i18n) support
+nonce:  111995
+---
