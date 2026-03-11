@@ -40853,3 +40853,9 @@ seq:    2026-03-11-8
 msg:    chore: rotate copyright year in license header
 nonce:  126249
 ---
+## entry
+ts:     2026-03-11T17:22:36+00:00
+seq:    2026-03-11-9
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  109570
+---
