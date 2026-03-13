@@ -40901,3 +40901,9 @@ seq:    2026-03-13-4
 msg:    feat: add multi-language (i18n) support
 nonce:  105916
 ---
+## entry
+ts:     2026-03-13T11:34:15+00:00
+seq:    2026-03-13-5
+msg:    fix: correct date formatting in monthly report
+nonce:  115929
+---
