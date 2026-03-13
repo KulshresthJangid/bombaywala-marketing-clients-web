@@ -15905,3 +15905,9 @@ seq:    2026-03-13-9
 msg:    docs: add architecture decision record for caching
 nonce:  123314
 ---
+## entry
+ts:     2026-03-13T15:07:48+00:00
+seq:    2026-03-13-10
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  111306
+---
