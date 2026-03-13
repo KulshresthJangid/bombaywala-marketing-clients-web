@@ -40919,3 +40919,9 @@ seq:    2026-03-13-7
 msg:    fix: correct off-by-one in pagination offset
 nonce:  117298
 ---
+## entry
+ts:     2026-03-13T12:02:28+00:00
+seq:    2026-03-13-8
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  120467
+---
