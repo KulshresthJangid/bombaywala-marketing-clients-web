@@ -15917,3 +15917,9 @@ seq:    2026-03-13-11
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  101895
 ---
+## entry
+ts:     2026-03-13T15:51:31+00:00
+seq:    2026-03-13-12
+msg:    refactor: migrate from winston to pino logger
+nonce:  127336
+---
