@@ -40961,3 +40961,9 @@ seq:    2026-03-13-14
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  101849
 ---
+## entry
+ts:     2026-03-13T17:00:23+00:00
+seq:    2026-03-13-15
+msg:    refactor: centralise API error-response factory
+nonce:  122201
+---
