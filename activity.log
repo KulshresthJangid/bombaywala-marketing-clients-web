@@ -40985,3 +40985,9 @@ seq:    2026-03-13-18
 msg:    fix: patch reflected-XSS in comment field
 nonce:  101786
 ---
+## entry
+ts:     2026-03-13T18:38:21+00:00
+seq:    2026-03-13-19
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  113696
+---
