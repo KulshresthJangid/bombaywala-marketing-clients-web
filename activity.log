@@ -40931,3 +40931,9 @@ seq:    2026-03-13-9
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  104000
 ---
+## entry
+ts:     2026-03-13T13:48:38+00:00
+seq:    2026-03-13-10
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  110032
+---
