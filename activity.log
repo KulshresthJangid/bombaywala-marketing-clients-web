@@ -40991,3 +40991,9 @@ seq:    2026-03-13-19
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  113696
 ---
+## entry
+ts:     2026-03-13T20:13:50+00:00
+seq:    2026-03-13-20
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  117629
+---
