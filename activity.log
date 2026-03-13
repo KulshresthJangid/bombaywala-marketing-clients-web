@@ -40937,3 +40937,9 @@ seq:    2026-03-13-10
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  110032
 ---
+## entry
+ts:     2026-03-13T14:49:58+00:00
+seq:    2026-03-13-11
+msg:    test: stub external HTTP calls in unit suite
+nonce:  105965
+---
