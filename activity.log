@@ -15875,3 +15875,9 @@ seq:    2026-03-13-4
 msg:    chore: remove unused imports across codebase
 nonce:  119576
 ---
+## entry
+ts:     2026-03-13T11:22:54+00:00
+seq:    2026-03-13-5
+msg:    test: add snapshot tests for report generator
+nonce:  125670
+---
