@@ -40949,3 +40949,9 @@ seq:    2026-03-13-12
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  124274
 ---
+## entry
+ts:     2026-03-13T15:44:00+00:00
+seq:    2026-03-13-13
+msg:    feat: implement file upload with S3 backend
+nonce:  103564
+---
