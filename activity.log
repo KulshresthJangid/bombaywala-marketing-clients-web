@@ -40895,3 +40895,9 @@ seq:    2026-03-13-3
 msg:    test: improve assertion messages in user tests
 nonce:  123434
 ---
+## entry
+ts:     2026-03-13T11:18:28+00:00
+seq:    2026-03-13-4
+msg:    feat: add multi-language (i18n) support
+nonce:  105916
+---
