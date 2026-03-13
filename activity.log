@@ -15869,3 +15869,9 @@ seq:    2026-03-13-3
 msg:    feat: implement dark mode toggle
 nonce:  122459
 ---
+## entry
+ts:     2026-03-13T11:21:33+00:00
+seq:    2026-03-13-4
+msg:    chore: remove unused imports across codebase
+nonce:  119576
+---
