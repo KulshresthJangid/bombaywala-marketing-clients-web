@@ -40907,3 +40907,9 @@ seq:    2026-03-13-5
 msg:    fix: correct date formatting in monthly report
 nonce:  115929
 ---
+## entry
+ts:     2026-03-13T11:41:27+00:00
+seq:    2026-03-13-6
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  113220
+---
