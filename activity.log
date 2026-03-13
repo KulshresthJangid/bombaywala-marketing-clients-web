@@ -15941,3 +15941,9 @@ seq:    2026-03-13-15
 msg:    perf: memoize expensive permission-check results
 nonce:  131998
 ---
+## entry
+ts:     2026-03-13T21:13:43+00:00
+seq:    2026-03-13-16
+msg:    refactor: remove dead code from utils barrel
+nonce:  126971
+---
