@@ -41063,3 +41063,9 @@ seq:    2026-03-15-10
 msg:    fix: sanitize user input in search filter
 nonce:  129246
 ---
+## entry
+ts:     2026-03-15T21:39:11+00:00
+seq:    2026-03-15-11
+msg:    refactor: simplify connection pool configuration
+nonce:  119043
+---
