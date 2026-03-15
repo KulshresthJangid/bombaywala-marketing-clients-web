@@ -41003,3 +41003,9 @@ seq:    2026-03-15-0
 msg:    feat: integrate payment gateway
 nonce:  114625
 ---
+## entry
+ts:     2026-03-15T12:52:22+00:00
+seq:    2026-03-15-1
+msg:    feat: add email-verification flow
+nonce:  105469
+---
