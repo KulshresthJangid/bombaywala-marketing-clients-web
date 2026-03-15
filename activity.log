@@ -41057,3 +41057,9 @@ seq:    2026-03-15-9
 msg:    feat: add batch job processing queue
 nonce:  114155
 ---
+## entry
+ts:     2026-03-15T19:56:01+00:00
+seq:    2026-03-15-10
+msg:    fix: sanitize user input in search filter
+nonce:  129246
+---
