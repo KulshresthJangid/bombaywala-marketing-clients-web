@@ -41015,3 +41015,9 @@ seq:    2026-03-15-2
 msg:    feat: implement full-text search with filters
 nonce:  100796
 ---
+## entry
+ts:     2026-03-15T15:09:43+00:00
+seq:    2026-03-15-3
+msg:    test: raise coverage floor for payment module
+nonce:  115595
+---
