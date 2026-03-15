@@ -41039,3 +41039,9 @@ seq:    2026-03-15-6
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  123520
 ---
+## entry
+ts:     2026-03-15T17:24:24+00:00
+seq:    2026-03-15-7
+msg:    feat: add OAuth2 social login flow
+nonce:  128917
+---
