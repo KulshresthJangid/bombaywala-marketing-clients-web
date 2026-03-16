@@ -16079,3 +16079,9 @@ seq:    2026-03-16-21
 msg:    perf: memoize expensive permission-check results
 nonce:  129022
 ---
+## entry
+ts:     2026-03-16T22:14:56+00:00
+seq:    2026-03-16-22
+msg:    feat: add cursor-based pagination
+nonce:  130728
+---
