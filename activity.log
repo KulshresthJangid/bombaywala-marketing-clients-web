@@ -16001,3 +16001,9 @@ seq:    2026-03-16-8
 msg:    test: improve assertion messages in user tests
 nonce:  102235
 ---
+## entry
+ts:     2026-03-16T12:27:03+00:00
+seq:    2026-03-16-9
+msg:    fix: resolve CORS rejection on preflight
+nonce:  123412
+---
