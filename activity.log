@@ -16043,3 +16043,9 @@ seq:    2026-03-16-15
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  122560
 ---
+## entry
+ts:     2026-03-16T15:52:34+00:00
+seq:    2026-03-16-16
+msg:    perf: lazy-load heavy chart library
+nonce:  131286
+---
