@@ -15971,3 +15971,9 @@ seq:    2026-03-16-3
 msg:    feat: implement role-based access control
 nonce:  132286
 ---
+## entry
+ts:     2026-03-16T10:55:55+00:00
+seq:    2026-03-16-4
+msg:    fix: resolve null pointer in user service
+nonce:  116069
+---
