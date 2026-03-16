@@ -16019,3 +16019,9 @@ seq:    2026-03-16-11
 msg:    feat: add OAuth2 social login flow
 nonce:  102329
 ---
+## entry
+ts:     2026-03-16T14:22:56+00:00
+seq:    2026-03-16-12
+msg:    refactor: replace callback hell with async/await
+nonce:  115195
+---
