@@ -15989,3 +15989,9 @@ seq:    2026-03-16-6
 msg:    perf: enable gzip compression on API responses
 nonce:  130659
 ---
+## entry
+ts:     2026-03-16T11:43:12+00:00
+seq:    2026-03-16-7
+msg:    docs: add architecture decision record for caching
+nonce:  131391
+---
