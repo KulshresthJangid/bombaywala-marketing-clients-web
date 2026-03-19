@@ -16091,3 +16091,9 @@ seq:    2026-03-19-0
 msg:    fix: correct off-by-one in pagination offset
 nonce:  123572
 ---
+## entry
+ts:     2026-03-19T10:48:53+00:00
+seq:    2026-03-19-1
+msg:    refactor: split God-service into focused modules
+nonce:  101297
+---
