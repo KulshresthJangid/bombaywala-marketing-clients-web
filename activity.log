@@ -41171,3 +41171,9 @@ seq:    2026-03-19-14
 msg:    test: add snapshot tests for report generator
 nonce:  126652
 ---
+## entry
+ts:     2026-03-19T18:27:08+00:00
+seq:    2026-03-19-15
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  125241
+---
