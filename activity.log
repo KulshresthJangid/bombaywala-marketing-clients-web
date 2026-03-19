@@ -41141,3 +41141,9 @@ seq:    2026-03-19-9
 msg:    fix: correct off-by-one in pagination offset
 nonce:  109663
 ---
+## entry
+ts:     2026-03-19T15:46:36+00:00
+seq:    2026-03-19-10
+msg:    test: improve assertion messages in user tests
+nonce:  113291
+---
