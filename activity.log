@@ -16127,3 +16127,9 @@ seq:    2026-03-19-6
 msg:    perf: memoize expensive permission-check results
 nonce:  107443
 ---
+## entry
+ts:     2026-03-19T16:50:47+00:00
+seq:    2026-03-19-7
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  111691
+---
