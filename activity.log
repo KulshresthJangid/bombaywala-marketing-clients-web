@@ -41081,3 +41081,9 @@ seq:    2026-03-15-13
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  130511
 ---
+## entry
+ts:     2026-03-19T08:00:34+00:00
+seq:    2026-03-19-0
+msg:    refactor: remove dead code from utils barrel
+nonce:  104924
+---
