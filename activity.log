@@ -41087,3 +41087,9 @@ seq:    2026-03-19-0
 msg:    refactor: remove dead code from utils barrel
 nonce:  104924
 ---
+## entry
+ts:     2026-03-19T09:22:14+00:00
+seq:    2026-03-19-1
+msg:    feat: add email-verification flow
+nonce:  125649
+---
