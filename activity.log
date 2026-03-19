@@ -16133,3 +16133,9 @@ seq:    2026-03-19-7
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  111691
 ---
+## entry
+ts:     2026-03-19T17:52:46+00:00
+seq:    2026-03-19-8
+msg:    docs: update CHANGELOG for next release
+nonce:  131859
+---
