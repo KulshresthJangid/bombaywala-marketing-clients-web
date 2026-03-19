@@ -41105,3 +41105,9 @@ seq:    2026-03-19-3
 msg:    test: add k6 load-test script for checkout flow
 nonce:  102567
 ---
+## entry
+ts:     2026-03-19T11:17:47+00:00
+seq:    2026-03-19-4
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  107306
+---
