@@ -41147,3 +41147,9 @@ seq:    2026-03-19-10
 msg:    test: improve assertion messages in user tests
 nonce:  113291
 ---
+## entry
+ts:     2026-03-19T15:49:27+00:00
+seq:    2026-03-19-11
+msg:    test: improve assertion messages in user tests
+nonce:  123049
+---
