@@ -16157,3 +16157,9 @@ seq:    2026-03-20-1
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  118890
 ---
+## entry
+ts:     2026-03-20T10:01:29+00:00
+seq:    2026-03-20-2
+msg:    docs: document required environment variables
+nonce:  130709
+---
