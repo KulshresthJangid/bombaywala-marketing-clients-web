@@ -16211,3 +16211,9 @@ seq:    2026-03-20-10
 msg:    feat: implement dark mode toggle
 nonce:  106865
 ---
+## entry
+ts:     2026-03-20T14:46:51+00:00
+seq:    2026-03-20-11
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  119431
+---
