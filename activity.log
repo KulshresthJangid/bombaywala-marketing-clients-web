@@ -16277,3 +16277,9 @@ seq:    2026-03-20-21
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  112692
 ---
+## entry
+ts:     2026-03-20T22:39:45+00:00
+seq:    2026-03-20-22
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  122459
+---
