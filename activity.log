@@ -16193,3 +16193,9 @@ seq:    2026-03-20-7
 msg:    test: improve assertion messages in user tests
 nonce:  104571
 ---
+## entry
+ts:     2026-03-20T13:05:55+00:00
+seq:    2026-03-20-8
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  113548
+---
