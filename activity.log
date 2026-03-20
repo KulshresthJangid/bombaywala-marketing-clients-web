@@ -41195,3 +41195,9 @@ seq:    2026-03-20-2
 msg:    test: add integration tests for /api/v2 routes
 nonce:  102745
 ---
+## entry
+ts:     2026-03-20T13:50:09+00:00
+seq:    2026-03-20-3
+msg:    chore: rotate copyright year in license header
+nonce:  107909
+---
