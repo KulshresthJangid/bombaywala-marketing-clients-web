@@ -16235,3 +16235,9 @@ seq:    2026-03-20-14
 msg:    feat: implement dark mode toggle
 nonce:  117701
 ---
+## entry
+ts:     2026-03-20T15:56:11+00:00
+seq:    2026-03-20-15
+msg:    fix: patch reflected-XSS in comment field
+nonce:  114419
+---
