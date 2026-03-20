@@ -16223,3 +16223,9 @@ seq:    2026-03-20-12
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  126865
 ---
+## entry
+ts:     2026-03-20T15:19:45+00:00
+seq:    2026-03-20-13
+msg:    test: raise coverage floor for payment module
+nonce:  131721
+---
