@@ -16241,3 +16241,9 @@ seq:    2026-03-20-15
 msg:    fix: patch reflected-XSS in comment field
 nonce:  114419
 ---
+## entry
+ts:     2026-03-20T17:25:02+00:00
+seq:    2026-03-20-16
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  115151
+---
