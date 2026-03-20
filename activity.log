@@ -16181,3 +16181,9 @@ seq:    2026-03-20-5
 msg:    refactor: replace callback hell with async/await
 nonce:  111232
 ---
+## entry
+ts:     2026-03-20T12:03:23+00:00
+seq:    2026-03-20-6
+msg:    fix: handle empty state on dashboard load
+nonce:  112670
+---
