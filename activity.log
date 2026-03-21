@@ -16289,3 +16289,9 @@ seq:    2026-03-21-0
 msg:    perf: trim unnecessary fields from list responses
 nonce:  102788
 ---
+## entry
+ts:     2026-03-21T11:01:11+00:00
+seq:    2026-03-21-1
+msg:    fix: handle empty state on dashboard load
+nonce:  114634
+---
