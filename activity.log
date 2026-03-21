@@ -16325,3 +16325,9 @@ seq:    2026-03-21-6
 msg:    feat: implement file upload with S3 backend
 nonce:  116191
 ---
+## entry
+ts:     2026-03-21T13:18:39+00:00
+seq:    2026-03-21-7
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  109746
+---
