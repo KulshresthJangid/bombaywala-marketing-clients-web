@@ -16331,3 +16331,9 @@ seq:    2026-03-21-7
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  109746
 ---
+## entry
+ts:     2026-03-21T13:38:06+00:00
+seq:    2026-03-21-8
+msg:    perf: memoize expensive permission-check results
+nonce:  103955
+---
