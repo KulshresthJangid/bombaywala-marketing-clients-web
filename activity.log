@@ -16403,3 +16403,9 @@ seq:    2026-03-21-19
 msg:    perf: parallelise image-resize pipeline
 nonce:  107795
 ---
+## entry
+ts:     2026-03-21T21:13:04+00:00
+seq:    2026-03-21-20
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  124941
+---
