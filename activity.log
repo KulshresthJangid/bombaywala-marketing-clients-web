@@ -41261,3 +41261,9 @@ seq:    2026-03-21-1
 msg:    refactor: centralise API error-response factory
 nonce:  108314
 ---
+## entry
+ts:     2026-03-21T13:14:52+00:00
+seq:    2026-03-21-2
+msg:    perf: trim unnecessary fields from list responses
+nonce:  101354
+---
