@@ -16349,3 +16349,9 @@ seq:    2026-03-21-10
 msg:    feat: add batch job processing queue
 nonce:  116035
 ---
+## entry
+ts:     2026-03-21T15:14:18+00:00
+seq:    2026-03-21-11
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  101121
+---
