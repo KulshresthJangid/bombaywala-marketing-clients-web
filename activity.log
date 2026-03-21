@@ -16373,3 +16373,9 @@ seq:    2026-03-21-14
 msg:    feat: add Stripe subscription billing
 nonce:  112232
 ---
+## entry
+ts:     2026-03-21T15:44:00+00:00
+seq:    2026-03-21-15
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  106042
+---
