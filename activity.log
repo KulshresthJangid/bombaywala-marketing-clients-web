@@ -16283,3 +16283,9 @@ seq:    2026-03-20-22
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  122459
 ---
+## entry
+ts:     2026-03-21T09:21:49+00:00
+seq:    2026-03-21-0
+msg:    perf: trim unnecessary fields from list responses
+nonce:  102788
+---
