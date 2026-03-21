@@ -16391,3 +16391,9 @@ seq:    2026-03-21-17
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  119307
 ---
+## entry
+ts:     2026-03-21T19:38:47+00:00
+seq:    2026-03-21-18
+msg:    feat: create admin panel route group
+nonce:  124965
+---
