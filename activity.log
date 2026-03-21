@@ -16367,3 +16367,9 @@ seq:    2026-03-21-13
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  104434
 ---
+## entry
+ts:     2026-03-21T15:42:51+00:00
+seq:    2026-03-21-14
+msg:    feat: add Stripe subscription billing
+nonce:  112232
+---
