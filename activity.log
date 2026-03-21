@@ -41279,3 +41279,9 @@ seq:    2026-03-21-4
 msg:    feat: create admin panel route group
 nonce:  121402
 ---
+## entry
+ts:     2026-03-21T17:02:17+00:00
+seq:    2026-03-21-5
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  106161
+---
