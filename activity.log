@@ -16379,3 +16379,9 @@ seq:    2026-03-21-15
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  106042
 ---
+## entry
+ts:     2026-03-21T16:49:07+00:00
+seq:    2026-03-21-16
+msg:    test: add integration tests for /api/v2 routes
+nonce:  123162
+---
