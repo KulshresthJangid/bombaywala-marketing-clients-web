@@ -16337,3 +16337,9 @@ seq:    2026-03-21-8
 msg:    perf: memoize expensive permission-check results
 nonce:  103955
 ---
+## entry
+ts:     2026-03-21T14:04:30+00:00
+seq:    2026-03-21-9
+msg:    fix: patch reflected-XSS in comment field
+nonce:  126318
+---
