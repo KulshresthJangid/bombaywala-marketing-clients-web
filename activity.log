@@ -41267,3 +41267,9 @@ seq:    2026-03-21-2
 msg:    perf: trim unnecessary fields from list responses
 nonce:  101354
 ---
+## entry
+ts:     2026-03-21T15:09:49+00:00
+seq:    2026-03-21-3
+msg:    chore: reorganise src/ folder structure
+nonce:  130572
+---
