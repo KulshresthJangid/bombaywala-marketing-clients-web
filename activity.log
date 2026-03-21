@@ -16295,3 +16295,9 @@ seq:    2026-03-21-1
 msg:    fix: handle empty state on dashboard load
 nonce:  114634
 ---
+## entry
+ts:     2026-03-21T11:07:58+00:00
+seq:    2026-03-21-2
+msg:    fix: resolve CORS rejection on preflight
+nonce:  117460
+---
