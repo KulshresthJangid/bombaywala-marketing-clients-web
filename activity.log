@@ -16301,3 +16301,9 @@ seq:    2026-03-21-2
 msg:    fix: resolve CORS rejection on preflight
 nonce:  117460
 ---
+## entry
+ts:     2026-03-21T11:21:32+00:00
+seq:    2026-03-21-3
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  125990
+---
