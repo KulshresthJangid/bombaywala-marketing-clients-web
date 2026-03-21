@@ -16313,3 +16313,9 @@ seq:    2026-03-21-4
 msg:    feat: implement two-factor authentication
 nonce:  108657
 ---
+## entry
+ts:     2026-03-21T12:08:01+00:00
+seq:    2026-03-21-5
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  114937
+---
