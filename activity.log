@@ -16319,3 +16319,9 @@ seq:    2026-03-21-5
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  114937
 ---
+## entry
+ts:     2026-03-21T12:39:41+00:00
+seq:    2026-03-21-6
+msg:    feat: implement file upload with S3 backend
+nonce:  116191
+---
