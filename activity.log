@@ -41345,3 +41345,9 @@ seq:    2026-03-22-4
 msg:    feat: implement full-text search with filters
 nonce:  110332
 ---
+## entry
+ts:     2026-03-22T12:31:57+00:00
+seq:    2026-03-22-5
+msg:    perf: parallelise image-resize pipeline
+nonce:  122411
+---
