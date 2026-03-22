@@ -41339,3 +41339,9 @@ seq:    2026-03-22-3
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  110601
 ---
+## entry
+ts:     2026-03-22T10:43:37+00:00
+seq:    2026-03-22-4
+msg:    feat: implement full-text search with filters
+nonce:  110332
+---
