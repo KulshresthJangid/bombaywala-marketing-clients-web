@@ -41423,3 +41423,9 @@ seq:    2026-03-23-7
 msg:    refactor: consolidate duplicate validation logic
 nonce:  127208
 ---
+## entry
+ts:     2026-03-23T14:46:45+00:00
+seq:    2026-03-23-8
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  102464
+---
