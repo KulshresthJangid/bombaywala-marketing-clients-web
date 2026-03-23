@@ -16433,3 +16433,9 @@ seq:    2026-03-23-3
 msg:    feat: add export-to-CSV functionality
 nonce:  107704
 ---
+## entry
+ts:     2026-03-23T09:59:48+00:00
+seq:    2026-03-23-4
+msg:    feat: add GraphQL subscription support
+nonce:  106832
+---
