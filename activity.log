@@ -16445,3 +16445,9 @@ seq:    2026-03-23-5
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  118949
 ---
+## entry
+ts:     2026-03-23T11:29:45+00:00
+seq:    2026-03-23-6
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  128650
+---
