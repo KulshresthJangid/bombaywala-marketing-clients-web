@@ -41465,3 +41465,9 @@ seq:    2026-03-23-14
 msg:    chore: rotate copyright year in license header
 nonce:  121543
 ---
+## entry
+ts:     2026-03-23T17:35:44+00:00
+seq:    2026-03-23-15
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  110897
+---
