@@ -16451,3 +16451,9 @@ seq:    2026-03-23-6
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  128650
 ---
+## entry
+ts:     2026-03-23T11:43:20+00:00
+seq:    2026-03-23-7
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  132334
+---
