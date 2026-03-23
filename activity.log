@@ -16415,3 +16415,9 @@ seq:    2026-03-23-0
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  126823
 ---
+## entry
+ts:     2026-03-23T09:13:05+00:00
+seq:    2026-03-23-1
+msg:    perf: parallelise image-resize pipeline
+nonce:  119622
+---
