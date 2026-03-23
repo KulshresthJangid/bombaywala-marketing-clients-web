@@ -16487,3 +16487,9 @@ seq:    2026-03-23-12
 msg:    fix: fix stale JWT after password reset
 nonce:  116692
 ---
+## entry
+ts:     2026-03-23T15:22:11+00:00
+seq:    2026-03-23-13
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  132376
+---
