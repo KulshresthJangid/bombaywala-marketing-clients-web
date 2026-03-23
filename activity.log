@@ -16439,3 +16439,9 @@ seq:    2026-03-23-4
 msg:    feat: add GraphQL subscription support
 nonce:  106832
 ---
+## entry
+ts:     2026-03-23T10:43:49+00:00
+seq:    2026-03-23-5
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  118949
+---
