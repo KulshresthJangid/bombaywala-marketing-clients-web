@@ -41471,3 +41471,9 @@ seq:    2026-03-23-15
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  110897
 ---
+## entry
+ts:     2026-03-23T17:56:11+00:00
+seq:    2026-03-23-16
+msg:    refactor: replace callback hell with async/await
+nonce:  123066
+---
