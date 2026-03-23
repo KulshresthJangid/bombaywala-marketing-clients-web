@@ -41483,3 +41483,9 @@ seq:    2026-03-23-17
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  126394
 ---
+## entry
+ts:     2026-03-23T19:03:31+00:00
+seq:    2026-03-23-18
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  103058
+---
