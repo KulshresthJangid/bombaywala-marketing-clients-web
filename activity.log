@@ -41453,3 +41453,9 @@ seq:    2026-03-23-12
 msg:    test: add edge-case tests for input validators
 nonce:  126719
 ---
+## entry
+ts:     2026-03-23T16:58:40+00:00
+seq:    2026-03-23-13
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  111960
+---
