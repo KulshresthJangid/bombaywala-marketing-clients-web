@@ -16589,3 +16589,9 @@ seq:    2026-03-24-7
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  100235
 ---
+## entry
+ts:     2026-03-24T14:24:48+00:00
+seq:    2026-03-24-8
+msg:    chore: remove unused imports across codebase
+nonce:  116670
+---
