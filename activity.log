@@ -16565,3 +16565,9 @@ seq:    2026-03-24-3
 msg:    fix: correct off-by-one in pagination offset
 nonce:  102502
 ---
+## entry
+ts:     2026-03-24T12:22:10+00:00
+seq:    2026-03-24-4
+msg:    feat: add multi-language (i18n) support
+nonce:  108205
+---
