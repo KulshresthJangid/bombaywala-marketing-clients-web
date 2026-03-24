@@ -16601,3 +16601,9 @@ seq:    2026-03-24-9
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  126812
 ---
+## entry
+ts:     2026-03-24T17:41:23+00:00
+seq:    2026-03-24-10
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  118038
+---
