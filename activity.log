@@ -16553,3 +16553,9 @@ seq:    2026-03-24-1
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  131110
 ---
+## entry
+ts:     2026-03-24T10:53:00+00:00
+seq:    2026-03-24-2
+msg:    test: add edge-case tests for input validators
+nonce:  116814
+---
