@@ -41561,3 +41561,9 @@ seq:    2026-03-25-8
 msg:    test: add snapshot tests for report generator
 nonce:  121175
 ---
+## entry
+ts:     2026-03-25T14:19:17+00:00
+seq:    2026-03-25-9
+msg:    feat: add export-to-CSV functionality
+nonce:  123155
+---
