@@ -41525,3 +41525,9 @@ seq:    2026-03-25-2
 msg:    fix: resolve CORS rejection on preflight
 nonce:  132553
 ---
+## entry
+ts:     2026-03-25T12:00:45+00:00
+seq:    2026-03-25-3
+msg:    refactor: migrate from winston to pino logger
+nonce:  129983
+---
