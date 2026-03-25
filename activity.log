@@ -41573,3 +41573,9 @@ seq:    2026-03-25-10
 msg:    fix: fix stale JWT after password reset
 nonce:  112577
 ---
+## entry
+ts:     2026-03-25T15:25:57+00:00
+seq:    2026-03-25-11
+msg:    chore: pin transitive dependency versions
+nonce:  108066
+---
