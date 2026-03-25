@@ -41513,3 +41513,9 @@ seq:    2026-03-25-0
 msg:    chore: rotate copyright year in license header
 nonce:  110807
 ---
+## entry
+ts:     2026-03-25T10:58:11+00:00
+seq:    2026-03-25-1
+msg:    refactor: consolidate duplicate validation logic
+nonce:  103600
+---
