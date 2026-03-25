@@ -41555,3 +41555,9 @@ seq:    2026-03-25-7
 msg:    docs: update CHANGELOG for next release
 nonce:  127842
 ---
+## entry
+ts:     2026-03-25T13:21:55+00:00
+seq:    2026-03-25-8
+msg:    test: add snapshot tests for report generator
+nonce:  121175
+---
