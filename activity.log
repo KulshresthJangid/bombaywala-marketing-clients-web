@@ -41567,3 +41567,9 @@ seq:    2026-03-25-9
 msg:    feat: add export-to-CSV functionality
 nonce:  123155
 ---
+## entry
+ts:     2026-03-25T14:29:35+00:00
+seq:    2026-03-25-10
+msg:    fix: fix stale JWT after password reset
+nonce:  112577
+---
