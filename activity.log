@@ -16619,3 +16619,9 @@ seq:    2026-03-24-12
 msg:    feat: add GraphQL subscription support
 nonce:  114389
 ---
+## entry
+ts:     2026-03-26T08:09:15+00:00
+seq:    2026-03-26-0
+msg:    feat: add cursor-based pagination
+nonce:  107467
+---
