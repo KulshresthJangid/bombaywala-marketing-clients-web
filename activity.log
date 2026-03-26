@@ -16631,3 +16631,9 @@ seq:    2026-03-26-1
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  107217
 ---
+## entry
+ts:     2026-03-26T09:19:43+00:00
+seq:    2026-03-26-2
+msg:    feat: add export-to-CSV functionality
+nonce:  128647
+---
