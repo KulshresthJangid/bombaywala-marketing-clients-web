@@ -16763,3 +16763,9 @@ seq:    2026-03-26-23
 msg:    test: add unit tests for AuthService
 nonce:  115620
 ---
+## entry
+ts:     2026-03-26T22:51:57+00:00
+seq:    2026-03-26-24
+msg:    perf: memoize expensive permission-check results
+nonce:  122804
+---
