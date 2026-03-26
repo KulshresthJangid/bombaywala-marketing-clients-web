@@ -16691,3 +16691,9 @@ seq:    2026-03-26-11
 msg:    test: improve assertion messages in user tests
 nonce:  106458
 ---
+## entry
+ts:     2026-03-26T14:47:04+00:00
+seq:    2026-03-26-12
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  107392
+---
