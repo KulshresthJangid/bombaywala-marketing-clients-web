@@ -16673,3 +16673,9 @@ seq:    2026-03-26-8
 msg:    feat: implement two-factor authentication
 nonce:  118262
 ---
+## entry
+ts:     2026-03-26T13:19:46+00:00
+seq:    2026-03-26-9
+msg:    chore: reorganise src/ folder structure
+nonce:  127282
+---
