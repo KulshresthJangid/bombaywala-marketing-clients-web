@@ -16697,3 +16697,9 @@ seq:    2026-03-26-12
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  107392
 ---
+## entry
+ts:     2026-03-26T15:18:06+00:00
+seq:    2026-03-26-13
+msg:    feat: add email-verification flow
+nonce:  129422
+---
