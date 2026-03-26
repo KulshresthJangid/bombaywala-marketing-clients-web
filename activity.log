@@ -16625,3 +16625,9 @@ seq:    2026-03-26-0
 msg:    feat: add cursor-based pagination
 nonce:  107467
 ---
+## entry
+ts:     2026-03-26T09:02:10+00:00
+seq:    2026-03-26-1
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  107217
+---
