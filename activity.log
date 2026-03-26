@@ -16649,3 +16649,9 @@ seq:    2026-03-26-4
 msg:    feat: add OAuth2 social login flow
 nonce:  132632
 ---
+## entry
+ts:     2026-03-26T11:28:14+00:00
+seq:    2026-03-26-5
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  113972
+---
