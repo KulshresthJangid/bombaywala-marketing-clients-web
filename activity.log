@@ -41645,3 +41645,9 @@ seq:    2026-03-27-7
 msg:    chore: rotate copyright year in license header
 nonce:  130697
 ---
+## entry
+ts:     2026-03-27T13:20:42+00:00
+seq:    2026-03-27-8
+msg:    docs: update CHANGELOG for next release
+nonce:  131020
+---
