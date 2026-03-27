@@ -16871,3 +16871,9 @@ seq:    2026-03-27-16
 msg:    feat: add export-to-CSV functionality
 nonce:  115208
 ---
+## entry
+ts:     2026-03-27T17:44:46+00:00
+seq:    2026-03-27-17
+msg:    chore: apply prettier to all source files
+nonce:  127817
+---
