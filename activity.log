@@ -16793,3 +16793,9 @@ seq:    2026-03-27-3
 msg:    docs: document required environment variables
 nonce:  112825
 ---
+## entry
+ts:     2026-03-27T12:23:48+00:00
+seq:    2026-03-27-4
+msg:    perf: parallelise image-resize pipeline
+nonce:  113055
+---
