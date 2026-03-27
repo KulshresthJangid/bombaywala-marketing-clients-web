@@ -16841,3 +16841,9 @@ seq:    2026-03-27-11
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  122803
 ---
+## entry
+ts:     2026-03-27T15:29:38+00:00
+seq:    2026-03-27-12
+msg:    fix: sanitize user input in search filter
+nonce:  122729
+---
