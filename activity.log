@@ -41633,3 +41633,9 @@ seq:    2026-03-27-5
 msg:    feat: implement dark mode toggle
 nonce:  111832
 ---
+## entry
+ts:     2026-03-27T11:25:27+00:00
+seq:    2026-03-27-6
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  126660
+---
