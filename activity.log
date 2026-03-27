@@ -41651,3 +41651,9 @@ seq:    2026-03-27-8
 msg:    docs: update CHANGELOG for next release
 nonce:  131020
 ---
+## entry
+ts:     2026-03-27T13:54:00+00:00
+seq:    2026-03-27-9
+msg:    refactor: migrate from winston to pino logger
+nonce:  115163
+---
