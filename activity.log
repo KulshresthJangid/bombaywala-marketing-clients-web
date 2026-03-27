@@ -41741,3 +41741,9 @@ seq:    2026-03-27-23
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  125207
 ---
+## entry
+ts:     2026-03-27T22:46:28+00:00
+seq:    2026-03-27-24
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  122193
+---
