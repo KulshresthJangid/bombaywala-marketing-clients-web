@@ -16787,3 +16787,9 @@ seq:    2026-03-27-2
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  127904
 ---
+## entry
+ts:     2026-03-27T12:04:56+00:00
+seq:    2026-03-27-3
+msg:    docs: document required environment variables
+nonce:  112825
+---
