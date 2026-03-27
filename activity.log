@@ -41705,3 +41705,9 @@ seq:    2026-03-27-17
 msg:    docs: add JSDoc to all public utility functions
 nonce:  105757
 ---
+## entry
+ts:     2026-03-27T17:27:30+00:00
+seq:    2026-03-27-18
+msg:    fix: correct off-by-one in pagination offset
+nonce:  112200
+---
