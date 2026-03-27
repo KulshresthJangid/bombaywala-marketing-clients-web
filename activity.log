@@ -16835,3 +16835,9 @@ seq:    2026-03-27-10
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  100730
 ---
+## entry
+ts:     2026-03-27T15:23:40+00:00
+seq:    2026-03-27-11
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  122803
+---
