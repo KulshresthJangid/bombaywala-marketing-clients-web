@@ -16775,3 +16775,9 @@ seq:    2026-03-27-0
 msg:    feat: create admin panel route group
 nonce:  100300
 ---
+## entry
+ts:     2026-03-27T11:34:52+00:00
+seq:    2026-03-27-1
+msg:    fix: resolve CORS rejection on preflight
+nonce:  112335
+---
