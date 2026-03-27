@@ -41621,3 +41621,9 @@ seq:    2026-03-27-3
 msg:    feat: add email-verification flow
 nonce:  117134
 ---
+## entry
+ts:     2026-03-27T10:52:42+00:00
+seq:    2026-03-27-4
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  109224
+---
