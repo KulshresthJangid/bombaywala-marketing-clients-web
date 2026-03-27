@@ -41609,3 +41609,9 @@ seq:    2026-03-27-1
 msg:    perf: enable gzip compression on API responses
 nonce:  100255
 ---
+## entry
+ts:     2026-03-27T10:11:06+00:00
+seq:    2026-03-27-2
+msg:    refactor: extract auth guard into shared middleware
+nonce:  129889
+---
