@@ -41627,3 +41627,9 @@ seq:    2026-03-27-4
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  109224
 ---
+## entry
+ts:     2026-03-27T10:53:47+00:00
+seq:    2026-03-27-5
+msg:    feat: implement dark mode toggle
+nonce:  111832
+---
