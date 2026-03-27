@@ -41615,3 +41615,9 @@ seq:    2026-03-27-2
 msg:    refactor: extract auth guard into shared middleware
 nonce:  129889
 ---
+## entry
+ts:     2026-03-27T10:16:54+00:00
+seq:    2026-03-27-3
+msg:    feat: add email-verification flow
+nonce:  117134
+---
