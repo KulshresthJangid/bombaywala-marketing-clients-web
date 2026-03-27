@@ -16769,3 +16769,9 @@ seq:    2026-03-26-24
 msg:    perf: memoize expensive permission-check results
 nonce:  122804
 ---
+## entry
+ts:     2026-03-27T11:27:59+00:00
+seq:    2026-03-27-0
+msg:    feat: create admin panel route group
+nonce:  100300
+---
