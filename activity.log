@@ -16937,3 +16937,9 @@ seq:    2026-03-29-5
 msg:    test: add snapshot tests for report generator
 nonce:  106937
 ---
+## entry
+ts:     2026-03-29T13:23:43+00:00
+seq:    2026-03-29-6
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  100271
+---
