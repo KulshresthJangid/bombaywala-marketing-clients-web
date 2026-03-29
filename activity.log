@@ -16955,3 +16955,9 @@ seq:    2026-03-29-8
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  100835
 ---
+## entry
+ts:     2026-03-29T15:14:22+00:00
+seq:    2026-03-29-9
+msg:    chore: reorganise src/ folder structure
+nonce:  126233
+---
