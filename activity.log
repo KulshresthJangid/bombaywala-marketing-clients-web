@@ -16961,3 +16961,9 @@ seq:    2026-03-29-9
 msg:    chore: reorganise src/ folder structure
 nonce:  126233
 ---
+## entry
+ts:     2026-03-29T15:29:16+00:00
+seq:    2026-03-29-10
+msg:    test: add snapshot tests for report generator
+nonce:  130210
+---
