@@ -16973,3 +16973,9 @@ seq:    2026-03-29-11
 msg:    test: add integration tests for /api/v2 routes
 nonce:  107382
 ---
+## entry
+ts:     2026-03-29T16:26:27+00:00
+seq:    2026-03-29-12
+msg:    refactor: extract auth guard into shared middleware
+nonce:  125624
+---
