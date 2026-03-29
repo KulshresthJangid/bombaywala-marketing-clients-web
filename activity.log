@@ -16931,3 +16931,9 @@ seq:    2026-03-29-4
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  104472
 ---
+## entry
+ts:     2026-03-29T13:18:18+00:00
+seq:    2026-03-29-5
+msg:    test: add snapshot tests for report generator
+nonce:  106937
+---
