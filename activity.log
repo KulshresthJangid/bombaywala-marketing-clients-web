@@ -17033,3 +17033,9 @@ seq:    2026-03-29-21
 msg:    feat: add email-verification flow
 nonce:  115820
 ---
+## entry
+ts:     2026-03-29T22:11:57+00:00
+seq:    2026-03-29-22
+msg:    test: add integration tests for /api/v2 routes
+nonce:  130182
+---
