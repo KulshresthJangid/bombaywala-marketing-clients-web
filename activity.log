@@ -16913,3 +16913,9 @@ seq:    2026-03-29-1
 msg:    feat: add GraphQL subscription support
 nonce:  114719
 ---
+## entry
+ts:     2026-03-29T11:19:07+00:00
+seq:    2026-03-29-2
+msg:    fix: patch reflected-XSS in comment field
+nonce:  112581
+---
