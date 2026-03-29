@@ -16979,3 +16979,9 @@ seq:    2026-03-29-12
 msg:    refactor: extract auth guard into shared middleware
 nonce:  125624
 ---
+## entry
+ts:     2026-03-29T16:55:38+00:00
+seq:    2026-03-29-13
+msg:    refactor: remove dead code from utils barrel
+nonce:  116778
+---
