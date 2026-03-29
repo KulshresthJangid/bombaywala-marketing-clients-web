@@ -16943,3 +16943,9 @@ seq:    2026-03-29-6
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  100271
 ---
+## entry
+ts:     2026-03-29T13:30:18+00:00
+seq:    2026-03-29-7
+msg:    fix: resolve null pointer in user service
+nonce:  102619
+---
