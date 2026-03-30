@@ -41783,3 +41783,9 @@ seq:    2026-03-30-5
 msg:    feat: add email-verification flow
 nonce:  112596
 ---
+## entry
+ts:     2026-03-30T11:40:18+00:00
+seq:    2026-03-30-6
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  101184
+---
