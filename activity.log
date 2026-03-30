@@ -17063,3 +17063,9 @@ seq:    2026-03-30-3
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  111277
 ---
+## entry
+ts:     2026-03-30T12:14:43+00:00
+seq:    2026-03-30-4
+msg:    feat: add Stripe subscription billing
+nonce:  119703
+---
