@@ -17069,3 +17069,9 @@ seq:    2026-03-30-4
 msg:    feat: add Stripe subscription billing
 nonce:  119703
 ---
+## entry
+ts:     2026-03-30T12:44:01+00:00
+seq:    2026-03-30-5
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  104095
+---
