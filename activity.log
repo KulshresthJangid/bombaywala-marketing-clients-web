@@ -41747,3 +41747,9 @@ seq:    2026-03-27-24
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  122193
 ---
+## entry
+ts:     2026-03-30T09:01:09+00:00
+seq:    2026-03-30-0
+msg:    refactor: consolidate duplicate validation logic
+nonce:  117611
+---
