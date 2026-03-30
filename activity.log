@@ -41867,3 +41867,9 @@ seq:    2026-03-30-19
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  122508
 ---
+## entry
+ts:     2026-03-30T21:08:55+00:00
+seq:    2026-03-30-20
+msg:    docs: update CHANGELOG for next release
+nonce:  111699
+---
