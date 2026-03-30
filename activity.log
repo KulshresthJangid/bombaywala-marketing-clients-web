@@ -41813,3 +41813,9 @@ seq:    2026-03-30-10
 msg:    perf: lazy-load heavy chart library
 nonce:  103066
 ---
+## entry
+ts:     2026-03-30T15:39:32+00:00
+seq:    2026-03-30-11
+msg:    feat: add OAuth2 social login flow
+nonce:  132710
+---
