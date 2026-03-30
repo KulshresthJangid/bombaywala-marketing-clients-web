@@ -41831,3 +41831,9 @@ seq:    2026-03-30-13
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  125603
 ---
+## entry
+ts:     2026-03-30T15:59:00+00:00
+seq:    2026-03-30-14
+msg:    perf: trim unnecessary fields from list responses
+nonce:  122010
+---
