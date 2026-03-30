@@ -17123,3 +17123,9 @@ seq:    2026-03-30-13
 msg:    chore: remove unused imports across codebase
 nonce:  114913
 ---
+## entry
+ts:     2026-03-30T22:29:28+00:00
+seq:    2026-03-30-14
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  107171
+---
