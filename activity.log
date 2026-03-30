@@ -41837,3 +41837,9 @@ seq:    2026-03-30-14
 msg:    perf: trim unnecessary fields from list responses
 nonce:  122010
 ---
+## entry
+ts:     2026-03-30T16:04:35+00:00
+seq:    2026-03-30-15
+msg:    refactor: replace callback hell with async/await
+nonce:  102289
+---
