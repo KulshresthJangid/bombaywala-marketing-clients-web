@@ -41843,3 +41843,9 @@ seq:    2026-03-30-15
 msg:    refactor: replace callback hell with async/await
 nonce:  102289
 ---
+## entry
+ts:     2026-03-30T17:38:24+00:00
+seq:    2026-03-30-16
+msg:    refactor: centralise API error-response factory
+nonce:  116893
+---
