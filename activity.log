@@ -41915,3 +41915,9 @@ seq:    2026-03-31-6
 msg:    test: raise coverage floor for payment module
 nonce:  130887
 ---
+## entry
+ts:     2026-03-31T13:56:06+00:00
+seq:    2026-03-31-7
+msg:    fix: correct date formatting in monthly report
+nonce:  104757
+---
