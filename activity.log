@@ -41879,3 +41879,9 @@ seq:    2026-03-31-0
 msg:    refactor: migrate from winston to pino logger
 nonce:  113396
 ---
+## entry
+ts:     2026-03-31T09:24:11+00:00
+seq:    2026-03-31-1
+msg:    fix: sanitize user input in search filter
+nonce:  100870
+---
