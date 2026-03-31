@@ -41951,3 +41951,9 @@ seq:    2026-03-31-12
 msg:    test: stub external HTTP calls in unit suite
 nonce:  108793
 ---
+## entry
+ts:     2026-03-31T17:01:41+00:00
+seq:    2026-03-31-13
+msg:    docs: add getting-started guide to README
+nonce:  109589
+---
