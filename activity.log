@@ -41933,3 +41933,9 @@ seq:    2026-03-31-9
 msg:    refactor: replace callback hell with async/await
 nonce:  123870
 ---
+## entry
+ts:     2026-03-31T15:11:06+00:00
+seq:    2026-03-31-10
+msg:    docs: add JSDoc to all public utility functions
+nonce:  126459
+---
