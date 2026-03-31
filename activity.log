@@ -41891,3 +41891,9 @@ seq:    2026-03-31-2
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  122063
 ---
+## entry
+ts:     2026-03-31T10:00:45+00:00
+seq:    2026-03-31-3
+msg:    test: add edge-case tests for input validators
+nonce:  130615
+---
