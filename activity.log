@@ -41981,3 +41981,9 @@ seq:    2026-03-31-17
 msg:    feat: add OAuth2 social login flow
 nonce:  107726
 ---
+## entry
+ts:     2026-03-31T21:30:28+00:00
+seq:    2026-03-31-18
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  130337
+---
