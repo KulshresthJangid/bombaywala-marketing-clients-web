@@ -41909,3 +41909,9 @@ seq:    2026-03-31-5
 msg:    fix: correct off-by-one in pagination offset
 nonce:  103862
 ---
+## entry
+ts:     2026-03-31T13:52:37+00:00
+seq:    2026-03-31-6
+msg:    test: raise coverage floor for payment module
+nonce:  130887
+---
