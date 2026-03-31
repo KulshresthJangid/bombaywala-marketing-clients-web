@@ -41939,3 +41939,9 @@ seq:    2026-03-31-10
 msg:    docs: add JSDoc to all public utility functions
 nonce:  126459
 ---
+## entry
+ts:     2026-03-31T15:41:08+00:00
+seq:    2026-03-31-11
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  128804
+---
