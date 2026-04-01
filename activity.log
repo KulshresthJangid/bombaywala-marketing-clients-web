@@ -17129,3 +17129,9 @@ seq:    2026-03-30-14
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  107171
 ---
+## entry
+ts:     2026-04-01T09:05:14+00:00
+seq:    2026-04-01-0
+msg:    perf: trim unnecessary fields from list responses
+nonce:  127156
+---
