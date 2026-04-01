@@ -17189,3 +17189,9 @@ seq:    2026-04-01-9
 msg:    feat: implement two-factor authentication
 nonce:  112243
 ---
+## entry
+ts:     2026-04-01T14:19:36+00:00
+seq:    2026-04-01-10
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  115184
+---
