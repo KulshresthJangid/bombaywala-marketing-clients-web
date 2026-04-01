@@ -17141,3 +17141,9 @@ seq:    2026-04-01-1
 msg:    refactor: simplify connection pool configuration
 nonce:  124060
 ---
+## entry
+ts:     2026-04-01T09:15:26+00:00
+seq:    2026-04-01-2
+msg:    perf: parallelise image-resize pipeline
+nonce:  107253
+---
