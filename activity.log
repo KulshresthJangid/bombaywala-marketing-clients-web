@@ -17165,3 +17165,9 @@ seq:    2026-04-01-5
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  121801
 ---
+## entry
+ts:     2026-04-01T11:37:55+00:00
+seq:    2026-04-01-6
+msg:    test: add integration tests for /api/v2 routes
+nonce:  113501
+---
