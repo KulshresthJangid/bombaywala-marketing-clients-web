@@ -17219,3 +17219,9 @@ seq:    2026-04-01-14
 msg:    fix: correct date formatting in monthly report
 nonce:  130048
 ---
+## entry
+ts:     2026-04-01T16:45:46+00:00
+seq:    2026-04-01-15
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  129326
+---
