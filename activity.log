@@ -17237,3 +17237,9 @@ seq:    2026-04-01-17
 msg:    feat: add export-to-CSV functionality
 nonce:  103332
 ---
+## entry
+ts:     2026-04-01T18:50:13+00:00
+seq:    2026-04-01-18
+msg:    docs: add JSDoc to all public utility functions
+nonce:  119982
+---
