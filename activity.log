@@ -17207,3 +17207,9 @@ seq:    2026-04-01-12
 msg:    refactor: centralise API error-response factory
 nonce:  102771
 ---
+## entry
+ts:     2026-04-01T15:51:14+00:00
+seq:    2026-04-01-13
+msg:    fix: sanitize user input in search filter
+nonce:  115480
+---
