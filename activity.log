@@ -17171,3 +17171,9 @@ seq:    2026-04-01-6
 msg:    test: add integration tests for /api/v2 routes
 nonce:  113501
 ---
+## entry
+ts:     2026-04-01T11:57:11+00:00
+seq:    2026-04-01-7
+msg:    refactor: replace callback hell with async/await
+nonce:  109514
+---
