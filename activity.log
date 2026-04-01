@@ -17225,3 +17225,9 @@ seq:    2026-04-01-15
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  129326
 ---
+## entry
+ts:     2026-04-01T17:45:30+00:00
+seq:    2026-04-01-16
+msg:    perf: lazy-load heavy chart library
+nonce:  127667
+---
