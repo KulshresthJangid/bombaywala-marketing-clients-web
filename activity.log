@@ -17135,3 +17135,9 @@ seq:    2026-04-01-0
 msg:    perf: trim unnecessary fields from list responses
 nonce:  127156
 ---
+## entry
+ts:     2026-04-01T09:13:25+00:00
+seq:    2026-04-01-1
+msg:    refactor: simplify connection pool configuration
+nonce:  124060
+---
