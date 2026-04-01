@@ -17243,3 +17243,9 @@ seq:    2026-04-01-18
 msg:    docs: add JSDoc to all public utility functions
 nonce:  119982
 ---
+## entry
+ts:     2026-04-01T20:00:03+00:00
+seq:    2026-04-01-19
+msg:    feat: add GraphQL subscription support
+nonce:  115560
+---
