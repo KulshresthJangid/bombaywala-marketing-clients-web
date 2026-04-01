@@ -17147,3 +17147,9 @@ seq:    2026-04-01-2
 msg:    perf: parallelise image-resize pipeline
 nonce:  107253
 ---
+## entry
+ts:     2026-04-01T09:46:18+00:00
+seq:    2026-04-01-3
+msg:    refactor: migrate from winston to pino logger
+nonce:  117595
+---
