@@ -42029,3 +42029,9 @@ seq:    2026-04-02-5
 msg:    feat: implement full-text search with filters
 nonce:  120549
 ---
+## entry
+ts:     2026-04-02T11:39:26+00:00
+seq:    2026-04-02-6
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  110357
+---
