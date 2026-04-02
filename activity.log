@@ -42083,3 +42083,9 @@ seq:    2026-04-02-14
 msg:    test: improve assertion messages in user tests
 nonce:  127781
 ---
+## entry
+ts:     2026-04-02T15:18:19+00:00
+seq:    2026-04-02-15
+msg:    test: stub external HTTP calls in unit suite
+nonce:  103381
+---
