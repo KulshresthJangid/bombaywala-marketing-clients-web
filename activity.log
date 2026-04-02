@@ -42005,3 +42005,9 @@ seq:    2026-04-02-1
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  111007
 ---
+## entry
+ts:     2026-04-02T11:04:12+00:00
+seq:    2026-04-02-2
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  116464
+---
