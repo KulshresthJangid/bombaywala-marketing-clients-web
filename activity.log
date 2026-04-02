@@ -42071,3 +42071,9 @@ seq:    2026-04-02-12
 msg:    refactor: remove dead code from utils barrel
 nonce:  131265
 ---
+## entry
+ts:     2026-04-02T15:00:39+00:00
+seq:    2026-04-02-13
+msg:    fix: resolve CORS rejection on preflight
+nonce:  130657
+---
