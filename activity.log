@@ -42035,3 +42035,9 @@ seq:    2026-04-02-6
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  110357
 ---
+## entry
+ts:     2026-04-02T11:41:48+00:00
+seq:    2026-04-02-7
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  129579
+---
