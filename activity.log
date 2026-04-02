@@ -42065,3 +42065,9 @@ seq:    2026-04-02-11
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  103685
 ---
+## entry
+ts:     2026-04-02T14:40:44+00:00
+seq:    2026-04-02-12
+msg:    refactor: remove dead code from utils barrel
+nonce:  131265
+---
