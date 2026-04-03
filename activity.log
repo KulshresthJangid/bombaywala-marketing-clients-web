@@ -42203,3 +42203,9 @@ seq:    2026-04-03-11
 msg:    fix: resolve null pointer in user service
 nonce:  116183
 ---
+## entry
+ts:     2026-04-03T13:19:10+00:00
+seq:    2026-04-03-12
+msg:    feat: add email-verification flow
+nonce:  112815
+---
