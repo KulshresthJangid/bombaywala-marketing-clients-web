@@ -42221,3 +42221,9 @@ seq:    2026-04-03-14
 msg:    feat: add Stripe subscription billing
 nonce:  130988
 ---
+## entry
+ts:     2026-04-03T14:58:18+00:00
+seq:    2026-04-03-15
+msg:    perf: enable gzip compression on API responses
+nonce:  107054
+---
