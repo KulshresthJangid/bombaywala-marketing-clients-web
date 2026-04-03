@@ -42269,3 +42269,9 @@ seq:    2026-04-03-22
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  100259
 ---
+## entry
+ts:     2026-04-03T20:49:19+00:00
+seq:    2026-04-03-23
+msg:    fix: patch reflected-XSS in comment field
+nonce:  104114
+---
