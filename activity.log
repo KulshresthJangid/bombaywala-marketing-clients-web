@@ -42185,3 +42185,9 @@ seq:    2026-04-03-8
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  120172
 ---
+## entry
+ts:     2026-04-03T12:34:32+00:00
+seq:    2026-04-03-9
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  111374
+---
