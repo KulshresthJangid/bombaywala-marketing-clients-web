@@ -42275,3 +42275,9 @@ seq:    2026-04-03-23
 msg:    fix: patch reflected-XSS in comment field
 nonce:  104114
 ---
+## entry
+ts:     2026-04-03T20:49:24+00:00
+seq:    2026-04-03-24
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  110722
+---
