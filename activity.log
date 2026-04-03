@@ -42179,3 +42179,9 @@ seq:    2026-04-03-7
 msg:    feat: scaffold onboarding wizard UI
 nonce:  109362
 ---
+## entry
+ts:     2026-04-03T11:18:24+00:00
+seq:    2026-04-03-8
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  120172
+---
