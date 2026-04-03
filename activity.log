@@ -42215,3 +42215,9 @@ seq:    2026-04-03-13
 msg:    refactor: migrate from winston to pino logger
 nonce:  101062
 ---
+## entry
+ts:     2026-04-03T13:54:56+00:00
+seq:    2026-04-03-14
+msg:    feat: add Stripe subscription billing
+nonce:  130988
+---
