@@ -42197,3 +42197,9 @@ seq:    2026-04-03-10
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  108370
 ---
+## entry
+ts:     2026-04-03T13:09:32+00:00
+seq:    2026-04-03-11
+msg:    fix: resolve null pointer in user service
+nonce:  116183
+---
