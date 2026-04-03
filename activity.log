@@ -42233,3 +42233,9 @@ seq:    2026-04-03-16
 msg:    fix: resolve race condition in job queue
 nonce:  129179
 ---
+## entry
+ts:     2026-04-03T16:03:52+00:00
+seq:    2026-04-03-17
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  122664
+---
