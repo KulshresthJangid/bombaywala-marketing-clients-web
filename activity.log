@@ -42239,3 +42239,9 @@ seq:    2026-04-03-17
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  122664
 ---
+## entry
+ts:     2026-04-03T16:17:47+00:00
+seq:    2026-04-03-18
+msg:    feat: implement full-text search with filters
+nonce:  105770
+---
