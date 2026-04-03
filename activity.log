@@ -42209,3 +42209,9 @@ seq:    2026-04-03-12
 msg:    feat: add email-verification flow
 nonce:  112815
 ---
+## entry
+ts:     2026-04-03T13:48:26+00:00
+seq:    2026-04-03-13
+msg:    refactor: migrate from winston to pino logger
+nonce:  101062
+---
