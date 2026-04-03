@@ -42143,3 +42143,9 @@ seq:    2026-04-03-1
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  113672
 ---
+## entry
+ts:     2026-04-03T08:51:18+00:00
+seq:    2026-04-03-2
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  110097
+---
