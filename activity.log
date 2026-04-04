@@ -42377,3 +42377,9 @@ seq:    2026-04-04-15
 msg:    chore: remove unused imports across codebase
 nonce:  109571
 ---
+## entry
+ts:     2026-04-04T16:21:49+00:00
+seq:    2026-04-04-16
+msg:    fix: handle empty state on dashboard load
+nonce:  112127
+---
