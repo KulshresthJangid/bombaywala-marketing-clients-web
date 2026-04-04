@@ -42347,3 +42347,9 @@ seq:    2026-04-04-10
 msg:    perf: enable gzip compression on API responses
 nonce:  100952
 ---
+## entry
+ts:     2026-04-04T14:20:26+00:00
+seq:    2026-04-04-11
+msg:    chore: apply prettier to all source files
+nonce:  114950
+---
