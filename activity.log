@@ -17303,3 +17303,9 @@ seq:    2026-04-08-7
 msg:    test: add k6 load-test script for checkout flow
 nonce:  128206
 ---
+## entry
+ts:     2026-04-08T11:44:41+00:00
+seq:    2026-04-08-8
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  115300
+---
