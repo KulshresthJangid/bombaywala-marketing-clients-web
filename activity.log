@@ -17321,3 +17321,9 @@ seq:    2026-04-08-10
 msg:    test: add unit tests for AuthService
 nonce:  117639
 ---
+## entry
+ts:     2026-04-08T13:17:26+00:00
+seq:    2026-04-08-11
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  108761
+---
