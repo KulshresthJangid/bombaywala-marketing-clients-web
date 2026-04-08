@@ -42407,3 +42407,9 @@ seq:    2026-04-08-2
 msg:    test: add integration tests for /api/v2 routes
 nonce:  105449
 ---
+## entry
+ts:     2026-04-08T12:17:03+00:00
+seq:    2026-04-08-3
+msg:    fix: handle empty state on dashboard load
+nonce:  118845
+---
