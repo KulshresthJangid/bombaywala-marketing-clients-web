@@ -42419,3 +42419,9 @@ seq:    2026-04-08-4
 msg:    feat: implement two-factor authentication
 nonce:  102741
 ---
+## entry
+ts:     2026-04-08T15:21:39+00:00
+seq:    2026-04-08-5
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  130585
+---
