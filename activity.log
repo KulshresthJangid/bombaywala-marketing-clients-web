@@ -17327,3 +17327,9 @@ seq:    2026-04-08-11
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  108761
 ---
+## entry
+ts:     2026-04-08T14:36:24+00:00
+seq:    2026-04-08-12
+msg:    refactor: simplify connection pool configuration
+nonce:  130899
+---
