@@ -17285,3 +17285,9 @@ seq:    2026-04-08-4
 msg:    perf: lazy-load heavy chart library
 nonce:  112692
 ---
+## entry
+ts:     2026-04-08T09:58:48+00:00
+seq:    2026-04-08-5
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  125085
+---
