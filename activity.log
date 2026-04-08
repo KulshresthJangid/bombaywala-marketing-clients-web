@@ -42395,3 +42395,9 @@ seq:    2026-04-08-0
 msg:    chore: pin transitive dependency versions
 nonce:  129992
 ---
+## entry
+ts:     2026-04-08T09:55:23+00:00
+seq:    2026-04-08-1
+msg:    test: improve assertion messages in user tests
+nonce:  111296
+---
