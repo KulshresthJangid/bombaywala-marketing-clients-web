@@ -17351,3 +17351,9 @@ seq:    2026-04-08-15
 msg:    feat: add OAuth2 social login flow
 nonce:  116627
 ---
+## entry
+ts:     2026-04-08T16:03:02+00:00
+seq:    2026-04-08-16
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  130325
+---
