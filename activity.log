@@ -17279,3 +17279,9 @@ seq:    2026-04-08-3
 msg:    fix: correct date formatting in monthly report
 nonce:  103043
 ---
+## entry
+ts:     2026-04-08T09:55:14+00:00
+seq:    2026-04-08-4
+msg:    perf: lazy-load heavy chart library
+nonce:  112692
+---
