@@ -42431,3 +42431,9 @@ seq:    2026-04-08-6
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  102329
 ---
+## entry
+ts:     2026-04-08T17:18:34+00:00
+seq:    2026-04-08-7
+msg:    perf: trim unnecessary fields from list responses
+nonce:  128461
+---
