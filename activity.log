@@ -42443,3 +42443,9 @@ seq:    2026-04-08-8
 msg:    test: stub external HTTP calls in unit suite
 nonce:  115075
 ---
+## entry
+ts:     2026-04-08T18:23:05+00:00
+seq:    2026-04-08-9
+msg:    fix: sanitize user input in search filter
+nonce:  129160
+---
