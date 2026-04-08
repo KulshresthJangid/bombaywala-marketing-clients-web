@@ -17261,3 +17261,9 @@ seq:    2026-04-08-0
 msg:    feat: add rate-limiting middleware
 nonce:  122368
 ---
+## entry
+ts:     2026-04-08T08:42:18+00:00
+seq:    2026-04-08-1
+msg:    docs: add architecture decision record for caching
+nonce:  104043
+---
