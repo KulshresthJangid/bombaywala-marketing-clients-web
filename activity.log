@@ -17267,3 +17267,9 @@ seq:    2026-04-08-1
 msg:    docs: add architecture decision record for caching
 nonce:  104043
 ---
+## entry
+ts:     2026-04-08T08:58:28+00:00
+seq:    2026-04-08-2
+msg:    perf: trim unnecessary fields from list responses
+nonce:  102708
+---
