@@ -42545,3 +42545,9 @@ seq:    2026-04-09-11
 msg:    test: add edge-case tests for input validators
 nonce:  105906
 ---
+## entry
+ts:     2026-04-09T15:58:16+00:00
+seq:    2026-04-09-12
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  108469
+---
