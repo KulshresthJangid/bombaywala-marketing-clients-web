@@ -42485,3 +42485,9 @@ seq:    2026-04-09-1
 msg:    feat: implement Redis caching layer
 nonce:  100411
 ---
+## entry
+ts:     2026-04-09T09:09:28+00:00
+seq:    2026-04-09-2
+msg:    fix: patch reflected-XSS in comment field
+nonce:  105087
+---
