@@ -42557,3 +42557,9 @@ seq:    2026-04-09-13
 msg:    docs: add architecture decision record for caching
 nonce:  122424
 ---
+## entry
+ts:     2026-04-09T17:00:43+00:00
+seq:    2026-04-09-14
+msg:    refactor: move magic strings to constants module
+nonce:  118542
+---
