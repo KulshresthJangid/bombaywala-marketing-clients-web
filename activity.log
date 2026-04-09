@@ -17489,3 +17489,9 @@ seq:    2026-04-09-19
 msg:    test: add edge-case tests for input validators
 nonce:  114526
 ---
+## entry
+ts:     2026-04-09T20:52:18+00:00
+seq:    2026-04-09-20
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  106672
+---
