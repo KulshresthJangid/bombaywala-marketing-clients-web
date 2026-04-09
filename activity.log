@@ -17441,3 +17441,9 @@ seq:    2026-04-09-11
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  119076
 ---
+## entry
+ts:     2026-04-09T14:37:21+00:00
+seq:    2026-04-09-12
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  124408
+---
