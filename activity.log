@@ -17369,3 +17369,9 @@ seq:    2026-04-08-18
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  101852
 ---
+## entry
+ts:     2026-04-09T09:09:13+00:00
+seq:    2026-04-09-0
+msg:    fix: fix stale JWT after password reset
+nonce:  112843
+---
