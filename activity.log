@@ -17375,3 +17375,9 @@ seq:    2026-04-09-0
 msg:    fix: fix stale JWT after password reset
 nonce:  112843
 ---
+## entry
+ts:     2026-04-09T09:15:50+00:00
+seq:    2026-04-09-1
+msg:    feat: add user authentication module
+nonce:  117210
+---
