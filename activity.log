@@ -17423,3 +17423,9 @@ seq:    2026-04-09-8
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  107999
 ---
+## entry
+ts:     2026-04-09T12:48:20+00:00
+seq:    2026-04-09-9
+msg:    chore: reorganise src/ folder structure
+nonce:  122983
+---
