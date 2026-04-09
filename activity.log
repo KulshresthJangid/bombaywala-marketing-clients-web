@@ -17417,3 +17417,9 @@ seq:    2026-04-09-7
 msg:    docs: document required environment variables
 nonce:  130583
 ---
+## entry
+ts:     2026-04-09T12:19:23+00:00
+seq:    2026-04-09-8
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  107999
+---
