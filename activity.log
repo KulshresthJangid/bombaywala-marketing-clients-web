@@ -42551,3 +42551,9 @@ seq:    2026-04-09-12
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  108469
 ---
+## entry
+ts:     2026-04-09T15:58:58+00:00
+seq:    2026-04-09-13
+msg:    docs: add architecture decision record for caching
+nonce:  122424
+---
