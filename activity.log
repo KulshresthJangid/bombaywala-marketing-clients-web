@@ -42503,3 +42503,9 @@ seq:    2026-04-09-4
 msg:    test: add snapshot tests for report generator
 nonce:  108833
 ---
+## entry
+ts:     2026-04-09T11:16:30+00:00
+seq:    2026-04-09-5
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  113235
+---
