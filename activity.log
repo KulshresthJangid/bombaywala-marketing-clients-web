@@ -17447,3 +17447,9 @@ seq:    2026-04-09-12
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  124408
 ---
+## entry
+ts:     2026-04-09T15:06:48+00:00
+seq:    2026-04-09-13
+msg:    fix: correct date formatting in monthly report
+nonce:  112864
+---
