@@ -17381,3 +17381,9 @@ seq:    2026-04-09-1
 msg:    feat: add user authentication module
 nonce:  117210
 ---
+## entry
+ts:     2026-04-09T09:32:12+00:00
+seq:    2026-04-09-2
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  115856
+---
