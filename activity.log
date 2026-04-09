@@ -17471,3 +17471,9 @@ seq:    2026-04-09-16
 msg:    feat: scaffold onboarding wizard UI
 nonce:  119641
 ---
+## entry
+ts:     2026-04-09T16:51:00+00:00
+seq:    2026-04-09-17
+msg:    test: raise coverage floor for payment module
+nonce:  110811
+---
