@@ -17435,3 +17435,9 @@ seq:    2026-04-09-10
 msg:    docs: add JSDoc to all public utility functions
 nonce:  125780
 ---
+## entry
+ts:     2026-04-09T13:03:48+00:00
+seq:    2026-04-09-11
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  119076
+---
