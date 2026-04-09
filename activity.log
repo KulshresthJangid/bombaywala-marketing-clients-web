@@ -17459,3 +17459,9 @@ seq:    2026-04-09-14
 msg:    feat: implement file upload with S3 backend
 nonce:  119248
 ---
+## entry
+ts:     2026-04-09T16:03:13+00:00
+seq:    2026-04-09-15
+msg:    feat: add rate-limiting middleware
+nonce:  121966
+---
