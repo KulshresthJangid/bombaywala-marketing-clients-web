@@ -17387,3 +17387,9 @@ seq:    2026-04-09-2
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  115856
 ---
+## entry
+ts:     2026-04-09T09:35:03+00:00
+seq:    2026-04-09-3
+msg:    refactor: centralise API error-response factory
+nonce:  129967
+---
