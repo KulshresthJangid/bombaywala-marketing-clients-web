@@ -42623,3 +42623,9 @@ seq:    2026-04-10-6
 msg:    feat: create outbound webhook dispatcher
 nonce:  127465
 ---
+## entry
+ts:     2026-04-10T14:11:18+00:00
+seq:    2026-04-10-7
+msg:    feat: add multi-language (i18n) support
+nonce:  102441
+---
