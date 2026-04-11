@@ -17591,3 +17591,9 @@ seq:    2026-04-11-15
 msg:    fix: patch reflected-XSS in comment field
 nonce:  117914
 ---
+## entry
+ts:     2026-04-11T22:57:44+00:00
+seq:    2026-04-11-16
+msg:    test: stub external HTTP calls in unit suite
+nonce:  103322
+---
