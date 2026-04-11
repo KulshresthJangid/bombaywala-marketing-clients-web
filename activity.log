@@ -17507,3 +17507,9 @@ seq:    2026-04-11-1
 msg:    test: improve assertion messages in user tests
 nonce:  104610
 ---
+## entry
+ts:     2026-04-11T11:03:07+00:00
+seq:    2026-04-11-2
+msg:    feat: add user authentication module
+nonce:  101601
+---
