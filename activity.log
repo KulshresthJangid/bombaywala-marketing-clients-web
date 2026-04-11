@@ -17555,3 +17555,9 @@ seq:    2026-04-11-9
 msg:    fix: fix stale JWT after password reset
 nonce:  112335
 ---
+## entry
+ts:     2026-04-11T16:00:32+00:00
+seq:    2026-04-11-10
+msg:    refactor: simplify connection pool configuration
+nonce:  124180
+---
