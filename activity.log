@@ -42761,3 +42761,9 @@ seq:    2026-04-12-16
 msg:    test: improve assertion messages in user tests
 nonce:  111593
 ---
+## entry
+ts:     2026-04-12T22:55:19+00:00
+seq:    2026-04-12-17
+msg:    refactor: split God-service into focused modules
+nonce:  122020
+---
