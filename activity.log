@@ -42665,3 +42665,9 @@ seq:    2026-04-12-0
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  102113
 ---
+## entry
+ts:     2026-04-12T10:30:02+00:00
+seq:    2026-04-12-1
+msg:    test: improve assertion messages in user tests
+nonce:  125375
+---
