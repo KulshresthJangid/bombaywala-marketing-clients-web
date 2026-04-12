@@ -42677,3 +42677,9 @@ seq:    2026-04-12-2
 msg:    refactor: centralise API error-response factory
 nonce:  131664
 ---
+## entry
+ts:     2026-04-12T10:59:00+00:00
+seq:    2026-04-12-3
+msg:    feat: create immutable audit-log service
+nonce:  120207
+---
