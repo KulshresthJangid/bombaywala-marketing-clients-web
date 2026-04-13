@@ -17645,3 +17645,9 @@ seq:    2026-04-13-7
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  123384
 ---
+## entry
+ts:     2026-04-13T14:25:16+00:00
+seq:    2026-04-13-8
+msg:    test: stub external HTTP calls in unit suite
+nonce:  128008
+---
