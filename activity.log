@@ -17603,3 +17603,9 @@ seq:    2026-04-13-0
 msg:    refactor: migrate from winston to pino logger
 nonce:  113351
 ---
+## entry
+ts:     2026-04-13T11:40:46+00:00
+seq:    2026-04-13-1
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  124628
+---
