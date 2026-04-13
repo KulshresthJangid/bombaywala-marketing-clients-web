@@ -17669,3 +17669,9 @@ seq:    2026-04-13-11
 msg:    feat: add GraphQL subscription support
 nonce:  120399
 ---
+## entry
+ts:     2026-04-13T22:52:29+00:00
+seq:    2026-04-13-12
+msg:    fix: handle empty state on dashboard load
+nonce:  126955
+---
