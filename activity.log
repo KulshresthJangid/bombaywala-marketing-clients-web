@@ -17657,3 +17657,9 @@ seq:    2026-04-13-9
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  114403
 ---
+## entry
+ts:     2026-04-13T16:21:26+00:00
+seq:    2026-04-13-10
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  104245
+---
