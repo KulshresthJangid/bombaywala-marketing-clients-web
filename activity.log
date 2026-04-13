@@ -17651,3 +17651,9 @@ seq:    2026-04-13-8
 msg:    test: stub external HTTP calls in unit suite
 nonce:  128008
 ---
+## entry
+ts:     2026-04-13T15:15:09+00:00
+seq:    2026-04-13-9
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  114403
+---
