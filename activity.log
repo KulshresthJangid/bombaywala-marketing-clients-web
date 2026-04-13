@@ -17663,3 +17663,9 @@ seq:    2026-04-13-10
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  104245
 ---
+## entry
+ts:     2026-04-13T18:23:42+00:00
+seq:    2026-04-13-11
+msg:    feat: add GraphQL subscription support
+nonce:  120399
+---
