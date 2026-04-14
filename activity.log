@@ -42833,3 +42833,9 @@ seq:    2026-04-14-10
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  108879
 ---
+## entry
+ts:     2026-04-14T14:22:39+00:00
+seq:    2026-04-14-11
+msg:    fix: patch reflected-XSS in comment field
+nonce:  103854
+---
