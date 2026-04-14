@@ -17681,3 +17681,9 @@ seq:    2026-04-14-0
 msg:    feat: add real-time notification system
 nonce:  110545
 ---
+## entry
+ts:     2026-04-14T09:30:00+00:00
+seq:    2026-04-14-1
+msg:    fix: patch reflected-XSS in comment field
+nonce:  103823
+---
