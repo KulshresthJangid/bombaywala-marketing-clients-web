@@ -42803,3 +42803,9 @@ seq:    2026-04-14-5
 msg:    fix: correct date formatting in monthly report
 nonce:  112531
 ---
+## entry
+ts:     2026-04-14T11:39:12+00:00
+seq:    2026-04-14-6
+msg:    feat: add multi-language (i18n) support
+nonce:  127118
+---
