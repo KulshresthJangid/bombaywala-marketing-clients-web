@@ -17675,3 +17675,9 @@ seq:    2026-04-13-12
 msg:    fix: handle empty state on dashboard load
 nonce:  126955
 ---
+## entry
+ts:     2026-04-14T09:20:24+00:00
+seq:    2026-04-14-0
+msg:    feat: add real-time notification system
+nonce:  110545
+---
