@@ -17777,3 +17777,9 @@ seq:    2026-04-14-16
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  103787
 ---
+## entry
+ts:     2026-04-14T16:57:53+00:00
+seq:    2026-04-14-17
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  109740
+---
