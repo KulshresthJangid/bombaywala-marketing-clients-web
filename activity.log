@@ -42797,3 +42797,9 @@ seq:    2026-04-14-4
 msg:    feat: implement file upload with S3 backend
 nonce:  110938
 ---
+## entry
+ts:     2026-04-14T11:37:25+00:00
+seq:    2026-04-14-5
+msg:    fix: correct date formatting in monthly report
+nonce:  112531
+---
