@@ -17717,3 +17717,9 @@ seq:    2026-04-14-6
 msg:    docs: add architecture decision record for caching
 nonce:  118117
 ---
+## entry
+ts:     2026-04-14T12:03:28+00:00
+seq:    2026-04-14-7
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  128066
+---
