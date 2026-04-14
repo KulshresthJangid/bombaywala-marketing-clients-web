@@ -17693,3 +17693,9 @@ seq:    2026-04-14-2
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  118412
 ---
+## entry
+ts:     2026-04-14T09:53:03+00:00
+seq:    2026-04-14-3
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  126456
+---
