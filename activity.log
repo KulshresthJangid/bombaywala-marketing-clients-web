@@ -17705,3 +17705,9 @@ seq:    2026-04-14-4
 msg:    feat: integrate payment gateway
 nonce:  130189
 ---
+## entry
+ts:     2026-04-14T11:00:53+00:00
+seq:    2026-04-14-5
+msg:    refactor: migrate from winston to pino logger
+nonce:  126563
+---
