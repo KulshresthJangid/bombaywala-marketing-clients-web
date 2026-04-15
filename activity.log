@@ -42905,3 +42905,9 @@ seq:    2026-04-15-2
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  105836
 ---
+## entry
+ts:     2026-04-15T11:38:19+00:00
+seq:    2026-04-15-3
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  100715
+---
