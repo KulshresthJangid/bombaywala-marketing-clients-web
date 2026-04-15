@@ -17849,3 +17849,9 @@ seq:    2026-04-15-7
 msg:    fix: resolve null pointer in user service
 nonce:  104526
 ---
+## entry
+ts:     2026-04-15T17:43:37+00:00
+seq:    2026-04-15-8
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  100343
+---
