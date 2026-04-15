@@ -17855,3 +17855,9 @@ seq:    2026-04-15-8
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  100343
 ---
+## entry
+ts:     2026-04-15T17:56:22+00:00
+seq:    2026-04-15-9
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  128830
+---
