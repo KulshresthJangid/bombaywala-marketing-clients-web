@@ -42899,3 +42899,9 @@ seq:    2026-04-15-1
 msg:    feat: integrate payment gateway
 nonce:  123798
 ---
+## entry
+ts:     2026-04-15T10:18:09+00:00
+seq:    2026-04-15-2
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  105836
+---
