@@ -42935,3 +42935,9 @@ seq:    2026-04-15-7
 msg:    perf: trim unnecessary fields from list responses
 nonce:  126129
 ---
+## entry
+ts:     2026-04-15T15:24:12+00:00
+seq:    2026-04-15-8
+msg:    feat: add Stripe subscription billing
+nonce:  108958
+---
