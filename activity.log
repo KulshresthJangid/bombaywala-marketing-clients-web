@@ -17837,3 +17837,9 @@ seq:    2026-04-15-5
 msg:    feat: add export-to-CSV functionality
 nonce:  127664
 ---
+## entry
+ts:     2026-04-15T16:07:17+00:00
+seq:    2026-04-15-6
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  122598
+---
