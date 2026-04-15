@@ -42941,3 +42941,9 @@ seq:    2026-04-15-8
 msg:    feat: add Stripe subscription billing
 nonce:  108958
 ---
+## entry
+ts:     2026-04-15T15:44:13+00:00
+seq:    2026-04-15-9
+msg:    fix: resolve null pointer in user service
+nonce:  117660
+---
