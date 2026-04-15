@@ -17843,3 +17843,9 @@ seq:    2026-04-15-6
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  122598
 ---
+## entry
+ts:     2026-04-15T16:31:37+00:00
+seq:    2026-04-15-7
+msg:    fix: resolve null pointer in user service
+nonce:  104526
+---
