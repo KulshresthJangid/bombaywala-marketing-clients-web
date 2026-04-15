@@ -17819,3 +17819,9 @@ seq:    2026-04-15-2
 msg:    chore: rotate copyright year in license header
 nonce:  119672
 ---
+## entry
+ts:     2026-04-15T13:36:07+00:00
+seq:    2026-04-15-3
+msg:    refactor: simplify connection pool configuration
+nonce:  109251
+---
