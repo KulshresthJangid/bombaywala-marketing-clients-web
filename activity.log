@@ -17825,3 +17825,9 @@ seq:    2026-04-15-3
 msg:    refactor: simplify connection pool configuration
 nonce:  109251
 ---
+## entry
+ts:     2026-04-15T13:44:28+00:00
+seq:    2026-04-15-4
+msg:    fix: resolve null pointer in user service
+nonce:  117076
+---
