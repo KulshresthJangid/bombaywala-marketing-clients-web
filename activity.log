@@ -43109,3 +43109,9 @@ seq:    2026-04-16-22
 msg:    feat: add multi-language (i18n) support
 nonce:  107399
 ---
+## entry
+ts:     2026-04-16T21:58:00+00:00
+seq:    2026-04-16-23
+msg:    refactor: centralise API error-response factory
+nonce:  118790
+---
