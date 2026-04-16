@@ -43091,3 +43091,9 @@ seq:    2026-04-16-19
 msg:    refactor: simplify connection pool configuration
 nonce:  117625
 ---
+## entry
+ts:     2026-04-16T17:15:35+00:00
+seq:    2026-04-16-20
+msg:    refactor: migrate from winston to pino logger
+nonce:  131495
+---
