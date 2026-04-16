@@ -17939,3 +17939,9 @@ seq:    2026-04-16-11
 msg:    chore: update Dockerfile to node:20-alpine
 nonce:  120314
 ---
+## entry
+ts:     2026-04-16T19:25:33+00:00
+seq:    2026-04-16-12
+msg:    chore: reorganise src/ folder structure
+nonce:  104202
+---
