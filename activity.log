@@ -43007,3 +43007,9 @@ seq:    2026-04-16-5
 msg:    feat: add multi-language (i18n) support
 nonce:  122251
 ---
+## entry
+ts:     2026-04-16T13:10:21+00:00
+seq:    2026-04-16-6
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  113182
+---
