@@ -43031,3 +43031,9 @@ seq:    2026-04-16-9
 msg:    fix: resolve null pointer in user service
 nonce:  131183
 ---
+## entry
+ts:     2026-04-16T14:37:23+00:00
+seq:    2026-04-16-10
+msg:    feat: add cursor-based pagination
+nonce:  103761
+---
