@@ -43019,3 +43019,9 @@ seq:    2026-04-16-7
 msg:    feat: implement dashboard analytics
 nonce:  107834
 ---
+## entry
+ts:     2026-04-16T13:48:01+00:00
+seq:    2026-04-16-8
+msg:    feat: add OAuth2 social login flow
+nonce:  130020
+---
