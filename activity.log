@@ -17951,3 +17951,9 @@ seq:    2026-04-16-13
 msg:    feat: add rate-limiting middleware
 nonce:  115439
 ---
+## entry
+ts:     2026-04-16T20:43:22+00:00
+seq:    2026-04-16-14
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  118978
+---
