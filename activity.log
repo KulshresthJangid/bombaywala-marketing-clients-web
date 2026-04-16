@@ -17915,3 +17915,9 @@ seq:    2026-04-16-7
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  117511
 ---
+## entry
+ts:     2026-04-16T15:33:05+00:00
+seq:    2026-04-16-8
+msg:    chore: apply prettier to all source files
+nonce:  118415
+---
