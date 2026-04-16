@@ -17921,3 +17921,9 @@ seq:    2026-04-16-8
 msg:    chore: apply prettier to all source files
 nonce:  118415
 ---
+## entry
+ts:     2026-04-16T15:34:12+00:00
+seq:    2026-04-16-9
+msg:    refactor: split God-service into focused modules
+nonce:  122328
+---
