@@ -17933,3 +17933,9 @@ seq:    2026-04-16-10
 msg:    test: raise coverage floor for payment module
 nonce:  109186
 ---
+## entry
+ts:     2026-04-16T17:45:49+00:00
+seq:    2026-04-16-11
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  120314
+---
