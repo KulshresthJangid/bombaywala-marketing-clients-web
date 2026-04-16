@@ -43079,3 +43079,9 @@ seq:    2026-04-16-17
 msg:    feat: scaffold onboarding wizard UI
 nonce:  113418
 ---
+## entry
+ts:     2026-04-16T16:56:42+00:00
+seq:    2026-04-16-18
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  115247
+---
