@@ -17873,3 +17873,9 @@ seq:    2026-04-16-0
 msg:    feat: add Stripe subscription billing
 nonce:  123080
 ---
+## entry
+ts:     2026-04-16T11:15:08+00:00
+seq:    2026-04-16-1
+msg:    test: add integration tests for /api/v2 routes
+nonce:  125919
+---
