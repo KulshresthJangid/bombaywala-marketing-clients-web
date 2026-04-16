@@ -17909,3 +17909,9 @@ seq:    2026-04-16-6
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  107706
 ---
+## entry
+ts:     2026-04-16T14:33:18+00:00
+seq:    2026-04-16-7
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  117511
+---
