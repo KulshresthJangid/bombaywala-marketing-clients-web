@@ -43049,3 +43049,9 @@ seq:    2026-04-16-12
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  112653
 ---
+## entry
+ts:     2026-04-16T15:52:55+00:00
+seq:    2026-04-16-13
+msg:    refactor: migrate from winston to pino logger
+nonce:  128891
+---
