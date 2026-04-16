@@ -17867,3 +17867,9 @@ seq:    2026-04-15-10
 msg:    perf: memoize expensive permission-check results
 nonce:  118342
 ---
+## entry
+ts:     2026-04-16T08:35:15+00:00
+seq:    2026-04-16-0
+msg:    feat: add Stripe subscription billing
+nonce:  123080
+---
