@@ -17975,3 +17975,9 @@ seq:    2026-04-17-1
 msg:    test: add integration tests for /api/v2 routes
 nonce:  116379
 ---
+## entry
+ts:     2026-04-17T10:53:15+00:00
+seq:    2026-04-17-2
+msg:    feat: add OAuth2 social login flow
+nonce:  102561
+---
