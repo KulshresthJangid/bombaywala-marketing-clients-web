@@ -43139,3 +43139,9 @@ seq:    2026-04-17-2
 msg:    fix: fix stale JWT after password reset
 nonce:  127580
 ---
+## entry
+ts:     2026-04-17T09:59:09+00:00
+seq:    2026-04-17-3
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  110523
+---
