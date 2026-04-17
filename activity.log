@@ -17981,3 +17981,9 @@ seq:    2026-04-17-2
 msg:    feat: add OAuth2 social login flow
 nonce:  102561
 ---
+## entry
+ts:     2026-04-17T11:09:49+00:00
+seq:    2026-04-17-3
+msg:    feat: add cursor-based pagination
+nonce:  132656
+---
