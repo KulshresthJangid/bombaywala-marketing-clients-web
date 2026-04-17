@@ -43169,3 +43169,9 @@ seq:    2026-04-17-7
 msg:    feat: add OAuth2 social login flow
 nonce:  100037
 ---
+## entry
+ts:     2026-04-17T17:42:45+00:00
+seq:    2026-04-17-8
+msg:    fix: sanitize user input in search filter
+nonce:  117520
+---
