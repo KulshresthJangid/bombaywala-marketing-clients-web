@@ -43175,3 +43175,9 @@ seq:    2026-04-17-8
 msg:    fix: sanitize user input in search filter
 nonce:  117520
 ---
+## entry
+ts:     2026-04-17T17:43:25+00:00
+seq:    2026-04-17-9
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  121687
+---
