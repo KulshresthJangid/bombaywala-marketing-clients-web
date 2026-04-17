@@ -18095,3 +18095,9 @@ seq:    2026-04-17-21
 msg:    feat: add batch job processing queue
 nonce:  103054
 ---
+## entry
+ts:     2026-04-17T22:31:29+00:00
+seq:    2026-04-17-22
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  106501
+---
