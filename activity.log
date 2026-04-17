@@ -18011,3 +18011,9 @@ seq:    2026-04-17-7
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  101400
 ---
+## entry
+ts:     2026-04-17T12:23:57+00:00
+seq:    2026-04-17-8
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  125906
+---
