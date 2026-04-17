@@ -43133,3 +43133,9 @@ seq:    2026-04-17-1
 msg:    fix: correct off-by-one in pagination offset
 nonce:  116241
 ---
+## entry
+ts:     2026-04-17T09:22:24+00:00
+seq:    2026-04-17-2
+msg:    fix: fix stale JWT after password reset
+nonce:  127580
+---
