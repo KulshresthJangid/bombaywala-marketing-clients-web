@@ -18071,3 +18071,9 @@ seq:    2026-04-17-17
 msg:    test: add k6 load-test script for checkout flow
 nonce:  105787
 ---
+## entry
+ts:     2026-04-17T17:00:31+00:00
+seq:    2026-04-17-18
+msg:    docs: add getting-started guide to README
+nonce:  104324
+---
