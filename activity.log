@@ -18035,3 +18035,9 @@ seq:    2026-04-17-11
 msg:    perf: lazy-load heavy chart library
 nonce:  127155
 ---
+## entry
+ts:     2026-04-17T13:35:19+00:00
+seq:    2026-04-17-12
+msg:    fix: sanitize user input in search filter
+nonce:  106770
+---
