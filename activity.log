@@ -43163,3 +43163,9 @@ seq:    2026-04-17-6
 msg:    feat: implement dark mode toggle
 nonce:  117707
 ---
+## entry
+ts:     2026-04-17T15:23:22+00:00
+seq:    2026-04-17-7
+msg:    feat: add OAuth2 social login flow
+nonce:  100037
+---
