@@ -43121,3 +43121,9 @@ seq:    2026-04-16-24
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  127565
 ---
+## entry
+ts:     2026-04-17T08:43:45+00:00
+seq:    2026-04-17-0
+msg:    refactor: extract auth guard into shared middleware
+nonce:  126266
+---
