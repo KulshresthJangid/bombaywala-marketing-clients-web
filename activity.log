@@ -43181,3 +43181,9 @@ seq:    2026-04-17-9
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  121687
 ---
+## entry
+ts:     2026-04-18T11:18:23+00:00
+seq:    2026-04-18-0
+msg:    feat: implement full-text search with filters
+nonce:  116182
+---
