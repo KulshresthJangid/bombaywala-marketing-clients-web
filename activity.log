@@ -43205,3 +43205,9 @@ seq:    2026-04-18-3
 msg:    feat: implement full-text search with filters
 nonce:  115372
 ---
+## entry
+ts:     2026-04-18T12:39:59+00:00
+seq:    2026-04-18-4
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  121615
+---
