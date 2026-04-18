@@ -43211,3 +43211,9 @@ seq:    2026-04-18-4
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  121615
 ---
+## entry
+ts:     2026-04-18T12:52:38+00:00
+seq:    2026-04-18-5
+msg:    fix: correct off-by-one in pagination offset
+nonce:  127420
+---
