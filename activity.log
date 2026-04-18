@@ -43223,3 +43223,9 @@ seq:    2026-04-18-6
 msg:    test: add integration tests for /api/v2 routes
 nonce:  122375
 ---
+## entry
+ts:     2026-04-18T14:07:34+00:00
+seq:    2026-04-18-7
+msg:    feat: create immutable audit-log service
+nonce:  107421
+---
