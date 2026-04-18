@@ -43259,3 +43259,9 @@ seq:    2026-04-18-12
 msg:    refactor: extract auth guard into shared middleware
 nonce:  104078
 ---
+## entry
+ts:     2026-04-18T16:41:42+00:00
+seq:    2026-04-18-13
+msg:    refactor: simplify connection pool configuration
+nonce:  104510
+---
