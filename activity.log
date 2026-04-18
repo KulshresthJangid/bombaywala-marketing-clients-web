@@ -43247,3 +43247,9 @@ seq:    2026-04-18-10
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  129962
 ---
+## entry
+ts:     2026-04-18T16:27:47+00:00
+seq:    2026-04-18-11
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  105827
+---
