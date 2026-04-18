@@ -43235,3 +43235,9 @@ seq:    2026-04-18-8
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  132408
 ---
+## entry
+ts:     2026-04-18T15:37:43+00:00
+seq:    2026-04-18-9
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  117445
+---
