@@ -43253,3 +43253,9 @@ seq:    2026-04-18-11
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  105827
 ---
+## entry
+ts:     2026-04-18T16:33:30+00:00
+seq:    2026-04-18-12
+msg:    refactor: extract auth guard into shared middleware
+nonce:  104078
+---
