@@ -18101,3 +18101,9 @@ seq:    2026-04-17-22
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  106501
 ---
+## entry
+ts:     2026-04-19T09:22:52+00:00
+seq:    2026-04-19-0
+msg:    fix: patch reflected-XSS in comment field
+nonce:  109788
+---
