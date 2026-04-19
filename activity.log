@@ -43319,3 +43319,9 @@ seq:    2026-04-19-3
 msg:    feat: implement dark mode toggle
 nonce:  123563
 ---
+## entry
+ts:     2026-04-19T13:37:44+00:00
+seq:    2026-04-19-4
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  111283
+---
