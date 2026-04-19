@@ -43325,3 +43325,9 @@ seq:    2026-04-19-4
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  111283
 ---
+## entry
+ts:     2026-04-19T14:04:20+00:00
+seq:    2026-04-19-5
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  101596
+---
