@@ -43301,3 +43301,9 @@ seq:    2026-04-19-0
 msg:    test: add integration tests for /api/v2 routes
 nonce:  121037
 ---
+## entry
+ts:     2026-04-19T11:45:23+00:00
+seq:    2026-04-19-1
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  122079
+---
