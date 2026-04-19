@@ -18167,3 +18167,9 @@ seq:    2026-04-19-10
 msg:    feat: create admin panel route group
 nonce:  107800
 ---
+## entry
+ts:     2026-04-19T15:53:33+00:00
+seq:    2026-04-19-11
+msg:    perf: parallelise image-resize pipeline
+nonce:  107468
+---
