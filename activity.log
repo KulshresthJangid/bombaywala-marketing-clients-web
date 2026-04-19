@@ -43307,3 +43307,9 @@ seq:    2026-04-19-1
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  122079
 ---
+## entry
+ts:     2026-04-19T13:04:18+00:00
+seq:    2026-04-19-2
+msg:    refactor: replace callback hell with async/await
+nonce:  119767
+---
