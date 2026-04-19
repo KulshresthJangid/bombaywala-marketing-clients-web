@@ -43361,3 +43361,9 @@ seq:    2026-04-19-10
 msg:    fix: correct off-by-one in pagination offset
 nonce:  106863
 ---
+## entry
+ts:     2026-04-19T16:11:24+00:00
+seq:    2026-04-19-11
+msg:    docs: update CHANGELOG for next release
+nonce:  131128
+---
