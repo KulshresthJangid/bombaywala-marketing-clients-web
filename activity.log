@@ -43331,3 +43331,9 @@ seq:    2026-04-19-5
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  101596
 ---
+## entry
+ts:     2026-04-19T14:35:15+00:00
+seq:    2026-04-19-6
+msg:    feat: add export-to-CSV functionality
+nonce:  108447
+---
