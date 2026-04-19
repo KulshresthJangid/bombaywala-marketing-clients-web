@@ -18143,3 +18143,9 @@ seq:    2026-04-19-6
 msg:    feat: add multi-language (i18n) support
 nonce:  115764
 ---
+## entry
+ts:     2026-04-19T13:04:18+00:00
+seq:    2026-04-19-7
+msg:    feat: add rate-limiting middleware
+nonce:  112746
+---
