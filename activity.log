@@ -43385,3 +43385,9 @@ seq:    2026-04-19-14
 msg:    chore: apply prettier to all source files
 nonce:  121529
 ---
+## entry
+ts:     2026-04-19T19:44:27+00:00
+seq:    2026-04-19-15
+msg:    fix: correct date formatting in monthly report
+nonce:  118039
+---
