@@ -43295,3 +43295,9 @@ seq:    2026-04-18-18
 msg:    feat: implement file upload with S3 backend
 nonce:  130341
 ---
+## entry
+ts:     2026-04-19T09:11:24+00:00
+seq:    2026-04-19-0
+msg:    test: add integration tests for /api/v2 routes
+nonce:  121037
+---
