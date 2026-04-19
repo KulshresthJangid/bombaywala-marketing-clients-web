@@ -43337,3 +43337,9 @@ seq:    2026-04-19-6
 msg:    feat: add export-to-CSV functionality
 nonce:  108447
 ---
+## entry
+ts:     2026-04-19T14:41:58+00:00
+seq:    2026-04-19-7
+msg:    refactor: simplify connection pool configuration
+nonce:  124736
+---
