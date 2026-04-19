@@ -43391,3 +43391,9 @@ seq:    2026-04-19-15
 msg:    fix: correct date formatting in monthly report
 nonce:  118039
 ---
+## entry
+ts:     2026-04-19T21:54:36+00:00
+seq:    2026-04-19-16
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  132619
+---
