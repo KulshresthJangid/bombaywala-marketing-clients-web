@@ -18215,3 +18215,9 @@ seq:    2026-04-21-3
 msg:    docs: document required environment variables
 nonce:  105519
 ---
+## entry
+ts:     2026-04-21T10:18:58+00:00
+seq:    2026-04-21-4
+msg:    test: add k6 load-test script for checkout flow
+nonce:  126649
+---
