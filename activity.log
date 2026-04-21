@@ -18233,3 +18233,9 @@ seq:    2026-04-21-6
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  106570
 ---
+## entry
+ts:     2026-04-21T11:21:39+00:00
+seq:    2026-04-21-7
+msg:    feat: create immutable audit-log service
+nonce:  132287
+---
