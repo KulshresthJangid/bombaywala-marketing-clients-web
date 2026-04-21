@@ -18239,3 +18239,9 @@ seq:    2026-04-21-7
 msg:    feat: create immutable audit-log service
 nonce:  132287
 ---
+## entry
+ts:     2026-04-21T11:24:20+00:00
+seq:    2026-04-21-8
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  100495
+---
