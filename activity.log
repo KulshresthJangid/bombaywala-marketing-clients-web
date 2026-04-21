@@ -18203,3 +18203,9 @@ seq:    2026-04-21-1
 msg:    chore: pin transitive dependency versions
 nonce:  126204
 ---
+## entry
+ts:     2026-04-21T09:25:18+00:00
+seq:    2026-04-21-2
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  101449
+---
