@@ -18227,3 +18227,9 @@ seq:    2026-04-21-5
 msg:    refactor: remove dead code from utils barrel
 nonce:  123750
 ---
+## entry
+ts:     2026-04-21T11:21:25+00:00
+seq:    2026-04-21-6
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  106570
+---
