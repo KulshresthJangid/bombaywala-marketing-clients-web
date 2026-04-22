@@ -43409,3 +43409,9 @@ seq:    2026-04-19-18
 msg:    chore: apply prettier to all source files
 nonce:  110577
 ---
+## entry
+ts:     2026-04-22T08:33:55+00:00
+seq:    2026-04-22-0
+msg:    docs: add architecture decision record for caching
+nonce:  112127
+---
