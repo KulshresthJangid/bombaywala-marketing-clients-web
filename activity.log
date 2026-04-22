@@ -18389,3 +18389,9 @@ seq:    2026-04-22-17
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  115700
 ---
+## entry
+ts:     2026-04-22T20:25:27+00:00
+seq:    2026-04-22-18
+msg:    test: improve assertion messages in user tests
+nonce:  128586
+---
