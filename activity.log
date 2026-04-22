@@ -43451,3 +43451,9 @@ seq:    2026-04-22-6
 msg:    fix: resolve CORS rejection on preflight
 nonce:  129420
 ---
+## entry
+ts:     2026-04-22T14:54:17+00:00
+seq:    2026-04-22-7
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  106219
+---
