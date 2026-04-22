@@ -43433,3 +43433,9 @@ seq:    2026-04-22-3
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  100946
 ---
+## entry
+ts:     2026-04-22T13:47:23+00:00
+seq:    2026-04-22-4
+msg:    perf: parallelise image-resize pipeline
+nonce:  129783
+---
