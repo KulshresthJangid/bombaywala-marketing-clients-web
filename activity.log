@@ -18341,3 +18341,9 @@ seq:    2026-04-22-9
 msg:    refactor: centralise API error-response factory
 nonce:  129524
 ---
+## entry
+ts:     2026-04-22T15:00:04+00:00
+seq:    2026-04-22-10
+msg:    feat: add GraphQL subscription support
+nonce:  103725
+---
