@@ -18275,3 +18275,15 @@ seq:    2026-04-21-13
 msg:    feat: add batch job processing queue
 nonce:  113962
 ---
+## entry
+ts:     2026-04-21T15:21:39+00:00
+seq:    2026-04-21-14
+msg:    test: add integration tests for /api/v2 routes
+nonce:  128115
+---
+## entry
+ts:     2026-04-22T08:01:22+00:00
+seq:    2026-04-22-0
+msg:    refactor: extract auth guard into shared middleware
+nonce:  110620
+---
