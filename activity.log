@@ -43427,3 +43427,9 @@ seq:    2026-04-22-2
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  102611
 ---
+## entry
+ts:     2026-04-22T11:49:27+00:00
+seq:    2026-04-22-3
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  100946
+---
