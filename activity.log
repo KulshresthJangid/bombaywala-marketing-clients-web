@@ -43445,3 +43445,9 @@ seq:    2026-04-22-5
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  112699
 ---
+## entry
+ts:     2026-04-22T14:45:51+00:00
+seq:    2026-04-22-6
+msg:    fix: resolve CORS rejection on preflight
+nonce:  129420
+---
