@@ -43421,3 +43421,9 @@ seq:    2026-04-22-1
 msg:    perf: parallelise image-resize pipeline
 nonce:  111477
 ---
+## entry
+ts:     2026-04-22T11:17:11+00:00
+seq:    2026-04-22-2
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  102611
+---
