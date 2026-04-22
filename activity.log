@@ -18311,3 +18311,9 @@ seq:    2026-04-22-4
 msg:    feat: add real-time notification system
 nonce:  105702
 ---
+## entry
+ts:     2026-04-22T12:07:20+00:00
+seq:    2026-04-22-5
+msg:    refactor: simplify connection pool configuration
+nonce:  101334
+---
