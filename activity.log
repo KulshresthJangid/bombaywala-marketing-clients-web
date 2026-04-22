@@ -18323,3 +18323,9 @@ seq:    2026-04-22-6
 msg:    chore: apply prettier to all source files
 nonce:  129910
 ---
+## entry
+ts:     2026-04-22T12:33:48+00:00
+seq:    2026-04-22-7
+msg:    chore: pin transitive dependency versions
+nonce:  124550
+---
