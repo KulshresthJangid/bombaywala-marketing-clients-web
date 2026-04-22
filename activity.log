@@ -18383,3 +18383,9 @@ seq:    2026-04-22-16
 msg:    feat: add rate-limiting middleware
 nonce:  116117
 ---
+## entry
+ts:     2026-04-22T20:23:12+00:00
+seq:    2026-04-22-17
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  115700
+---
