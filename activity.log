@@ -18407,3 +18407,9 @@ seq:    2026-04-22-20
 msg:    feat: add rate-limiting middleware
 nonce:  101506
 ---
+## entry
+ts:     2026-04-22T22:56:15+00:00
+seq:    2026-04-22-21
+msg:    chore: rotate copyright year in license header
+nonce:  129675
+---
