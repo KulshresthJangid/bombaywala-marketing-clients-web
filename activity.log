@@ -18401,3 +18401,9 @@ seq:    2026-04-22-19
 msg:    feat: create immutable audit-log service
 nonce:  114202
 ---
+## entry
+ts:     2026-04-22T22:55:44+00:00
+seq:    2026-04-22-20
+msg:    feat: add rate-limiting middleware
+nonce:  101506
+---
