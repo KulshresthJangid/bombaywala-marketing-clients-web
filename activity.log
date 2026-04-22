@@ -18329,3 +18329,9 @@ seq:    2026-04-22-7
 msg:    chore: pin transitive dependency versions
 nonce:  124550
 ---
+## entry
+ts:     2026-04-22T13:13:44+00:00
+seq:    2026-04-22-8
+msg:    refactor: move magic strings to constants module
+nonce:  104989
+---
