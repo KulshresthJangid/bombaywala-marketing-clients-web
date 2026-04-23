@@ -43571,3 +43571,9 @@ seq:    2026-04-23-15
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  123984
 ---
+## entry
+ts:     2026-04-23T16:23:31+00:00
+seq:    2026-04-23-16
+msg:    feat: implement file upload with S3 backend
+nonce:  100307
+---
