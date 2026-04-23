@@ -18473,3 +18473,9 @@ seq:    2026-04-23-9
 msg:    feat: integrate payment gateway
 nonce:  129944
 ---
+## entry
+ts:     2026-04-23T17:04:59+00:00
+seq:    2026-04-23-10
+msg:    fix: resolve null pointer in user service
+nonce:  102700
+---
