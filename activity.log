@@ -18491,3 +18491,9 @@ seq:    2026-04-23-12
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  116535
 ---
+## entry
+ts:     2026-04-23T21:50:28+00:00
+seq:    2026-04-23-13
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  125162
+---
