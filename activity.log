@@ -43499,3 +43499,9 @@ seq:    2026-04-23-3
 msg:    docs: add getting-started guide to README
 nonce:  102468
 ---
+## entry
+ts:     2026-04-23T11:17:49+00:00
+seq:    2026-04-23-4
+msg:    fix: correct off-by-one in pagination offset
+nonce:  122813
+---
