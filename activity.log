@@ -18425,3 +18425,9 @@ seq:    2026-04-23-1
 msg:    fix: resolve race condition in job queue
 nonce:  116289
 ---
+## entry
+ts:     2026-04-23T12:04:22+00:00
+seq:    2026-04-23-2
+msg:    fix: fix stale JWT after password reset
+nonce:  114929
+---
