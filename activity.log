@@ -18455,3 +18455,9 @@ seq:    2026-04-23-6
 msg:    feat: scaffold onboarding wizard UI
 nonce:  114001
 ---
+## entry
+ts:     2026-04-23T13:50:56+00:00
+seq:    2026-04-23-7
+msg:    test: improve assertion messages in user tests
+nonce:  132678
+---
