@@ -18461,3 +18461,9 @@ seq:    2026-04-23-7
 msg:    test: improve assertion messages in user tests
 nonce:  132678
 ---
+## entry
+ts:     2026-04-23T14:47:09+00:00
+seq:    2026-04-23-8
+msg:    feat: add OAuth2 social login flow
+nonce:  123660
+---
