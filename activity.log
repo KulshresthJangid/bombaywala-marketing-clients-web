@@ -18437,3 +18437,9 @@ seq:    2026-04-23-3
 msg:    test: add snapshot tests for report generator
 nonce:  112216
 ---
+## entry
+ts:     2026-04-23T13:01:12+00:00
+seq:    2026-04-23-4
+msg:    fix: sanitize user input in search filter
+nonce:  112954
+---
