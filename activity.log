@@ -18443,3 +18443,9 @@ seq:    2026-04-23-4
 msg:    fix: sanitize user input in search filter
 nonce:  112954
 ---
+## entry
+ts:     2026-04-23T13:25:46+00:00
+seq:    2026-04-23-5
+msg:    test: add edge-case tests for input validators
+nonce:  129943
+---
