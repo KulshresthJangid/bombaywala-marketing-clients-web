@@ -43487,3 +43487,9 @@ seq:    2026-04-23-1
 msg:    feat: implement two-factor authentication
 nonce:  123057
 ---
+## entry
+ts:     2026-04-23T10:11:14+00:00
+seq:    2026-04-23-2
+msg:    feat: add export-to-CSV functionality
+nonce:  116071
+---
