@@ -43511,3 +43511,9 @@ seq:    2026-04-23-5
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  108884
 ---
+## entry
+ts:     2026-04-23T11:19:56+00:00
+seq:    2026-04-23-6
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  131256
+---
