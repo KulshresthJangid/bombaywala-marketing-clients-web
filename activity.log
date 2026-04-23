@@ -43535,3 +43535,9 @@ seq:    2026-04-23-9
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  127634
 ---
+## entry
+ts:     2026-04-23T12:46:00+00:00
+seq:    2026-04-23-10
+msg:    perf: memoize expensive permission-check results
+nonce:  121693
+---
