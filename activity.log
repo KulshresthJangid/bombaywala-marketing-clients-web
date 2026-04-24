@@ -18599,3 +18599,9 @@ seq:    2026-04-24-16
 msg:    refactor: extract auth guard into shared middleware
 nonce:  109938
 ---
+## entry
+ts:     2026-04-24T16:08:43+00:00
+seq:    2026-04-24-17
+msg:    test: add edge-case tests for input validators
+nonce:  111834
+---
