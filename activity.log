@@ -18587,3 +18587,9 @@ seq:    2026-04-24-14
 msg:    test: improve assertion messages in user tests
 nonce:  101294
 ---
+## entry
+ts:     2026-04-24T15:27:28+00:00
+seq:    2026-04-24-15
+msg:    test: add k6 load-test script for checkout flow
+nonce:  114902
+---
