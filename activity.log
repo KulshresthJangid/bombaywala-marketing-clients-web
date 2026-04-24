@@ -43679,3 +43679,9 @@ seq:    2026-04-24-12
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  102441
 ---
+## entry
+ts:     2026-04-24T17:19:21+00:00
+seq:    2026-04-24-13
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  107122
+---
