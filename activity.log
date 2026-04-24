@@ -43691,3 +43691,9 @@ seq:    2026-04-24-14
 msg:    refactor: centralise API error-response factory
 nonce:  126362
 ---
+## entry
+ts:     2026-04-24T17:55:52+00:00
+seq:    2026-04-24-15
+msg:    fix: handle empty state on dashboard load
+nonce:  113022
+---
