@@ -18509,3 +18509,9 @@ seq:    2026-04-24-1
 msg:    refactor: migrate from winston to pino logger
 nonce:  128631
 ---
+## entry
+ts:     2026-04-24T11:19:31+00:00
+seq:    2026-04-24-2
+msg:    feat: implement role-based access control
+nonce:  104752
+---
