@@ -43649,3 +43649,9 @@ seq:    2026-04-24-7
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  122215
 ---
+## entry
+ts:     2026-04-24T13:51:06+00:00
+seq:    2026-04-24-8
+msg:    fix: resolve CORS rejection on preflight
+nonce:  127002
+---
