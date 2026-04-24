@@ -43673,3 +43673,9 @@ seq:    2026-04-24-11
 msg:    feat: add user authentication module
 nonce:  104086
 ---
+## entry
+ts:     2026-04-24T14:50:59+00:00
+seq:    2026-04-24-12
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  102441
+---
