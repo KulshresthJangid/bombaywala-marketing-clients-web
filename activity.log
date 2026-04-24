@@ -43601,3 +43601,9 @@ seq:    2026-04-23-20
 msg:    chore: apply prettier to all source files
 nonce:  100441
 ---
+## entry
+ts:     2026-04-24T09:29:19+00:00
+seq:    2026-04-24-0
+msg:    test: add integration tests for /api/v2 routes
+nonce:  120897
+---
