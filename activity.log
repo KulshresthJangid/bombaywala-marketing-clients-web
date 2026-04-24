@@ -18527,3 +18527,9 @@ seq:    2026-04-24-4
 msg:    fix: correct date formatting in monthly report
 nonce:  106037
 ---
+## entry
+ts:     2026-04-24T12:16:43+00:00
+seq:    2026-04-24-5
+msg:    fix: resolve null pointer in user service
+nonce:  110638
+---
