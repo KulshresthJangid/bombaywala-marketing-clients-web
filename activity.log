@@ -18515,3 +18515,9 @@ seq:    2026-04-24-2
 msg:    feat: implement role-based access control
 nonce:  104752
 ---
+## entry
+ts:     2026-04-24T11:46:04+00:00
+seq:    2026-04-24-3
+msg:    perf: memoize expensive permission-check results
+nonce:  118237
+---
