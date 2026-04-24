@@ -18581,3 +18581,9 @@ seq:    2026-04-24-13
 msg:    feat: create outbound webhook dispatcher
 nonce:  129260
 ---
+## entry
+ts:     2026-04-24T15:10:45+00:00
+seq:    2026-04-24-14
+msg:    test: improve assertion messages in user tests
+nonce:  101294
+---
