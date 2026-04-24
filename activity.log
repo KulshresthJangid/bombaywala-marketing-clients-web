@@ -18521,3 +18521,9 @@ seq:    2026-04-24-3
 msg:    perf: memoize expensive permission-check results
 nonce:  118237
 ---
+## entry
+ts:     2026-04-24T12:04:38+00:00
+seq:    2026-04-24-4
+msg:    fix: correct date formatting in monthly report
+nonce:  106037
+---
