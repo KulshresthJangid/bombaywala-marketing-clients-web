@@ -18575,3 +18575,9 @@ seq:    2026-04-24-12
 msg:    chore: reorganise src/ folder structure
 nonce:  100276
 ---
+## entry
+ts:     2026-04-24T14:57:51+00:00
+seq:    2026-04-24-13
+msg:    feat: create outbound webhook dispatcher
+nonce:  129260
+---
