@@ -18557,3 +18557,9 @@ seq:    2026-04-24-9
 msg:    chore: reorganise src/ folder structure
 nonce:  123954
 ---
+## entry
+ts:     2026-04-24T13:44:29+00:00
+seq:    2026-04-24-10
+msg:    fix: sanitize user input in search filter
+nonce:  104564
+---
