@@ -43631,3 +43631,9 @@ seq:    2026-04-24-4
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  132149
 ---
+## entry
+ts:     2026-04-24T12:12:59+00:00
+seq:    2026-04-24-5
+msg:    feat: add OAuth2 social login flow
+nonce:  131903
+---
