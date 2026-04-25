@@ -43751,3 +43751,9 @@ seq:    2026-04-25-5
 msg:    docs: add JSDoc to all public utility functions
 nonce:  130500
 ---
+## entry
+ts:     2026-04-25T14:37:32+00:00
+seq:    2026-04-25-6
+msg:    feat: add rate-limiting middleware
+nonce:  111553
+---
