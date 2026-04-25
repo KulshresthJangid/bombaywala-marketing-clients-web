@@ -43715,3 +43715,9 @@ seq:    2026-04-24-18
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  103751
 ---
+## entry
+ts:     2026-04-25T09:38:14+00:00
+seq:    2026-04-25-0
+msg:    chore: reorganise src/ folder structure
+nonce:  123382
+---
