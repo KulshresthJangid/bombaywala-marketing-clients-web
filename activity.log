@@ -43793,3 +43793,9 @@ seq:    2026-04-25-12
 msg:    docs: add getting-started guide to README
 nonce:  125499
 ---
+## entry
+ts:     2026-04-25T19:50:54+00:00
+seq:    2026-04-25-13
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  126753
+---
