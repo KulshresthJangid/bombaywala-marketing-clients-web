@@ -43739,3 +43739,9 @@ seq:    2026-04-25-3
 msg:    docs: add getting-started guide to README
 nonce:  106378
 ---
+## entry
+ts:     2026-04-25T13:38:41+00:00
+seq:    2026-04-25-4
+msg:    fix: fix stale JWT after password reset
+nonce:  109122
+---
