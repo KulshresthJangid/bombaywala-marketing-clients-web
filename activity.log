@@ -18707,3 +18707,9 @@ seq:    2026-04-27-11
 msg:    feat: add Stripe subscription billing
 nonce:  124012
 ---
+## entry
+ts:     2026-04-27T16:24:47+00:00
+seq:    2026-04-27-12
+msg:    perf: lazy-load heavy chart library
+nonce:  104446
+---
