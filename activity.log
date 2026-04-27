@@ -18719,3 +18719,9 @@ seq:    2026-04-27-13
 msg:    chore: reorganise src/ folder structure
 nonce:  107145
 ---
+## entry
+ts:     2026-04-27T17:42:20+00:00
+seq:    2026-04-27-14
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  104784
+---
