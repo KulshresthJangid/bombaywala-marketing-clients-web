@@ -18701,3 +18701,9 @@ seq:    2026-04-27-10
 msg:    feat: implement dashboard analytics
 nonce:  103462
 ---
+## entry
+ts:     2026-04-27T16:06:48+00:00
+seq:    2026-04-27-11
+msg:    feat: add Stripe subscription billing
+nonce:  124012
+---
