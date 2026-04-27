@@ -18677,3 +18677,9 @@ seq:    2026-04-27-6
 msg:    refactor: centralise API error-response factory
 nonce:  132219
 ---
+## entry
+ts:     2026-04-27T14:38:07+00:00
+seq:    2026-04-27-7
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  126707
+---
