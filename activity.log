@@ -18653,3 +18653,9 @@ seq:    2026-04-27-2
 msg:    refactor: split God-service into focused modules
 nonce:  132182
 ---
+## entry
+ts:     2026-04-27T12:17:51+00:00
+seq:    2026-04-27-3
+msg:    refactor: remove dead code from utils barrel
+nonce:  103374
+---
