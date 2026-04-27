@@ -18641,3 +18641,9 @@ seq:    2026-04-27-0
 msg:    fix: correct off-by-one in pagination offset
 nonce:  122853
 ---
+## entry
+ts:     2026-04-27T10:58:18+00:00
+seq:    2026-04-27-1
+msg:    feat: implement Redis caching layer
+nonce:  115150
+---
