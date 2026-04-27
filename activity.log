@@ -18659,3 +18659,9 @@ seq:    2026-04-27-3
 msg:    refactor: remove dead code from utils barrel
 nonce:  103374
 ---
+## entry
+ts:     2026-04-27T12:51:52+00:00
+seq:    2026-04-27-4
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  108509
+---
