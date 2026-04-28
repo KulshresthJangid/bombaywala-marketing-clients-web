@@ -43823,3 +43823,9 @@ seq:    2026-04-28-2
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  101188
 ---
+## entry
+ts:     2026-04-28T09:49:22+00:00
+seq:    2026-04-28-3
+msg:    chore: rotate copyright year in license header
+nonce:  125410
+---
