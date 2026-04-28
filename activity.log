@@ -18743,3 +18743,9 @@ seq:    2026-04-28-0
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  126682
 ---
+## entry
+ts:     2026-04-28T11:43:05+00:00
+seq:    2026-04-28-1
+msg:    feat: add Stripe subscription billing
+nonce:  108250
+---
