@@ -43817,3 +43817,9 @@ seq:    2026-04-28-1
 msg:    perf: enable gzip compression on API responses
 nonce:  121217
 ---
+## entry
+ts:     2026-04-28T09:20:05+00:00
+seq:    2026-04-28-2
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  101188
+---
