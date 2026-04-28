@@ -18815,3 +18815,9 @@ seq:    2026-04-28-12
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  116974
 ---
+## entry
+ts:     2026-04-28T17:18:22+00:00
+seq:    2026-04-28-13
+msg:    fix: handle empty state on dashboard load
+nonce:  124782
+---
