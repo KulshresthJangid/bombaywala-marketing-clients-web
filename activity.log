@@ -18755,3 +18755,9 @@ seq:    2026-04-28-2
 msg:    test: add edge-case tests for input validators
 nonce:  120722
 ---
+## entry
+ts:     2026-04-28T12:00:21+00:00
+seq:    2026-04-28-3
+msg:    test: add k6 load-test script for checkout flow
+nonce:  124853
+---
