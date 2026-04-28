@@ -43883,3 +43883,9 @@ seq:    2026-04-28-12
 msg:    docs: document required environment variables
 nonce:  116666
 ---
+## entry
+ts:     2026-04-28T17:53:29+00:00
+seq:    2026-04-28-13
+msg:    refactor: replace callback hell with async/await
+nonce:  102395
+---
