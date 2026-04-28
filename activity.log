@@ -18797,3 +18797,9 @@ seq:    2026-04-28-9
 msg:    perf: memoize expensive permission-check results
 nonce:  128573
 ---
+## entry
+ts:     2026-04-28T16:19:47+00:00
+seq:    2026-04-28-10
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  126180
+---
