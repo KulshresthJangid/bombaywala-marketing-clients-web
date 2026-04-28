@@ -18833,3 +18833,9 @@ seq:    2026-04-28-15
 msg:    feat: implement dashboard analytics
 nonce:  106617
 ---
+## entry
+ts:     2026-04-28T21:50:30+00:00
+seq:    2026-04-28-16
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  107449
+---
