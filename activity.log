@@ -43835,3 +43835,9 @@ seq:    2026-04-28-4
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  130926
 ---
+## entry
+ts:     2026-04-28T12:53:39+00:00
+seq:    2026-04-28-5
+msg:    fix: patch reflected-XSS in comment field
+nonce:  113612
+---
