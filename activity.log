@@ -43811,3 +43811,9 @@ seq:    2026-04-28-0
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  124496
 ---
+## entry
+ts:     2026-04-28T08:43:03+00:00
+seq:    2026-04-28-1
+msg:    perf: enable gzip compression on API responses
+nonce:  121217
+---
