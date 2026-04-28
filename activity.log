@@ -18791,3 +18791,9 @@ seq:    2026-04-28-8
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  119939
 ---
+## entry
+ts:     2026-04-28T15:48:31+00:00
+seq:    2026-04-28-9
+msg:    perf: memoize expensive permission-check results
+nonce:  128573
+---
