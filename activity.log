@@ -18803,3 +18803,9 @@ seq:    2026-04-28-10
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  126180
 ---
+## entry
+ts:     2026-04-28T16:31:44+00:00
+seq:    2026-04-28-11
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  107849
+---
