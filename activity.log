@@ -18821,3 +18821,9 @@ seq:    2026-04-28-13
 msg:    fix: handle empty state on dashboard load
 nonce:  124782
 ---
+## entry
+ts:     2026-04-28T18:37:58+00:00
+seq:    2026-04-28-14
+msg:    test: add edge-case tests for input validators
+nonce:  129839
+---
