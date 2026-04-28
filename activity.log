@@ -43805,3 +43805,9 @@ seq:    2026-04-25-14
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  125864
 ---
+## entry
+ts:     2026-04-28T08:25:44+00:00
+seq:    2026-04-28-0
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  124496
+---
