@@ -43829,3 +43829,9 @@ seq:    2026-04-28-3
 msg:    chore: rotate copyright year in license header
 nonce:  125410
 ---
+## entry
+ts:     2026-04-28T10:20:20+00:00
+seq:    2026-04-28-4
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  130926
+---
