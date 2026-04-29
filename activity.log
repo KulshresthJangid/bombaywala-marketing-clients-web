@@ -43997,3 +43997,9 @@ seq:    2026-04-29-14
 msg:    refactor: simplify connection pool configuration
 nonce:  128285
 ---
+## entry
+ts:     2026-04-29T14:12:55+00:00
+seq:    2026-04-29-15
+msg:    feat: add GraphQL subscription support
+nonce:  120811
+---
