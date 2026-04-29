@@ -44021,3 +44021,9 @@ seq:    2026-04-29-18
 msg:    test: add edge-case tests for input validators
 nonce:  125644
 ---
+## entry
+ts:     2026-04-29T17:39:20+00:00
+seq:    2026-04-29-19
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  113209
+---
