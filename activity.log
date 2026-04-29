@@ -43943,3 +43943,9 @@ seq:    2026-04-29-5
 msg:    feat: implement dashboard analytics
 nonce:  115564
 ---
+## entry
+ts:     2026-04-29T11:55:35+00:00
+seq:    2026-04-29-6
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  114383
+---
