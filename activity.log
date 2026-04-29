@@ -43991,3 +43991,9 @@ seq:    2026-04-29-13
 msg:    docs: add getting-started guide to README
 nonce:  112474
 ---
+## entry
+ts:     2026-04-29T14:04:06+00:00
+seq:    2026-04-29-14
+msg:    refactor: simplify connection pool configuration
+nonce:  128285
+---
