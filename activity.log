@@ -43973,3 +43973,9 @@ seq:    2026-04-29-10
 msg:    feat: add user authentication module
 nonce:  104153
 ---
+## entry
+ts:     2026-04-29T12:38:51+00:00
+seq:    2026-04-29-11
+msg:    feat: scaffold onboarding wizard UI
+nonce:  118597
+---
