@@ -44009,3 +44009,9 @@ seq:    2026-04-29-16
 msg:    test: add unit tests for AuthService
 nonce:  111967
 ---
+## entry
+ts:     2026-04-29T16:44:18+00:00
+seq:    2026-04-29-17
+msg:    perf: parallelise image-resize pipeline
+nonce:  122934
+---
