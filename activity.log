@@ -44033,3 +44033,9 @@ seq:    2026-04-29-20
 msg:    perf: trim unnecessary fields from list responses
 nonce:  128414
 ---
+## entry
+ts:     2026-04-29T21:10:39+00:00
+seq:    2026-04-29-21
+msg:    fix: resolve null pointer in user service
+nonce:  113773
+---
