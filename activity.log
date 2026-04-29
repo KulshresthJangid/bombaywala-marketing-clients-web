@@ -43949,3 +43949,9 @@ seq:    2026-04-29-6
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  114383
 ---
+## entry
+ts:     2026-04-29T11:57:12+00:00
+seq:    2026-04-29-7
+msg:    test: raise coverage floor for payment module
+nonce:  118481
+---
