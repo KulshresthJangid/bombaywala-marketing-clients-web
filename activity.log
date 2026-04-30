@@ -44111,3 +44111,9 @@ seq:    2026-04-30-10
 msg:    feat: add real-time notification system
 nonce:  107307
 ---
+## entry
+ts:     2026-04-30T16:58:26+00:00
+seq:    2026-04-30-11
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  104684
+---
