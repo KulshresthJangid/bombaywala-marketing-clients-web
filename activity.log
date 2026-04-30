@@ -44045,3 +44045,9 @@ seq:    2026-04-29-22
 msg:    perf: trim unnecessary fields from list responses
 nonce:  102477
 ---
+## entry
+ts:     2026-04-30T11:47:01+00:00
+seq:    2026-04-30-0
+msg:    feat: implement file upload with S3 backend
+nonce:  131822
+---
