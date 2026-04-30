@@ -44051,3 +44051,9 @@ seq:    2026-04-30-0
 msg:    feat: implement file upload with S3 backend
 nonce:  131822
 ---
+## entry
+ts:     2026-04-30T12:20:56+00:00
+seq:    2026-04-30-1
+msg:    refactor: extract auth guard into shared middleware
+nonce:  110146
+---
