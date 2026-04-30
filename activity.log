@@ -44117,3 +44117,9 @@ seq:    2026-04-30-11
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  104684
 ---
+## entry
+ts:     2026-04-30T17:25:32+00:00
+seq:    2026-04-30-12
+msg:    docs: add getting-started guide to README
+nonce:  131164
+---
