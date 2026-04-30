@@ -44081,3 +44081,9 @@ seq:    2026-04-30-5
 msg:    fix: patch reflected-XSS in comment field
 nonce:  107267
 ---
+## entry
+ts:     2026-04-30T14:06:23+00:00
+seq:    2026-04-30-6
+msg:    test: add edge-case tests for input validators
+nonce:  114524
+---
