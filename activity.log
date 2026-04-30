@@ -44075,3 +44075,9 @@ seq:    2026-04-30-4
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  120373
 ---
+## entry
+ts:     2026-04-30T13:52:52+00:00
+seq:    2026-04-30-5
+msg:    fix: patch reflected-XSS in comment field
+nonce:  107267
+---
