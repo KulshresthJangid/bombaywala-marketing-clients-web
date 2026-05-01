@@ -44189,3 +44189,9 @@ seq:    2026-05-01-8
 msg:    feat: add real-time notification system
 nonce:  108446
 ---
+## entry
+ts:     2026-05-01T14:13:06+00:00
+seq:    2026-05-01-9
+msg:    test: improve assertion messages in user tests
+nonce:  107047
+---
