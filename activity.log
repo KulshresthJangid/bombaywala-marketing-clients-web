@@ -44225,3 +44225,9 @@ seq:    2026-05-01-14
 msg:    docs: update CHANGELOG for next release
 nonce:  111917
 ---
+## entry
+ts:     2026-05-01T18:55:21+00:00
+seq:    2026-05-01-15
+msg:    test: add unit tests for AuthService
+nonce:  131102
+---
