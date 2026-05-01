@@ -44177,3 +44177,9 @@ seq:    2026-05-01-6
 msg:    refactor: centralise API error-response factory
 nonce:  113543
 ---
+## entry
+ts:     2026-05-01T13:52:01+00:00
+seq:    2026-05-01-7
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  113992
+---
