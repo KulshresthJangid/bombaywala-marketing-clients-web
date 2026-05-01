@@ -18917,3 +18917,9 @@ seq:    2026-05-01-12
 msg:    test: add integration tests for /api/v2 routes
 nonce:  128055
 ---
+## entry
+ts:     2026-05-01T19:49:53+00:00
+seq:    2026-05-01-13
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  117311
+---
