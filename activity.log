@@ -44195,3 +44195,9 @@ seq:    2026-05-01-9
 msg:    test: improve assertion messages in user tests
 nonce:  107047
 ---
+## entry
+ts:     2026-05-01T14:22:05+00:00
+seq:    2026-05-01-10
+msg:    refactor: remove dead code from utils barrel
+nonce:  113430
+---
