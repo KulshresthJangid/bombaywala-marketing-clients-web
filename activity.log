@@ -18875,3 +18875,9 @@ seq:    2026-05-01-5
 msg:    feat: add user authentication module
 nonce:  108143
 ---
+## entry
+ts:     2026-05-01T12:26:16+00:00
+seq:    2026-05-01-6
+msg:    fix: resolve null pointer in user service
+nonce:  118906
+---
