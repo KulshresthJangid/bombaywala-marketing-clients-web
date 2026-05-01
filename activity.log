@@ -44153,3 +44153,9 @@ seq:    2026-05-01-2
 msg:    feat: implement file upload with S3 backend
 nonce:  108977
 ---
+## entry
+ts:     2026-05-01T10:55:13+00:00
+seq:    2026-05-01-3
+msg:    docs: update CHANGELOG for next release
+nonce:  118206
+---
