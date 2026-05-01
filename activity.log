@@ -44219,3 +44219,9 @@ seq:    2026-05-01-13
 msg:    chore: apply prettier to all source files
 nonce:  124547
 ---
+## entry
+ts:     2026-05-01T15:30:37+00:00
+seq:    2026-05-01-14
+msg:    docs: update CHANGELOG for next release
+nonce:  111917
+---
