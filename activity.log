@@ -18923,3 +18923,9 @@ seq:    2026-05-01-13
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  117311
 ---
+## entry
+ts:     2026-05-01T21:39:02+00:00
+seq:    2026-05-01-14
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  111817
+---
