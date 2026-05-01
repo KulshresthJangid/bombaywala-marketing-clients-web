@@ -44159,3 +44159,9 @@ seq:    2026-05-01-3
 msg:    docs: update CHANGELOG for next release
 nonce:  118206
 ---
+## entry
+ts:     2026-05-01T12:15:24+00:00
+seq:    2026-05-01-4
+msg:    perf: memoize expensive permission-check results
+nonce:  106637
+---
