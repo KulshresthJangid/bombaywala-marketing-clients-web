@@ -18839,3 +18839,9 @@ seq:    2026-04-28-16
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  107449
 ---
+## entry
+ts:     2026-05-01T08:23:46+00:00
+seq:    2026-05-01-0
+msg:    test: raise coverage floor for payment module
+nonce:  121370
+---
