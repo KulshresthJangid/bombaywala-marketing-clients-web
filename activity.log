@@ -18881,3 +18881,9 @@ seq:    2026-05-01-6
 msg:    fix: resolve null pointer in user service
 nonce:  118906
 ---
+## entry
+ts:     2026-05-01T13:00:04+00:00
+seq:    2026-05-01-7
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  100727
+---
