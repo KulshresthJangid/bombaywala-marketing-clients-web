@@ -18851,3 +18851,9 @@ seq:    2026-05-01-1
 msg:    feat: scaffold onboarding wizard UI
 nonce:  112340
 ---
+## entry
+ts:     2026-05-01T11:35:49+00:00
+seq:    2026-05-01-2
+msg:    test: add edge-case tests for input validators
+nonce:  131848
+---
