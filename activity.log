@@ -18857,3 +18857,9 @@ seq:    2026-05-01-2
 msg:    test: add edge-case tests for input validators
 nonce:  131848
 ---
+## entry
+ts:     2026-05-01T11:38:50+00:00
+seq:    2026-05-01-3
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  109599
+---
