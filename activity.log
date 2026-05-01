@@ -18893,3 +18893,9 @@ seq:    2026-05-01-8
 msg:    test: add unit tests for AuthService
 nonce:  129493
 ---
+## entry
+ts:     2026-05-01T13:44:01+00:00
+seq:    2026-05-01-9
+msg:    fix: correct date formatting in monthly report
+nonce:  116520
+---
