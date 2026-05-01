@@ -18905,3 +18905,9 @@ seq:    2026-05-01-10
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  115929
 ---
+## entry
+ts:     2026-05-01T15:31:55+00:00
+seq:    2026-05-01-11
+msg:    chore: apply prettier to all source files
+nonce:  104382
+---
