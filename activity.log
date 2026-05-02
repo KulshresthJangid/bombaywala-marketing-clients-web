@@ -44279,3 +44279,9 @@ seq:    2026-05-02-3
 msg:    refactor: split God-service into focused modules
 nonce:  123584
 ---
+## entry
+ts:     2026-05-02T10:41:03+00:00
+seq:    2026-05-02-4
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  100515
+---
