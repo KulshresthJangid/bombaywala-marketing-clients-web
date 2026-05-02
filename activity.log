@@ -44327,3 +44327,9 @@ seq:    2026-05-02-11
 msg:    docs: document required environment variables
 nonce:  102484
 ---
+## entry
+ts:     2026-05-02T15:57:20+00:00
+seq:    2026-05-02-12
+msg:    fix: resolve CORS rejection on preflight
+nonce:  106009
+---
