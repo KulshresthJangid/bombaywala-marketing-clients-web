@@ -44339,3 +44339,9 @@ seq:    2026-05-02-13
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  104268
 ---
+## entry
+ts:     2026-05-02T16:28:14+00:00
+seq:    2026-05-02-14
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  131337
+---
