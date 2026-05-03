@@ -44375,3 +44375,9 @@ seq:    2026-05-03-0
 msg:    chore: rotate copyright year in license header
 nonce:  112853
 ---
+## entry
+ts:     2026-05-03T10:42:43+00:00
+seq:    2026-05-03-1
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  128295
+---
