@@ -44411,3 +44411,9 @@ seq:    2026-05-03-6
 msg:    fix: correct off-by-one in pagination offset
 nonce:  123828
 ---
+## entry
+ts:     2026-05-03T17:07:02+00:00
+seq:    2026-05-03-7
+msg:    test: stub external HTTP calls in unit suite
+nonce:  112923
+---
