@@ -44405,3 +44405,9 @@ seq:    2026-05-03-5
 msg:    test: add snapshot tests for report generator
 nonce:  120945
 ---
+## entry
+ts:     2026-05-03T14:01:29+00:00
+seq:    2026-05-03-6
+msg:    fix: correct off-by-one in pagination offset
+nonce:  123828
+---
