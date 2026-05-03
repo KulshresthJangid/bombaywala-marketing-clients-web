@@ -44369,3 +44369,9 @@ seq:    2026-05-02-18
 msg:    fix: resolve CORS rejection on preflight
 nonce:  112935
 ---
+## entry
+ts:     2026-05-03T10:02:40+00:00
+seq:    2026-05-03-0
+msg:    chore: rotate copyright year in license header
+nonce:  112853
+---
