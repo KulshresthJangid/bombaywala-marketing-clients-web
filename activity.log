@@ -19025,3 +19025,9 @@ seq:    2026-05-04-15
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  120871
 ---
+## entry
+ts:     2026-05-04T22:05:03+00:00
+seq:    2026-05-04-16
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  111036
+---
