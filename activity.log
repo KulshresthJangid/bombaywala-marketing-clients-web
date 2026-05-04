@@ -18941,3 +18941,9 @@ seq:    2026-05-04-1
 msg:    refactor: centralise API error-response factory
 nonce:  103303
 ---
+## entry
+ts:     2026-05-04T10:46:05+00:00
+seq:    2026-05-04-2
+msg:    fix: resolve race condition in job queue
+nonce:  102315
+---
