@@ -18989,3 +18989,9 @@ seq:    2026-05-04-9
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  123811
 ---
+## entry
+ts:     2026-05-04T16:26:00+00:00
+seq:    2026-05-04-10
+msg:    fix: correct off-by-one in pagination offset
+nonce:  132132
+---
