@@ -18935,3 +18935,9 @@ seq:    2026-05-04-0
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  111036
 ---
+## entry
+ts:     2026-05-04T10:30:42+00:00
+seq:    2026-05-04-1
+msg:    refactor: centralise API error-response factory
+nonce:  103303
+---
