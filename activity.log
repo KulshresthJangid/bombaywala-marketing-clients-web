@@ -44495,3 +44495,9 @@ seq:    2026-05-04-10
 msg:    test: stub external HTTP calls in unit suite
 nonce:  112374
 ---
+## entry
+ts:     2026-05-04T13:05:33+00:00
+seq:    2026-05-04-11
+msg:    test: add snapshot tests for report generator
+nonce:  109800
+---
