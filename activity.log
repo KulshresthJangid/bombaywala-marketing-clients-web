@@ -19013,3 +19013,9 @@ seq:    2026-05-04-13
 msg:    feat: integrate payment gateway
 nonce:  108713
 ---
+## entry
+ts:     2026-05-04T19:20:04+00:00
+seq:    2026-05-04-14
+msg:    docs: update CHANGELOG for next release
+nonce:  132010
+---
