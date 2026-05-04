@@ -19007,3 +19007,9 @@ seq:    2026-05-04-12
 msg:    refactor: centralise API error-response factory
 nonce:  124132
 ---
+## entry
+ts:     2026-05-04T17:57:57+00:00
+seq:    2026-05-04-13
+msg:    feat: integrate payment gateway
+nonce:  108713
+---
