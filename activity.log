@@ -18983,3 +18983,9 @@ seq:    2026-05-04-8
 msg:    test: add snapshot tests for report generator
 nonce:  103522
 ---
+## entry
+ts:     2026-05-04T15:39:00+00:00
+seq:    2026-05-04-9
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  123811
+---
