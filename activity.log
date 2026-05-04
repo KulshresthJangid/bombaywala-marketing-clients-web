@@ -18929,3 +18929,9 @@ seq:    2026-05-01-14
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  111817
 ---
+## entry
+ts:     2026-05-04T10:18:51+00:00
+seq:    2026-05-04-0
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  111036
+---
