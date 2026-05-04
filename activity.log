@@ -44459,3 +44459,9 @@ seq:    2026-05-04-4
 msg:    chore: remove unused imports across codebase
 nonce:  129404
 ---
+## entry
+ts:     2026-05-04T11:27:09+00:00
+seq:    2026-05-04-5
+msg:    perf: parallelise image-resize pipeline
+nonce:  129453
+---
