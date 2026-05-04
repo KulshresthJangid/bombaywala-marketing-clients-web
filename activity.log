@@ -44471,3 +44471,9 @@ seq:    2026-05-04-6
 msg:    refactor: consolidate duplicate validation logic
 nonce:  101415
 ---
+## entry
+ts:     2026-05-04T11:41:25+00:00
+seq:    2026-05-04-7
+msg:    fix: patch reflected-XSS in comment field
+nonce:  116464
+---
