@@ -18971,3 +18971,9 @@ seq:    2026-05-04-6
 msg:    chore: remove unused imports across codebase
 nonce:  100397
 ---
+## entry
+ts:     2026-05-04T15:14:12+00:00
+seq:    2026-05-04-7
+msg:    docs: add JSDoc to all public utility functions
+nonce:  128218
+---
