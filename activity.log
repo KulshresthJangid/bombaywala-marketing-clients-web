@@ -19037,3 +19037,9 @@ seq:    2026-05-05-0
 msg:    refactor: split God-service into focused modules
 nonce:  118911
 ---
+## entry
+ts:     2026-05-05T10:26:32+00:00
+seq:    2026-05-05-1
+msg:    feat: implement full-text search with filters
+nonce:  114389
+---
