@@ -19055,3 +19055,9 @@ seq:    2026-05-05-3
 msg:    perf: lazy-load heavy chart library
 nonce:  110806
 ---
+## entry
+ts:     2026-05-05T13:56:13+00:00
+seq:    2026-05-05-4
+msg:    feat: add GraphQL subscription support
+nonce:  120072
+---
