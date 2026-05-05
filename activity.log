@@ -19061,3 +19061,9 @@ seq:    2026-05-05-4
 msg:    feat: add GraphQL subscription support
 nonce:  120072
 ---
+## entry
+ts:     2026-05-05T14:09:48+00:00
+seq:    2026-05-05-5
+msg:    test: raise coverage floor for payment module
+nonce:  106075
+---
