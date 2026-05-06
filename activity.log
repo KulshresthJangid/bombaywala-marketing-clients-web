@@ -19109,3 +19109,9 @@ seq:    2026-05-06-2
 msg:    refactor: split God-service into focused modules
 nonce:  110532
 ---
+## entry
+ts:     2026-05-06T11:44:00+00:00
+seq:    2026-05-06-3
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  111453
+---
