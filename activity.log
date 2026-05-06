@@ -19115,3 +19115,9 @@ seq:    2026-05-06-3
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  111453
 ---
+## entry
+ts:     2026-05-06T12:02:49+00:00
+seq:    2026-05-06-4
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  131798
+---
