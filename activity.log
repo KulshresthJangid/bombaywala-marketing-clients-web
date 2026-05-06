@@ -19121,3 +19121,9 @@ seq:    2026-05-06-4
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  131798
 ---
+## entry
+ts:     2026-05-06T13:40:18+00:00
+seq:    2026-05-06-5
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  121046
+---
