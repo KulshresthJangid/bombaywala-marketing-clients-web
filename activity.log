@@ -19169,3 +19169,9 @@ seq:    2026-05-06-12
 msg:    refactor: centralise API error-response factory
 nonce:  113447
 ---
+## entry
+ts:     2026-05-06T18:13:12+00:00
+seq:    2026-05-06-13
+msg:    fix: patch reflected-XSS in comment field
+nonce:  114418
+---
