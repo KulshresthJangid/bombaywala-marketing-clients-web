@@ -19139,3 +19139,9 @@ seq:    2026-05-06-7
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  121921
 ---
+## entry
+ts:     2026-05-06T16:13:25+00:00
+seq:    2026-05-06-8
+msg:    refactor: migrate from winston to pino logger
+nonce:  102297
+---
