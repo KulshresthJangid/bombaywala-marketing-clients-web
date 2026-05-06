@@ -19127,3 +19127,9 @@ seq:    2026-05-06-5
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  121046
 ---
+## entry
+ts:     2026-05-06T15:39:42+00:00
+seq:    2026-05-06-6
+msg:    feat: add OAuth2 social login flow
+nonce:  111071
+---
