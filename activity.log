@@ -19163,3 +19163,9 @@ seq:    2026-05-06-11
 msg:    perf: parallelise image-resize pipeline
 nonce:  109557
 ---
+## entry
+ts:     2026-05-06T17:29:33+00:00
+seq:    2026-05-06-12
+msg:    refactor: centralise API error-response factory
+nonce:  113447
+---
