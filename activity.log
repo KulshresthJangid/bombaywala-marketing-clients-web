@@ -19097,3 +19097,9 @@ seq:    2026-05-06-0
 msg:    perf: lazy-load heavy chart library
 nonce:  125379
 ---
+## entry
+ts:     2026-05-06T10:18:46+00:00
+seq:    2026-05-06-1
+msg:    chore: pin transitive dependency versions
+nonce:  129742
+---
