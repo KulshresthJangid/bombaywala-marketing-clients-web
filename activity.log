@@ -19205,3 +19205,9 @@ seq:    2026-05-08-0
 msg:    feat: add cursor-based pagination
 nonce:  130391
 ---
+## entry
+ts:     2026-05-08T10:01:25+00:00
+seq:    2026-05-08-1
+msg:    refactor: simplify connection pool configuration
+nonce:  103835
+---
