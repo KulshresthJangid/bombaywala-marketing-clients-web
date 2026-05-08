@@ -19247,3 +19247,9 @@ seq:    2026-05-08-7
 msg:    chore: reorganise src/ folder structure
 nonce:  104589
 ---
+## entry
+ts:     2026-05-08T19:48:12+00:00
+seq:    2026-05-08-8
+msg:    fix: resolve race condition in job queue
+nonce:  124547
+---
