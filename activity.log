@@ -19253,3 +19253,9 @@ seq:    2026-05-08-8
 msg:    fix: resolve race condition in job queue
 nonce:  124547
 ---
+## entry
+ts:     2026-05-08T21:10:04+00:00
+seq:    2026-05-08-9
+msg:    feat: add Stripe subscription billing
+nonce:  127947
+---
