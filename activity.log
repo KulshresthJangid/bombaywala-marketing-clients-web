@@ -19199,3 +19199,9 @@ seq:    2026-05-06-17
 msg:    docs: update REST API reference for v2 endpoints
 nonce:  121525
 ---
+## entry
+ts:     2026-05-08T08:20:50+00:00
+seq:    2026-05-08-0
+msg:    feat: add cursor-based pagination
+nonce:  130391
+---
