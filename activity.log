@@ -19229,3 +19229,9 @@ seq:    2026-05-08-4
 msg:    refactor: extract auth guard into shared middleware
 nonce:  105397
 ---
+## entry
+ts:     2026-05-08T13:57:37+00:00
+seq:    2026-05-08-5
+msg:    perf: memoize expensive permission-check results
+nonce:  123151
+---
