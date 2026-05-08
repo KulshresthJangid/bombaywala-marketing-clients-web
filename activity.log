@@ -19241,3 +19241,9 @@ seq:    2026-05-08-6
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  108200
 ---
+## entry
+ts:     2026-05-08T19:46:49+00:00
+seq:    2026-05-08-7
+msg:    chore: reorganise src/ folder structure
+nonce:  104589
+---
