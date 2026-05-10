@@ -19259,3 +19259,9 @@ seq:    2026-05-08-9
 msg:    feat: add Stripe subscription billing
 nonce:  127947
 ---
+## entry
+ts:     2026-05-10T10:22:53+00:00
+seq:    2026-05-10-0
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  104873
+---
