@@ -19295,3 +19295,9 @@ seq:    2026-05-10-5
 msg:    chore: pin transitive dependency versions
 nonce:  122252
 ---
+## entry
+ts:     2026-05-10T15:28:49+00:00
+seq:    2026-05-10-6
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  132253
+---
