@@ -19301,3 +19301,9 @@ seq:    2026-05-10-6
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  132253
 ---
+## entry
+ts:     2026-05-10T17:17:37+00:00
+seq:    2026-05-10-7
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  121139
+---
