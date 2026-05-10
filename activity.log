@@ -19289,3 +19289,9 @@ seq:    2026-05-10-4
 msg:    fix: resolve CORS rejection on preflight
 nonce:  101547
 ---
+## entry
+ts:     2026-05-10T15:13:04+00:00
+seq:    2026-05-10-5
+msg:    chore: pin transitive dependency versions
+nonce:  122252
+---
