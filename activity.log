@@ -19313,3 +19313,9 @@ seq:    2026-05-10-8
 msg:    fix: sanitize user input in search filter
 nonce:  112037
 ---
+## entry
+ts:     2026-05-10T18:45:53+00:00
+seq:    2026-05-10-9
+msg:    fix: handle empty state on dashboard load
+nonce:  130031
+---
