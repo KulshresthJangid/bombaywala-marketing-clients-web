@@ -19307,3 +19307,9 @@ seq:    2026-05-10-7
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  121139
 ---
+## entry
+ts:     2026-05-10T18:11:45+00:00
+seq:    2026-05-10-8
+msg:    fix: sanitize user input in search filter
+nonce:  112037
+---
