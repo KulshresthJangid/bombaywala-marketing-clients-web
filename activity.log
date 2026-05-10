@@ -19283,3 +19283,9 @@ seq:    2026-05-10-3
 msg:    fix: sanitize user input in search filter
 nonce:  128743
 ---
+## entry
+ts:     2026-05-10T15:02:43+00:00
+seq:    2026-05-10-4
+msg:    fix: resolve CORS rejection on preflight
+nonce:  101547
+---
