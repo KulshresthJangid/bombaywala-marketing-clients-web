@@ -19355,3 +19355,9 @@ seq:    2026-05-11-3
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  111978
 ---
+## entry
+ts:     2026-05-11T14:26:31+00:00
+seq:    2026-05-11-4
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  115664
+---
