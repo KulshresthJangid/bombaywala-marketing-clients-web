@@ -19361,3 +19361,9 @@ seq:    2026-05-11-4
 msg:    docs: add CONTRIBUTING.md guidelines
 nonce:  115664
 ---
+## entry
+ts:     2026-05-11T14:59:59+00:00
+seq:    2026-05-11-5
+msg:    chore: apply prettier to all source files
+nonce:  109358
+---
