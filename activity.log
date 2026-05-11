@@ -19391,3 +19391,9 @@ seq:    2026-05-11-9
 msg:    chore: pin transitive dependency versions
 nonce:  106323
 ---
+## entry
+ts:     2026-05-11T18:24:30+00:00
+seq:    2026-05-11-10
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  118251
+---
