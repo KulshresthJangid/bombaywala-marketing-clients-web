@@ -19331,3 +19331,9 @@ seq:    2026-05-10-11
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  113305
 ---
+## entry
+ts:     2026-05-11T08:45:50+00:00
+seq:    2026-05-11-0
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  103102
+---
