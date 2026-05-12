@@ -19403,3 +19403,9 @@ seq:    2026-05-12-0
 msg:    fix: fix stale JWT after password reset
 nonce:  109447
 ---
+## entry
+ts:     2026-05-12T11:39:43+00:00
+seq:    2026-05-12-1
+msg:    feat: add multi-language (i18n) support
+nonce:  110773
+---
