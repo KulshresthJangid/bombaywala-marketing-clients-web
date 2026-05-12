@@ -19499,3 +19499,9 @@ seq:    2026-05-12-16
 msg:    feat: scaffold onboarding wizard UI
 nonce:  121164
 ---
+## entry
+ts:     2026-05-12T22:41:09+00:00
+seq:    2026-05-12-17
+msg:    feat: implement full-text search with filters
+nonce:  116704
+---
