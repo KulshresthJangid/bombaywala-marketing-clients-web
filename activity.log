@@ -19475,3 +19475,9 @@ seq:    2026-05-12-12
 msg:    feat: implement two-factor authentication
 nonce:  100649
 ---
+## entry
+ts:     2026-05-12T15:50:13+00:00
+seq:    2026-05-12-13
+msg:    fix: fix stale JWT after password reset
+nonce:  120924
+---
