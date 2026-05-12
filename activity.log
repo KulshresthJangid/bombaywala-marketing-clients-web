@@ -19451,3 +19451,9 @@ seq:    2026-05-12-8
 msg:    feat: implement dark mode toggle
 nonce:  102844
 ---
+## entry
+ts:     2026-05-12T15:10:34+00:00
+seq:    2026-05-12-9
+msg:    refactor: migrate from winston to pino logger
+nonce:  100427
+---
