@@ -19397,3 +19397,9 @@ seq:    2026-05-11-10
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  118251
 ---
+## entry
+ts:     2026-05-12T09:13:32+00:00
+seq:    2026-05-12-0
+msg:    fix: fix stale JWT after password reset
+nonce:  109447
+---
