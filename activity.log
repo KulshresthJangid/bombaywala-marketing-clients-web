@@ -19547,3 +19547,9 @@ seq:    2026-05-13-6
 msg:    feat: add rate-limiting middleware
 nonce:  111700
 ---
+## entry
+ts:     2026-05-13T12:41:10+00:00
+seq:    2026-05-13-7
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  105540
+---
