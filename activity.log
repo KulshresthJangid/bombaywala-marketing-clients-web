@@ -19505,3 +19505,9 @@ seq:    2026-05-12-17
 msg:    feat: implement full-text search with filters
 nonce:  116704
 ---
+## entry
+ts:     2026-05-13T10:52:13+00:00
+seq:    2026-05-13-0
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  116435
+---
