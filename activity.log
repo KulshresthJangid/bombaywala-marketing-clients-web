@@ -19529,3 +19529,9 @@ seq:    2026-05-13-3
 msg:    feat: implement full-text search with filters
 nonce:  128738
 ---
+## entry
+ts:     2026-05-13T12:06:44+00:00
+seq:    2026-05-13-4
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  127571
+---
