@@ -19553,3 +19553,9 @@ seq:    2026-05-13-7
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  105540
 ---
+## entry
+ts:     2026-05-13T13:29:05+00:00
+seq:    2026-05-13-8
+msg:    fix: handle empty state on dashboard load
+nonce:  109795
+---
