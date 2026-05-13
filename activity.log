@@ -19541,3 +19541,9 @@ seq:    2026-05-13-5
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  116529
 ---
+## entry
+ts:     2026-05-13T12:34:20+00:00
+seq:    2026-05-13-6
+msg:    feat: add rate-limiting middleware
+nonce:  111700
+---
