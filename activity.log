@@ -19535,3 +19535,9 @@ seq:    2026-05-13-4
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  127571
 ---
+## entry
+ts:     2026-05-13T12:29:26+00:00
+seq:    2026-05-13-5
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  116529
+---
