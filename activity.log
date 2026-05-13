@@ -19523,3 +19523,9 @@ seq:    2026-05-13-2
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  125685
 ---
+## entry
+ts:     2026-05-13T11:50:19+00:00
+seq:    2026-05-13-3
+msg:    feat: implement full-text search with filters
+nonce:  128738
+---
