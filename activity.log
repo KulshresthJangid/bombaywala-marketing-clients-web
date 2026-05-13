@@ -19511,3 +19511,9 @@ seq:    2026-05-13-0
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  116435
 ---
+## entry
+ts:     2026-05-13T11:31:28+00:00
+seq:    2026-05-13-1
+msg:    test: add edge-case tests for input validators
+nonce:  131400
+---
