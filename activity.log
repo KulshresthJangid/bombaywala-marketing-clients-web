@@ -19517,3 +19517,9 @@ seq:    2026-05-13-1
 msg:    test: add edge-case tests for input validators
 nonce:  131400
 ---
+## entry
+ts:     2026-05-13T11:43:49+00:00
+seq:    2026-05-13-2
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  125685
+---
