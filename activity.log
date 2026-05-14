@@ -19631,3 +19631,9 @@ seq:    2026-05-14-9
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  111571
 ---
+## entry
+ts:     2026-05-14T20:38:48+00:00
+seq:    2026-05-14-10
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  103441
+---
