@@ -19625,3 +19625,9 @@ seq:    2026-05-14-8
 msg:    feat: integrate payment gateway
 nonce:  120137
 ---
+## entry
+ts:     2026-05-14T20:24:08+00:00
+seq:    2026-05-14-9
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  111571
+---
