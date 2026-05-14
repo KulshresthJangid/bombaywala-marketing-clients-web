@@ -19607,3 +19607,9 @@ seq:    2026-05-14-5
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  125082
 ---
+## entry
+ts:     2026-05-14T11:20:28+00:00
+seq:    2026-05-14-6
+msg:    refactor: remove dead code from utils barrel
+nonce:  105752
+---
