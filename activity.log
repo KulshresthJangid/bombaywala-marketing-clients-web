@@ -19583,3 +19583,9 @@ seq:    2026-05-14-1
 msg:    test: add k6 load-test script for checkout flow
 nonce:  132180
 ---
+## entry
+ts:     2026-05-14T09:32:20+00:00
+seq:    2026-05-14-2
+msg:    docs: add JSDoc to all public utility functions
+nonce:  118225
+---
