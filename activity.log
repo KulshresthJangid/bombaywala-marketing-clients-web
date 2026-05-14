@@ -19613,3 +19613,9 @@ seq:    2026-05-14-6
 msg:    refactor: remove dead code from utils barrel
 nonce:  105752
 ---
+## entry
+ts:     2026-05-14T12:43:15+00:00
+seq:    2026-05-14-7
+msg:    feat: implement role-based access control
+nonce:  112245
+---
