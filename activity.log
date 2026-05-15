@@ -19649,3 +19649,9 @@ seq:    2026-05-15-0
 msg:    feat: add multi-language (i18n) support
 nonce:  123186
 ---
+## entry
+ts:     2026-05-15T09:05:05+00:00
+seq:    2026-05-15-1
+msg:    test: add k6 load-test script for checkout flow
+nonce:  114262
+---
