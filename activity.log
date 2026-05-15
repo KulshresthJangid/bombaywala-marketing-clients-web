@@ -19691,3 +19691,9 @@ seq:    2026-05-15-7
 msg:    refactor: simplify connection pool configuration
 nonce:  107072
 ---
+## entry
+ts:     2026-05-15T14:00:44+00:00
+seq:    2026-05-15-8
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  130257
+---
