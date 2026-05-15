@@ -19685,3 +19685,9 @@ seq:    2026-05-15-6
 msg:    fix: resolve CORS rejection on preflight
 nonce:  127955
 ---
+## entry
+ts:     2026-05-15T12:53:41+00:00
+seq:    2026-05-15-7
+msg:    refactor: simplify connection pool configuration
+nonce:  107072
+---
