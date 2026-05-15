@@ -19703,3 +19703,9 @@ seq:    2026-05-15-9
 msg:    chore: rotate copyright year in license header
 nonce:  130893
 ---
+## entry
+ts:     2026-05-15T15:20:21+00:00
+seq:    2026-05-15-10
+msg:    feat: scaffold onboarding wizard UI
+nonce:  115162
+---
