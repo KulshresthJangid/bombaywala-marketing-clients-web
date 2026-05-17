@@ -19757,3 +19757,9 @@ seq:    2026-05-17-0
 msg:    fix: sanitize user input in search filter
 nonce:  116965
 ---
+## entry
+ts:     2026-05-17T09:07:45+00:00
+seq:    2026-05-17-1
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  132521
+---
