@@ -19763,3 +19763,9 @@ seq:    2026-05-17-1
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  132521
 ---
+## entry
+ts:     2026-05-17T09:25:45+00:00
+seq:    2026-05-17-2
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  128261
+---
