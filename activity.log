@@ -19811,3 +19811,9 @@ seq:    2026-05-17-9
 msg:    refactor: centralise API error-response factory
 nonce:  124418
 ---
+## entry
+ts:     2026-05-17T19:52:04+00:00
+seq:    2026-05-17-10
+msg:    refactor: consolidate duplicate validation logic
+nonce:  110044
+---
