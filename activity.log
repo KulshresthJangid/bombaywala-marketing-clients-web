@@ -19883,3 +19883,9 @@ seq:    2026-05-18-9
 msg:    refactor: migrate from winston to pino logger
 nonce:  117109
 ---
+## entry
+ts:     2026-05-18T16:00:31+00:00
+seq:    2026-05-18-10
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  131775
+---
