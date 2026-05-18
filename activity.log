@@ -19871,3 +19871,9 @@ seq:    2026-05-18-7
 msg:    refactor: split God-service into focused modules
 nonce:  116174
 ---
+## entry
+ts:     2026-05-18T15:38:47+00:00
+seq:    2026-05-18-8
+msg:    docs: add getting-started guide to README
+nonce:  128201
+---
