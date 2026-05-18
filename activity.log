@@ -19877,3 +19877,9 @@ seq:    2026-05-18-8
 msg:    docs: add getting-started guide to README
 nonce:  128201
 ---
+## entry
+ts:     2026-05-18T15:46:25+00:00
+seq:    2026-05-18-9
+msg:    refactor: migrate from winston to pino logger
+nonce:  117109
+---
