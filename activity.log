@@ -19889,3 +19889,9 @@ seq:    2026-05-18-10
 msg:    fix: fix broken redirect after OAuth callback
 nonce:  131775
 ---
+## entry
+ts:     2026-05-18T16:39:03+00:00
+seq:    2026-05-18-11
+msg:    perf: lazy-load heavy chart library
+nonce:  130693
+---
