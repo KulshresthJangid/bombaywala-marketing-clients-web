@@ -19979,3 +19979,9 @@ seq:    2026-05-20-8
 msg:    feat: implement Redis caching layer
 nonce:  132660
 ---
+## entry
+ts:     2026-05-20T17:30:12+00:00
+seq:    2026-05-20-9
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  120464
+---
