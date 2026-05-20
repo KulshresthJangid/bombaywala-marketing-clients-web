@@ -19985,3 +19985,9 @@ seq:    2026-05-20-9
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  120464
 ---
+## entry
+ts:     2026-05-20T17:44:25+00:00
+seq:    2026-05-20-10
+msg:    test: add integration tests for /api/v2 routes
+nonce:  112541
+---
