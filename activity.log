@@ -19961,3 +19961,9 @@ seq:    2026-05-20-5
 msg:    fix: correct off-by-one in pagination offset
 nonce:  116300
 ---
+## entry
+ts:     2026-05-20T15:35:58+00:00
+seq:    2026-05-20-6
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  126446
+---
