@@ -19991,3 +19991,9 @@ seq:    2026-05-20-10
 msg:    test: add integration tests for /api/v2 routes
 nonce:  112541
 ---
+## entry
+ts:     2026-05-20T18:45:54+00:00
+seq:    2026-05-20-11
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  114373
+---
