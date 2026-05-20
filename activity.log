@@ -19931,3 +19931,9 @@ seq:    2026-05-20-0
 msg:    chore: rotate copyright year in license header
 nonce:  126519
 ---
+## entry
+ts:     2026-05-20T09:21:49+00:00
+seq:    2026-05-20-1
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  103990
+---
