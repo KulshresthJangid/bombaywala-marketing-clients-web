@@ -19997,3 +19997,9 @@ seq:    2026-05-20-11
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  114373
 ---
+## entry
+ts:     2026-05-20T21:26:26+00:00
+seq:    2026-05-20-12
+msg:    fix: resolve race condition in job queue
+nonce:  131067
+---
