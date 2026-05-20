@@ -19937,3 +19937,9 @@ seq:    2026-05-20-1
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  103990
 ---
+## entry
+ts:     2026-05-20T10:50:28+00:00
+seq:    2026-05-20-2
+msg:    fix: fix stale JWT after password reset
+nonce:  114292
+---
