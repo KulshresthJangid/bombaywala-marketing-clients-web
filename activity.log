@@ -20093,3 +20093,9 @@ seq:    2026-05-21-14
 msg:    perf: memoize expensive permission-check results
 nonce:  107142
 ---
+## entry
+ts:     2026-05-21T16:59:32+00:00
+seq:    2026-05-21-15
+msg:    refactor: replace callback hell with async/await
+nonce:  101970
+---
