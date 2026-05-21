@@ -20069,3 +20069,9 @@ seq:    2026-05-21-10
 msg:    fix: correct off-by-one in pagination offset
 nonce:  132686
 ---
+## entry
+ts:     2026-05-21T15:20:58+00:00
+seq:    2026-05-21-11
+msg:    feat: add rate-limiting middleware
+nonce:  120311
+---
