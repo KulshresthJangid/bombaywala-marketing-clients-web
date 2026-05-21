@@ -20087,3 +20087,9 @@ seq:    2026-05-21-13
 msg:    feat: create immutable audit-log service
 nonce:  112588
 ---
+## entry
+ts:     2026-05-21T15:48:02+00:00
+seq:    2026-05-21-14
+msg:    perf: memoize expensive permission-check results
+nonce:  107142
+---
