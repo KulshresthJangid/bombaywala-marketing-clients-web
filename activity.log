@@ -20021,3 +20021,9 @@ seq:    2026-05-21-2
 msg:    feat: add export-to-CSV functionality
 nonce:  113706
 ---
+## entry
+ts:     2026-05-21T10:42:39+00:00
+seq:    2026-05-21-3
+msg:    chore: reorganise src/ folder structure
+nonce:  121700
+---
