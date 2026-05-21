@@ -20075,3 +20075,9 @@ seq:    2026-05-21-11
 msg:    feat: add rate-limiting middleware
 nonce:  120311
 ---
+## entry
+ts:     2026-05-21T15:21:17+00:00
+seq:    2026-05-21-12
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  117450
+---
