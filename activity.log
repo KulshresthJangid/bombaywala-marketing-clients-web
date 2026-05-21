@@ -20051,3 +20051,9 @@ seq:    2026-05-21-7
 msg:    feat: create immutable audit-log service
 nonce:  111018
 ---
+## entry
+ts:     2026-05-21T14:11:41+00:00
+seq:    2026-05-21-8
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  108609
+---
