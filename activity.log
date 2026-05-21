@@ -20105,3 +20105,9 @@ seq:    2026-05-21-16
 msg:    fix: correct date formatting in monthly report
 nonce:  109919
 ---
+## entry
+ts:     2026-05-21T19:30:30+00:00
+seq:    2026-05-21-17
+msg:    chore: rotate copyright year in license header
+nonce:  103910
+---
