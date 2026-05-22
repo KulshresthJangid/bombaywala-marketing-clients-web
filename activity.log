@@ -20183,3 +20183,9 @@ seq:    2026-05-22-9
 msg:    test: improve assertion messages in user tests
 nonce:  120363
 ---
+## entry
+ts:     2026-05-22T15:06:49+00:00
+seq:    2026-05-22-10
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  110737
+---
