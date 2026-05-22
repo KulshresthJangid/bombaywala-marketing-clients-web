@@ -20129,3 +20129,9 @@ seq:    2026-05-22-0
 msg:    feat: implement two-factor authentication
 nonce:  111336
 ---
+## entry
+ts:     2026-05-22T09:03:07+00:00
+seq:    2026-05-22-1
+msg:    refactor: extract auth guard into shared middleware
+nonce:  106221
+---
