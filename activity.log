@@ -20159,3 +20159,9 @@ seq:    2026-05-22-5
 msg:    docs: add architecture decision record for caching
 nonce:  119224
 ---
+## entry
+ts:     2026-05-22T12:55:55+00:00
+seq:    2026-05-22-6
+msg:    test: improve assertion messages in user tests
+nonce:  107572
+---
