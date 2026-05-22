@@ -20195,3 +20195,9 @@ seq:    2026-05-22-11
 msg:    docs: add JSDoc to all public utility functions
 nonce:  122229
 ---
+## entry
+ts:     2026-05-22T16:43:31+00:00
+seq:    2026-05-22-12
+msg:    refactor: remove dead code from utils barrel
+nonce:  108357
+---
