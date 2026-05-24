@@ -20327,3 +20327,9 @@ seq:    2026-05-24-13
 msg:    feat: implement full-text search with filters
 nonce:  124723
 ---
+## entry
+ts:     2026-05-24T18:31:14+00:00
+seq:    2026-05-24-14
+msg:    test: add unit tests for AuthService
+nonce:  108232
+---
