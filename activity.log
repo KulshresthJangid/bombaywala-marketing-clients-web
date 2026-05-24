@@ -20255,3 +20255,9 @@ seq:    2026-05-24-1
 msg:    feat: integrate payment gateway
 nonce:  131696
 ---
+## entry
+ts:     2026-05-24T10:08:17+00:00
+seq:    2026-05-24-2
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  124003
+---
