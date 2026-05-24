@@ -20351,3 +20351,9 @@ seq:    2026-05-24-17
 msg:    test: stub external HTTP calls in unit suite
 nonce:  125147
 ---
+## entry
+ts:     2026-05-24T22:38:52+00:00
+seq:    2026-05-24-18
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  121022
+---
