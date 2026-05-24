@@ -20333,3 +20333,9 @@ seq:    2026-05-24-14
 msg:    test: add unit tests for AuthService
 nonce:  108232
 ---
+## entry
+ts:     2026-05-24T20:37:02+00:00
+seq:    2026-05-24-15
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  121910
+---
