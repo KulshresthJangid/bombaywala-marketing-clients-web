@@ -20345,3 +20345,9 @@ seq:    2026-05-24-16
 msg:    test: add edge-case tests for input validators
 nonce:  116957
 ---
+## entry
+ts:     2026-05-24T22:30:46+00:00
+seq:    2026-05-24-17
+msg:    test: stub external HTTP calls in unit suite
+nonce:  125147
+---
