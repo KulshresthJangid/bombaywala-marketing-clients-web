@@ -20303,3 +20303,9 @@ seq:    2026-05-24-9
 msg:    feat: implement file upload with S3 backend
 nonce:  128699
 ---
+## entry
+ts:     2026-05-24T15:57:39+00:00
+seq:    2026-05-24-10
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  112040
+---
