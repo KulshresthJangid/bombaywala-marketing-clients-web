@@ -20399,3 +20399,9 @@ seq:    2026-05-28-6
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  106492
 ---
+## entry
+ts:     2026-05-28T13:33:41+00:00
+seq:    2026-05-28-7
+msg:    chore: rotate copyright year in license header
+nonce:  113295
+---
