@@ -20411,3 +20411,9 @@ seq:    2026-05-28-8
 msg:    test: add edge-case tests for input validators
 nonce:  102174
 ---
+## entry
+ts:     2026-05-28T14:17:52+00:00
+seq:    2026-05-28-9
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  110375
+---
