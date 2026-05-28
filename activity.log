@@ -20405,3 +20405,9 @@ seq:    2026-05-28-7
 msg:    chore: rotate copyright year in license header
 nonce:  113295
 ---
+## entry
+ts:     2026-05-28T13:40:15+00:00
+seq:    2026-05-28-8
+msg:    test: add edge-case tests for input validators
+nonce:  102174
+---
