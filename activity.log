@@ -20453,3 +20453,9 @@ seq:    2026-05-30-3
 msg:    feat: implement dashboard analytics
 nonce:  128103
 ---
+## entry
+ts:     2026-05-30T12:41:09+00:00
+seq:    2026-05-30-4
+msg:    perf: lazy-load heavy chart library
+nonce:  111739
+---
