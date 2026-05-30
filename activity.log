@@ -20489,3 +20489,9 @@ seq:    2026-05-30-9
 msg:    feat: add cursor-based pagination
 nonce:  107812
 ---
+## entry
+ts:     2026-05-30T20:32:21+00:00
+seq:    2026-05-30-10
+msg:    feat: add OAuth2 social login flow
+nonce:  126962
+---
