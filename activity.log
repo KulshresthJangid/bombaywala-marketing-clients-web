@@ -20441,3 +20441,9 @@ seq:    2026-05-30-1
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  101567
 ---
+## entry
+ts:     2026-05-30T10:09:07+00:00
+seq:    2026-05-30-2
+msg:    fix: correct off-by-one in pagination offset
+nonce:  107351
+---
