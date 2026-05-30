@@ -20459,3 +20459,9 @@ seq:    2026-05-30-4
 msg:    perf: lazy-load heavy chart library
 nonce:  111739
 ---
+## entry
+ts:     2026-05-30T13:22:43+00:00
+seq:    2026-05-30-5
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  110675
+---
