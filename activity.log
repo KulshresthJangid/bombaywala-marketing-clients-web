@@ -20429,3 +20429,9 @@ seq:    2026-05-28-11
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  111827
 ---
+## entry
+ts:     2026-05-30T08:49:49+00:00
+seq:    2026-05-30-0
+msg:    refactor: consolidate duplicate validation logic
+nonce:  101738
+---
