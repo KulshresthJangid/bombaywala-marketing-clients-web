@@ -20507,3 +20507,9 @@ seq:    2026-05-30-12
 msg:    feat: add GraphQL subscription support
 nonce:  112534
 ---
+## entry
+ts:     2026-05-31T10:27:43+00:00
+seq:    2026-05-31-0
+msg:    refactor: migrate from winston to pino logger
+nonce:  124737
+---
