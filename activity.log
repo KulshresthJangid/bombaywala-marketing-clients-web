@@ -20567,3 +20567,9 @@ seq:    2026-05-31-9
 msg:    chore: apply prettier to all source files
 nonce:  127564
 ---
+## entry
+ts:     2026-05-31T15:14:54+00:00
+seq:    2026-05-31-10
+msg:    fix: patch reflected-XSS in comment field
+nonce:  128342
+---
