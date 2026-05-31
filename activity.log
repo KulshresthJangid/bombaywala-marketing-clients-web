@@ -20519,3 +20519,9 @@ seq:    2026-05-31-1
 msg:    test: raise coverage floor for payment module
 nonce:  132149
 ---
+## entry
+ts:     2026-05-31T11:27:13+00:00
+seq:    2026-05-31-2
+msg:    feat: create outbound webhook dispatcher
+nonce:  108627
+---
