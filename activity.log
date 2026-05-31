@@ -20591,3 +20591,9 @@ seq:    2026-05-31-13
 msg:    refactor: simplify connection pool configuration
 nonce:  115648
 ---
+## entry
+ts:     2026-05-31T17:07:45+00:00
+seq:    2026-05-31-14
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  122000
+---
