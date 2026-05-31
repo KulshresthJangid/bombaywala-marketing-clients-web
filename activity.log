@@ -20603,3 +20603,9 @@ seq:    2026-05-31-15
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  111985
 ---
+## entry
+ts:     2026-05-31T17:32:24+00:00
+seq:    2026-05-31-16
+msg:    test: add edge-case tests for input validators
+nonce:  122488
+---
