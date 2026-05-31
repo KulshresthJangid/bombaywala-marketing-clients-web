@@ -20555,3 +20555,9 @@ seq:    2026-05-31-7
 msg:    test: add integration tests for /api/v2 routes
 nonce:  121894
 ---
+## entry
+ts:     2026-05-31T14:17:49+00:00
+seq:    2026-05-31-8
+msg:    feat: add user authentication module
+nonce:  125741
+---
