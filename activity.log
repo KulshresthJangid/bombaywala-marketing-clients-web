@@ -20543,3 +20543,9 @@ seq:    2026-05-31-5
 msg:    refactor: migrate from winston to pino logger
 nonce:  128262
 ---
+## entry
+ts:     2026-05-31T13:49:45+00:00
+seq:    2026-05-31-6
+msg:    perf: lazy-load heavy chart library
+nonce:  122495
+---
