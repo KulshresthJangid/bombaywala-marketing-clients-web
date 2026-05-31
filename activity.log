@@ -20531,3 +20531,9 @@ seq:    2026-05-31-3
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  108544
 ---
+## entry
+ts:     2026-05-31T12:27:11+00:00
+seq:    2026-05-31-4
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  125110
+---
