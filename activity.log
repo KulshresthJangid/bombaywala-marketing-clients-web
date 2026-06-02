@@ -20687,3 +20687,9 @@ seq:    2026-06-02-10
 msg:    test: stub external HTTP calls in unit suite
 nonce:  122216
 ---
+## entry
+ts:     2026-06-02T16:50:34+00:00
+seq:    2026-06-02-11
+msg:    fix: sanitize user input in search filter
+nonce:  109962
+---
