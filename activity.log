@@ -20705,3 +20705,9 @@ seq:    2026-06-02-13
 msg:    test: fix flaky assertion in scheduler spec
 nonce:  128764
 ---
+## entry
+ts:     2026-06-02T18:42:53+00:00
+seq:    2026-06-02-14
+msg:    refactor: centralise API error-response factory
+nonce:  129316
+---
