@@ -20633,3 +20633,9 @@ seq:    2026-06-02-1
 msg:    feat: implement full-text search with filters
 nonce:  121760
 ---
+## entry
+ts:     2026-06-02T11:22:26+00:00
+seq:    2026-06-02-2
+msg:    test: add edge-case tests for input validators
+nonce:  131442
+---
