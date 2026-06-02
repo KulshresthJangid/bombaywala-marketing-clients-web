@@ -20675,3 +20675,9 @@ seq:    2026-06-02-8
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  127506
 ---
+## entry
+ts:     2026-06-02T16:27:47+00:00
+seq:    2026-06-02-9
+msg:    docs: add architecture decision record for caching
+nonce:  131790
+---
