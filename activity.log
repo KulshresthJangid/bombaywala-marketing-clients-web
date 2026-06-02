@@ -20621,3 +20621,9 @@ seq:    2026-05-31-18
 msg:    feat: add export-to-CSV functionality
 nonce:  127324
 ---
+## entry
+ts:     2026-06-02T09:15:10+00:00
+seq:    2026-06-02-0
+msg:    test: add k6 load-test script for checkout flow
+nonce:  125139
+---
