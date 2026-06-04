@@ -20789,3 +20789,9 @@ seq:    2026-06-04-11
 msg:    fix: correct date formatting in monthly report
 nonce:  128120
 ---
+## entry
+ts:     2026-06-04T22:23:31+00:00
+seq:    2026-06-04-12
+msg:    test: raise coverage floor for payment module
+nonce:  110119
+---
