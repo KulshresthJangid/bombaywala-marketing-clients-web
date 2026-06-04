@@ -20759,3 +20759,9 @@ seq:    2026-06-04-6
 msg:    test: improve assertion messages in user tests
 nonce:  112666
 ---
+## entry
+ts:     2026-06-04T15:57:31+00:00
+seq:    2026-06-04-7
+msg:    fix: fix broken redirect after OAuth callback
+nonce:  107874
+---
