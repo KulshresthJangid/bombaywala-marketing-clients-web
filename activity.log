@@ -20771,3 +20771,9 @@ seq:    2026-06-04-8
 msg:    feat: add GraphQL subscription support
 nonce:  117257
 ---
+## entry
+ts:     2026-06-04T16:45:00+00:00
+seq:    2026-06-04-9
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  128001
+---
