@@ -20777,3 +20777,9 @@ seq:    2026-06-04-9
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  128001
 ---
+## entry
+ts:     2026-06-04T16:58:11+00:00
+seq:    2026-06-04-10
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  125959
+---
