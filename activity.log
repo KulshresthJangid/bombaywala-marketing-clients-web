@@ -20879,3 +20879,9 @@ seq:    2026-06-07-13
 msg:    perf: lazy-load heavy chart library
 nonce:  126445
 ---
+## entry
+ts:     2026-06-07T20:57:03+00:00
+seq:    2026-06-07-14
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  115262
+---
