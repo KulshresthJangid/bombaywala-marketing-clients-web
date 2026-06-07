@@ -20813,3 +20813,9 @@ seq:    2026-06-07-2
 msg:    refactor: split God-service into focused modules
 nonce:  126989
 ---
+## entry
+ts:     2026-06-07T11:56:02+00:00
+seq:    2026-06-07-3
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  119568
+---
