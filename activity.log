@@ -20837,3 +20837,9 @@ seq:    2026-06-07-6
 msg:    refactor: remove dead code from utils barrel
 nonce:  129622
 ---
+## entry
+ts:     2026-06-07T16:20:53+00:00
+seq:    2026-06-07-7
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  132415
+---
