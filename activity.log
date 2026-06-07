@@ -20825,3 +20825,9 @@ seq:    2026-06-07-4
 msg:    chore: reorganise src/ folder structure
 nonce:  115282
 ---
+## entry
+ts:     2026-06-07T13:07:03+00:00
+seq:    2026-06-07-5
+msg:    feat: implement full-text search with filters
+nonce:  123533
+---
