@@ -20861,3 +20861,9 @@ seq:    2026-06-07-10
 msg:    perf: lazy-load heavy chart library
 nonce:  132497
 ---
+## entry
+ts:     2026-06-07T19:49:35+00:00
+seq:    2026-06-07-11
+msg:    feat: implement full-text search with filters
+nonce:  106382
+---
