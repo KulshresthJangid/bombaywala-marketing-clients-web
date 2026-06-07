@@ -20849,3 +20849,9 @@ seq:    2026-06-07-8
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  102793
 ---
+## entry
+ts:     2026-06-07T17:16:38+00:00
+seq:    2026-06-07-9
+msg:    refactor: remove dead code from utils barrel
+nonce:  107548
+---
