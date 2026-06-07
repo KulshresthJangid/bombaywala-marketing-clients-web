@@ -20795,3 +20795,9 @@ seq:    2026-06-04-12
 msg:    test: raise coverage floor for payment module
 nonce:  110119
 ---
+## entry
+ts:     2026-06-07T08:49:09+00:00
+seq:    2026-06-07-0
+msg:    test: add unit tests for AuthService
+nonce:  131078
+---
