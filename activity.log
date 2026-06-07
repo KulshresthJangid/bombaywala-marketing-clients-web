@@ -20831,3 +20831,9 @@ seq:    2026-06-07-5
 msg:    feat: implement full-text search with filters
 nonce:  123533
 ---
+## entry
+ts:     2026-06-07T13:50:44+00:00
+seq:    2026-06-07-6
+msg:    refactor: remove dead code from utils barrel
+nonce:  129622
+---
