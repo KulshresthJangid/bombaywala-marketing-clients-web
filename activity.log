@@ -20843,3 +20843,9 @@ seq:    2026-06-07-7
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  132415
 ---
+## entry
+ts:     2026-06-07T16:32:53+00:00
+seq:    2026-06-07-8
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  102793
+---
