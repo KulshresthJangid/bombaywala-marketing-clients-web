@@ -20867,3 +20867,9 @@ seq:    2026-06-07-11
 msg:    feat: implement full-text search with filters
 nonce:  106382
 ---
+## entry
+ts:     2026-06-07T20:16:39+00:00
+seq:    2026-06-07-12
+msg:    chore: rotate copyright year in license header
+nonce:  124252
+---
