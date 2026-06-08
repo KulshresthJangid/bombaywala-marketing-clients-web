@@ -20939,3 +20939,9 @@ seq:    2026-06-08-7
 msg:    fix: resolve null pointer in user service
 nonce:  109388
 ---
+## entry
+ts:     2026-06-08T12:41:22+00:00
+seq:    2026-06-08-8
+msg:    perf: lazy-load heavy chart library
+nonce:  103589
+---
