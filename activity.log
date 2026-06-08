@@ -20993,3 +20993,9 @@ seq:    2026-06-08-16
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  118046
 ---
+## entry
+ts:     2026-06-08T20:15:05+00:00
+seq:    2026-06-08-17
+msg:    test: add unit tests for AuthService
+nonce:  116997
+---
