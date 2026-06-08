@@ -20897,3 +20897,9 @@ seq:    2026-06-08-0
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  129952
 ---
+## entry
+ts:     2026-06-08T09:31:50+00:00
+seq:    2026-06-08-1
+msg:    test: add integration tests for /api/v2 routes
+nonce:  124608
+---
