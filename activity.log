@@ -20969,3 +20969,9 @@ seq:    2026-06-08-12
 msg:    docs: update CHANGELOG for next release
 nonce:  104392
 ---
+## entry
+ts:     2026-06-08T15:19:14+00:00
+seq:    2026-06-08-13
+msg:    feat: add multi-language (i18n) support
+nonce:  129088
+---
