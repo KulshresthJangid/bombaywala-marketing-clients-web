@@ -20921,3 +20921,9 @@ seq:    2026-06-08-4
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  116449
 ---
+## entry
+ts:     2026-06-08T11:31:33+00:00
+seq:    2026-06-08-5
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  129015
+---
