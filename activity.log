@@ -20951,3 +20951,9 @@ seq:    2026-06-08-9
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  103527
 ---
+## entry
+ts:     2026-06-08T13:07:44+00:00
+seq:    2026-06-08-10
+msg:    perf: trim unnecessary fields from list responses
+nonce:  113013
+---
