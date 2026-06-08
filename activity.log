@@ -20915,3 +20915,9 @@ seq:    2026-06-08-3
 msg:    feat: add user authentication module
 nonce:  115870
 ---
+## entry
+ts:     2026-06-08T11:14:42+00:00
+seq:    2026-06-08-4
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  116449
+---
