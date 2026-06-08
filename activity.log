@@ -20981,3 +20981,9 @@ seq:    2026-06-08-14
 msg:    fix: resolve null pointer in user service
 nonce:  116704
 ---
+## entry
+ts:     2026-06-08T16:53:13+00:00
+seq:    2026-06-08-15
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  130266
+---
