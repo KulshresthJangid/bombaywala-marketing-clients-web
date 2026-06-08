@@ -20963,3 +20963,9 @@ seq:    2026-06-08-11
 msg:    feat: implement Redis caching layer
 nonce:  108799
 ---
+## entry
+ts:     2026-06-08T14:14:36+00:00
+seq:    2026-06-08-12
+msg:    docs: update CHANGELOG for next release
+nonce:  104392
+---
