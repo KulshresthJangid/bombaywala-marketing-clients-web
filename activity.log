@@ -20975,3 +20975,9 @@ seq:    2026-06-08-13
 msg:    feat: add multi-language (i18n) support
 nonce:  129088
 ---
+## entry
+ts:     2026-06-08T15:31:58+00:00
+seq:    2026-06-08-14
+msg:    fix: resolve null pointer in user service
+nonce:  116704
+---
