@@ -20945,3 +20945,9 @@ seq:    2026-06-08-8
 msg:    perf: lazy-load heavy chart library
 nonce:  103589
 ---
+## entry
+ts:     2026-06-08T12:49:53+00:00
+seq:    2026-06-08-9
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  103527
+---
