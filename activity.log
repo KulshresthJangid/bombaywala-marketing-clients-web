@@ -21059,3 +21059,9 @@ seq:    2026-06-09-8
 msg:    chore: rotate copyright year in license header
 nonce:  130576
 ---
+## entry
+ts:     2026-06-09T14:00:10+00:00
+seq:    2026-06-09-9
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  107467
+---
