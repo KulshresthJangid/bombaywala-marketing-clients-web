@@ -21041,3 +21041,9 @@ seq:    2026-06-09-5
 msg:    feat: implement dark mode toggle
 nonce:  110053
 ---
+## entry
+ts:     2026-06-09T13:04:38+00:00
+seq:    2026-06-09-6
+msg:    refactor: remove dead code from utils barrel
+nonce:  125843
+---
