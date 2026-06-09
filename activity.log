@@ -21047,3 +21047,9 @@ seq:    2026-06-09-6
 msg:    refactor: remove dead code from utils barrel
 nonce:  125843
 ---
+## entry
+ts:     2026-06-09T13:27:48+00:00
+seq:    2026-06-09-7
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  111623
+---
