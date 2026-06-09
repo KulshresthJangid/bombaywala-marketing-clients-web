@@ -21005,3 +21005,9 @@ seq:    2026-06-08-18
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  114366
 ---
+## entry
+ts:     2026-06-09T08:53:45+00:00
+seq:    2026-06-09-0
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  132328
+---
