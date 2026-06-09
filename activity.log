@@ -21023,3 +21023,9 @@ seq:    2026-06-09-2
 msg:    feat: implement dark mode toggle
 nonce:  117438
 ---
+## entry
+ts:     2026-06-09T10:44:52+00:00
+seq:    2026-06-09-3
+msg:    docs: update CHANGELOG for next release
+nonce:  126804
+---
