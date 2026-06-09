@@ -21065,3 +21065,9 @@ seq:    2026-06-09-9
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  107467
 ---
+## entry
+ts:     2026-06-09T14:03:43+00:00
+seq:    2026-06-09-10
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  126772
+---
