@@ -21179,3 +21179,9 @@ seq:    2026-06-10-12
 msg:    feat: add OAuth2 social login flow
 nonce:  109338
 ---
+## entry
+ts:     2026-06-10T14:34:26+00:00
+seq:    2026-06-10-13
+msg:    test: add edge-case tests for input validators
+nonce:  106860
+---
