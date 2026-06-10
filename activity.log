@@ -21209,3 +21209,9 @@ seq:    2026-06-10-17
 msg:    fix: resolve CORS rejection on preflight
 nonce:  100232
 ---
+## entry
+ts:     2026-06-10T16:56:34+00:00
+seq:    2026-06-10-18
+msg:    feat: add Stripe subscription billing
+nonce:  120132
+---
