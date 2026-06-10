@@ -21143,3 +21143,9 @@ seq:    2026-06-10-6
 msg:    perf: parallelise image-resize pipeline
 nonce:  115560
 ---
+## entry
+ts:     2026-06-10T12:08:37+00:00
+seq:    2026-06-10-7
+msg:    feat: add rate-limiting middleware
+nonce:  113013
+---
