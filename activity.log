@@ -21137,3 +21137,9 @@ seq:    2026-06-10-5
 msg:    feat: implement two-factor authentication
 nonce:  128152
 ---
+## entry
+ts:     2026-06-10T12:03:01+00:00
+seq:    2026-06-10-6
+msg:    perf: parallelise image-resize pipeline
+nonce:  115560
+---
