@@ -21203,3 +21203,9 @@ seq:    2026-06-10-16
 msg:    chore: rotate copyright year in license header
 nonce:  111580
 ---
+## entry
+ts:     2026-06-10T16:37:11+00:00
+seq:    2026-06-10-17
+msg:    fix: resolve CORS rejection on preflight
+nonce:  100232
+---
