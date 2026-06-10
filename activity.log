@@ -21197,3 +21197,9 @@ seq:    2026-06-10-15
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  125511
 ---
+## entry
+ts:     2026-06-10T16:07:06+00:00
+seq:    2026-06-10-16
+msg:    chore: rotate copyright year in license header
+nonce:  111580
+---
