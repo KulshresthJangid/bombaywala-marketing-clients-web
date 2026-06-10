@@ -21107,3 +21107,9 @@ seq:    2026-06-10-0
 msg:    feat: add multi-language (i18n) support
 nonce:  127934
 ---
+## entry
+ts:     2026-06-10T10:49:41+00:00
+seq:    2026-06-10-1
+msg:    feat: add batch job processing queue
+nonce:  102238
+---
