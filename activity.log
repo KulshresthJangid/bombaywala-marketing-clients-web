@@ -21101,3 +21101,9 @@ seq:    2026-06-09-15
 msg:    refactor: extract auth guard into shared middleware
 nonce:  130858
 ---
+## entry
+ts:     2026-06-10T10:35:11+00:00
+seq:    2026-06-10-0
+msg:    feat: add multi-language (i18n) support
+nonce:  127934
+---
