@@ -21149,3 +21149,9 @@ seq:    2026-06-10-7
 msg:    feat: add rate-limiting middleware
 nonce:  113013
 ---
+## entry
+ts:     2026-06-10T12:20:17+00:00
+seq:    2026-06-10-8
+msg:    chore: pin transitive dependency versions
+nonce:  131390
+---
