@@ -21221,3 +21221,9 @@ seq:    2026-06-10-19
 msg:    perf: enable gzip compression on API responses
 nonce:  103969
 ---
+## entry
+ts:     2026-06-10T18:33:59+00:00
+seq:    2026-06-10-20
+msg:    test: add integration tests for /api/v2 routes
+nonce:  132406
+---
