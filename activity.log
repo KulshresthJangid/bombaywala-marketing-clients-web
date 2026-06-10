@@ -21125,3 +21125,9 @@ seq:    2026-06-10-3
 msg:    docs: add architecture decision record for caching
 nonce:  114638
 ---
+## entry
+ts:     2026-06-10T11:18:10+00:00
+seq:    2026-06-10-4
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  111623
+---
