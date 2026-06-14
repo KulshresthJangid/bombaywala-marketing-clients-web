@@ -21311,3 +21311,9 @@ seq:    2026-06-14-9
 msg:    refactor: remove dead code from utils barrel
 nonce:  100963
 ---
+## entry
+ts:     2026-06-14T15:48:06+00:00
+seq:    2026-06-14-10
+msg:    feat: add multi-language (i18n) support
+nonce:  106833
+---
