@@ -21329,3 +21329,9 @@ seq:    2026-06-14-12
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  122375
 ---
+## entry
+ts:     2026-06-14T19:24:23+00:00
+seq:    2026-06-14-13
+msg:    test: add unit tests for AuthService
+nonce:  101945
+---
