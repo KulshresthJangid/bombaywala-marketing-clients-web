@@ -21299,3 +21299,9 @@ seq:    2026-06-14-7
 msg:    fix: handle empty state on dashboard load
 nonce:  101256
 ---
+## entry
+ts:     2026-06-14T11:57:58+00:00
+seq:    2026-06-14-8
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  117927
+---
