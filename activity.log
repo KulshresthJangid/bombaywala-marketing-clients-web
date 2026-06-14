@@ -21305,3 +21305,9 @@ seq:    2026-06-14-8
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  117927
 ---
+## entry
+ts:     2026-06-14T12:48:32+00:00
+seq:    2026-06-14-9
+msg:    refactor: remove dead code from utils barrel
+nonce:  100963
+---
