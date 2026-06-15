@@ -21383,3 +21383,9 @@ seq:    2026-06-15-7
 msg:    chore: pin transitive dependency versions
 nonce:  121009
 ---
+## entry
+ts:     2026-06-15T12:54:12+00:00
+seq:    2026-06-15-8
+msg:    chore: reorganise src/ folder structure
+nonce:  100163
+---
