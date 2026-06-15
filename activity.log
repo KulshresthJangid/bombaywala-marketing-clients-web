@@ -21347,3 +21347,9 @@ seq:    2026-06-15-1
 msg:    perf: parallelise image-resize pipeline
 nonce:  124097
 ---
+## entry
+ts:     2026-06-15T10:26:13+00:00
+seq:    2026-06-15-2
+msg:    fix: correct date formatting in monthly report
+nonce:  101614
+---
