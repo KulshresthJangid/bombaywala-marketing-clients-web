@@ -21365,3 +21365,9 @@ seq:    2026-06-15-4
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  131598
 ---
+## entry
+ts:     2026-06-15T11:23:35+00:00
+seq:    2026-06-15-5
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  105674
+---
