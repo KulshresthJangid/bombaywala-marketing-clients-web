@@ -21407,3 +21407,9 @@ seq:    2026-06-15-11
 msg:    feat: add OAuth2 social login flow
 nonce:  111597
 ---
+## entry
+ts:     2026-06-15T15:00:16+00:00
+seq:    2026-06-15-12
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  120516
+---
