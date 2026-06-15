@@ -21419,3 +21419,9 @@ seq:    2026-06-15-13
 msg:    test: stub external HTTP calls in unit suite
 nonce:  116152
 ---
+## entry
+ts:     2026-06-15T15:51:58+00:00
+seq:    2026-06-15-14
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  101752
+---
