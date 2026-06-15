@@ -21443,3 +21443,9 @@ seq:    2026-06-15-17
 msg:    chore: apply prettier to all source files
 nonce:  105369
 ---
+## entry
+ts:     2026-06-15T20:12:47+00:00
+seq:    2026-06-15-18
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  115642
+---
