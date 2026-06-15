@@ -21377,3 +21377,9 @@ seq:    2026-06-15-6
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  100912
 ---
+## entry
+ts:     2026-06-15T11:55:56+00:00
+seq:    2026-06-15-7
+msg:    chore: pin transitive dependency versions
+nonce:  121009
+---
