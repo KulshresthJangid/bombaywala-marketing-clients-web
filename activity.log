@@ -21485,3 +21485,9 @@ seq:    2026-06-16-4
 msg:    fix: fix stale JWT after password reset
 nonce:  117038
 ---
+## entry
+ts:     2026-06-16T15:05:56+00:00
+seq:    2026-06-16-5
+msg:    chore: drop deprecated crypto.createCipher usage
+nonce:  119030
+---
