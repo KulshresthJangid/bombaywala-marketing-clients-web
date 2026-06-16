@@ -21509,3 +21509,9 @@ seq:    2026-06-16-8
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  104456
 ---
+## entry
+ts:     2026-06-16T16:30:40+00:00
+seq:    2026-06-16-9
+msg:    fix: correct decimal rounding in tax calculation
+nonce:  116243
+---
