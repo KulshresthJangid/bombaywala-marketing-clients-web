@@ -21467,3 +21467,9 @@ seq:    2026-06-16-1
 msg:    feat: add OAuth2 social login flow
 nonce:  105422
 ---
+## entry
+ts:     2026-06-16T11:37:36+00:00
+seq:    2026-06-16-2
+msg:    feat: add OAuth2 social login flow
+nonce:  105366
+---
