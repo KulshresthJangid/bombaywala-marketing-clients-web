@@ -21455,3 +21455,9 @@ seq:    2026-06-15-19
 msg:    feat: add Stripe subscription billing
 nonce:  104740
 ---
+## entry
+ts:     2026-06-16T08:52:08+00:00
+seq:    2026-06-16-0
+msg:    refactor: simplify connection pool configuration
+nonce:  100163
+---
