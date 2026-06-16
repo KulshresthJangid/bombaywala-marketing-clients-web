@@ -21473,3 +21473,9 @@ seq:    2026-06-16-2
 msg:    feat: add OAuth2 social login flow
 nonce:  105366
 ---
+## entry
+ts:     2026-06-16T13:39:27+00:00
+seq:    2026-06-16-3
+msg:    refactor: split God-service into focused modules
+nonce:  104421
+---
