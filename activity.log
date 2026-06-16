@@ -21521,3 +21521,9 @@ seq:    2026-06-16-10
 msg:    test: raise coverage floor for payment module
 nonce:  120887
 ---
+## entry
+ts:     2026-06-16T22:12:22+00:00
+seq:    2026-06-16-11
+msg:    feat: add rate-limiting middleware
+nonce:  114647
+---
