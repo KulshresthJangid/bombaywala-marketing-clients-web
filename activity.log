@@ -21503,3 +21503,9 @@ seq:    2026-06-16-7
 msg:    test: stub external HTTP calls in unit suite
 nonce:  124634
 ---
+## entry
+ts:     2026-06-16T16:08:31+00:00
+seq:    2026-06-16-8
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  104456
+---
