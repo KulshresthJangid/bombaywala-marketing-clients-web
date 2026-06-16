@@ -21491,3 +21491,9 @@ seq:    2026-06-16-5
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  119030
 ---
+## entry
+ts:     2026-06-16T15:06:45+00:00
+seq:    2026-06-16-6
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  123328
+---
