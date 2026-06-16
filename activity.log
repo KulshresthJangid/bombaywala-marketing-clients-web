@@ -21497,3 +21497,9 @@ seq:    2026-06-16-6
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  123328
 ---
+## entry
+ts:     2026-06-16T15:15:53+00:00
+seq:    2026-06-16-7
+msg:    test: stub external HTTP calls in unit suite
+nonce:  124634
+---
