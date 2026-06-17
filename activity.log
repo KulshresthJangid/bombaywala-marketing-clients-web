@@ -21527,3 +21527,9 @@ seq:    2026-06-16-11
 msg:    feat: add rate-limiting middleware
 nonce:  114647
 ---
+## entry
+ts:     2026-06-17T09:01:15+00:00
+seq:    2026-06-17-0
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  102422
+---
