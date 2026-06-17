@@ -21581,3 +21581,9 @@ seq:    2026-06-17-8
 msg:    perf: parallelise image-resize pipeline
 nonce:  109761
 ---
+## entry
+ts:     2026-06-17T14:16:49+00:00
+seq:    2026-06-17-9
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  100170
+---
