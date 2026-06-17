@@ -21575,3 +21575,9 @@ seq:    2026-06-17-7
 msg:    refactor: split God-service into focused modules
 nonce:  131411
 ---
+## entry
+ts:     2026-06-17T14:13:34+00:00
+seq:    2026-06-17-8
+msg:    perf: parallelise image-resize pipeline
+nonce:  109761
+---
