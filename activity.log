@@ -21587,3 +21587,9 @@ seq:    2026-06-17-9
 msg:    fix: plug memory leak in WebSocket listener
 nonce:  100170
 ---
+## entry
+ts:     2026-06-17T14:31:28+00:00
+seq:    2026-06-17-10
+msg:    fix: correct date formatting in monthly report
+nonce:  123639
+---
