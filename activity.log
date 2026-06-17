@@ -21659,3 +21659,9 @@ seq:    2026-06-17-21
 msg:    test: add unit tests for AuthService
 nonce:  103618
 ---
+## entry
+ts:     2026-06-17T21:27:43+00:00
+seq:    2026-06-17-22
+msg:    test: add k6 load-test script for checkout flow
+nonce:  115702
+---
