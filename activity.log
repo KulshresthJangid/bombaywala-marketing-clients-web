@@ -21557,3 +21557,9 @@ seq:    2026-06-17-4
 msg:    docs: update CHANGELOG for next release
 nonce:  120544
 ---
+## entry
+ts:     2026-06-17T13:42:02+00:00
+seq:    2026-06-17-5
+msg:    refactor: move magic strings to constants module
+nonce:  127438
+---
