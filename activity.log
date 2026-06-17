@@ -21623,3 +21623,9 @@ seq:    2026-06-17-15
 msg:    refactor: simplify connection pool configuration
 nonce:  119805
 ---
+## entry
+ts:     2026-06-17T16:45:22+00:00
+seq:    2026-06-17-16
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  102666
+---
