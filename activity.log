@@ -21683,3 +21683,9 @@ seq:    2026-06-18-0
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  112675
 ---
+## entry
+ts:     2026-06-18T12:09:06+00:00
+seq:    2026-06-18-1
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  113756
+---
