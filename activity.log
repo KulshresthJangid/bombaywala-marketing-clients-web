@@ -21707,3 +21707,9 @@ seq:    2026-06-18-4
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  101863
 ---
+## entry
+ts:     2026-06-18T14:34:21+00:00
+seq:    2026-06-18-5
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  101643
+---
