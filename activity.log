@@ -21719,3 +21719,9 @@ seq:    2026-06-18-6
 msg:    test: stub external HTTP calls in unit suite
 nonce:  103055
 ---
+## entry
+ts:     2026-06-18T16:25:40+00:00
+seq:    2026-06-18-7
+msg:    fix: resolve race condition in job queue
+nonce:  104642
+---
