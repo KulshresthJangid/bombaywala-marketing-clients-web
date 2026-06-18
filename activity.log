@@ -21713,3 +21713,9 @@ seq:    2026-06-18-5
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  101643
 ---
+## entry
+ts:     2026-06-18T16:02:57+00:00
+seq:    2026-06-18-6
+msg:    test: stub external HTTP calls in unit suite
+nonce:  103055
+---
