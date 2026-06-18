@@ -21701,3 +21701,9 @@ seq:    2026-06-18-3
 msg:    refactor: extract auth guard into shared middleware
 nonce:  117083
 ---
+## entry
+ts:     2026-06-18T14:14:17+00:00
+seq:    2026-06-18-4
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  101863
+---
