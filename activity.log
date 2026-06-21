@@ -21851,3 +21851,9 @@ seq:    2026-06-21-17
 msg:    chore: rotate copyright year in license header
 nonce:  114348
 ---
+## entry
+ts:     2026-06-21T17:48:09+00:00
+seq:    2026-06-21-18
+msg:    refactor: centralise API error-response factory
+nonce:  104707
+---
