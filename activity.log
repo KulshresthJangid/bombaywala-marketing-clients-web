@@ -21761,3 +21761,9 @@ seq:    2026-06-21-2
 msg:    test: stub external HTTP calls in unit suite
 nonce:  123181
 ---
+## entry
+ts:     2026-06-21T10:29:27+00:00
+seq:    2026-06-21-3
+msg:    test: add k6 load-test script for checkout flow
+nonce:  106049
+---
