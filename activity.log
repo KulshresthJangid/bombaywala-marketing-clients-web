@@ -21827,3 +21827,9 @@ seq:    2026-06-21-13
 msg:    feat: add cursor-based pagination
 nonce:  100789
 ---
+## entry
+ts:     2026-06-21T14:33:34+00:00
+seq:    2026-06-21-14
+msg:    fix: correct date formatting in monthly report
+nonce:  130303
+---
