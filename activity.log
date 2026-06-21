@@ -21755,3 +21755,9 @@ seq:    2026-06-21-1
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  118601
 ---
+## entry
+ts:     2026-06-21T09:45:58+00:00
+seq:    2026-06-21-2
+msg:    test: stub external HTTP calls in unit suite
+nonce:  123181
+---
