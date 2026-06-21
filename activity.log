@@ -21821,3 +21821,9 @@ seq:    2026-06-21-12
 msg:    test: add k6 load-test script for checkout flow
 nonce:  110883
 ---
+## entry
+ts:     2026-06-21T13:43:50+00:00
+seq:    2026-06-21-13
+msg:    feat: add cursor-based pagination
+nonce:  100789
+---
