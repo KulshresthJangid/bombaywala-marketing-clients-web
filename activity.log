@@ -21881,3 +21881,9 @@ seq:    2026-06-21-22
 msg:    feat: add export-to-CSV functionality
 nonce:  115744
 ---
+## entry
+ts:     2026-06-21T21:53:06+00:00
+seq:    2026-06-21-23
+msg:    test: add edge-case tests for input validators
+nonce:  130574
+---
