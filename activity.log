@@ -21791,3 +21791,9 @@ seq:    2026-06-21-7
 msg:    feat: add OAuth2 social login flow
 nonce:  108540
 ---
+## entry
+ts:     2026-06-21T12:00:34+00:00
+seq:    2026-06-21-8
+msg:    chore: reorganise src/ folder structure
+nonce:  117685
+---
