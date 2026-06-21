@@ -21773,3 +21773,9 @@ seq:    2026-06-21-4
 msg:    chore: apply prettier to all source files
 nonce:  103111
 ---
+## entry
+ts:     2026-06-21T11:04:44+00:00
+seq:    2026-06-21-5
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  105061
+---
