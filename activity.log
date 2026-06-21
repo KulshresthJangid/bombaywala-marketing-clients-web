@@ -21797,3 +21797,9 @@ seq:    2026-06-21-8
 msg:    chore: reorganise src/ folder structure
 nonce:  117685
 ---
+## entry
+ts:     2026-06-21T12:14:29+00:00
+seq:    2026-06-21-9
+msg:    fix: correct date formatting in monthly report
+nonce:  128978
+---
