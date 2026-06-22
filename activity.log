@@ -21929,3 +21929,9 @@ seq:    2026-06-22-5
 msg:    fix: correct off-by-one in pagination offset
 nonce:  130146
 ---
+## entry
+ts:     2026-06-22T14:45:29+00:00
+seq:    2026-06-22-6
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  116732
+---
