@@ -21923,3 +21923,9 @@ seq:    2026-06-22-4
 msg:    fix: resolve CORS rejection on preflight
 nonce:  129725
 ---
+## entry
+ts:     2026-06-22T13:40:54+00:00
+seq:    2026-06-22-5
+msg:    fix: correct off-by-one in pagination offset
+nonce:  130146
+---
