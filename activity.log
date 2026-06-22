@@ -21959,3 +21959,9 @@ seq:    2026-06-22-10
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  124937
 ---
+## entry
+ts:     2026-06-22T21:59:40+00:00
+seq:    2026-06-22-11
+msg:    refactor: simplify connection pool configuration
+nonce:  127804
+---
