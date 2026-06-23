@@ -22049,3 +22049,9 @@ seq:    2026-06-23-13
 msg:    fix: correct decimal rounding in tax calculation
 nonce:  124494
 ---
+## entry
+ts:     2026-06-23T14:21:47+00:00
+seq:    2026-06-23-14
+msg:    fix: fix stale JWT after password reset
+nonce:  125217
+---
