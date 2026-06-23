@@ -22025,3 +22025,9 @@ seq:    2026-06-23-9
 msg:    feat: add export-to-CSV functionality
 nonce:  128470
 ---
+## entry
+ts:     2026-06-23T13:36:11+00:00
+seq:    2026-06-23-10
+msg:    refactor: migrate from winston to pino logger
+nonce:  121168
+---
