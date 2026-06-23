@@ -22073,3 +22073,9 @@ seq:    2026-06-23-17
 msg:    fix: sanitize user input in search filter
 nonce:  121569
 ---
+## entry
+ts:     2026-06-23T16:25:31+00:00
+seq:    2026-06-23-18
+msg:    fix: correct off-by-one in pagination offset
+nonce:  122843
+---
