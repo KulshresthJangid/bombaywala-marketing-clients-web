@@ -22109,3 +22109,9 @@ seq:    2026-06-23-23
 msg:    fix: handle empty state on dashboard load
 nonce:  122761
 ---
+## entry
+ts:     2026-06-23T22:40:08+00:00
+seq:    2026-06-23-24
+msg:    docs: update CHANGELOG for next release
+nonce:  119816
+---
