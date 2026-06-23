@@ -21965,3 +21965,9 @@ seq:    2026-06-22-11
 msg:    refactor: simplify connection pool configuration
 nonce:  127804
 ---
+## entry
+ts:     2026-06-23T08:28:39+00:00
+seq:    2026-06-23-0
+msg:    refactor: remove dead code from utils barrel
+nonce:  124752
+---
