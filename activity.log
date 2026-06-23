@@ -22103,3 +22103,9 @@ seq:    2026-06-23-22
 msg:    refactor: migrate from winston to pino logger
 nonce:  115278
 ---
+## entry
+ts:     2026-06-23T21:19:31+00:00
+seq:    2026-06-23-23
+msg:    fix: handle empty state on dashboard load
+nonce:  122761
+---
