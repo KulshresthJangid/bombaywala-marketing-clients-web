@@ -21995,3 +21995,9 @@ seq:    2026-06-23-4
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  112747
 ---
+## entry
+ts:     2026-06-23T10:26:58+00:00
+seq:    2026-06-23-5
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  105039
+---
