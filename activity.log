@@ -22067,3 +22067,9 @@ seq:    2026-06-23-16
 msg:    fix: resolve race condition in job queue
 nonce:  114924
 ---
+## entry
+ts:     2026-06-23T15:05:46+00:00
+seq:    2026-06-23-17
+msg:    fix: sanitize user input in search filter
+nonce:  121569
+---
