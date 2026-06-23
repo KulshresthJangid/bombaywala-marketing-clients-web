@@ -21983,3 +21983,9 @@ seq:    2026-06-23-2
 msg:    feat: implement two-factor authentication
 nonce:  132155
 ---
+## entry
+ts:     2026-06-23T09:56:36+00:00
+seq:    2026-06-23-3
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  101911
+---
