@@ -22091,3 +22091,9 @@ seq:    2026-06-23-20
 msg:    test: add unit tests for AuthService
 nonce:  129980
 ---
+## entry
+ts:     2026-06-23T20:40:21+00:00
+seq:    2026-06-23-21
+msg:    refactor: migrate from winston to pino logger
+nonce:  121857
+---
