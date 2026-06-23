@@ -22031,3 +22031,9 @@ seq:    2026-06-23-10
 msg:    refactor: migrate from winston to pino logger
 nonce:  121168
 ---
+## entry
+ts:     2026-06-23T13:40:19+00:00
+seq:    2026-06-23-11
+msg:    feat: scaffold onboarding wizard UI
+nonce:  131243
+---
