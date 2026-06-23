@@ -22019,3 +22019,9 @@ seq:    2026-06-23-8
 msg:    test: raise coverage floor for payment module
 nonce:  128715
 ---
+## entry
+ts:     2026-06-23T13:32:37+00:00
+seq:    2026-06-23-9
+msg:    feat: add export-to-CSV functionality
+nonce:  128470
+---
