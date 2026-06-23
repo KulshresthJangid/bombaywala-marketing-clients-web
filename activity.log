@@ -21989,3 +21989,9 @@ seq:    2026-06-23-3
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  101911
 ---
+## entry
+ts:     2026-06-23T10:19:20+00:00
+seq:    2026-06-23-4
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  112747
+---
