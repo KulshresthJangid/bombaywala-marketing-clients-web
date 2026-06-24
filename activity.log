@@ -22127,3 +22127,9 @@ seq:    2026-06-24-1
 msg:    test: add edge-case tests for input validators
 nonce:  110387
 ---
+## entry
+ts:     2026-06-24T09:45:26+00:00
+seq:    2026-06-24-2
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  129504
+---
