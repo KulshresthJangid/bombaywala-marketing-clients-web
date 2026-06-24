@@ -22151,3 +22151,9 @@ seq:    2026-06-24-5
 msg:    docs: add JSDoc to all public utility functions
 nonce:  112406
 ---
+## entry
+ts:     2026-06-24T17:44:23+00:00
+seq:    2026-06-24-6
+msg:    feat: implement role-based access control
+nonce:  106618
+---
