@@ -22211,3 +22211,9 @@ seq:    2026-06-25-5
 msg:    refactor: remove dead code from utils barrel
 nonce:  120456
 ---
+## entry
+ts:     2026-06-25T10:41:15+00:00
+seq:    2026-06-25-6
+msg:    test: add k6 load-test script for checkout flow
+nonce:  127695
+---
