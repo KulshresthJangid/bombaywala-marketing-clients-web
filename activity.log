@@ -22259,3 +22259,9 @@ seq:    2026-06-25-13
 msg:    test: stub external HTTP calls in unit suite
 nonce:  107185
 ---
+## entry
+ts:     2026-06-25T15:50:57+00:00
+seq:    2026-06-25-14
+msg:    docs: update REST API reference for v2 endpoints
+nonce:  112814
+---
