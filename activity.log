@@ -22283,3 +22283,9 @@ seq:    2026-06-25-17
 msg:    refactor: split God-service into focused modules
 nonce:  112875
 ---
+## entry
+ts:     2026-06-25T18:48:30+00:00
+seq:    2026-06-25-18
+msg:    fix: sanitize user input in search filter
+nonce:  126498
+---
