@@ -22289,3 +22289,9 @@ seq:    2026-06-25-18
 msg:    fix: sanitize user input in search filter
 nonce:  126498
 ---
+## entry
+ts:     2026-06-25T20:39:16+00:00
+seq:    2026-06-25-19
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  119893
+---
