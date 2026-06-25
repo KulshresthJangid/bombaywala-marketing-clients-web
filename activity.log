@@ -22175,3 +22175,9 @@ seq:    2026-06-24-9
 msg:    test: raise coverage floor for payment module
 nonce:  107811
 ---
+## entry
+ts:     2026-06-25T08:50:15+00:00
+seq:    2026-06-25-0
+msg:    refactor: normalise camelCase in JSON responses
+nonce:  115809
+---
