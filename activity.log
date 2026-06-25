@@ -22217,3 +22217,9 @@ seq:    2026-06-25-6
 msg:    test: add k6 load-test script for checkout flow
 nonce:  127695
 ---
+## entry
+ts:     2026-06-25T11:25:20+00:00
+seq:    2026-06-25-7
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  115298
+---
