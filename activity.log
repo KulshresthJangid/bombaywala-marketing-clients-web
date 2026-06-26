@@ -22409,3 +22409,9 @@ seq:    2026-06-26-16
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  120842
 ---
+## entry
+ts:     2026-06-26T21:05:40+00:00
+seq:    2026-06-26-17
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  103228
+---
