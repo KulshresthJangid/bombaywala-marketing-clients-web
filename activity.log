@@ -22307,3 +22307,9 @@ seq:    2026-06-25-21
 msg:    feat: add multi-language (i18n) support
 nonce:  106633
 ---
+## entry
+ts:     2026-06-26T10:34:25+00:00
+seq:    2026-06-26-0
+msg:    docs: add JSDoc to all public utility functions
+nonce:  126340
+---
