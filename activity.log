@@ -22397,3 +22397,9 @@ seq:    2026-06-26-14
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  105734
 ---
+## entry
+ts:     2026-06-26T18:54:52+00:00
+seq:    2026-06-26-15
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  117410
+---
