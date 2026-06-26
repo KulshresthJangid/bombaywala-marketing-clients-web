@@ -22415,3 +22415,9 @@ seq:    2026-06-26-17
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  103228
 ---
+## entry
+ts:     2026-06-26T22:39:15+00:00
+seq:    2026-06-26-18
+msg:    test: raise coverage floor for payment module
+nonce:  129210
+---
