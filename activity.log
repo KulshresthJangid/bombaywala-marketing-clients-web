@@ -22367,3 +22367,9 @@ seq:    2026-06-26-9
 msg:    test: improve assertion messages in user tests
 nonce:  106562
 ---
+## entry
+ts:     2026-06-26T16:16:34+00:00
+seq:    2026-06-26-10
+msg:    fix: sanitize user input in search filter
+nonce:  117938
+---
