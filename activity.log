@@ -22523,3 +22523,9 @@ seq:    2026-06-27-16
 msg:    feat: add rate-limiting middleware
 nonce:  128742
 ---
+## entry
+ts:     2026-06-27T20:03:03+00:00
+seq:    2026-06-27-17
+msg:    perf: trim unnecessary fields from list responses
+nonce:  120749
+---
