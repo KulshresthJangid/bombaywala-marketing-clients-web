@@ -22505,3 +22505,9 @@ seq:    2026-06-27-13
 msg:    feat: add batch job processing queue
 nonce:  112984
 ---
+## entry
+ts:     2026-06-27T17:17:54+00:00
+seq:    2026-06-27-14
+msg:    perf: enable gzip compression on API responses
+nonce:  131526
+---
