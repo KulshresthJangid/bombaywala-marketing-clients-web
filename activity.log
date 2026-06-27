@@ -22487,3 +22487,9 @@ seq:    2026-06-27-10
 msg:    docs: update CHANGELOG for next release
 nonce:  100998
 ---
+## entry
+ts:     2026-06-27T15:18:14+00:00
+seq:    2026-06-27-11
+msg:    fix: resolve race condition in job queue
+nonce:  108136
+---
