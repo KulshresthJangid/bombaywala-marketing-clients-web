@@ -22517,3 +22517,9 @@ seq:    2026-06-27-15
 msg:    feat: implement two-factor authentication
 nonce:  105660
 ---
+## entry
+ts:     2026-06-27T19:08:48+00:00
+seq:    2026-06-27-16
+msg:    feat: add rate-limiting middleware
+nonce:  128742
+---
