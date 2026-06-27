@@ -22427,3 +22427,9 @@ seq:    2026-06-27-0
 msg:    refactor: extract auth guard into shared middleware
 nonce:  117344
 ---
+## entry
+ts:     2026-06-27T09:07:37+00:00
+seq:    2026-06-27-1
+msg:    test: add unit tests for AuthService
+nonce:  117005
+---
