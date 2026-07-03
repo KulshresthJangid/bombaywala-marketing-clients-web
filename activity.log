@@ -22529,3 +22529,9 @@ seq:    2026-06-27-17
 msg:    perf: trim unnecessary fields from list responses
 nonce:  120749
 ---
+## entry
+ts:     2026-07-03T10:18:29+00:00
+seq:    2026-07-03-0
+msg:    test: improve assertion messages in user tests
+nonce:  122655
+---
