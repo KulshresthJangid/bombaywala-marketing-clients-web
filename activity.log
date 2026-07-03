@@ -22535,3 +22535,9 @@ seq:    2026-07-03-0
 msg:    test: improve assertion messages in user tests
 nonce:  122655
 ---
+## entry
+ts:     2026-07-03T10:25:03+00:00
+seq:    2026-07-03-1
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  117313
+---
