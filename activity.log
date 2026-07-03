@@ -22577,3 +22577,9 @@ seq:    2026-07-03-7
 msg:    feat: add user authentication module
 nonce:  108824
 ---
+## entry
+ts:     2026-07-03T14:23:31+00:00
+seq:    2026-07-03-8
+msg:    fix: handle empty state on dashboard load
+nonce:  101541
+---
