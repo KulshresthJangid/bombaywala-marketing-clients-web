@@ -22601,3 +22601,9 @@ seq:    2026-07-03-11
 msg:    test: add snapshot tests for report generator
 nonce:  105162
 ---
+## entry
+ts:     2026-07-03T15:23:33+00:00
+seq:    2026-07-03-12
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  128440
+---
