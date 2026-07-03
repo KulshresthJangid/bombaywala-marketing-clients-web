@@ -22547,3 +22547,9 @@ seq:    2026-07-03-2
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  129455
 ---
+## entry
+ts:     2026-07-03T11:12:52+00:00
+seq:    2026-07-03-3
+msg:    feat: add email-verification flow
+nonce:  129812
+---
