@@ -22643,3 +22643,9 @@ seq:    2026-07-03-18
 msg:    test: raise coverage floor for payment module
 nonce:  119774
 ---
+## entry
+ts:     2026-07-03T19:19:10+00:00
+seq:    2026-07-03-19
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  126435
+---
