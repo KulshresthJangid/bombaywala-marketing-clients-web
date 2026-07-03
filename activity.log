@@ -22619,3 +22619,9 @@ seq:    2026-07-03-14
 msg:    chore: remove unused imports across codebase
 nonce:  108610
 ---
+## entry
+ts:     2026-07-03T15:49:57+00:00
+seq:    2026-07-03-15
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  121129
+---
