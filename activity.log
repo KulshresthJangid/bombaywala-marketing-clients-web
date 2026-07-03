@@ -22625,3 +22625,9 @@ seq:    2026-07-03-15
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  121129
 ---
+## entry
+ts:     2026-07-03T15:56:08+00:00
+seq:    2026-07-03-16
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  119150
+---
