@@ -22637,3 +22637,9 @@ seq:    2026-07-03-17
 msg:    chore: reorganise src/ folder structure
 nonce:  106127
 ---
+## entry
+ts:     2026-07-03T18:49:57+00:00
+seq:    2026-07-03-18
+msg:    test: raise coverage floor for payment module
+nonce:  119774
+---
