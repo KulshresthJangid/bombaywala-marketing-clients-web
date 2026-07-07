@@ -22667,3 +22667,9 @@ seq:    2026-07-07-0
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  113525
 ---
+## entry
+ts:     2026-07-07T09:30:13+00:00
+seq:    2026-07-07-1
+msg:    test: add snapshot tests for report generator
+nonce:  119386
+---
