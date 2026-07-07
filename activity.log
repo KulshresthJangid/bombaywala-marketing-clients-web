@@ -22751,3 +22751,9 @@ seq:    2026-07-07-14
 msg:    feat: implement role-based access control
 nonce:  100462
 ---
+## entry
+ts:     2026-07-07T14:09:59+00:00
+seq:    2026-07-07-15
+msg:    chore: reorganise src/ folder structure
+nonce:  113141
+---
