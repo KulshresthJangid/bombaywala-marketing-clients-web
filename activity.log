@@ -22685,3 +22685,9 @@ seq:    2026-07-07-3
 msg:    fix: correct date formatting in monthly report
 nonce:  124986
 ---
+## entry
+ts:     2026-07-07T10:06:42+00:00
+seq:    2026-07-07-4
+msg:    refactor: move magic strings to constants module
+nonce:  119787
+---
