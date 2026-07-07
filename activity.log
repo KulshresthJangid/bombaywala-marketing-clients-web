@@ -22781,3 +22781,9 @@ seq:    2026-07-07-19
 msg:    refactor: consolidate duplicate validation logic
 nonce:  100104
 ---
+## entry
+ts:     2026-07-07T15:53:24+00:00
+seq:    2026-07-07-20
+msg:    docs: add getting-started guide to README
+nonce:  103572
+---
