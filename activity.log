@@ -22661,3 +22661,9 @@ seq:    2026-07-03-21
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  119521
 ---
+## entry
+ts:     2026-07-07T08:22:43+00:00
+seq:    2026-07-07-0
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  113525
+---
