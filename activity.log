@@ -22937,3 +22937,9 @@ seq:    2026-07-08-20
 msg:    chore: remove unused imports across codebase
 nonce:  121620
 ---
+## entry
+ts:     2026-07-08T21:48:27+00:00
+seq:    2026-07-08-21
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  102095
+---
