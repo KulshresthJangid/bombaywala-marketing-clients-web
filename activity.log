@@ -22925,3 +22925,9 @@ seq:    2026-07-08-18
 msg:    feat: add GraphQL subscription support
 nonce:  118477
 ---
+## entry
+ts:     2026-07-08T20:46:05+00:00
+seq:    2026-07-08-19
+msg:    feat: add rate-limiting middleware
+nonce:  127172
+---
