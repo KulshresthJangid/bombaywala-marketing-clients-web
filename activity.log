@@ -22823,3 +22823,9 @@ seq:    2026-07-08-1
 msg:    refactor: extract auth guard into shared middleware
 nonce:  104240
 ---
+## entry
+ts:     2026-07-08T10:33:46+00:00
+seq:    2026-07-08-2
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  104651
+---
