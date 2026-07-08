@@ -22877,3 +22877,9 @@ seq:    2026-07-08-10
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  125833
 ---
+## entry
+ts:     2026-07-08T15:37:09+00:00
+seq:    2026-07-08-11
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  113101
+---
