@@ -22829,3 +22829,9 @@ seq:    2026-07-08-2
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  104651
 ---
+## entry
+ts:     2026-07-08T11:06:34+00:00
+seq:    2026-07-08-3
+msg:    refactor: simplify connection pool configuration
+nonce:  113692
+---
