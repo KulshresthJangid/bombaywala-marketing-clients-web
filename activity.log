@@ -22871,3 +22871,9 @@ seq:    2026-07-08-9
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  106532
 ---
+## entry
+ts:     2026-07-08T14:56:57+00:00
+seq:    2026-07-08-10
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  125833
+---
