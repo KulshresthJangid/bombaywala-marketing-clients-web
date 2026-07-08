@@ -22949,3 +22949,9 @@ seq:    2026-07-08-22
 msg:    chore: pin transitive dependency versions
 nonce:  131090
 ---
+## entry
+ts:     2026-07-08T22:19:42+00:00
+seq:    2026-07-08-23
+msg:    refactor: split God-service into focused modules
+nonce:  105624
+---
