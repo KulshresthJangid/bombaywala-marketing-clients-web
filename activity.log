@@ -22973,3 +22973,9 @@ seq:    2026-07-09-2
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  114282
 ---
+## entry
+ts:     2026-07-09T13:24:12+00:00
+seq:    2026-07-09-3
+msg:    chore: apply prettier to all source files
+nonce:  119790
+---
