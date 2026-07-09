@@ -23021,3 +23021,9 @@ seq:    2026-07-09-10
 msg:    docs: document required environment variables
 nonce:  112654
 ---
+## entry
+ts:     2026-07-09T21:33:56+00:00
+seq:    2026-07-09-11
+msg:    refactor: consolidate duplicate validation logic
+nonce:  124186
+---
