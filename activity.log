@@ -23015,3 +23015,9 @@ seq:    2026-07-09-9
 msg:    refactor: simplify connection pool configuration
 nonce:  112517
 ---
+## entry
+ts:     2026-07-09T19:37:26+00:00
+seq:    2026-07-09-10
+msg:    docs: document required environment variables
+nonce:  112654
+---
