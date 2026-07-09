@@ -22979,3 +22979,9 @@ seq:    2026-07-09-3
 msg:    chore: apply prettier to all source files
 nonce:  119790
 ---
+## entry
+ts:     2026-07-09T15:07:27+00:00
+seq:    2026-07-09-4
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  127837
+---
