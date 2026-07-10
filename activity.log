@@ -23057,3 +23057,9 @@ seq:    2026-07-10-3
 msg:    refactor: split God-service into focused modules
 nonce:  114288
 ---
+## entry
+ts:     2026-07-10T12:30:24+00:00
+seq:    2026-07-10-4
+msg:    perf: reduce JS bundle size by 32% via tree shaking
+nonce:  100215
+---
