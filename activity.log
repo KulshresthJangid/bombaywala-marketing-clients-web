@@ -23093,3 +23093,9 @@ seq:    2026-07-10-9
 msg:    chore: upgrade all dependencies to latest minor
 nonce:  109788
 ---
+## entry
+ts:     2026-07-10T15:12:36+00:00
+seq:    2026-07-10-10
+msg:    test: stub external HTTP calls in unit suite
+nonce:  127402
+---
