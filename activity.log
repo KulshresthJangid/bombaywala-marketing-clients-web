@@ -23069,3 +23069,9 @@ seq:    2026-07-10-5
 msg:    docs: update Kubernetes deployment walkthrough
 nonce:  118154
 ---
+## entry
+ts:     2026-07-10T13:46:13+00:00
+seq:    2026-07-10-6
+msg:    refactor: extract auth guard into shared middleware
+nonce:  120384
+---
