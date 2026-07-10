@@ -23045,3 +23045,9 @@ seq:    2026-07-10-1
 msg:    fix: resolve infinite retry loop in HTTP client
 nonce:  111554
 ---
+## entry
+ts:     2026-07-10T11:27:57+00:00
+seq:    2026-07-10-2
+msg:    fix: fix stale JWT after password reset
+nonce:  114505
+---
