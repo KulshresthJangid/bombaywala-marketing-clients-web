@@ -23063,3 +23063,9 @@ seq:    2026-07-10-4
 msg:    perf: reduce JS bundle size by 32% via tree shaking
 nonce:  100215
 ---
+## entry
+ts:     2026-07-10T13:10:24+00:00
+seq:    2026-07-10-5
+msg:    docs: update Kubernetes deployment walkthrough
+nonce:  118154
+---
