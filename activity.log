@@ -23117,3 +23117,9 @@ seq:    2026-07-11-1
 msg:    fix: correct date formatting in monthly report
 nonce:  126608
 ---
+## entry
+ts:     2026-07-11T09:56:44+00:00
+seq:    2026-07-11-2
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  111056
+---
