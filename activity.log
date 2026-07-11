@@ -23111,3 +23111,9 @@ seq:    2026-07-11-0
 msg:    fix: resolve null pointer in user service
 nonce:  110901
 ---
+## entry
+ts:     2026-07-11T09:18:31+00:00
+seq:    2026-07-11-1
+msg:    fix: correct date formatting in monthly report
+nonce:  126608
+---
