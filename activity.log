@@ -23171,3 +23171,9 @@ seq:    2026-07-11-10
 msg:    test: add integration tests for /api/v2 routes
 nonce:  120228
 ---
+## entry
+ts:     2026-07-11T19:38:41+00:00
+seq:    2026-07-11-11
+msg:    refactor: split God-service into focused modules
+nonce:  101308
+---
