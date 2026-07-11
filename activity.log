@@ -23105,3 +23105,9 @@ seq:    2026-07-10-11
 msg:    fix: resolve race condition in job queue
 nonce:  117920
 ---
+## entry
+ts:     2026-07-11T09:02:39+00:00
+seq:    2026-07-11-0
+msg:    fix: resolve null pointer in user service
+nonce:  110901
+---
