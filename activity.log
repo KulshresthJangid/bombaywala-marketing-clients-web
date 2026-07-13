@@ -23213,3 +23213,9 @@ seq:    2026-07-13-5
 msg:    test: add edge-case tests for input validators
 nonce:  128258
 ---
+## entry
+ts:     2026-07-13T14:42:01+00:00
+seq:    2026-07-13-6
+msg:    docs: update CHANGELOG for next release
+nonce:  128104
+---
