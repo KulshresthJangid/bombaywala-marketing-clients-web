@@ -23225,3 +23225,9 @@ seq:    2026-07-13-7
 msg:    perf: trim unnecessary fields from list responses
 nonce:  102127
 ---
+## entry
+ts:     2026-07-13T19:22:12+00:00
+seq:    2026-07-13-8
+msg:    refactor: remove dead code from utils barrel
+nonce:  119757
+---
