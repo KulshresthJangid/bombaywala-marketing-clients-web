@@ -23201,3 +23201,9 @@ seq:    2026-07-13-3
 msg:    chore: pin transitive dependency versions
 nonce:  119695
 ---
+## entry
+ts:     2026-07-13T12:32:42+00:00
+seq:    2026-07-13-4
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  111260
+---
