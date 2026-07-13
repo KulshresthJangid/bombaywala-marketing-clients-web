@@ -23219,3 +23219,9 @@ seq:    2026-07-13-6
 msg:    docs: update CHANGELOG for next release
 nonce:  128104
 ---
+## entry
+ts:     2026-07-13T16:31:05+00:00
+seq:    2026-07-13-7
+msg:    perf: trim unnecessary fields from list responses
+nonce:  102127
+---
