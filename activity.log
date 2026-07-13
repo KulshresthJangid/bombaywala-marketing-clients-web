@@ -23189,3 +23189,9 @@ seq:    2026-07-13-1
 msg:    test: add snapshot tests for report generator
 nonce:  101397
 ---
+## entry
+ts:     2026-07-13T11:56:31+00:00
+seq:    2026-07-13-2
+msg:    test: improve assertion messages in user tests
+nonce:  101845
+---
