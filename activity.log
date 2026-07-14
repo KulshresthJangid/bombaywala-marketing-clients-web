@@ -23309,3 +23309,9 @@ seq:    2026-07-14-11
 msg:    feat: implement dark mode toggle
 nonce:  115590
 ---
+## entry
+ts:     2026-07-14T14:24:56+00:00
+seq:    2026-07-14-12
+msg:    fix: correct date formatting in monthly report
+nonce:  126652
+---
