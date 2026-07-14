@@ -23255,3 +23255,9 @@ seq:    2026-07-14-2
 msg:    feat: implement dark mode toggle
 nonce:  123386
 ---
+## entry
+ts:     2026-07-14T09:59:20+00:00
+seq:    2026-07-14-3
+msg:    feat: implement file upload with S3 backend
+nonce:  108002
+---
