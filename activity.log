@@ -23279,3 +23279,9 @@ seq:    2026-07-14-6
 msg:    fix: correct off-by-one in pagination offset
 nonce:  104619
 ---
+## entry
+ts:     2026-07-14T10:47:52+00:00
+seq:    2026-07-14-7
+msg:    refactor: extract auth guard into shared middleware
+nonce:  109464
+---
