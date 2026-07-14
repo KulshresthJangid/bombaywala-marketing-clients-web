@@ -23291,3 +23291,9 @@ seq:    2026-07-14-8
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  119730
 ---
+## entry
+ts:     2026-07-14T11:54:33+00:00
+seq:    2026-07-14-9
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  116747
+---
