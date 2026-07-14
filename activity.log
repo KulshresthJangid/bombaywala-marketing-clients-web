@@ -23261,3 +23261,9 @@ seq:    2026-07-14-3
 msg:    feat: implement file upload with S3 backend
 nonce:  108002
 ---
+## entry
+ts:     2026-07-14T10:19:29+00:00
+seq:    2026-07-14-4
+msg:    chore: bump Node.js engine field to 20 LTS
+nonce:  123117
+---
