@@ -23363,3 +23363,9 @@ seq:    2026-07-14-20
 msg:    feat: implement dark mode toggle
 nonce:  131431
 ---
+## entry
+ts:     2026-07-14T16:44:15+00:00
+seq:    2026-07-14-21
+msg:    test: stub external HTTP calls in unit suite
+nonce:  112678
+---
