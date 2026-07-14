@@ -23369,3 +23369,9 @@ seq:    2026-07-14-21
 msg:    test: stub external HTTP calls in unit suite
 nonce:  112678
 ---
+## entry
+ts:     2026-07-14T18:40:44+00:00
+seq:    2026-07-14-22
+msg:    feat: add email-verification flow
+nonce:  124266
+---
