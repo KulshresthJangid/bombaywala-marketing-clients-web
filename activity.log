@@ -23267,3 +23267,9 @@ seq:    2026-07-14-4
 msg:    chore: bump Node.js engine field to 20 LTS
 nonce:  123117
 ---
+## entry
+ts:     2026-07-14T10:36:27+00:00
+seq:    2026-07-14-5
+msg:    feat: add multi-language (i18n) support
+nonce:  116162
+---
