@@ -23243,3 +23243,9 @@ seq:    2026-07-14-0
 msg:    refactor: strengthen TypeScript strict-mode types
 nonce:  104040
 ---
+## entry
+ts:     2026-07-14T09:14:13+00:00
+seq:    2026-07-14-1
+msg:    fix: sanitize user input in search filter
+nonce:  122515
+---
