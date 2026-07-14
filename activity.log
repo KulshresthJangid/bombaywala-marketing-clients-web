@@ -23297,3 +23297,9 @@ seq:    2026-07-14-9
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  116747
 ---
+## entry
+ts:     2026-07-14T12:00:06+00:00
+seq:    2026-07-14-10
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  117212
+---
