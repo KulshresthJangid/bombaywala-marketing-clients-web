@@ -23429,3 +23429,9 @@ seq:    2026-07-15-6
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  129689
 ---
+## entry
+ts:     2026-07-15T11:48:52+00:00
+seq:    2026-07-15-7
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  118126
+---
