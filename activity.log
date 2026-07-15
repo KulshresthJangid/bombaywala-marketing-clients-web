@@ -23393,3 +23393,9 @@ seq:    2026-07-15-0
 msg:    test: add unit tests for AuthService
 nonce:  115777
 ---
+## entry
+ts:     2026-07-15T10:28:35+00:00
+seq:    2026-07-15-1
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  116715
+---
