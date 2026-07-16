@@ -23555,3 +23555,9 @@ seq:    2026-07-16-6
 msg:    feat: add rate-limiting middleware
 nonce:  115260
 ---
+## entry
+ts:     2026-07-16T13:41:57+00:00
+seq:    2026-07-16-7
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  105776
+---
