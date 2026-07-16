@@ -23597,3 +23597,9 @@ seq:    2026-07-16-13
 msg:    test: add integration tests for /api/v2 routes
 nonce:  102372
 ---
+## entry
+ts:     2026-07-16T22:30:59+00:00
+seq:    2026-07-16-14
+msg:    fix: correct date formatting in monthly report
+nonce:  105882
+---
