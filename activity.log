@@ -23567,3 +23567,9 @@ seq:    2026-07-16-8
 msg:    docs: update CHANGELOG for next release
 nonce:  106306
 ---
+## entry
+ts:     2026-07-16T14:38:15+00:00
+seq:    2026-07-16-9
+msg:    docs: add JSDoc to all public utility functions
+nonce:  131441
+---
