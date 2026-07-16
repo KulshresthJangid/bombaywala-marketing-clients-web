@@ -23561,3 +23561,9 @@ seq:    2026-07-16-7
 msg:    fix: prevent negative balance on concurrent withdrawal
 nonce:  105776
 ---
+## entry
+ts:     2026-07-16T14:01:48+00:00
+seq:    2026-07-16-8
+msg:    docs: update CHANGELOG for next release
+nonce:  106306
+---
