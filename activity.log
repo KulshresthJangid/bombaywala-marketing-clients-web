@@ -23513,3 +23513,9 @@ seq:    2026-07-15-20
 msg:    perf: parallelise image-resize pipeline
 nonce:  106912
 ---
+## entry
+ts:     2026-07-16T09:39:25+00:00
+seq:    2026-07-16-0
+msg:    feat: add OAuth2 social login flow
+nonce:  100648
+---
