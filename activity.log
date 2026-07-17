@@ -23663,3 +23663,9 @@ seq:    2026-07-17-9
 msg:    docs: clarify rate-limit headers in API docs
 nonce:  118212
 ---
+## entry
+ts:     2026-07-17T14:07:36+00:00
+seq:    2026-07-17-10
+msg:    test: add unit tests for AuthService
+nonce:  118244
+---
