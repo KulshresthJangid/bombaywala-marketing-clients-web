@@ -23693,3 +23693,9 @@ seq:    2026-07-17-14
 msg:    feat: scaffold onboarding wizard UI
 nonce:  127504
 ---
+## entry
+ts:     2026-07-17T15:01:09+00:00
+seq:    2026-07-17-15
+msg:    docs: add CONTRIBUTING.md guidelines
+nonce:  123207
+---
