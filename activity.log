@@ -23681,3 +23681,9 @@ seq:    2026-07-17-12
 msg:    feat: implement full-text search with filters
 nonce:  110768
 ---
+## entry
+ts:     2026-07-17T14:47:34+00:00
+seq:    2026-07-17-13
+msg:    feat: implement Redis caching layer
+nonce:  129922
+---
