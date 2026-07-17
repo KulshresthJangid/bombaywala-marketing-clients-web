@@ -23657,3 +23657,9 @@ seq:    2026-07-17-8
 msg:    fix: fix stale JWT after password reset
 nonce:  115279
 ---
+## entry
+ts:     2026-07-17T13:50:11+00:00
+seq:    2026-07-17-9
+msg:    docs: clarify rate-limit headers in API docs
+nonce:  118212
+---
