@@ -23735,3 +23735,9 @@ seq:    2026-07-17-21
 msg:    fix: resolve CORS rejection on preflight
 nonce:  103079
 ---
+## entry
+ts:     2026-07-17T21:23:02+00:00
+seq:    2026-07-17-22
+msg:    refactor: strengthen TypeScript strict-mode types
+nonce:  111862
+---
