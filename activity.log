@@ -23687,3 +23687,9 @@ seq:    2026-07-17-13
 msg:    feat: implement Redis caching layer
 nonce:  129922
 ---
+## entry
+ts:     2026-07-17T15:00:43+00:00
+seq:    2026-07-17-14
+msg:    feat: scaffold onboarding wizard UI
+nonce:  127504
+---
