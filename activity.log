@@ -23711,3 +23711,9 @@ seq:    2026-07-17-17
 msg:    fix: fix stale JWT after password reset
 nonce:  121274
 ---
+## entry
+ts:     2026-07-17T15:36:52+00:00
+seq:    2026-07-17-18
+msg:    docs: add JSDoc to all public utility functions
+nonce:  107001
+---
