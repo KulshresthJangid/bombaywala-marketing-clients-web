@@ -23675,3 +23675,9 @@ seq:    2026-07-17-11
 msg:    refactor: replace callback hell with async/await
 nonce:  124663
 ---
+## entry
+ts:     2026-07-17T14:28:46+00:00
+seq:    2026-07-17-12
+msg:    feat: implement full-text search with filters
+nonce:  110768
+---
