@@ -23645,3 +23645,9 @@ seq:    2026-07-17-6
 msg:    perf: add composite index on (user_id, created_at)
 nonce:  106833
 ---
+## entry
+ts:     2026-07-17T13:33:25+00:00
+seq:    2026-07-17-7
+msg:    feat: create outbound webhook dispatcher
+nonce:  102358
+---
