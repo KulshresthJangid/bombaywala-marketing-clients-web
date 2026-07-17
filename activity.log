@@ -23669,3 +23669,9 @@ seq:    2026-07-17-10
 msg:    test: add unit tests for AuthService
 nonce:  118244
 ---
+## entry
+ts:     2026-07-17T14:28:32+00:00
+seq:    2026-07-17-11
+msg:    refactor: replace callback hell with async/await
+nonce:  124663
+---
