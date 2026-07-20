@@ -23813,3 +23813,9 @@ seq:    2026-07-20-11
 msg:    chore: pin transitive dependency versions
 nonce:  104320
 ---
+## entry
+ts:     2026-07-20T12:24:07+00:00
+seq:    2026-07-20-12
+msg:    test: add integration tests for /api/v2 routes
+nonce:  130504
+---
