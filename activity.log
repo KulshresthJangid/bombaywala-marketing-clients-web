@@ -23879,3 +23879,9 @@ seq:    2026-07-20-22
 msg:    feat: create immutable audit-log service
 nonce:  121172
 ---
+## entry
+ts:     2026-07-20T20:46:00+00:00
+seq:    2026-07-20-23
+msg:    fix: prevent negative balance on concurrent withdrawal
+nonce:  126827
+---
