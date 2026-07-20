@@ -23861,3 +23861,9 @@ seq:    2026-07-20-19
 msg:    fix: correct off-by-one in pagination offset
 nonce:  116447
 ---
+## entry
+ts:     2026-07-20T16:20:27+00:00
+seq:    2026-07-20-20
+msg:    test: add unit tests for AuthService
+nonce:  102179
+---
