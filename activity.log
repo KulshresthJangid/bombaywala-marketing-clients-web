@@ -23753,3 +23753,9 @@ seq:    2026-07-20-1
 msg:    test: add unit tests for AuthService
 nonce:  122340
 ---
+## entry
+ts:     2026-07-20T10:30:02+00:00
+seq:    2026-07-20-2
+msg:    fix: resolve infinite retry loop in HTTP client
+nonce:  126930
+---
