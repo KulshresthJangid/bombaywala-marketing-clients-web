@@ -23819,3 +23819,9 @@ seq:    2026-07-20-12
 msg:    test: add integration tests for /api/v2 routes
 nonce:  130504
 ---
+## entry
+ts:     2026-07-20T13:21:10+00:00
+seq:    2026-07-20-13
+msg:    chore: reorganise src/ folder structure
+nonce:  120002
+---
