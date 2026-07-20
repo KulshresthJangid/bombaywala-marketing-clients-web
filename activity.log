@@ -23783,3 +23783,9 @@ seq:    2026-07-20-6
 msg:    refactor: normalise camelCase in JSON responses
 nonce:  110349
 ---
+## entry
+ts:     2026-07-20T11:29:01+00:00
+seq:    2026-07-20-7
+msg:    feat: add Stripe subscription billing
+nonce:  100075
+---
