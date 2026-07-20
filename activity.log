@@ -23837,3 +23837,9 @@ seq:    2026-07-20-15
 msg:    test: add edge-case tests for input validators
 nonce:  111777
 ---
+## entry
+ts:     2026-07-20T14:09:43+00:00
+seq:    2026-07-20-16
+msg:    fix: fix stale JWT after password reset
+nonce:  119554
+---
