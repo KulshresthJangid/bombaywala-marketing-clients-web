@@ -23831,3 +23831,9 @@ seq:    2026-07-20-14
 msg:    test: add integration tests for /api/v2 routes
 nonce:  106657
 ---
+## entry
+ts:     2026-07-20T13:56:11+00:00
+seq:    2026-07-20-15
+msg:    test: add edge-case tests for input validators
+nonce:  111777
+---
