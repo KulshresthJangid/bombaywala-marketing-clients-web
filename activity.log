@@ -24005,3 +24005,9 @@ seq:    2026-07-22-18
 msg:    test: add k6 load-test script for checkout flow
 nonce:  103416
 ---
+## entry
+ts:     2026-07-22T16:23:38+00:00
+seq:    2026-07-22-19
+msg:    docs: document required environment variables
+nonce:  100465
+---
