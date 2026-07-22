@@ -23993,3 +23993,9 @@ seq:    2026-07-22-16
 msg:    refactor: consolidate duplicate validation logic
 nonce:  131259
 ---
+## entry
+ts:     2026-07-22T15:20:39+00:00
+seq:    2026-07-22-17
+msg:    feat: add email-verification flow
+nonce:  130069
+---
