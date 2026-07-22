@@ -23969,3 +23969,9 @@ seq:    2026-07-22-12
 msg:    perf: lazy-load heavy chart library
 nonce:  127636
 ---
+## entry
+ts:     2026-07-22T13:15:43+00:00
+seq:    2026-07-22-13
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  103876
+---
