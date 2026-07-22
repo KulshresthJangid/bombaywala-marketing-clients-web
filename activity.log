@@ -23915,3 +23915,9 @@ seq:    2026-07-22-3
 msg:    docs: add architecture decision record for caching
 nonce:  103515
 ---
+## entry
+ts:     2026-07-22T11:40:45+00:00
+seq:    2026-07-22-4
+msg:    chore: update Dockerfile to node:20-alpine
+nonce:  130186
+---
