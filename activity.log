@@ -24011,3 +24011,9 @@ seq:    2026-07-22-19
 msg:    docs: document required environment variables
 nonce:  100465
 ---
+## entry
+ts:     2026-07-22T17:44:09+00:00
+seq:    2026-07-22-20
+msg:    docs: add getting-started guide to README
+nonce:  119652
+---
