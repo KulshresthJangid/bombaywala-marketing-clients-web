@@ -23903,3 +23903,9 @@ seq:    2026-07-22-1
 msg:    feat: add real-time notification system
 nonce:  117043
 ---
+## entry
+ts:     2026-07-22T10:49:48+00:00
+seq:    2026-07-22-2
+msg:    feat: add email-verification flow
+nonce:  112682
+---
