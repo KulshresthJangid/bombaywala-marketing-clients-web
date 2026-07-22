@@ -23939,3 +23939,9 @@ seq:    2026-07-22-7
 msg:    perf: lazy-load heavy chart library
 nonce:  109916
 ---
+## entry
+ts:     2026-07-22T12:10:46+00:00
+seq:    2026-07-22-8
+msg:    test: add integration tests for /api/v2 routes
+nonce:  129562
+---
