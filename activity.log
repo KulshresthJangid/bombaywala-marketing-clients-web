@@ -23981,3 +23981,9 @@ seq:    2026-07-22-14
 msg:    fix: handle empty state on dashboard load
 nonce:  119108
 ---
+## entry
+ts:     2026-07-22T13:53:19+00:00
+seq:    2026-07-22-15
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  103318
+---
