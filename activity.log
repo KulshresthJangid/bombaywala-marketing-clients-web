@@ -24017,3 +24017,9 @@ seq:    2026-07-22-20
 msg:    docs: add getting-started guide to README
 nonce:  119652
 ---
+## entry
+ts:     2026-07-22T18:00:18+00:00
+seq:    2026-07-22-21
+msg:    chore: upgrade all dependencies to latest minor
+nonce:  111916
+---
