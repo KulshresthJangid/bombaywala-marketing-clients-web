@@ -24059,3 +24059,9 @@ seq:    2026-07-23-5
 msg:    feat: add user authentication module
 nonce:  124411
 ---
+## entry
+ts:     2026-07-23T12:52:32+00:00
+seq:    2026-07-23-6
+msg:    perf: memoize expensive permission-check results
+nonce:  128118
+---
