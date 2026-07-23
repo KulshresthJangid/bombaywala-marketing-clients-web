@@ -24077,3 +24077,9 @@ seq:    2026-07-23-8
 msg:    feat: add batch job processing queue
 nonce:  110743
 ---
+## entry
+ts:     2026-07-23T13:46:56+00:00
+seq:    2026-07-23-9
+msg:    perf: memoize expensive permission-check results
+nonce:  124742
+---
