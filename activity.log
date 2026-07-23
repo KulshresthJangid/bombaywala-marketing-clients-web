@@ -24071,3 +24071,9 @@ seq:    2026-07-23-7
 msg:    fix: correct UTC offset in cron scheduler
 nonce:  108506
 ---
+## entry
+ts:     2026-07-23T13:46:21+00:00
+seq:    2026-07-23-8
+msg:    feat: add batch job processing queue
+nonce:  110743
+---
