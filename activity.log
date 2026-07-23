@@ -24089,3 +24089,9 @@ seq:    2026-07-23-10
 msg:    feat: add multi-language (i18n) support
 nonce:  122795
 ---
+## entry
+ts:     2026-07-23T15:29:30+00:00
+seq:    2026-07-23-11
+msg:    feat: implement role-based access control
+nonce:  127441
+---
