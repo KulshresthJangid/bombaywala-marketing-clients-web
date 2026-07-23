@@ -24035,3 +24035,9 @@ seq:    2026-07-23-1
 msg:    feat: add cursor-based pagination
 nonce:  112233
 ---
+## entry
+ts:     2026-07-23T09:40:19+00:00
+seq:    2026-07-23-2
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  122931
+---
