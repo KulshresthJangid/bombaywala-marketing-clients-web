@@ -24065,3 +24065,9 @@ seq:    2026-07-23-6
 msg:    perf: memoize expensive permission-check results
 nonce:  128118
 ---
+## entry
+ts:     2026-07-23T13:05:24+00:00
+seq:    2026-07-23-7
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  108506
+---
