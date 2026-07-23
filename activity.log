@@ -24095,3 +24095,9 @@ seq:    2026-07-23-11
 msg:    feat: implement role-based access control
 nonce:  127441
 ---
+## entry
+ts:     2026-07-23T15:30:54+00:00
+seq:    2026-07-23-12
+msg:    test: improve assertion messages in user tests
+nonce:  107492
+---
