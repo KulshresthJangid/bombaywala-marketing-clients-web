@@ -24083,3 +24083,9 @@ seq:    2026-07-23-9
 msg:    perf: memoize expensive permission-check results
 nonce:  124742
 ---
+## entry
+ts:     2026-07-23T14:52:56+00:00
+seq:    2026-07-23-10
+msg:    feat: add multi-language (i18n) support
+nonce:  122795
+---
