@@ -24197,3 +24197,9 @@ seq:    2026-07-24-11
 msg:    test: add edge-case tests for input validators
 nonce:  105656
 ---
+## entry
+ts:     2026-07-24T22:59:12+00:00
+seq:    2026-07-24-12
+msg:    fix: resolve CORS rejection on preflight
+nonce:  117190
+---
