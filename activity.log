@@ -24155,3 +24155,9 @@ seq:    2026-07-24-4
 msg:    fix: return 403 instead of 500 for missing scope
 nonce:  111517
 ---
+## entry
+ts:     2026-07-24T13:16:37+00:00
+seq:    2026-07-24-5
+msg:    test: add integration tests for /api/v2 routes
+nonce:  107211
+---
