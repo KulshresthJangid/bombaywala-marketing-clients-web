@@ -24149,3 +24149,9 @@ seq:    2026-07-24-3
 msg:    feat: add export-to-CSV functionality
 nonce:  107473
 ---
+## entry
+ts:     2026-07-24T12:19:37+00:00
+seq:    2026-07-24-4
+msg:    fix: return 403 instead of 500 for missing scope
+nonce:  111517
+---
