@@ -24161,3 +24161,9 @@ seq:    2026-07-24-5
 msg:    test: add integration tests for /api/v2 routes
 nonce:  107211
 ---
+## entry
+ts:     2026-07-24T14:23:40+00:00
+seq:    2026-07-24-6
+msg:    fix: plug memory leak in WebSocket listener
+nonce:  117963
+---
