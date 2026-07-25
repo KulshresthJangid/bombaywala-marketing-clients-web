@@ -24293,3 +24293,9 @@ seq:    2026-07-25-14
 msg:    chore: pin transitive dependency versions
 nonce:  127002
 ---
+## entry
+ts:     2026-07-25T17:46:02+00:00
+seq:    2026-07-25-15
+msg:    fix: resolve race condition in job queue
+nonce:  107192
+---
