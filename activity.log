@@ -24251,3 +24251,9 @@ seq:    2026-07-25-7
 msg:    chore: drop deprecated crypto.createCipher usage
 nonce:  100591
 ---
+## entry
+ts:     2026-07-25T13:36:25+00:00
+seq:    2026-07-25-8
+msg:    fix: correct off-by-one in pagination offset
+nonce:  129618
+---
