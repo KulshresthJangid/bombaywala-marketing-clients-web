@@ -24263,3 +24263,9 @@ seq:    2026-07-25-9
 msg:    test: improve assertion messages in user tests
 nonce:  120488
 ---
+## entry
+ts:     2026-07-25T14:14:26+00:00
+seq:    2026-07-25-10
+msg:    test: add integration tests for /api/v2 routes
+nonce:  123419
+---
