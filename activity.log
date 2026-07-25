@@ -24215,3 +24215,9 @@ seq:    2026-07-25-1
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  118993
 ---
+## entry
+ts:     2026-07-25T09:30:14+00:00
+seq:    2026-07-25-2
+msg:    test: raise coverage floor for payment module
+nonce:  120826
+---
