@@ -24287,3 +24287,9 @@ seq:    2026-07-25-13
 msg:    refactor: remove dead code from utils barrel
 nonce:  117429
 ---
+## entry
+ts:     2026-07-25T17:00:31+00:00
+seq:    2026-07-25-14
+msg:    chore: pin transitive dependency versions
+nonce:  127002
+---
