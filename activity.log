@@ -24281,3 +24281,9 @@ seq:    2026-07-25-12
 msg:    chore: reorganise src/ folder structure
 nonce:  111987
 ---
+## entry
+ts:     2026-07-25T15:32:38+00:00
+seq:    2026-07-25-13
+msg:    refactor: remove dead code from utils barrel
+nonce:  117429
+---
