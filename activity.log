@@ -24227,3 +24227,9 @@ seq:    2026-07-25-3
 msg:    refactor: replace callback hell with async/await
 nonce:  105331
 ---
+## entry
+ts:     2026-07-25T11:57:44+00:00
+seq:    2026-07-25-4
+msg:    docs: add getting-started guide to README
+nonce:  120939
+---
