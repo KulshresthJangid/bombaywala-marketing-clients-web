@@ -24365,3 +24365,9 @@ seq:    2026-07-27-7
 msg:    feat: add rate-limiting middleware
 nonce:  116761
 ---
+## entry
+ts:     2026-07-27T13:07:15+00:00
+seq:    2026-07-27-8
+msg:    feat: add batch job processing queue
+nonce:  107415
+---
