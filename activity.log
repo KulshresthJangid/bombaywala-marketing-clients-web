@@ -24401,3 +24401,9 @@ seq:    2026-07-27-13
 msg:    chore: expand .gitignore for IDE artefacts
 nonce:  131296
 ---
+## entry
+ts:     2026-07-27T18:15:03+00:00
+seq:    2026-07-27-14
+msg:    fix: resolve duplicate-key error on upsert
+nonce:  101252
+---
