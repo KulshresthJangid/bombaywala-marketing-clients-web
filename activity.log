@@ -24413,3 +24413,9 @@ seq:    2026-07-27-15
 msg:    perf: stream large CSV exports instead of buffering
 nonce:  101238
 ---
+## entry
+ts:     2026-07-27T20:26:15+00:00
+seq:    2026-07-27-16
+msg:    chore: enforce stricter ESLint ruleset
+nonce:  132330
+---
