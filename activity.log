@@ -24407,3 +24407,9 @@ seq:    2026-07-27-14
 msg:    fix: resolve duplicate-key error on upsert
 nonce:  101252
 ---
+## entry
+ts:     2026-07-27T19:47:15+00:00
+seq:    2026-07-27-15
+msg:    perf: stream large CSV exports instead of buffering
+nonce:  101238
+---
