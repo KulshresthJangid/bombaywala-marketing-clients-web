@@ -24419,3 +24419,9 @@ seq:    2026-07-27-16
 msg:    chore: enforce stricter ESLint ruleset
 nonce:  132330
 ---
+## entry
+ts:     2026-07-27T20:57:29+00:00
+seq:    2026-07-27-17
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  116897
+---
