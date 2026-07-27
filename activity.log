@@ -24395,3 +24395,9 @@ seq:    2026-07-27-12
 msg:    feat: implement full-text search with filters
 nonce:  114092
 ---
+## entry
+ts:     2026-07-27T17:43:59+00:00
+seq:    2026-07-27-13
+msg:    chore: expand .gitignore for IDE artefacts
+nonce:  131296
+---
