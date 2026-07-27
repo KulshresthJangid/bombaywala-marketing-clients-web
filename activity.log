@@ -24341,3 +24341,9 @@ seq:    2026-07-27-3
 msg:    feat: create admin panel route group
 nonce:  103734
 ---
+## entry
+ts:     2026-07-27T11:19:39+00:00
+seq:    2026-07-27-4
+msg:    fix: correct UTC offset in cron scheduler
+nonce:  125966
+---
