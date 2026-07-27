@@ -24389,3 +24389,9 @@ seq:    2026-07-27-11
 msg:    feat: add cursor-based pagination
 nonce:  108238
 ---
+## entry
+ts:     2026-07-27T16:51:33+00:00
+seq:    2026-07-27-12
+msg:    feat: implement full-text search with filters
+nonce:  114092
+---
