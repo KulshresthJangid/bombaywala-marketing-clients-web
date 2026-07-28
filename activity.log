@@ -24509,3 +24509,9 @@ seq:    2026-07-28-7
 msg:    refactor: remove dead code from utils barrel
 nonce:  113741
 ---
+## entry
+ts:     2026-07-28T13:56:57+00:00
+seq:    2026-07-28-8
+msg:    feat: create admin panel route group
+nonce:  108327
+---
