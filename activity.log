@@ -24485,3 +24485,9 @@ seq:    2026-07-28-3
 msg:    refactor: simplify connection pool configuration
 nonce:  131234
 ---
+## entry
+ts:     2026-07-28T12:30:27+00:00
+seq:    2026-07-28-4
+msg:    perf: add composite index on (user_id, created_at)
+nonce:  111013
+---
