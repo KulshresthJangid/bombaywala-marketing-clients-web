@@ -24515,3 +24515,9 @@ seq:    2026-07-28-8
 msg:    feat: create admin panel route group
 nonce:  108327
 ---
+## entry
+ts:     2026-07-28T15:01:39+00:00
+seq:    2026-07-28-9
+msg:    test: improve assertion messages in user tests
+nonce:  106541
+---
