@@ -24533,3 +24533,9 @@ seq:    2026-07-28-11
 msg:    fix: fix stale JWT after password reset
 nonce:  111246
 ---
+## entry
+ts:     2026-07-28T16:39:06+00:00
+seq:    2026-07-28-12
+msg:    chore: remove unused imports across codebase
+nonce:  110607
+---
