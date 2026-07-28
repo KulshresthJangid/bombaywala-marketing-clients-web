@@ -24461,3 +24461,9 @@ seq:    2026-07-27-23
 msg:    perf: enable gzip compression on API responses
 nonce:  106357
 ---
+## entry
+ts:     2026-07-28T09:14:33+00:00
+seq:    2026-07-28-0
+msg:    refactor: split God-service into focused modules
+nonce:  103590
+---
