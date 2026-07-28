@@ -24521,3 +24521,9 @@ seq:    2026-07-28-9
 msg:    test: improve assertion messages in user tests
 nonce:  106541
 ---
+## entry
+ts:     2026-07-28T15:28:57+00:00
+seq:    2026-07-28-10
+msg:    test: fix flaky assertion in scheduler spec
+nonce:  124831
+---
