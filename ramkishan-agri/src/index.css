@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #FAF7F0;
+  color: #171F17;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 0.01em;
+}
+
+@layer components {
+  .max-w-site {
+    @apply max-w-[1240px] mx-auto px-5 sm:px-8;
+  }
+
+  .section {
+    @apply py-16 sm:py-24;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-orange text-white font-display uppercase tracking-wide text-sm px-7 py-3.5 rounded-sm hover:bg-orange-dark transition-colors duration-200;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-forest text-forest font-display uppercase tracking-wide text-sm px-7 py-3.5 rounded-sm hover:bg-forest hover:text-white transition-colors duration-200;
+  }
+
+  .btn-outline-white {
+    @apply inline-flex items-center justify-center gap-2 border-2 border-white text-white font-display uppercase tracking-wide text-sm px-7 py-3.5 rounded-sm hover:bg-white hover:text-forest transition-colors duration-200;
+  }
+
+  .overline {
+    @apply text-orange font-display uppercase tracking-[0.2em] text-xs sm:text-sm font-semibold;
+  }
+
+  .tricolor-rule {
+    @apply flex h-1.5 w-16 overflow-hidden rounded-full;
+  }
+
+  .tricolor-rule span {
+    @apply flex-1;
+  }
+
+  .card {
+    @apply bg-white rounded-md border border-black/5 shadow-[0_2px_20px_rgba(23,31,23,0.06)];
+  }
+
+  .spec-table td, .spec-table th {
+    @apply border border-forest/15 px-4 py-2.5 text-sm text-left;
+  }
+
+  .spec-table th {
+    @apply bg-lime/40 font-semibold text-forest-dark font-display uppercase tracking-wide text-xs;
+  }
+
+  .spec-table tr:nth-child(even) td {
+    @apply bg-forest/[0.03];
+  }
+}
+
+@layer utilities {
+  .animate-fade-rise-delay-1 { animation-delay: 0.08s; }
+  .animate-fade-rise-delay-2 { animation-delay: 0.16s; }
+  .animate-fade-rise-delay-3 { animation-delay: 0.24s; }
+}
