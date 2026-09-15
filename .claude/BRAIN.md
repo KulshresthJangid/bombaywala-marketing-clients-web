@@ -242,6 +242,9 @@ All site content lives in **`src/lib/config.ts`**. To update anything (contact i
 
 Blog posts live in **`src/lib/blog.ts`** as an array of `BlogPost` objects with slug, title, category, description, date, readTime, content.
 
+### Contact Form
+`src/pages/Contact.tsx` posts to `api/contact.ts` — a Vercel serverless function (this is a plain Vite SPA, so it's a root-level `/api` function, not a Next.js route) that emails submissions via Resend to `bombaywalamarketing@gmail.com`. Requires `RESEND_API_KEY` set in `.env.local` for local `vercel dev` testing and in the Vercel project's Environment Variables for it to actually deliver in production/preview — without it, the form returns a clear "not configured" error instead of silently pretending to succeed. Plain `npm run dev` (Vite only) does not serve `/api/*` — use `vercel dev` to test the endpoint locally.
+
 ---
 
 ## 6. seven-seas (Client Site)
