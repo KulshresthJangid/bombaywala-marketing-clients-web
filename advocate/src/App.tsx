@@ -2,7 +2,9 @@ import { Routes, Route, useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import Navbar from "./components/layout/Navbar";
 import Footer from "./components/layout/Footer";
+import PageLoader from "./components/layout/PageLoader";
 import WhatsAppButton from "./components/shared/WhatsAppButton";
+import DisclaimerGate from "./components/shared/DisclaimerGate";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import PracticeAreas from "./pages/PracticeAreas";
@@ -20,6 +22,8 @@ function ScrollToTop() {
 export default function App() {
   return (
     <div className="min-h-screen flex flex-col">
+      <PageLoader />
+      <DisclaimerGate />
       <ScrollToTop />
       <Navbar />
       <main className="flex-1">

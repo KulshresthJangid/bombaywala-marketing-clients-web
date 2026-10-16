@@ -58,7 +58,7 @@ export default function PracticeAreaDetail() {
               <p className="overline overline-light">Discuss This Matter</p>
               <p className="mt-4 text-cream/70 text-sm leading-relaxed">
                 Speak directly with {siteConfig.founder.displayName} about
-                your {area.name.toLowerCase()} matter.
+                your {area.name} matter.
               </p>
               <div className="mt-6 flex flex-col gap-3">
                 <a
