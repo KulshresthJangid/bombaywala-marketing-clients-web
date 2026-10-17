@@ -94,10 +94,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Representation before the Bombay High Court across writ jurisdiction, civil and criminal appeals, and original side proceedings. Matters are prepared with the depth of research and drafting that High Court practice demands, from the first petition through final hearing.",
     highlights: [
-      "Writ petitions (Article 226/227)",
-      "Civil & criminal appeals",
-      "Original side civil suits",
-      "Urgent interim relief applications",
+      "Writ Petitions (Article 226/227)",
+      "Civil & Criminal Appeals",
+      "Original Side Civil Suits",
+      "Urgent Interim Relief Applications",
     ],
     featured: true,
   },
@@ -110,10 +110,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "End-to-end arbitration support: advising on arbitration clauses at the contract stage, appointment of arbitrators, drafting statements of claim and defence, and representation through final award — including enforcement and challenge proceedings under the Arbitration and Conciliation Act.",
     highlights: [
-      "Institutional & ad-hoc arbitration",
-      "Drafting claims, defences & counterclaims",
-      "Section 34 & 36 proceedings",
-      "Commercial contract disputes",
+      "Institutional & Ad-Hoc Arbitration",
+      "Drafting Claims, Defences & Counterclaims",
+      "Section 34 & 36 Proceedings",
+      "Commercial Contract Disputes",
     ],
     featured: true,
   },
@@ -126,10 +126,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Civil litigation covering money recovery suits, injunctions, specific performance, partition and title disputes. One of the firm's two highest-volume practice areas, with matters handled at trial court, appellate and execution stages.",
     highlights: [
-      "Property & title disputes",
-      "Injunctions & specific performance",
-      "Recovery suits",
-      "Execution proceedings",
+      "Property & Title Disputes",
+      "Injunctions & Specific Performance",
+      "Recovery Suits",
+      "Execution Proceedings",
     ],
     featured: true,
   },
@@ -142,10 +142,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Criminal defence across investigation, bail and trial stages — including anticipatory bail applications, regular bail, quashing petitions, and full trial representation. Alongside civil matters, criminal defence is where the firm sees its highest client volume.",
     highlights: [
-      "Anticipatory & regular bail",
-      "Quashing petitions (Section 482 CrPC)",
-      "Trial representation",
-      "24/7 emergency consultation for urgent arrests",
+      "Anticipatory & Regular Bail",
+      "Quashing Petitions (Section 482 CrPC)",
+      "Trial Representation",
+      "24/7 Emergency Consultation for Urgent Arrests",
     ],
     featured: true,
   },
@@ -158,10 +158,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Representation on both sides of cheque dishonour matters — filing and prosecuting Section 138 complaints for payees, and defending accused parties, including compounding and settlement negotiations where appropriate.",
     highlights: [
-      "Complainant & defence representation",
-      "Statutory notice drafting",
-      "Compounding & settlement",
-      "Execution of compensation orders",
+      "Complainant & Defence Representation",
+      "Statutory Notice Drafting",
+      "Compounding & Settlement",
+      "Execution of Compensation Orders",
     ],
   },
   {
@@ -173,10 +173,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Advising banks, NBFCs and borrowers on debt recovery — original applications and appeals before the DRT/DRAT, SARFAESI Act enforcement and challenges, and settlement negotiations in secured lending disputes.",
     highlights: [
-      "DRT & DRAT proceedings",
-      "SARFAESI enforcement & challenges",
-      "Securitisation matters",
-      "Borrower & lender representation",
+      "DRT & DRAT Proceedings",
+      "SARFAESI Enforcement & Challenges",
+      "Securitisation Matters",
+      "Borrower & Lender Representation",
     ],
   },
   {
@@ -188,10 +188,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Corporate legal support spanning day-to-day advisory retainers, contract drafting, compliance, and representation before the National Company Law Tribunal — drawing on 9 years of dedicated corporate law experience alongside litigation practice.",
     highlights: [
-      "Monthly retainer advisory",
-      "Contract drafting & review",
-      "NCLT proceedings",
-      "Corporate compliance",
+      "Monthly Retainer Advisory",
+      "Contract Drafting & Review",
+      "NCLT Proceedings",
+      "Corporate Compliance",
     ],
   },
   {
@@ -203,10 +203,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Handling property title disputes, land acquisition compensation matters, and the legal complexities of building redevelopment — including society disputes, developer agreements and possession matters.",
     highlights: [
-      "Title & ownership disputes",
-      "Land acquisition matters",
-      "Redevelopment agreements",
-      "Society & developer disputes",
+      "Title & Ownership Disputes",
+      "Land Acquisition Matters",
+      "Redevelopment Agreements",
+      "Society & Developer Disputes",
     ],
   },
   {
@@ -218,10 +218,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Matrimonial and family law matters including divorce (contested and mutual consent), maintenance, custody and family property disputes — handled with the discretion and sensitivity these matters require.",
     highlights: [
-      "Mutual consent & contested divorce",
-      "Maintenance & alimony",
-      "Custody matters",
-      "Family property disputes",
+      "Mutual Consent & Contested Divorce",
+      "Maintenance & Alimony",
+      "Custody Matters",
+      "Family Property Disputes",
     ],
   },
   {
@@ -233,10 +233,10 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Assistance obtaining succession certificates and legal heirship certificates, and representation in testamentary petitions for probate and letters of administration — guiding families through estate matters efficiently.",
     highlights: [
-      "Succession certificates",
-      "Legal heirship certificates",
-      "Probate petitions",
-      "Letters of administration",
+      "Succession Certificates",
+      "Legal Heirship Certificates",
+      "Probate Petitions",
+      "Letters of Administration",
     ],
   },
   {
@@ -248,9 +248,9 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Matters before the Armed Forces Tribunal concerning service conditions, disability and pensionary claims, and disciplinary proceedings for serving and retired defence personnel.",
     highlights: [
-      "Service condition disputes",
-      "Disability & pension claims",
-      "Disciplinary proceedings",
+      "Service Condition Disputes",
+      "Disability & Pension Claims",
+      "Disciplinary Proceedings",
     ],
   },
   {
@@ -262,9 +262,9 @@ export const practiceAreas: PracticeArea[] = [
     description:
       "Drafting and vetting of agreements, contracts and legal notices across commercial and personal matters — the documentation work that prevents disputes, and strengthens your position when they arise anyway.",
     highlights: [
-      "Agreement & contract drafting",
-      "Legal notice drafting",
-      "Document vetting & review",
+      "Agreement & Contract Drafting",
+      "Legal Notice Drafting",
+      "Document Vetting & Review",
     ],
   },
 ];
