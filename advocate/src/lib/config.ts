@@ -14,7 +14,7 @@ export const siteConfig = {
     displayName: "Adv. Sourabh A. Saxena",
     litigationYears: 11,
     corporateYears: 9,
-    casesHandled: "200+",
+    casesHandled: "300+",
     successRatio: "95%+",
     membership: "Bar Council of Maharashtra",
   },
@@ -37,7 +37,7 @@ export const siteConfig = {
 export const stats = [
   { label: "Years Litigation Experience", value: "11+" },
   { label: "Years Corporate Experience", value: "9+" },
-  { label: "Matters Handled", value: "200+" },
+  { label: "Matters Handled", value: "300+" },
   { label: "Success Ratio", value: "95%+" },
 ] as const;
 
@@ -63,9 +63,9 @@ export const usps = [
       "Clear fee structures agreed upfront. No surprise billing, no ambiguity about what a matter will cost to pursue.",
   },
   {
-    title: "Aggressive Courtroom Representation",
+    title: "Proven Courtroom Representation",
     description:
-      "A 95%+ success ratio across roughly 200 matters, built on thorough preparation and firm advocacy in court.",
+      "A 95%+ success ratio across roughly 300 matters, built on thorough preparation and firm advocacy in court.",
   },
   {
     title: "Strong Drafting & Documentation",
@@ -323,6 +323,6 @@ export const trustSignals = [
   "Enrolled Advocate, Bar Council of Maharashtra",
   "11 years of litigation experience",
   "9 years of corporate law experience",
-  "Approx. 200 matters handled",
+  "Approx. 300 matters handled",
   "95%+ success ratio",
 ] as const;

@@ -282,7 +282,7 @@ export default function Home() {
                   Discuss Your Matter, Directly.
                 </h2>
                 <p className="mt-4 max-w-lg mx-auto text-cream/65">
-                  No junior associates, no runaround — speak with{" "}
+                  No junior associates, no delays — speak with{" "}
                   {siteConfig.founder.displayName} to understand your options.
                 </p>
                 <div className="mt-8 flex flex-wrap justify-center gap-4">

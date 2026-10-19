@@ -20,7 +20,7 @@ export default function About() {
       <PageHero
         eyebrow="About the Firm"
         title={`Advocate ${f.name}`}
-        description="Twenty years across litigation and corporate practice, condensed into direct, no-nonsense representation for every client who walks in."
+        description="Twenty years across litigation and corporate practice, condensed into direct, results-driven representation for every client who walks in."
       />
 
       <section className="pg-section bg-white">
