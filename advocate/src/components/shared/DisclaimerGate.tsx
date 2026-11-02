@@ -1,23 +1,23 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { siteConfig } from "../../lib/config";
 
 const STORAGE_KEY = "sas-disclaimer-accepted";
 const EASE = [0.22, 1, 0.36, 1] as const;
 
+function hasNotAccepted() {
+  try {
+    return !localStorage.getItem(STORAGE_KEY);
+  } catch {
+    return true;
+  }
+}
+
 // Bar Council of India rules (Rule 36) prohibit advocates from soliciting
 // work or advertising. This gate records that the visitor sought out the
 // firm's information voluntarily before any content is shown.
 export default function DisclaimerGate() {
-  const [visible, setVisible] = useState(false);
-
-  useEffect(() => {
-    try {
-      if (!localStorage.getItem(STORAGE_KEY)) setVisible(true);
-    } catch {
-      setVisible(true);
-    }
-  }, []);
+  const [visible, setVisible] = useState(hasNotAccepted);
 
   const accept = () => {
     try {
