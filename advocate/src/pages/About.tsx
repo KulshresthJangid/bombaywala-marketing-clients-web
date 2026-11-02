@@ -13,7 +13,7 @@ export default function About() {
     <>
       <SEO
         title="About the Firm"
-        description="Advocate Sourabh A. Saxena — 11 years of litigation experience and 9 years of corporate law experience, enrolled with the Bar Council of Maharashtra."
+        description="Advocate Sourabh A. Saxena — 11 years of litigation experience and 9 years of Corporate Exposure, enrolled with the Bar Council of Maharashtra & Goa."
         path="/about"
       />
 
@@ -101,7 +101,7 @@ export default function About() {
               <div className="mt-5 space-y-4 text-muted leading-relaxed">
                 <p>
                   {f.displayName} brings together 11 years of litigation
-                  experience and 9 years of corporate law experience — a
+                  experience and 9 years of Corporate Exposure — a
                   combination that lets {siteConfig.brandName} advise clients
                   on both the courtroom risk and the commercial reality behind
                   every dispute.

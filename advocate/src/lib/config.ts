@@ -16,7 +16,7 @@ export const siteConfig = {
     corporateYears: 9,
     casesHandled: "300+",
     successRatio: "95%+",
-    membership: "Bar Council of Maharashtra",
+    membership: "Bar Council of Maharashtra & Goa",
   },
   contact: {
     phones: ["+91 95945 77666", "+91 84229 94778"],
@@ -92,11 +92,12 @@ export const practiceAreas: PracticeArea[] = [
     summary:
       "Writ petitions, appeals and original side matters before the Bombay High Court.",
     description:
-      "Representation before the Bombay High Court across writ jurisdiction, civil and criminal appeals, and original side proceedings. Matters are prepared with the depth of research and drafting that High Court practice demands, from the first petition through final hearing.",
+      "Representation before the Hon'ble Bombay High Court across Writ Jurisdiction, Civil & Criminal Appeals, Arbitration, Commercial and Original Side Proceedings, and Testamentary Jurisdiction (Legal Heirship, Succession, Probate, Letters of Administration). Matters are prepared with the depth of research and drafting that High Court practice demands, from the first petition through final hearing.",
     highlights: [
       "Writ Petitions (Article 226/227)",
       "Civil & Criminal Appeals",
       "Original Side Civil Suits",
+      "Testamentary Petitions / Suits",
       "Urgent Interim Relief Applications",
     ],
     featured: true,
@@ -112,7 +113,7 @@ export const practiceAreas: PracticeArea[] = [
     highlights: [
       "Institutional & Ad-Hoc Arbitration",
       "Drafting Claims, Defences & Counterclaims",
-      "Section 34 & 36 Proceedings",
+      "Section 34, 36 & 37 Proceedings",
       "Commercial Contract Disputes",
     ],
     featured: true,
@@ -124,11 +125,14 @@ export const practiceAreas: PracticeArea[] = [
     summary:
       "Suits, injunctions and property disputes handled from filing through execution.",
     description:
-      "Civil litigation covering money recovery suits, injunctions, specific performance, partition and title disputes. One of the firm's two highest-volume practice areas, with matters handled at trial court, appellate and execution stages.",
+      "Civil litigation covering money recovery suits, injunctions, specific performance, partition, declaratory and possession suits, and title disputes. One of the firm's two highest-volume practice areas, with matters handled at trial court, appellate and execution stages.",
     highlights: [
       "Property & Title Disputes",
       "Injunctions & Specific Performance",
+      "Declaratory & Possession Suits",
       "Recovery Suits",
+      "Tenancy & Leave-License Matters",
+      "Landlord-Tenant Matters",
       "Execution Proceedings",
     ],
     featured: true,
@@ -140,10 +144,11 @@ export const practiceAreas: PracticeArea[] = [
     summary:
       "Defence representation including anticipatory bail, regular bail and trial proceedings.",
     description:
-      "Criminal defence across investigation, bail and trial stages — including anticipatory bail applications, regular bail, quashing petitions, and full trial representation. Alongside civil matters, criminal defence is where the firm sees its highest client volume.",
+      "Criminal defence across investigation, bail and trial stages — including anticipatory bail applications, regular bail, quashing petitions, discharge applications, and full trial representation. Alongside civil matters, criminal defence is where the firm sees its highest client volume.",
     highlights: [
       "Anticipatory & Regular Bail",
       "Quashing Petitions (Section 482 CrPC)",
+      "Discharge Applications",
       "Trial Representation",
       "24/7 Emergency Consultation for Urgent Arrests",
     ],
@@ -207,6 +212,10 @@ export const practiceAreas: PracticeArea[] = [
       "Land Acquisition Matters",
       "Redevelopment Agreements",
       "Society & Developer Disputes",
+      "Conveyance / Deemed Conveyance",
+      "79-A Compliance",
+      "Society Registration",
+      "Property Registration (Sale Deed, Gift Deed, Agreement for Sale, Release Deed, Relinquish Deed)",
     ],
   },
   {
@@ -320,9 +329,9 @@ export const process = [
 ] as const;
 
 export const trustSignals = [
-  "Enrolled Advocate, Bar Council of Maharashtra",
+  "Enrolled Advocate, Bar Council of Maharashtra & Goa",
   "11 years of litigation experience",
-  "9 years of corporate law experience",
+  "9 years of Corporate Exposure",
   "Approx. 300 matters handled",
   "95%+ success ratio",
 ] as const;
