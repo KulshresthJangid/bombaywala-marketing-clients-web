@@ -37,7 +37,7 @@
   --u:min(0.06410256vw,0.12400794vh);--vu:0.09920635vh;--inset-top:41;--inset-bottom:106;
   --navx:calc(225*var(--u));
   --font-text:Inter,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;--font-display:Inter,var(--font-text);
-  --hero-gap:51;--e-primary:cubic-bezier(.16,1,.3,1);--e-soft:cubic-bezier(.22,1,.36,1);
+  --hero-gap:34;--e-primary:cubic-bezier(.16,1,.3,1);--e-soft:cubic-bezier(.22,1,.36,1);
 }
 @supports (height:100dvh){:root{--u:min(0.06410256vw,0.12400794dvh);--vu:0.09920635dvh}}
 @media (min-width:1561px){:root{--inset-top:27;--inset-bottom:74}}
@@ -72,7 +72,7 @@ img,svg{display:block}
 .cta span{transform:translateY(calc(1*var(--u)))}
 .cta:hover{filter:brightness(1.16)}.cta:active{transform:translateY(1px)}
 .burger,.sheet{display:none}
-.hero{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:calc(var(--hero-gap)*var(--vu));padding-bottom:calc(4*var(--vu))}
+.hero{padding-top:calc(52*var(--u));flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:calc(var(--hero-gap)*var(--vu));padding-bottom:calc(4*var(--vu))}
 .h1{font-size:calc(36.25*var(--u));font-weight:410;line-height:1.10;letter-spacing:0.0018em;font-variation-settings:"opsz" 32;text-shadow:0 calc(2*var(--u)) calc(22*var(--u)) rgba(0,0,0,.30);text-align:center}
 .card{position:relative;width:calc(708*var(--u));height:calc(143*var(--u));border-radius:calc(26*var(--u));margin-right:calc(3*var(--u));
   background:rgba(41,41,43,.955);-webkit-backdrop-filter:blur(calc(26*var(--u))) saturate(112%);backdrop-filter:blur(calc(26*var(--u))) saturate(112%);
@@ -102,6 +102,18 @@ img,svg{display:block}
 .logos span:nth-child(3){font-weight:700;letter-spacing:.02em}
 
 /* TABLET */
+.head{display:flex;flex-direction:column;align-items:center;gap:calc(18*var(--u));text-align:center}
+.badge{display:inline-flex;align-items:center;gap:calc(9*var(--u));padding:calc(7*var(--u)) calc(14*var(--u)) calc(7*var(--u)) calc(10*var(--u));border-radius:99px;font-size:calc(12.5*var(--u));font-weight:500;letter-spacing:.01em;color:rgba(255,255,255,.92);background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.16);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+.badge i{width:calc(7*var(--u));height:calc(7*var(--u));border-radius:50%;background:#6fdc9a;box-shadow:0 0 0 calc(3*var(--u)) rgba(111,220,154,.22)}
+.sub{max-width:calc(560*var(--u));font-size:calc(15.5*var(--u));line-height:1.55;font-weight:400;color:rgba(255,255,255,.86);text-shadow:0 1px 14px rgba(0,0,0,.4)}
+.under{display:flex;flex-direction:column;align-items:center;gap:calc(18*var(--u))}
+.try{display:flex;align-items:center;justify-content:center;flex-wrap:wrap;gap:calc(8*var(--u));font-size:calc(12.5*var(--u))}
+.try em{font-style:normal;color:rgba(255,255,255,.7);margin-right:calc(2*var(--u))}
+.try button{padding:calc(8*var(--u)) calc(14*var(--u));border-radius:99px;font-size:calc(12.5*var(--u));color:rgba(255,255,255,.92);background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.14);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);cursor:pointer;transition:background .18s,border-color .18s}
+.try button:hover{background:rgba(255,255,255,.2);border-color:rgba(255,255,255,.3)}
+.perks{display:flex;flex-wrap:wrap;justify-content:center;gap:calc(8*var(--u)) calc(22*var(--u));font-size:calc(12.5*var(--u));color:rgba(255,255,255,.78);text-shadow:0 1px 10px rgba(0,0,0,.4)}
+.perks span::before{content:"✓";color:#F8B285;margin-right:calc(7*var(--u));font-weight:600}
+@media (max-height:760px) and (min-width:1181px){.sub{display:none}.under .perks{display:none}}
 @media (min-width:600px) and (max-width:1180px) and (min-height:600px){
   :root{--u:1px}
   .frame{padding:clamp(24px,3.4vh,44px) clamp(28px,4.2vw,60px) clamp(26px,4.4vh,56px)}
@@ -160,6 +172,7 @@ img,svg{display:block}
 }
 @media (max-width:1180px) and (max-height:560px){
   .hero{gap:16px}.h1{font-size:clamp(24px,5.4vh,34px)}.proof{gap:10px}.frame{padding-top:10px}
+  .sub,.badge,.perks{display:none}
 }
 /* ENTRANCE */
 @media (prefers-reduced-motion:no-preference){
@@ -176,6 +189,9 @@ img,svg{display:block}
   .anim .links a:nth-child(1){animation-delay:.16s}.anim .links a:nth-child(2){animation-delay:.21s}.anim .links a:nth-child(3){animation-delay:.26s}.anim .links a:nth-child(4){animation-delay:.31s}
   .anim .nav>.cta{animation:e-settle-down .55s var(--e-soft) .34s both}
   .anim .h1{animation:e-focus 1s var(--e-primary) .30s both;will-change:transform,opacity}
+  .anim .badge{animation:e-settle-down .55s var(--e-soft) .2s both}
+  .anim .sub{animation:e-populate .6s var(--e-soft) .55s both}
+  .anim .under{animation:e-populate .6s var(--e-soft) 1.05s both}
   .anim .card{animation:e-panel .90s var(--e-primary) .62s both;will-change:transform,opacity}
   .anim .ph{animation:e-populate .50s var(--e-soft) .88s both}
   .anim .chips{animation:e-populate .50s var(--e-soft) .94s both}
@@ -287,7 +303,11 @@ details p{padding:0 0 20px;font-size:15px;line-height:1.65;color:#9a9ca3;max-wid
     </header>
 
     <main class="hero">
-      <h1 class="h1">Describe a flow. We'll automate it.</h1>
+      <div class="head">
+        <span class="badge"><i></i>Early access · WhatsApp, Instagram &amp; your website</span>
+        <h1 class="h1">Describe a flow. We'll automate it.</h1>
+        <p class="sub">Zoralis turns a plain-English description into a live conversation flow that answers customers from your own docs and FAQs, with a real person ready to step in.</p>
+      </div>
       <form class="card" onsubmit="return false" aria-label="Describe your automation">
         <p class="ph">Answer WhatsApp and Instagram DMs from our FAQs, and hand off to a human when...</p>
         <div class="tools">
@@ -325,6 +345,14 @@ details p{padding:0 0 20px;font-size:15px;line-height:1.65;color:#9a9ca3;max-wid
     <article class="card2 reveal"><div class="n">02</div><h3>Bots that don't know your business</h3><p>Generic AI replies from a blank prompt. It ignores your docs and FAQs, so customers get vague answers to specific questions.</p></article>
     <article class="card2 reveal"><div class="n">03</div><h3>Agencies can't scale safely</h3><p>Many client brands behind one shared login is one mistake away from the wrong client seeing the wrong data.</p></article>
     <article class="card2 reveal"><div class="n">04</div><h3>Pilots die at IT review</h3><p>No real SSO, roles or access control means the pilot that worked for marketing never clears procurement.</p></article>
+      <div class="under">
+        <div class="try" role="group" aria-label="Example prompts"><em>Try:</em>
+          <button type="button" data-p="Capture and qualify leads from Instagram DMs, tag them, and notify sales when they're ready...">Instagram lead capture</button>
+          <button type="button" data-p="Answer website visitors from our pricing and FAQ docs, then collect their email...">Website FAQ bot</button>
+          <button type="button" data-p="Send WhatsApp order updates and hand off to support if the customer replies with a complaint...">WhatsApp order updates</button>
+        </div>
+        <div class="perks"><span>No credit card</span><span>Set up with you</span><span>Bring your own AI</span></div>
+      </div>
   </div>
 </div></section>
 
