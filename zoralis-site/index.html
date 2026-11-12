@@ -35,6 +35,7 @@
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 :root{
   --u:min(0.06410256vw,0.12400794vh);--vu:0.09920635vh;--inset-top:41;--inset-bottom:106;
+  --navx:calc(225*var(--u));
   --font-text:Inter,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;--font-display:Inter,var(--font-text);
   --hero-gap:51;--e-primary:cubic-bezier(.16,1,.3,1);--e-soft:cubic-bezier(.22,1,.36,1);
 }
@@ -54,17 +55,21 @@ img,svg{display:block}
 .frame{position:absolute;inset:0;z-index:1;display:flex;flex-direction:column;
   padding:calc(var(--inset-top)*var(--vu)) calc(225*var(--u)) calc(var(--inset-bottom)*var(--vu))}
 #menu{position:absolute;opacity:0;pointer-events:none}
-.nav{position:relative;height:calc(43*var(--u));display:flex;align-items:center;justify-content:space-between;flex:none}
+.nav{position:fixed;z-index:50;top:calc(var(--inset-top)*var(--vu));left:var(--navx);right:var(--navx);height:calc(48*var(--u));display:flex;align-items:center;justify-content:space-between;padding:0 calc(6*var(--u)) 0 calc(8*var(--u));border-radius:99px;border:1px solid transparent;transition:background .3s,border-color .3s,backdrop-filter .3s,top .3s}
+.nav.scrolled{top:12px;background:rgba(14,16,21,.72);-webkit-backdrop-filter:blur(18px) saturate(130%);backdrop-filter:blur(18px) saturate(130%);border-color:rgba(255,255,255,.09);box-shadow:0 10px 40px rgba(0,0,0,.35)}
+.nav-r{display:flex;align-items:center;gap:calc(10*var(--u))}
+.signin{font-size:calc(14.5*var(--u));font-weight:450;padding:calc(9*var(--u)) calc(16*var(--u));border-radius:99px;color:rgba(255,255,255,.88);transition:background .18s,color .18s;text-shadow:0 1px 10px rgba(0,0,0,.3)}
+.signin:hover{background:rgba(255,255,255,.1);color:#fff}
 .brand{display:flex;align-items:center;gap:calc(12*var(--u))}
 .mark{width:calc(34*var(--u));height:calc(34*var(--u))}
-.wordmark{font-size:calc(18.49*var(--u));font-weight:500;letter-spacing:-0.0154em;transform:translateY(calc(1*var(--u)));font-variation-settings:"opsz" 32;text-shadow:0 calc(1*var(--u)) calc(10*var(--u)) rgba(0,0,0,.30)}
-.links{position:absolute;left:50%;transform:translateX(-50%);top:calc((50.5 - 41)*var(--u));display:flex;gap:calc(50*var(--u))}
-.links a{font-size:calc(21.69*var(--u));font-weight:400;letter-spacing:-0.0115em;line-height:1.2;text-shadow:0 calc(1*var(--u)) calc(12*var(--u)) rgba(0,0,0,.32);transition:opacity .18s ease}
-.links a:hover{opacity:.72}
-.cta{width:calc(140*var(--u));height:calc(43*var(--u));border-radius:calc(12*var(--u));display:flex;align-items:center;justify-content:center;align-self:flex-start;margin-top:calc((42 - 41)*var(--u));
-  font-size:calc(15.70*var(--u));font-weight:520;letter-spacing:-0.0127em;
-  background:linear-gradient(180deg,#3d3d3f 0%,#1d1d20 100%);box-shadow:inset 0 calc(1*var(--u)) 0 rgba(255,255,255,.10),0 calc(2*var(--u)) calc(14*var(--u)) rgba(0,0,0,.28)}
-.cta span{transform:translateY(calc(2*var(--u)))}
+.wordmark{font-size:calc(18.49*var(--u));font-weight:600;letter-spacing:-0.025em;transform:translateY(calc(1*var(--u)));font-variation-settings:"opsz" 32;text-shadow:0 calc(1*var(--u)) calc(10*var(--u)) rgba(0,0,0,.30)}
+.links{position:absolute;left:50%;transform:translateX(-50%);top:50%;margin-top:calc(-19*var(--u));display:flex;gap:calc(2*var(--u));padding:calc(4*var(--u));border-radius:99px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.12);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+.links a{font-size:calc(14.5*var(--u));font-weight:450;line-height:1;padding:calc(11*var(--u)) calc(20*var(--u));border-radius:99px;color:rgba(255,255,255,.9);transition:background .18s,color .18s}
+.links a:hover,.links a.on{background:rgba(255,255,255,.16);color:#fff}
+.cta{width:calc(128*var(--u));height:calc(38*var(--u));border-radius:99px;display:flex;align-items:center;justify-content:center;
+  font-size:calc(14.5*var(--u));font-weight:520;letter-spacing:-0.0127em;color:#1a1208;
+  background:linear-gradient(163deg,#FBBC94 0%,#F49D70 46%,#E88654 100%);box-shadow:inset 0 1px 0 rgba(255,255,255,.35),0 calc(4*var(--u)) calc(16*var(--u)) rgba(210,110,60,.35)}
+.cta span{transform:translateY(calc(1*var(--u)))}
 .cta:hover{filter:brightness(1.16)}.cta:active{transform:translateY(1px)}
 .burger,.sheet{display:none}
 .hero{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:calc(var(--hero-gap)*var(--vu));padding-bottom:calc(4*var(--vu))}
@@ -114,14 +119,22 @@ img,svg{display:block}
   .attach svg{width:18px}.send svg{width:12px}.model svg{width:7px}
   .proof{gap:clamp(15px,2.5vh,30px)}
   .by{font-size:14px}.logos{gap:44px}.logos span{font-size:19px}
-  .links a{font-size:clamp(15px,1.9vw,19px)}.links{top:50%;transform:translate(-50%,-50%);gap:clamp(24px,3.4vw,44px)}
-  .cta{width:130px;height:40px;font-size:15px}.mark{width:32px;height:32px}.wordmark{font-size:18px}
+  :root{--navx:clamp(28px,4.2vw,60px)}
+  .nav{top:clamp(24px,3.4vh,44px)}
+  .links a{font-size:14px;padding:10px 14px}
+  .cta{width:120px;height:38px;font-size:14px}.signin{font-size:14px;padding:8px 12px}.mark{width:32px;height:32px}.wordmark{font-size:18px}
+  .hero{padding-top:56px}.sub{max-width:520px;font-size:15px}
 }
 /* COMPACT */
 @media (max-width:599px),(max-height:599px) and (max-width:1180px){
   :root{--u:1px}
   .frame{padding:max(18px,env(safe-area-inset-top)) max(clamp(18px,5.2vw,40px),env(safe-area-inset-right)) max(20px,env(safe-area-inset-bottom)) max(clamp(18px,5.2vw,40px),env(safe-area-inset-left))}
-  .links,.nav .cta{display:none}
+  :root{--navx:max(clamp(18px,5.2vw,40px),env(safe-area-inset-left))}
+  .nav{top:max(14px,env(safe-area-inset-top));height:46px;padding:0 4px 0 8px}
+  .nav.scrolled{top:8px}
+  .links,.nav .cta,.signin{display:none}
+  .hero{padding-top:58px}.sub{font-size:14.5px;max-width:34ch}.badge{font-size:12px}
+  .try em{display:none}.try button{font-size:12px}.perks{font-size:12px;gap:6px 16px}.head{gap:14px}.under{gap:14px}
   .mark{width:30px;height:30px}.wordmark{font-size:18px}
   .burger{display:flex;width:38px;height:38px;border-radius:11px;background:rgba(255,255,255,.10);border:1px solid rgba(255,255,255,.14);align-items:center;justify-content:center;cursor:pointer}
   .burger i{display:block;width:17px;height:12px;background:linear-gradient(#fff,#fff) top/100% 2px no-repeat,linear-gradient(#fff,#fff) bottom/100% 2px no-repeat}
@@ -262,13 +275,13 @@ details p{padding:0 0 20px;font-size:15px;line-height:1.65;color:#9a9ca3;max-wid
       <nav class="links" aria-label="Primary">
         <a href="#features">Features</a>
         <a href="#channels">Channels</a>
-        <a href="#why">Why Zoralis</a>
-        <a href="https://buildwithkulshresth.com/kaizex/z/" rel="noopener">Sign in</a>
+        <a href="#faq">FAQ</a>
       </nav>
-      <a class="cta" href="#early-access"><span>Get Started</span></a>
+      <div class="nav-r"><a class="signin" href="https://buildwithkulshresth.com/kaizex/z/" rel="noopener">Sign in</a>
+      <a class="cta" href="#early-access"><span>Get Started</span></a></div>
       <label class="burger" for="menu" aria-label="Menu"><i></i></label>
       <div class="sheet"><div><div class="panel">
-        <a href="#features">Features</a><a href="#channels">Channels</a><a href="#why">Why Zoralis</a><a href="https://buildwithkulshresth.com/kaizex/z/" rel="noopener">Sign in</a>
+        <a href="#why">Why Zoralis</a><a href="#how">How it works</a><a href="#features">Features</a><a href="#channels">Channels</a><a href="#faq">FAQ</a><a href="https://buildwithkulshresth.com/kaizex/z/" rel="noopener">Sign in</a>
         <a class="cta" href="#early-access"><span>Get Started</span></a>
       </div></div></div>
     </header>
@@ -296,6 +309,8 @@ details p{padding:0 0 20px;font-size:15px;line-height:1.65;color:#9a9ca3;max-wid
       <p class="by">One flow for every channel</p>
       <div class="logos" aria-label="Supported channels"><span>WhatsApp</span><span>Instagram</span><span>Website</span></div>
     </footer>
+        <a href="#why">Why Zoralis</a>
+        <a href="#how">How it works</a>
   </div>
 </div>
 
