@@ -166,6 +166,78 @@ img,svg{display:block}
 }
 @media (prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important}}
 
+/* ===== BELOW THE HERO ===== */
+.pg{position:relative;background:#0a0d12;color:#e9eaee;font-family:var(--font-text)}
+.wrap{max-width:1120px;margin:0 auto;padding:0 clamp(20px,4vw,40px)}
+.sec{padding:clamp(72px,11vw,128px) 0;border-top:1px solid rgba(255,255,255,.06)}
+.sec:first-child{border-top:0}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font-size:12px;font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:#F49D70;margin-bottom:18px}
+.eyebrow::before{content:"";width:24px;height:1px;background:currentColor}
+.pg h2{font-size:clamp(28px,4.4vw,48px);font-weight:410;line-height:1.1;letter-spacing:-.01em;color:#fff;font-variation-settings:"opsz" 32;max-width:20ch}
+.lead{margin-top:18px;max-width:60ch;font-size:clamp(15px,1.5vw,18px);line-height:1.6;color:#9a9ca3}
+.grid{display:grid;gap:16px;margin-top:48px}
+.g2{grid-template-columns:repeat(2,1fr)}.g3{grid-template-columns:repeat(3,1fr)}.g4{grid-template-columns:repeat(4,1fr)}
+@media (max-width:900px){.g3,.g4{grid-template-columns:repeat(2,1fr)}}
+@media (max-width:600px){.g2,.g3,.g4{grid-template-columns:1fr}}
+.card2{padding:26px;border-radius:20px;background:linear-gradient(180deg,rgba(255,255,255,.05),rgba(255,255,255,.02));border:1px solid rgba(255,255,255,.07);transition:border-color .25s,transform .25s}
+.card2:hover{border-color:rgba(244,157,112,.4);transform:translateY(-3px)}
+.card2 .n{font-size:13px;font-weight:500;color:#F49D70;margin-bottom:14px}
+.card2 h3{font-size:19px;font-weight:500;color:#fff;margin-bottom:10px;letter-spacing:-.01em}
+.card2 p{font-size:14.5px;line-height:1.6;color:#9a9ca3}
+.ico{width:40px;height:40px;border-radius:12px;display:grid;place-items:center;margin-bottom:18px;background:linear-gradient(163deg,#FBBC94,#E88654);color:#fff}
+.ico svg{width:20px;height:20px}
+.how{display:grid;grid-template-columns:1fr 1fr;gap:clamp(28px,5vw,72px);align-items:center;margin-top:48px}
+@media (max-width:900px){.how{grid-template-columns:1fr}}
+.steps{list-style:none;display:grid;gap:22px}
+.steps li{display:grid;grid-template-columns:40px 1fr;gap:16px}
+.steps b{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;font-weight:500;font-size:14px;color:#F49D70;border:1px solid rgba(244,157,112,.4);background:rgba(244,157,112,.08)}
+.steps h3{font-size:17px;font-weight:500;color:#fff;margin-bottom:4px}
+.steps p{font-size:14.5px;line-height:1.55;color:#9a9ca3}
+.flow{border-radius:22px;padding:22px;background:rgba(20,22,28,.9);border:1px solid rgba(214,228,255,.12);box-shadow:0 30px 80px rgba(0,0,0,.4)}
+.flow .bar{display:flex;gap:6px;align-items:center;margin-bottom:18px;font-size:12px;color:#6e7078}
+.flow .bar i{width:9px;height:9px;border-radius:50%;background:#2c2e35}.flow .bar span{margin-left:8px}
+.node{display:flex;align-items:center;gap:10px;padding:12px 14px;border-radius:12px;font-size:14px;color:#d9dae0;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.08);width:max-content;max-width:100%}
+.node::before{content:"";width:8px;height:8px;border-radius:50%;background:#9C86CE;flex:none}
+.node.hot{border-color:rgba(244,157,112,.55);box-shadow:0 0 24px rgba(244,157,112,.15)}.node.hot::before{background:#F49D70}
+.link{width:1px;height:18px;background:rgba(255,255,255,.18);margin:0 0 0 18px}
+.node.i2{margin-left:22px}.node.i3{margin-left:44px}
+.chat{margin-top:18px;padding-top:16px;border-top:1px solid rgba(255,255,255,.07);display:grid;gap:8px;font-size:13px}
+.chat div{padding:9px 12px;border-radius:12px;max-width:85%}
+.chat .u{background:rgba(255,255,255,.07);color:#cfd0d6}.chat .b{background:rgba(244,157,112,.14);color:#f6d7c4;margin-left:auto}
+.chans{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:48px}
+@media (max-width:760px){.chans{grid-template-columns:1fr}}
+.chan{padding:30px;border-radius:22px;border:1px solid rgba(255,255,255,.08);background:radial-gradient(120% 100% at 0 0,rgba(156,134,206,.14),transparent 60%),rgba(255,255,255,.02)}
+.chan h3{font-size:22px;font-weight:500;color:#fff;margin-bottom:10px}
+.chan p{font-size:14.5px;line-height:1.6;color:#9a9ca3}
+.chan ul{margin-top:16px;list-style:none;display:grid;gap:8px;font-size:13.5px;color:#c6c7cd}
+.chan li::before{content:"✓";color:#F49D70;margin-right:8px}
+.status{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:48px}
+@media (max-width:900px){.status{grid-template-columns:1fr}}
+.col{padding:26px;border-radius:20px;border:1px solid rgba(255,255,255,.07);background:rgba(255,255,255,.025)}
+.tag{display:inline-block;padding:5px 12px;border-radius:99px;font-size:11px;font-weight:500;letter-spacing:.14em;margin-bottom:16px}
+.t-live{background:rgba(94,214,140,.12);color:#6fdc9a}.t-wip{background:rgba(244,157,112,.14);color:#F49D70}.t-plan{background:rgba(156,134,206,.16);color:#b9a6e6}
+.col ul{list-style:none;display:grid;gap:11px;font-size:14.5px;color:#c6c7cd;line-height:1.45}
+.col li{padding-left:18px;position:relative}.col li::before{content:"";position:absolute;left:0;top:.55em;width:6px;height:6px;border-radius:50%;background:#4a4c55}
+.faq{margin-top:44px;display:grid;gap:12px;max-width:820px}
+details{border-radius:16px;border:1px solid rgba(255,255,255,.08);background:rgba(255,255,255,.03);padding:0 22px}
+summary{cursor:pointer;list-style:none;padding:20px 0;font-size:16.5px;font-weight:500;color:#fff;display:flex;justify-content:space-between;gap:16px}
+summary::-webkit-details-marker{display:none}summary::after{content:"+";color:#F49D70;font-size:22px;line-height:1}
+details[open] summary::after{content:"–"}
+details p{padding:0 0 20px;font-size:15px;line-height:1.65;color:#9a9ca3;max-width:70ch}
+.cta-sec{text-align:center;background:radial-gradient(70% 90% at 50% 0,rgba(244,157,112,.14),transparent 70%)}
+.cta-sec h2{margin:0 auto}.cta-sec .lead{margin-left:auto;margin-right:auto}
+.sign{margin:34px auto 0;display:flex;gap:10px;max-width:520px;flex-wrap:wrap;justify-content:center}
+.sign input{flex:1 1 240px;height:52px;padding:0 20px;border-radius:99px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.14);color:#fff;font-size:15px}
+.sign input::placeholder{color:#7d7f87}
+.btn{height:52px;padding:0 28px;border-radius:99px;display:inline-flex;align-items:center;justify-content:center;font-weight:520;font-size:15px;color:#fff;cursor:pointer;background:linear-gradient(163deg,#FBBC94 0%,#F49D70 46%,#E88654 100%);box-shadow:0 6px 24px rgba(210,110,60,.35);transition:filter .2s,transform .2s}
+.btn:hover{filter:brightness(1.07)}.btn:active{transform:scale(.97)}
+.fine{margin-top:16px;font-size:13px;color:#6e7078}
+.foot{padding:40px 0;border-top:1px solid rgba(255,255,255,.06);font-size:13.5px;color:#6e7078}
+.foot .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:16px}
+.foot a:hover{color:#fff}.foot nav{display:flex;gap:22px;flex-wrap:wrap}
+.rv .reveal{opacity:0;transform:translateY(22px);transition:opacity .7s var(--e-primary),transform .7s var(--e-primary)}
+.rv .reveal.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv .reveal{opacity:1;transform:none}}
 </style>
 </head>
 <body>
@@ -217,6 +289,118 @@ img,svg{display:block}
       <div class="logos" aria-label="Supported channels"><span>WhatsApp</span><span>Instagram</span><span>Website</span></div>
     </footer>
   </div>
+</div>
+
+<div class="pg">
+
+<section class="sec" id="why"><div class="wrap">
+  <p class="eyebrow reveal">The problem</p>
+  <h2 class="reveal">Your customers message on three apps. Your tools live in five.</h2>
+  <p class="lead reveal">Most teams don't have one automation problem. They have four — and each one quietly costs you leads, hours, or the trust of IT.</p>
+  <div class="grid g4">
+    <article class="card2 reveal"><div class="n">01</div><h3>A fragmented toolchain</h3><p>One tool for the chatbot, another for knowledge, another for channels. Every new channel is another login and another place for a lead to get lost.</p></article>
+    <article class="card2 reveal"><div class="n">02</div><h3>Bots that don't know your business</h3><p>Generic AI replies from a blank prompt. It ignores your docs and FAQs, so customers get vague answers to specific questions.</p></article>
+    <article class="card2 reveal"><div class="n">03</div><h3>Agencies can't scale safely</h3><p>Many client brands behind one shared login is one mistake away from the wrong client seeing the wrong data.</p></article>
+    <article class="card2 reveal"><div class="n">04</div><h3>Pilots die at IT review</h3><p>No real SSO, roles or access control means the pilot that worked for marketing never clears procurement.</p></article>
+  </div>
+</div></section>
+
+<section class="sec" id="how"><div class="wrap">
+  <p class="eyebrow reveal">How it works</p>
+  <h2 class="reveal">From a customer's message to a resolved conversation.</h2>
+  <div class="how">
+    <ol class="steps">
+      <li class="reveal"><b>1</b><div><h3>Connect a channel</h3><p>Link WhatsApp or Instagram, or embed the website widget. One connection, not an integration per channel.</p></div></li>
+      <li class="reveal"><b>2</b><div><h3>Teach it your business</h3><p>Add docs, FAQs, pricing and notes to a knowledge bucket. Zoralis ingests and indexes it for your flows.</p></div></li>
+      <li class="reveal"><b>3</b><div><h3>Design the flow, no code</h3><p>Conditions, AI replies, quick replies, buttons and catalog messages, all in one visual builder.</p></div></li>
+      <li class="reveal"><b>4</b><div><h3>Hand off at the right moment</h3><p>When a conversation needs a person, Zoralis pauses and notifies your teammate. Then it's tagged and logged.</p></div></li>
+    </ol>
+    <div class="flow reveal" aria-label="Example automation flow">
+      <div class="bar"><i></i><i></i><i></i><span>flow — support-widget.v2</span></div>
+      <div class="node hot">Connect: WhatsApp + Website widget</div><div class="link"></div>
+      <div class="node i2">Knowledge bucket: Docs, FAQs, pricing</div><div class="link" style="margin-left:40px"></div>
+      <div class="node i2">AI reply, grounded in bucket</div><div class="link" style="margin-left:40px"></div>
+      <div class="node i3">Unresolved after 2 turns?</div><div class="link" style="margin-left:62px"></div>
+      <div class="node i3">Hand off to teammate</div>
+      <div class="chat"><div class="u">Do you deliver to Jaipur, and how long does it take?</div><div class="b">Yes — we deliver to Jaipur in 2–4 working days. Want me to share the tracking link once it ships?</div></div>
+    </div>
+  </div>
+</div></section>
+
+<section class="sec" id="features"><div class="wrap">
+  <p class="eyebrow reveal">What's inside</p>
+  <h2 class="reveal">One product instead of five bolted together.</h2>
+  <p class="lead reveal">A single flow builder that already understands your channels, your content, and who's allowed to touch what.</p>
+  <div class="grid g3">
+    <article class="card2 reveal"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="6" r="2.5"/><circle cx="18" cy="12" r="2.5"/><circle cx="6" cy="18" r="2.5"/><path d="M8.5 6h4a3 3 0 0 1 3 3v.5M8.5 18h4a3 3 0 0 0 3-3v-.5"/></svg></div><h3>Visual flow builder</h3><p>No-code conditions, AI replies, quick replies, buttons and human handoff. Build and test in one place.</p></article>
+    <article class="card2 reveal"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h12v16H6a2 2 0 0 0-2 2V5Z"/><path d="M8 7h6M8 11h6"/></svg></div><h3>Your own knowledge base</h3><p>Feed in docs and FAQs. They're ingested and indexed so flows answer from what you actually know.</p></article>
+    <article class="card2 reveal"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12Z"/></svg></div><h3>Omnichannel by design</h3><p>WhatsApp, Instagram and an embeddable website widget run the same flow. Build once.</p></article>
+    <article class="card2 reveal"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/><circle cx="12" cy="12" r="3"/></svg></div><h3>Bring your own AI</h3><p>OpenAI, Anthropic, Google, self-hosted Ollama or a custom endpoint. Different flows can use different models.</p></article>
+    <article class="card2 reveal"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3 4 6v6c0 4.500 3.200 7.700 8 9 4.800-1.300 8-4.500 8-9V6l-8-3Z"/><path d="m9 12 2 2 4-4"/></svg></div><h3>Enterprise SSO &amp; roles</h3><p>OAuth2 / OpenID Connect, organizations, workspaces and fine-grained permissions that IT can sign off on.</p></article>
+    <article class="card2 reveal"><div class="ico"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="8" height="7" rx="2"/><rect x="13" y="4" width="8" height="7" rx="2"/><rect x="3" y="13" width="8" height="7" rx="2"/><rect x="13" y="13" width="8" height="7" rx="2"/></svg></div><h3>Multi-workspace switching</h3><p>Agencies move between client workspaces from one login, with each client isolated from the rest.</p></article>
+  </div>
+</div></section>
+
+<section class="sec" id="channels"><div class="wrap">
+  <p class="eyebrow reveal">Channels</p>
+  <h2 class="reveal">Meet customers where they already are.</h2>
+  <div class="chans">
+    <article class="chan reveal"><h3>WhatsApp</h3><p>Business-grade automation for the app your customers open every day.</p><ul><li>Templates &amp; list messages</li><li>Buttons &amp; catalog</li><li>Human handoff in-thread</li></ul></article>
+    <article class="chan reveal"><h3>Instagram</h3><p>Turn DMs and story replies into answered questions and captured leads.</p><ul><li>DM automation</li><li>Intent routing</li><li>Contact tagging</li></ul></article>
+    <article class="chan reveal"><h3>Website widget</h3><p>An embeddable chat that answers visitors from your own docs, 24/7.</p><ul><li>Embeds with a snippet</li><li>Same flow as other channels</li><li>Grounded in your content</li></ul></article>
+  </div>
+</div></section>
+
+<section class="sec" id="who"><div class="wrap">
+  <p class="eyebrow reveal">Who it's for</p>
+  <h2 class="reveal">Built for teams that answer a lot of messages.</h2>
+  <div class="grid g4">
+    <article class="card2 reveal"><h3>Marketing &amp; social agencies</h3><p>Run every client's automation from one properly isolated login.</p></article>
+    <article class="card2 reveal"><h3>Support &amp; growth teams</h3><p>Turn a small team into a high-coverage conversation engine.</p></article>
+    <article class="card2 reveal"><h3>Enterprise marketing orgs</h3><p>SSO and RBAC your security team will actually approve.</p></article>
+    <article class="card2 reveal"><h3>Founders &amp; creators</h3><p>Answer every DM and website visitor without hiring.</p></article>
+  </div>
+</div></section>
+
+<section class="sec" id="status"><div class="wrap">
+  <p class="eyebrow reveal">Straight talk</p>
+  <h2 class="reveal">What's live today, and what isn't yet.</h2>
+  <p class="lead reveal">We'd rather you know exactly what you're buying into. Early partners get a say in what ships next.</p>
+  <div class="status">
+    <div class="col reveal"><span class="tag t-live">LIVE TODAY</span><ul><li>Visual, no-code flow builder</li><li>WhatsApp Business integration</li><li>Instagram DM automation</li><li>Embeddable website widget</li><li>Multi-provider AI</li><li>Enterprise SSO, roles &amp; permissions</li><li>Knowledge buckets &amp; ingestion</li></ul></div>
+    <div class="col reveal"><span class="tag t-wip">IN PROGRESS</span><ul><li>Knowledge-grounded AI replies (RAG)</li><li>Scheduled marketing campaign sends</li></ul></div>
+    <div class="col reveal"><span class="tag t-plan">PLANNED</span><ul><li>Deeper CRM &amp; lifecycle integrations</li></ul></div>
+  </div>
+</div></section>
+
+<section class="sec" id="faq"><div class="wrap">
+  <p class="eyebrow reveal">FAQ</p>
+  <h2 class="reveal">Questions teams ask before they start.</h2>
+  <div class="faq">
+    <details class="reveal"><summary>What is Zoralis?</summary><p>Zoralis is a conversation automation platform. You build one visual flow that runs across WhatsApp, Instagram and your website, and it answers customers using your own documents and FAQs.</p></details>
+    <details class="reveal"><summary>Do I need to know how to code?</summary><p>No. Flows are built in a no-code visual builder with conditions, AI replies, buttons and handoff. Developers can plug in custom endpoints when they want to.</p></details>
+    <details class="reveal"><summary>Which AI models can I use?</summary><p>OpenAI, Anthropic, Google, a self-hosted Ollama model, or any custom HTTP endpoint. You can use different models for different flows.</p></details>
+    <details class="reveal"><summary>Can agencies manage multiple clients?</summary><p>Yes. Each customer gets an isolated organization with its own workspaces, and you can switch between client workspaces from a single login.</p></details>
+    <details class="reveal"><summary>Is it secure enough for enterprise teams?</summary><p>Zoralis supports single sign-on via OAuth2 / OpenID Connect, plus organizations, workspaces and role-based permissions. You can also route sensitive content to the AI provider that fits your compliance needs.</p></details>
+    <details class="reveal"><summary>How do I get started?</summary><p>Leave your email below. No credit card and no sales call to start; we'll learn about your channels and set up your first flow with you.</p></details>
+  </div>
+</div></section>
+
+<section class="sec cta-sec" id="early-access"><div class="wrap">
+  <p class="eyebrow reveal" style="justify-content:center">Early access</p>
+  <h2 class="reveal">Bring your conversations into one flow.</h2>
+  <p class="lead reveal">Tell us about your channels and we'll set up your first flow together. No credit card, no sales call to start.</p>
+  <form class="sign reveal" id="lead" novalidate>
+    <input type="email" id="em" placeholder="you@company.com" aria-label="Work email" required autocomplete="email">
+    <button class="btn" type="submit">Get Early Access</button>
+  </form>
+  <p class="fine">Early access updates only. No spam.</p>
+</div></section>
+
+<footer class="foot"><div class="wrap">
+  <span>© 2026 Zoralis. Conversation automation grounded in your own knowledge.</span>
+  <nav aria-label="Footer"><a href="#features">Features</a><a href="#channels">Channels</a><a href="#faq">FAQ</a><a href="mailto:jangidkulshresth@gmail.com?subject=Zoralis">Contact</a><a href="https://buildwithkulshresth.com/kaizex/z/" rel="noopener">Sign in</a></nav>
+</div></footer>
 </div>
 <script>
 (function(){var r=document.documentElement,d=function(){r.classList.remove('anim')},l=document.querySelector('.logos span:last-child');
