@@ -405,6 +405,19 @@ details p{padding:0 0 20px;font-size:15px;line-height:1.65;color:#9a9ca3;max-wid
 <script>
 (function(){var r=document.documentElement,d=function(){r.classList.remove('anim')},l=document.querySelector('.logos span:last-child');
 if(l)l.addEventListener('animationend',d,{once:true});setTimeout(d,2600)})();
+
+(function(){
+ var d=document,r=d.documentElement;r.classList.add('rv');
+ var els=d.querySelectorAll('.reveal');
+ if('IntersectionObserver' in window){var io=new IntersectionObserver(function(e){e.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{threshold:.12,rootMargin:'0px 0px -40px 0px'});els.forEach(function(el){io.observe(el)})}
+ else els.forEach(function(el){el.classList.add('in')});
+ var f=d.getElementById('lead');
+ f.addEventListener('submit',function(e){e.preventDefault();var v=d.getElementById('em').value.trim();
+  if(!/^\S+@\S+\.\S+$/.test(v)){d.getElementById('em').focus();return}
+  location.href='mailto:jangidkulshresth@gmail.com?subject='+encodeURIComponent('Zoralis: Early Access')+'&body='+encodeURIComponent('Please add me to early access. My email: '+v)});
+ var ph=d.querySelector('.ph'),T=["Answer WhatsApp and Instagram DMs from our FAQs, and hand off to a human when...","Reply to every website visitor using our pricing doc, then capture their email...","Qualify new leads on Instagram, tag them, and notify sales when they're ready..."],i=0;
+ if(ph&&!matchMedia('(prefers-reduced-motion:reduce)').matches)setTimeout(function(){setInterval(function(){i=(i+1)%T.length;ph.style.transition='opacity .35s';ph.style.opacity=0;setTimeout(function(){ph.textContent=T[i];ph.style.opacity=1},350)},4200)},3500);
+})();
 </script>
 </body>
 </html>
